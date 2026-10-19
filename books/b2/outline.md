@@ -17,7 +17,9 @@ _Open._
 
 _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 
-## Locked beats
+## Decided beats
+
+🔒 locked; everything else here is settled.
 
 _None yet._
 

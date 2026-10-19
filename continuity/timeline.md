@@ -11,26 +11,43 @@ _Marauders era, the first war. Not yet worked out._
 - **1980-06-05**: Dracaena born (canon default: Draco's birthday). DIV-001
 - **1980-07-31**: Harry born.
 - **1981-10-31**: The Potters are killed; Voldemort falls.
+- **Mid-1980s**: Harry secretly watches *Sleeping Beauty* from behind the Dursleys' living-room door. DIV-009
 
 ## B1 · 1991–92
+
+- **1991-07-31**: Diagon Alley. Harry and Dracaena meet at Madam Malkin's. DIV-009
+- **1991-08**: Dracaena reads the Muggle books Narcissa obtained for her. DIV-010
+- **1991-09-01**: Hogwarts Express. Harry rejects her; her grudge begins. DIV-009
+- **1991-09**: First Potions lesson. She knows the Draught of Living Death question Harry can't answer. DIV-011
 
 ## B2 · 1992–93
 
 ## B3 · 1993–94
 
-- **1994-06**, the night of Buckbeak's execution: Dracaena rescues Buckbeak and gets him to Sirius, who escapes. DIV-003
+- **1993-09**: The hippogriff lesson. She milks the injury for weeks: the match delay, the Potions servant. DIV-017
+- **1994-06**, the night of Buckbeak's execution: her fake lead sends the Dementors to the lake. She frees Buckbeak, ends up at the lake and confesses. Harry casts his Patronus. She flies Buckbeak to Sirius, who escapes. Sequence provisional (Q-003). DIV-003, DIV-018
 
 ## B4 · 1994–95
 
-- **1994-12-25**: Yule Ball. Harry and Dracaena go together. DIV-004
-- **1995-02-24**: Second Task. Dracaena is Harry's hostage. DIV-005
+- **Before the Yule Ball**: Sirius plants the idea of asking her. DIV-019
+
+- **1994-12-25**: Yule Ball. Harry asks, Dracaena accepts. DIV-004, DIV-013
+- **1995-02-24**: Second Task. Dracaena is Harry's hostage, and the dream begins. DIV-005, DIV-013
 
 ## B5 · 1995–96
 
+- **1996-06-05**: Dracaena turns 16.
+- **1996-06**: Department of Mysteries. Sirius dies; Lucius is arrested (canon). Soon after, she comforts Harry and promises to be there for him. DIV-014
+- **Summer 1996**: She is Marked and meets Voldemort; her faith dies. DIV-015
+
 ## B6 · 1996–97
+
+- **1996-09**: First Potions lesson with Slughorn. Harry beats her at the Draught of Living Death using the Prince's notes. DIV-011
+- **Spring 1997**: Sectumsempra (canon, kept).
 
 ## B7 · 1997–98
 
+- **1997-07**: Malfoy Manor. Burbage pleads with Snape and with Dracaena before she's killed. DIV-016
 - **1998-05-02**: Battle of Hogwarts. Harry and Dracaena defeat Voldemort together. DIV-006
 
 ## After

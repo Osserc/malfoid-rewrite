@@ -17,8 +17,11 @@ _Open._
 
 _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 
-## Locked beats
+## Decided beats
 
+🔒 locked; everything else here is settled.
+
+- Burbage pleads with Snape and with Dracaena before she's killed. DIV-016, [charity-burbage](../../scenes/b7/charity-burbage.md)
 - 🔒 Harry and Dracaena duel Voldemort together with her wand; their "love" rebounds the Killing Curse. DIV-006, [final-duel](../../scenes/b7/final-duel.md)
 
 ## Acts

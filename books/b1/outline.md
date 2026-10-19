@@ -17,9 +17,14 @@ _Open._
 
 _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 
-## Locked beats
+## Decided beats
 
-_None yet._
+🔒 locked; everything else here is settled.
+
+- Harry and Dracaena meet at Madam Malkin's: "are you Sleeping Beauty?" DIV-009, [madam-malkins](../../scenes/b1/madam-malkins.md)
+- Dracaena reads the Muggle books Narcissa gets her. DIV-010
+- On the train Harry refuses her over Ron; her grudge begins. DIV-009, [hogwarts-express](../../scenes/b1/hogwarts-express.md)
+- First Potions lesson: she knows the Draught of Living Death question Harry can't answer. DIV-011
 
 ## Acts
 

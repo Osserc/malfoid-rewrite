@@ -43,7 +43,7 @@ The user is the author and has the final word. Claude is co-writer and continuit
 
 ## Status
 
-Every content file has `status:` in its front matter. Individual items inside a file can carry their own marker, and 🔒 always wins.
+Every content file has `status:` in its front matter. Items inside a file can carry their own status: 🔒 for locked, *(settled)* for settled. An item tagged with a `DIV-###` has that entry's status. Anything unmarked has the file's status.
 
 | Status | Meaning | Set by |
 |---|---|---|
@@ -78,7 +78,7 @@ The problem file holds the analysis: what canon does, why it matters to us, the 
 
 1. Create `books/bN/canon-delta.md` from the template. List every beat of the original book in our own words and mark it keep, alter or cut. Then add new beats.
 2. Build `outline.md` from the delta: logline, acts, chapter beats.
-3. Check that every locked beat for the book is placed and every thread has a beat in it.
+3. Check that every decided beat for the book is placed and every thread has a beat in it.
 
 ### Scenes
 

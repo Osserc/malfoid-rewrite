@@ -17,10 +17,14 @@ _Open._
 
 _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 
-## Locked beats
+## Decided beats
 
+🔒 locked; everything else here is settled.
+
+- Dracaena milks the injury for weeks, delays the Gryffindor match to practise, and makes Harry her Potions servant. DIV-017, [potions-servant](../../scenes/b3/potions-servant.md)
 - 🔒 Dracaena saves Buckbeak and gets him to Sirius, who escapes. DIV-003, [buckbeak-rescue](../../scenes/b3/buckbeak-rescue.md)
-- 🔒 No Time-Turner: the canon climax has to be rebuilt. DIV-002
+- Her fake lead sends the Dementors to the lake. She confesses; Harry's Patronus saves everyone; Hermione's idea; Sirius recognises her. DIV-018
+- 🔒 No Time-Turner: the climax has to be rebuilt. DIV-002, Q-003
 
 ## Acts
 

@@ -6,7 +6,9 @@ status: draft
 
 ## Point of view
 
-_Open._ See Q-017. Canon default: close third person, past tense, on Harry.
+*(settled)* Multiple POVs, not only Harry's (Q-017). Canon already opens B4, B6 and B7 outside Harry's head.
+
+Caution: her chapters shouldn't explain her hostility away. If we see too much of her soft side, the hostility reads as an act. Chapters from Hermione or Narcissa, seeing her from outside, help keep the balance.
 
 ## Language
 
@@ -14,7 +16,7 @@ British English spelling and terminology (canon default).
 
 ## Tone and rating
 
-_Open._
+_Open._ Not afraid of the hard beats (Sectumsempra, Burbage).
 
 ## Prose rules
 
