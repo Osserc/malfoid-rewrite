@@ -8,6 +8,8 @@ Undecided points and ripples from decisions already made. IDs are permanent. Whe
 
 Her standing as the Malfoy heir, marriage expectations, what Lucius wants from her, how pureblood society treats a daughter differently from a son.
 
+*Partly answered:* Lucius isn't resentful about having a daughter, but thinks she should be somewhat sheltered ([lucius-malfoy](../characters/lucius-malfoy.md)). She's a tomboy in spirit and a refined heiress at once ([dracaena-malfoy](../characters/dracaena-malfoy.md)). Ripples: Q-036.
+
 ### Q-002 · Hermione's B3 timetable (DIV-002)
 
 In canon a Time-Turner explains how she attends overlapping classes. Cut the subplot, or explain it another way?
@@ -39,7 +41,7 @@ Still open: Ron, Dumbledore, anyone else. Track in [reveals.md](reveals.md).
 
 *Partly answered:* Harry asks and she accepts (DIV-013). He asks because Sirius planted the idea (DIV-019).
 
-Still open: where the relationship stands going in and coming out, and the knock-on effects for Cho, Parvati, Pansy and Ron.
+Still open: where the relationship stands going in and coming out, and the knock-on effects for Cho, Parvati, Pansy and Ron. Going in, Harry has already shown his jealousy by beating a Durmstrang student at the Duelling Club (DIV-029).
 
 ### Q-009 · The Second Task makes Harry's feelings public (DIV-005)
 
@@ -110,6 +112,8 @@ Narcissa is the conduit but would never shop herself. Options:
 
 How their marriage works (the author has ideas), why Narcissa indulges the books, and what Lucius knows and when.
 
+*Partly answered:* the curse that hit Narcissa instead of Lucius. He never forgives himself; she forgives him and uses his guilt to manoeuvre him over Dracaena. Soured on the Death Eaters, she wants Dracaena happy, almost in her stead (DIV-030) → [narcissa-malfoy](../characters/narcissa-malfoy.md). Still open: what Lucius knows about the books, and when.
+
 ### Q-020 · Muggle Studies: when, and how does it get out? (DIV-012, DIV-016)
 
 Which year she starts, how she justifies it at home ("know your enemy"?), when Lucius learns, and how it becomes common knowledge among the Death Eaters by B7.
@@ -136,20 +140,14 @@ It plays a bigger role than in canon, possibly in his hostility. Harry can be ha
 
 *Partly answered:* it blocks resonance until the forest. In near-misses Dracaena is hurt by the stained soul she senses in him, without knowing what it is (DIV-021). Its part in his hostility is still open.
 
+A first sign on the page: his B3 outburst at Dracaena, kept to show he can become unstable ([lap-pillow](../scenes/b3/lap-pillow.md)). In B4 he beats the Durmstrang challenger too aggressively (DIV-029).
+
 ### Q-025 · Planting the fake lead (DIV-018)
 
 How does she get the Ministry to send the Dementors to the lake? Floated so far:
 - telling Fudge herself, since he's on the grounds for the execution
 - an anonymous note
 - an owl forged in Lucius's name
-
-### Q-026 · The lap-pillow scene and the fake-Dementor prank (DIV-017)
-
-The author has a sweet B3 scene in mind, involving a lap pillow. It rules out her part in the fake-Dementor prank.
-
-*Partly answered:* it's the memory behind Harry's Patronus, and it grows out of her spying on his lessons and studying the charm for him → [scenes/b3/lap-pillow.md](../scenes/b3/lap-pillow.md).
-
-Still open: the lap-pillow moment itself, and whether the prank happens at all, and who's in it.
 
 ### Q-027 · Wand rules after the purge (DIV-024)
 
@@ -161,7 +159,7 @@ The hard part. Across B1–B6 we have to orchestrate moments where resonance hap
 - **How it builds.** The rungs (face to face, side by side, one wand) are scrapped as underdeveloped. The mechanics stay vague until a dedicated session. Fixed points so far: a first flicker at the B3 lake, with love already there, however vague (DIV-018), and one wand in two hands in the final duel (🔒 DIV-006).
 - **The lake and the stained soul.** Does the flicker count as a near-miss that hurts her?
 - **The near-misses** where the stained soul hurts her. Candidate: B5, when Harry is failing Occlumency with Snape and she, an Occlumens, tries to help him and recoils. That also keeps the Department of Mysteries trap working.
-- **How and when she finds the rule.** A teacher might allude to it in passing (Flitwick, perhaps in B1) and point her to where to look.
+- **How and when she finds the rule.** A teacher might allude to it in passing (Flitwick, perhaps in B1) and point her to where to look. Flitwick runs the Duelling Club from B2 (DIV-028), a natural place for it.
 - **Hermione as a witness** during the school years, if needed. She can't resonate herself (DIV-021).
 - **The author's further hook** for the feud that makes the shared radicals possible.
 
@@ -181,7 +179,7 @@ At the start of B6 she breaks up with Harry, brutally enough to lead in the end 
 
 ### Q-032 · Who else is in the final sequence? (DIV-023)
 
-- **Narcissa.** In canon she asks Harry whether Draco is alive, then declares him dead. Does her lie stay, and does she then watch her daughter's challenge knowing Harry is alive?
+- **Narcissa.** In canon she asks Harry whether Draco is alive, then declares him dead. Does her lie stay, and does she then watch her daughter's challenge knowing Harry is alive? By then she's Harry's ally (DIV-030), which gives the lie a second reason.
 - **Bellatrix.** Her niece challenges her master. Where is she, and where does Molly vs Bellatrix go? Inbox idea: Narcissa and Lucius duel her. Whoever faces her, Neville sees the fight and lets her go (DIV-025).
 - **Lucius, and the Slytherins**, who in canon are sent away before the battle. In canon Voldemort takes Lucius's wand at the start of B7.
 - **Neville's hat.** Does Dracaena step in while the hat burns on his head? If the sword takes in the hat's fire (a proposal in [final-duel](../scenes/b7/final-duel.md)), the burning stays.
@@ -192,7 +190,41 @@ Voldemort raises every body in the Great Hall as an Inferius, on both sides, so 
 
 ### Q-035 · Supporting scenes for Harry's turn (DIV-018)
 
-At the lake, Harry's opinion of her turns because four things add up ([buckbeak-rescue](../scenes/b3/buckbeak-rescue.md)). That needs groundwork in B1–B3: moments where her sincerity shows and he dismisses it. So far: Potions (DIV-017), the lap-pillow smile, her Patronus study. More are needed.
+At the lake, Harry's opinion of her turns because four things add up ([buckbeak-rescue](../scenes/b3/buckbeak-rescue.md)). That needs groundwork in B1–B3: moments where her sincerity shows and he dismisses it. So far: Potions (DIV-017), the lap-pillow smile, her Patronus study, her unguarded smiles at the Duelling Club (DIV-028). More are needed.
+
+### Q-036 · The sheltering father (DIV-001, DIV-013, DIV-020)
+
+Lucius thinks a daughter should be somewhat sheltered ([lucius-malfoy](../characters/lucius-malfoy.md)). How does that square with:
+- **The family's dark business.** Does sheltering her mean keeping her out of it? The author has floated a Lucius who keeps his distance so as not to drag her in. He's only still on board out of fear (DIV-030).
+- **Buckbeak.** The settled motive is pride: no one crosses House Malfoy. Does his precious daughter getting hurt add to it?
+- **The spy strategy.** He comes up with "keeping tabs on Potter" himself (DIV-013) and tells Voldemort he has planted her as a spy (DIV-020). Is that shelter of a kind, a cover he builds around her?
+- **Her Mark.** She's Marked in summer 1996 while he's in Azkaban (DIV-015, Q-030).
+
+*Partly answered:* her tomboy side. He loses to his wife and daughter, settles for no training without supervision, and worries less as he sees how capable she is → [lucius-malfoy](../characters/lucius-malfoy.md). Why she's an only child: a curse meant for him hit Narcissa (DIV-030).
+
+### Q-037 · Quidditch as a real rivalry
+
+Quidditch has to be a real avenue for their rivalry, so Seeker duels have to be a thing, not a Snitch caught in the first few minutes. How do we rework the game (the Snitch, scoring, how Seekers contest it) so that it works? → [threads/quidditch.md](../threads/quidditch.md). Ripples to check:
+- **B4.** Canon cancels Quidditch for the Tournament.
+- **B5.** In canon, Draco's taunts after the Slytherin match lead Harry to attack him, and Umbridge bans Harry for life. With her in the dream (DIV-013), that can't stand as it is.
+
+### Q-038 · Rita's article (DIV-029)
+
+Harry's fight with the Durmstrang challenger gives Rita Skeeter prime ammunition: a violent, tormented boy.
+
+*Partly answered:* it's extra material for canon's "disturbed and dangerous" piece at the Third Task, which may move a little earlier if needed. Rita knows the fight was over Dracaena, and prints it. The author wants to milk Rita's presence a lot, and wants Lucius to discover his daughter's relationship through the Daily Prophet, of all ways.
+
+Still open:
+- **Her source.** Dracaena wouldn't touch Rita with a ten-foot pole. Candidates: the humiliated Durmstrang student; Pansy Parkinson, miffed that after the Ball and the Second Task the two are basically a couple; or, if Pansy stays Dracaena's friend, a Slytherin girl from a rival pure-blood house who dislikes her, seeded in B1–B3.
+- **What Lucius already knows.** The Ball and the Second Task are public (Q-009). For the article to be how he finds out, he has to know the facts without knowing what they mean.
+- **The timing.** Canon puts the piece on the morning of the Third Task. That night Lucius is in the graveyard with Harry. Does it feed his end-of-B4 strategy (DIV-013, Q-022)?
+- **Hermione's jar.** In canon Hermione catches Rita at the end of B4 and keeps her quiet. Too late for this article. Does it protect their B5 cover (DIV-013)?
+
+### Q-039 · Narcissa's curse and her alliance (DIV-030)
+
+- **Harry's ally.** When and how does it show? Candidates: the brooms and the books (DIV-010), the end-of-B4 strategy (DIV-013, Q-022), her B7 lie (Q-032). When does she first meet Harry as more than her daughter's rival?
+- **Who cast the curse**, and were they caught? A Death Eater still at large could resurface after Voldemort's return.
+- **Does Dracaena know** why she's an only child? Tracked in [reveals.md](reveals.md).
 
 ## Answered
 
@@ -215,3 +247,7 @@ A dragon. → [threads/patronus.md](../threads/patronus.md)
 ### Q-017 · Point of view (style)
 
 Multiple POVs, not only Harry's. → [core/style.md](../core/style.md)
+
+### Q-026 · The lap-pillow scene and the fake-Dementor prank (DIV-017)
+
+The lap pillow is the memory behind Harry's Patronus, and grows out of her spying on his lessons and studying the charm for him → [scenes/b3/lap-pillow.md](../scenes/b3/lap-pillow.md). The prank happens without her: Crabbe and Goyle pull it on their own initiative, and she greatly disapproves, to their confusion. His Patronus at that match doesn't run on the lap pillow, which he doesn't count as happy until the lake. → DIV-017

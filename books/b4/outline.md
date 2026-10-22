@@ -21,6 +21,7 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 
 🔒 locked; everything else here is settled.
 
+- The Duelling Club stays open, and the visiting students join. Harry beats a Durmstrang student who has taken an interest in Dracaena, too aggressively, and Rita Skeeter gets her ammunition. DIV-028, DIV-029, [durmstrang-challenger](../../scenes/b4/durmstrang-challenger.md)
 - Sirius plants the idea of asking Dracaena to the Ball. DIV-019
 - 🔒 Harry asks Dracaena to the Yule Ball and she accepts: the turning point. DIV-004, DIV-013, [yule-ball](../../scenes/b4/yule-ball.md)
 - After the Ball, its memory gives Dracaena her first corporeal Patronus. DIV-027

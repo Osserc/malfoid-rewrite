@@ -146,9 +146,9 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **The match:** she uses the injury to delay the match against Harry, because after losing in B2 she knows she needs more practice.
   - **Potions:** she badgers Harry into preparing her ingredients and turns him into her servant. When his poor technique spoils the potion she steps in, strangely sweet under the barbs. In her head they're a married couple cooking together, until she realises she's daydreaming in front of the whole class and scrambles to save face. Harry is weirded out.
   - **The lesson:** later she realises her play-acting gave Lucius the fuel to have Buckbeak executed. That lesson in consequences is what pushes her to save him.
-  - **The prank:** she takes no part in the fake-Dementor prank (Q-026).
-- **Home:** [scenes/b3/potions-servant.md](../scenes/b3/potions-servant.md) (the lesson) · [scenes/b3/buckbeak-rescue.md](../scenes/b3/buckbeak-rescue.md) (the motive)
-- **Ripples:** Q-026
+  - **The prank:** she takes no part in the fake-Dementor prank at the Ravenclaw match. Crabbe and Goyle pull it on their own initiative, thinking she'll approve, and are confused when she greatly disapproves. Kicking him while he's down isn't her game ([lap-pillow](../scenes/b3/lap-pillow.md)).
+- **Home:** [scenes/b3/potions-servant.md](../scenes/b3/potions-servant.md) (the lesson) · [scenes/b3/buckbeak-rescue.md](../scenes/b3/buckbeak-rescue.md) (the motive) · [threads/quidditch.md](../threads/quidditch.md) (the match, the prank)
+- **Ripples:** Q-026 (answered)
 
 ### DIV-018 · B3 climax: the swarm, the confession, the flight to Sirius
 
@@ -164,7 +164,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **Sirius:** he recognises Narcissa's daughter, and they talk briefly. Maybe the Black family made something good after all, if Narcissa gave birth to a girl this brave.
 - **Note:** This builds on 🔒 DIV-003 without changing it. The canon sequence has to be rebuilt without Time-Turners: Q-003.
 - **Home:** [scenes/b3/buckbeak-rescue.md](../scenes/b3/buckbeak-rescue.md)
-- **Ripples:** Q-003, Q-007, Q-025, Q-026, Q-028, Q-035 · DIV-019, DIV-021, DIV-027 · [continuity/reveals.md](reveals.md)
+- **Ripples:** Q-003, Q-007, Q-025, Q-026 (answered), Q-028, Q-035 · DIV-019, DIV-021, DIV-027 · [continuity/reveals.md](reveals.md)
 
 ### DIV-019 · B4: Sirius plants the Yule Ball idea
 
@@ -192,7 +192,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Status:** settled. The link rule in its home is draft.
 - **Canon:** Love works as magic through sacrifice: Lily's death protects Harry, and his in B7 protects the defenders. In B5 Voldemort can't stay in Harry's mind once it fills with love. Wands bond strangely through twin cores (Priori Incantatem, B4).
 - **Ours:** A wand resonates when two people wield it in total sync, and their magic becomes exponentially stronger. It's literally the power of love: friendship isn't enough, or it would be more common. It's obscure, extremely rare and extremely hard to pull off.
-  - **Sync:** both draw the same radicals (DIV-007) at the same instant, with no leader. Harry and Dracaena can because of years of feuding and duelling.
+  - **Sync:** both draw the same radicals (DIV-007) at the same instant, with no leader. Harry and Dracaena can because of years of feuding and duelling (DIV-028).
   - **Volatile:** no instant win. It shows cracks, but it holds.
   - **Occlumency:** in resonance Dracaena wraps Harry's mind in hers. Voldemort's Legilimency finds nothing but her love for Harry.
   - **The stained soul:** until the forest, Harry's Horcrux blocks it. In near-misses she's hurt by the stained, mutilated soul she senses in him, without either of them knowing what it is.
@@ -252,3 +252,30 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Why:** her Patronus tracks her faith in the dream. It also mirrors Harry's: his B3 Patronus runs on memories of her, and hers on memories of him.
 - **Home:** [threads/patronus.md](../threads/patronus.md)
 - **Ripples:** Q-013, Q-034 (answered) · DIV-015, DIV-018, DIV-025 · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md)
+
+### DIV-028 · Flitwick's Duelling Club
+
+- **Status:** settled
+- **Canon:** In B2 Lockhart starts a Duelling Club, with Snape as his assistant. Its one session ends in chaos with Draco's conjured snake and Harry speaking Parseltongue, and the club is never heard of again.
+- **Ours:** After Lockhart's disastrous first session, the students petition the teachers to keep the club going with a proper instructor, and Flitwick steps in. Harry and Dracaena become regular, evenly matched opponents: she's the better technician, he's instinctive and thrives in chaos. Over the years they learn to read each other, and come to enjoy the fights. In B4 it stays open, and the visiting students join. Early in B5 Umbridge shuts the club down, one of her first acts.
+- **Why:** it's where they come to know each other. It gives the years of duelling behind resonance a concrete home (DIV-021), and shows her sincerity in a way that sets up the B3 lake (Q-035).
+- **Home:** [threads/duelling-club.md](../threads/duelling-club.md)
+- **Ripples:** Q-028, Q-035 · DIV-021, DIV-029 · [threads/harry-dracaena.md](../threads/harry-dracaena.md) · [scenes/b3/lap-pillow.md](../scenes/b3/lap-pillow.md)
+
+### DIV-029 · B4: the Durmstrang challenger
+
+- **Status:** settled
+- **Canon:** Nothing like it. Rita Skeeter's portrait of Harry as disturbed and dangerous draws partly on Draco.
+- **Ours:** With the visiting students in the Duelling Club, a Durmstrang student takes an interest in Dracaena. Harry challenges him and beats him, too aggressively. She's delighted he's jealous, but would never use anyone to provoke him: theirs is an exclusive game. The fight gives Rita Skeeter prime ammunition to paint Harry as a violent, tormented boy.
+- **Why:** to shut down any rival-suitor angle, hard, and show Harry is a real champion, not a fluke.
+- **Home:** [scenes/b4/durmstrang-challenger.md](../scenes/b4/durmstrang-challenger.md)
+- **Ripples:** Q-008, Q-024, Q-038 · DIV-028
+
+### DIV-030 · Narcissa's curse
+
+- **Status:** settled
+- **Canon:** Draco is an only child, and canon gives no reason. Narcissa is never Marked but stays in the Death Eaters' orbit until B7, when love for her son leads her to lie to Voldemort.
+- **Ours:** After Voldemort's fall, Lucius escapes Azkaban by renouncing him and claiming the Imperius Curse (canon). A Death Eater still at large tries to curse him for it, and hits Narcissa instead: she can never have another child. Lucius never forgives himself. Narcissa forgives him, but uses his guilt to manoeuvre him where Dracaena is concerned. The Death Eaters took her future children, so she has soured on the cause and wants Dracaena to be happy, almost in her stead. That makes her Harry's ally inside the house. Lucius stays on board only out of fear, the same reasoning Dracaena will follow in B6 (DIV-015).
+- **Why:** it explains the only child, and gives Lucius's sheltering, his guilt and Narcissa's indulgence one root.
+- **Home:** [characters/narcissa-malfoy.md](../characters/narcissa-malfoy.md)
+- **Ripples:** Q-019, Q-032, Q-036, Q-039 · DIV-010, DIV-015 · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md) · [continuity/reveals.md](reveals.md)

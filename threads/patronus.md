@@ -16,7 +16,7 @@ Dracaena's Patronus, and how it mirrors Harry's. Hers tracks her faith in the dr
 
 | Book | Beat | Where |
 |---|---|---|
-| B3 | She spies on Harry's secret Patronus lessons and studies the charm in the library, wanting him to succeed. She tries it herself, as a test, and gets mist. The lap-pillow scene becomes his memory | [lap-pillow](../scenes/b3/lap-pillow.md) |
+| B3 | She spies on Harry's secret Patronus lessons and studies the charm in the library, wanting him to succeed. She tries it herself, as a test, and gets mist. The lap-pillow scene becomes his memory, though he won't count it as happy until the lake | [lap-pillow](../scenes/b3/lap-pillow.md) |
 | B3 | At the lake she tries and fails. Harry's Patronus, powered by the lap-pillow memory, drives off the swarm, with a first flicker of resonance (DIV-018). She resolves to master the charm | [buckbeak-rescue](../scenes/b3/buckbeak-rescue.md) |
 | B4 | *(draft)* At the First Task she projects herself a little onto the dragon Harry flies around, before she knows what her Patronus is | |
 | B4 | Still only mist, until the Yule Ball. That memory gives her a corporeal Patronus (DIV-004) | [yule-ball](../scenes/b4/yule-ball.md) |
@@ -36,7 +36,7 @@ Dracaena's Patronus, and how it mirrors Harry's. Hers tracks her faith in the dr
 
 ## Proposals (not yet agreed)
 
-- **The same memory.** In B7 she casts from the Yule Ball again. In B6 it fails because she believes the dream was never real. In B7 it works because she believes again. The memory didn't change; she did. That fits "she wakes herself" ([sleeping-beauty](sleeping-beauty.md)).
+- **The same memory.** In B7 she casts from the Yule Ball again. In B6 it fails because she believes the dream was never real. In B7 it works because she believes again. The memory didn't change; she did. That fits "she wakes herself" ([sleeping-beauty](sleeping-beauty.md)). Harry's B3 memory already works this way: it only powers his Patronus once he believes she meant it ([lap-pillow](../scenes/b3/lap-pillow.md)).
 - **The slot.** In canon, during the battle, Harry's Patronus falters against the Dementors and Luna, Ernie and Seamus step in. Here it's her.
 - **B6 on the page.** She tries and gets nothing, not even mist. It shows the death of faith without anyone explaining it.
 - **All hers.** The power is hers alone. The stained soul still blocks resonance before the forest (DIV-021).

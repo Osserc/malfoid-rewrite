@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's rival and his tsundere love interest. 🔒 DIV-001
 **Canon baseline:** Draco Malfoy. Anything not overridden follows canon Draco, adjusted for the knock-on effects of her being a daughter (Q-001).
-**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027
+**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–030
 
 ## Core
 
@@ -24,6 +24,10 @@ Gifted and brave, as befits wizard royalty (DIV-011):
 - A voracious reader on whatever grips her: poisons, the strange boy's stories, then Muggle novels (DIV-010).
 - Competent, and no coward.
 
+## Heiress and tomboy
+
+*(settled)* A tomboy in spirit, at least: Quidditch, flying, duelling, dragons. But she's still a refined heiress, and the two have to live together in her. Like canon Draco she's spoiled and almost always gets her way, but here it comes off as cute rather than pathetic, all the more because she comes into her powers quickly (DIV-011). Lucius would rather shelter her, and rarely wins ([lucius-malfoy](lucius-malfoy.md)).
+
 ## Occlumency
 
 *(settled)* DIV-020. She learns it from Snape in the summer between B4 and B5. The Malfoy discipline helps. Snape's stated reason is a general precaution for someone working under cover. It isn't enough: at their first meeting in summer 1996, Voldemort shatters her walls with ease (DIV-015). In the final duel she uses it another way. Instead of walling him out, she wraps Harry's mind in hers (DIV-021). Rules: [setting/magic.md](../setting/magic.md).
@@ -38,7 +42,11 @@ Gifted and brave, as befits wizard royalty (DIV-011):
 - **She admires competence, daring and valour, and it comes out as contempt.** Her line is "if *Potter* of all people can…" (DIV-013).
 - **She does the right thing so Potter can't beat her at it** (Q-005, answered).
 - **She's not above subterfuge and pettiness when throwing darts at her target.** She milks the B3 injury for weeks (DIV-017).
-- **Her soft side leaks when she forgets herself.** The Potions "cooking" daydream, then a scramble to save face (DIV-017).
+- **She wants to own his happiness.** In B3 she's delighted he has no happy memories, because then she can give him the only one he'll have, and prove his friends couldn't. Never spoken ([lap-pillow](../scenes/b3/lap-pillow.md)).
+- **Theirs is an exclusive game.** She's delighted when he's jealous, but the thought of using anyone to provoke him disgusts her (DIV-029).
+- **She studies him.** She watches all his matches like a hawk and takes overly detailed notes, not all of them technical ([quidditch](../threads/quidditch.md)).
+- **Her tenderness is borrowed.** When she wants to give him something loving, her only model is how her mother loves her ([lap-pillow](../scenes/b3/lap-pillow.md)).
+- **Her soft side leaks when she forgets herself.** The Potions "cooking" daydream, then a scramble to save face (DIV-017). When she beats Harry at the Duelling Club she forgets to gloat: "Did you see that? I won!" (DIV-028).
 - **She'll treasure the "princess" moment forever and never admit it.** Harry regrets it.
 
 Open: how the balance shifts in B6–B7, and what keeps her a person rather than a trope.
@@ -53,7 +61,8 @@ Grey eyes (canon default), not the princess's purple. Otherwise canon default, o
 
 ## Family
 
-- Lucius and Narcissa Malfoy; she is their only child. Narcissa quietly gets her the Muggle books (DIV-010, Q-018, Q-019).
+- Lucius and Narcissa Malfoy; she is their only child, because a curse meant for her father hit her mother (DIV-030). She loves them both. Her mother is "mama", and her model of love. Her father is strict, and she's a bit afraid of him, above all of disappointing him: her B3 Boggart is him looking at her with disgust ([lap-pillow](../scenes/b3/lap-pillow.md)). That's her fear, not what he feels ([lucius-malfoy](lucius-malfoy.md)).
+- Narcissa quietly gets her the Muggle books (DIV-010, Q-018, Q-019), and is Harry's ally inside the house ([narcissa-malfoy](narcissa-malfoy.md)).
 - Narcissa was born a Black, so Sirius is her mother's cousin, and Bellatrix and Andromeda are her aunts (canon default). Relevant to Q-006 and DIV-014.
 
 ## Wand
@@ -75,7 +84,7 @@ Her inner arc is the [Sleeping Beauty thread](../threads/sleeping-beauty.md).
 | Book | Start | Turn | End |
 |---|---|---|---|
 | B1 | Wizard royalty, used to flattery | Called a princess, sincerely, by a nameless boy; reads the tale. Refused on the train (DIV-009, DIV-010) | Holds a grudge: she'll prove he's nothing special |
-| B2 | | His feats start to repair her opinion (DIV-013) | |
+| B2 | | His feats start to repair her opinion (DIV-013). The Duelling Club under Flitwick: evenly matched with Harry (DIV-028) | |
 | B3 | Milking the injury; her play-acting gets Buckbeak condemned (DIV-017) | 🔒 Saves Buckbeak (DIV-003). Confesses the swarm at the lake; flies Buckbeak to Sirius (DIV-018) | Owes Harry; her prince drove off the demons for her |
 | B4 | | 🔒 Accepts his invitation to the Yule Ball, the turning point (DIV-004, DIV-013). 🔒 His Second Task hostage (DIV-005) | In the dream. Lucius comes up with the spy strategy (DIV-013) |
 | B5 | Learns Occlumency from Snape over the summer (DIV-020). Dreaming, under cover (DIV-013) | Comforts him after Sirius and promises to be there (DIV-014) | Marked. Voldemort shatters her walls; faith dead (DIV-015) |
@@ -88,4 +97,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-026, Q-028, Q-030–Q-032, Q-035
+Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-028, Q-030–Q-032, Q-035–Q-038

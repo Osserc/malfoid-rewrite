@@ -6,16 +6,20 @@ status: draft
 
 **Role:** Dracaena's father. A Death Eater, and a skilled Occlumens.
 **Canon baseline:** Lucius Malfoy. Anything not overridden follows canon.
-**Changes from canon:** DIV-013, DIV-020
+**Changes from canon:** DIV-013, DIV-020, DIV-030
 
 ## Core
 
 - **Want:** _open_
 - **Need:** _open_
-- **Wound / fear:** _open_
+- **Wound / fear:** guilt, because the curse meant for him hit Narcissa and cost her any more children; he never forgives himself, and she uses it (DIV-030). And fear: it's the only thing keeping him with the Death Eaters, the same reasoning Dracaena will follow in B6 (DIV-015).
 - **Lie he believes:** _open_
 
 How his marriage works and what he knows about his daughter: Q-019 (the author has ideas).
+
+## His daughter
+
+*(settled)* He isn't resentful about having a daughter rather than a son. He thinks a daughter is too precious and fragile, and should be somewhat sheltered. But he's up against two formidable opponents: his doting wife, and his beloved daughter, who almost always gets her way ([dracaena-malfoy](dracaena-malfoy.md)). When she wants to fly, he has to give in, and sneaks in his condition: no training without supervision. As the years pass his worries ease, because he sees how capable she is, but he stays very protective. He's strict. Her Boggart is him looking at her with disgust ([lap-pillow](../scenes/b3/lap-pillow.md)), but that's her fear, not what he feels. How sheltering her squares with the rest of his story: Q-036.
 
 ## Occlumency
 
@@ -38,7 +42,7 @@ Canon default.
 ## Relationships
 
 - [Dracaena Malfoy](dracaena-malfoy.md): his only child.
-- Narcissa Malfoy: his wife (Q-019).
+- [Narcissa Malfoy](narcissa-malfoy.md): his wife. She forgave him for the curse; he never forgave himself (DIV-030, Q-019).
 - Severus Snape: teaches Dracaena Occlumency in summer 1995 (DIV-020).
 
 ## Arc by book
@@ -59,4 +63,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-001, Q-019, Q-022, Q-030, Q-032
+Q-001, Q-019, Q-022, Q-030, Q-032, Q-036

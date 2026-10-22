@@ -11,6 +11,7 @@ _Marauders era, the first war. Not yet worked out._
 - **1980-06-05**: Dracaena born (canon default: Draco's birthday). DIV-001
 - **1980-07-31**: Harry born.
 - **1981-10-31**: The Potters are killed; Voldemort falls.
+- **Early 1980s**: Lucius escapes Azkaban by claiming the Imperius Curse (canon). A Death Eater still at large tries to curse him for it and hits Narcissa, who can never have another child. DIV-030
 - **Mid-1980s**: Harry secretly watches *Sleeping Beauty* from behind the Dursleys' living-room door. DIV-009
 
 ## B1 · 1991–92
@@ -22,6 +23,8 @@ _Marauders era, the first war. Not yet worked out._
 
 ## B2 · 1992–93
 
+- **1992-12**: Lockhart's Duelling Club ends in disaster (canon). Afterwards the students petition to keep it open, and Flitwick takes over. Harry and Dracaena become regular, evenly matched opponents. DIV-028
+
 ## B3 · 1993–94
 
 - **1993-09**: The hippogriff lesson. She milks the injury for weeks: the match delay, the Potions servant. DIV-017
@@ -30,6 +33,7 @@ _Marauders era, the first war. Not yet worked out._
 
 ## B4 · 1994–95
 
+- **Between the visitors' arrival (1994-10-30) and the Yule Ball**: at the Duelling Club, Harry beats a Durmstrang student who has taken an interest in Dracaena, too aggressively. Rita Skeeter gets her ammunition. DIV-029
 - **Before the Yule Ball**: Sirius plants the idea of asking her. DIV-019
 
 - **1994-12-25**: Yule Ball. Harry asks, Dracaena accepts. DIV-004, DIV-013
@@ -40,6 +44,7 @@ _Marauders era, the first war. Not yet worked out._
 
 ## B5 · 1995–96
 
+- **1995-09**: Umbridge shuts down the Duelling Club, one of her first acts. DIV-028
 - **1995–96**: Lucius meets Voldemort regularly, never at the Manor, and tells him he has planted his daughter as a spy. DIV-020
 - **1996-06-05**: Dracaena turns 16.
 - **1996-06**: Department of Mysteries. Sirius dies; Lucius is arrested (canon). Soon after, she comforts Harry and promises to be there for him. DIV-014

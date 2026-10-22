@@ -31,7 +31,7 @@ Lily's protection is canon. Why her sacrifice protects and his doesn't, and how 
 A wand resonates when two people wield it in total sync, and their magic becomes exponentially stronger. It's literally the power of love.
 
 - **Only love.** Friendship isn't enough, or resonance would be more common. Harry and Hermione could never do it. It's obscure, extremely rare and extremely hard to pull off.
-- **Sync.** Both draw the same radicals at the same instant, with no leader. That's almost impossible between two people. Harry and Dracaena can do it because of years of feuding and duelling, spent learning each other's every move.
+- **Sync.** Both draw the same radicals at the same instant, with no leader. That's almost impossible between two people. Harry and Dracaena can do it because of years of feuding and duelling, spent learning each other's every move, much of it at the Duelling Club (DIV-028).
 - **Volatile.** No instant win. The state shows cracks, but it holds.
 - **Occlumency.** In resonance, Dracaena wraps Harry's mind in hers. Voldemort's Legilimency finds nothing but her love for Harry.
 - **The stained soul.** Until the forest, Harry's Horcrux blocks it. They come close a few times, and each time she's hurt by the stained, mutilated soul she senses in him, without either of them knowing what it is. Full resonance only becomes possible once the Killing Curse in the forest destroys that fragment.

@@ -21,7 +21,7 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 
 🔒 locked; everything else here is settled.
 
-_None yet._
+- After Lockhart's disastrous session, Flitwick takes over the Duelling Club. Harry and Dracaena become regular, evenly matched opponents. DIV-028, [duelling-club](../../threads/duelling-club.md)
 
 ## Acts
 

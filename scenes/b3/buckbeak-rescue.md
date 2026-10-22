@@ -40,7 +40,7 @@ The order and logistics are provisional: the night has to be rebuilt without Tim
 *(settled)* Seeing her break down isn't what does it. At the lake four things add up at once:
 
 1. She stole Buckbeak to save him. Harry has only just found out.
-2. The lap pillow wasn't a joke. The heartfelt, sweet smile he caught for a few seconds was real ([lap-pillow](lap-pillow.md)).
+2. The lap pillow wasn't a joke. The heartfelt, sweet smile he caught for a few seconds was real, and the memory he'd written off as a prank becomes one he can cast with ([lap-pillow](lap-pillow.md)).
 3. Her Patronus study wasn't a joke either. She really was trying to help him.
 4. Right now she's trying to drive the Dementors off herself.
 
@@ -52,4 +52,4 @@ The locked beats, her motive, the confession, Hermione's idea, Sirius's recognit
 
 ## Open
 
-Q-003 (rebuilding the night) · Q-025 (the fake lead) · Q-007 (who else finds out) · Q-026 (the lap-pillow scene) · Q-028 (the flicker) · Q-035 (supporting scenes for his turn)
+Q-003 (rebuilding the night) · Q-025 (the fake lead) · Q-007 (who else finds out) · Q-028 (the flicker) · Q-035 (supporting scenes for his turn)
