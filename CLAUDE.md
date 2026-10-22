@@ -27,6 +27,7 @@ The user is the author and has the final word. Claude is co-writer and continuit
 | `problems/` | Canon elements that break the plot or the ethics, with the reasoning behind how we deal with them |
 | `books/bN/` | `outline.md` (arc, acts, chapters) and `canon-delta.md` (what happens to each canon beat) |
 | `scenes/bN/` | Key scenes as beat outlines; `scenes/unplaced/` for scenes not yet slotted |
+| `sketches/bN/` | The author's rough prose, one file per scene, named by the scene's slug; `sketches/unplaced/` for the rest. Not canon |
 | `manuscript/bN/` | Final prose, one file per chapter (`ch01.md`, …). Not started |
 | `templates/` | Starting point for every file type above |
 | `inbox.md` | Raw ideas. Nothing in it is canon |
@@ -39,7 +40,7 @@ The user is the author and has the final word. Claude is co-writer and continuit
 4. **Trace the ripples.** Every decision has consequences. When one is made, follow its effects through characters, threads, the timeline and reveals. Anything that can't be resolved yet becomes a `Q-###`; don't leave it implicit.
 5. **Ideas go to the inbox.** Loose ideas that aren't part of active work go in `inbox.md`, not into bible files.
 6. **Our own words only.** Never reproduce text from the original books. Canon gets summarized in our own words, and the manuscript is original prose.
-7. **Conflicts are bugs.** When files disagree, the precedence is 🔒 locked > settled > draft, then ledger > home file > summaries, then bible > manuscript. Fix the conflict or raise it; never leave it standing.
+7. **Conflicts are bugs.** When files disagree, the precedence is 🔒 locked > settled > draft, then ledger > home file > summaries, then bible > sketches and manuscript. Fix the conflict or raise it; never leave it standing.
 
 ## Status
 
@@ -51,7 +52,7 @@ Every content file has `status:` in its front matter. Items inside a file can ca
 | `settled` | Agreed. Changes only on purpose, after a ripple check | User only |
 | `draft` | Work in progress, free to change | Claude or user |
 
-Files in `problems/` use `open` / `resolved` instead. Ledger entries carry their own status.
+Files in `problems/` use `open` / `resolved` instead, and sketches use `raw` / `mined` / `used` (see *Sketches*). Ledger entries carry their own status.
 
 ## IDs
 
@@ -84,9 +85,17 @@ The problem file holds the analysis: what canon does, why it matters to us, the 
 
 Scenes are named by slug, never by chapter number. Placement in the front matter stays tentative until the book outline is settled. A scene file holds beats, not prose.
 
+### Sketches
+
+The author's rough prose, ahead of the manuscript. Not canon: material to mine for ideas, and later a base for chapters.
+
+1. The author drops a sketch into `sketches/bN/` (or `sketches/unplaced/`) under its scene's slug, or pastes it in chat for Claude to file. Claude adds the front matter from the template and links it in the scene file's `sketch:` field.
+2. Read it against the bible. Raise new ideas and contradictions; record agreed ones through *Recording a decision*. Never adopt them quietly.
+3. Status: `raw` as written, `mined` once its ideas have been through the bible, `used` once it's worked into a chapter.
+
 ### Manuscript
 
-Chapters are written from the settled outline and scene files. If drafting turns up a better idea that contradicts the bible, raise it rather than quietly diverging. If it's accepted, update the bible first.
+Chapters are written from the settled outline and scene files, with their sketches as a base where there are any. If drafting turns up a better idea that contradicts the bible, raise it rather than quietly diverging. If it's accepted, update the bible first.
 
 ## Conventions
 

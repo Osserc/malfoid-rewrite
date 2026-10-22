@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's rival and his tsundere love interest. 🔒 DIV-001
 **Canon baseline:** Draco Malfoy. Anything not overridden follows canon Draco, adjusted for the knock-on effects of her being a daughter (Q-001).
-**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023
+**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027
 
 ## Core
 
@@ -27,6 +27,10 @@ Gifted and brave, as befits wizard royalty (DIV-011):
 ## Occlumency
 
 *(settled)* DIV-020. She learns it from Snape in the summer between B4 and B5. The Malfoy discipline helps. Snape's stated reason is a general precaution for someone working under cover. It isn't enough: at their first meeting in summer 1996, Voldemort shatters her walls with ease (DIV-015). In the final duel she uses it another way. Instead of walling him out, she wraps Harry's mind in hers (DIV-021). Rules: [setting/magic.md](../setting/magic.md).
+
+## Patronus
+
+*(settled)* DIV-027. Mist from B3, when she studies the charm for Harry, until the Yule Ball gives her a corporeal one. Gone in B6, back at the Battle of Hogwarts. It's a dragon. Full arc: [threads/patronus.md](../threads/patronus.md).
 
 ## The tsundere engine
 
@@ -84,4 +88,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-026, Q-028, Q-030–Q-032
+Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-026, Q-028, Q-030–Q-032, Q-035

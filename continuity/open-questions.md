@@ -23,7 +23,7 @@ Canon's night depends on the Time-Turner, so most of it has to be reworked until
 
 These have to fit alongside her fake lead, Buckbeak's freeing, Harry's Patronus, her confession and her talk with Sirius.
 
-Also open: which memory powers Harry's Patronus. It should be something Dracaena-related set up earlier, helped along by him realising what she just did. Candidate: the author's lap-pillow scene (Q-026).
+*Partly answered:* the memory behind Harry's Patronus is the lap-pillow scene, and at the lake it all adds up and he re-evaluates her (DIV-018). Canon's Harry drives off the swarm sure he can, having seen himself do it. Ours has the first flicker of resonance instead (Q-028).
 
 ### Q-004 · The Time Room in B5 (DIV-002)
 
@@ -145,7 +145,11 @@ How does she get the Ministry to send the Dementors to the lake? Floated so far:
 
 ### Q-026 · The lap-pillow scene and the fake-Dementor prank (DIV-017)
 
-The author has a sweet B3 scene in mind, involving a lap pillow. It may be the memory behind Harry's Patronus (Q-003), and it rules out her part in the fake-Dementor prank. Does the prank happen at all, and who's in it?
+The author has a sweet B3 scene in mind, involving a lap pillow. It rules out her part in the fake-Dementor prank.
+
+*Partly answered:* it's the memory behind Harry's Patronus, and it grows out of her spying on his lessons and studying the charm for him → [scenes/b3/lap-pillow.md](../scenes/b3/lap-pillow.md).
+
+Still open: the lap-pillow moment itself, and whether the prank happens at all, and who's in it.
 
 ### Q-027 · Wand rules after the purge (DIV-024)
 
@@ -154,7 +158,8 @@ With allegiance gone, what does "the wand chooses the wizard" mean now? Also: ho
 ### Q-028 · Seeding resonance (DIV-021)
 
 The hard part. Across B1–B6 we have to orchestrate moments where resonance happens at all, so that before the finale the reader knows the rule, what it takes, and that it can fail. Open:
-- **Where each rung happens:** face to face with two wands, then side by side with two wands. The one-wand rung is reserved for the final duel.
+- **How it builds.** The rungs (face to face, side by side, one wand) are scrapped as underdeveloped. The mechanics stay vague until a dedicated session. Fixed points so far: a first flicker at the B3 lake, with love already there, however vague (DIV-018), and one wand in two hands in the final duel (🔒 DIV-006).
+- **The lake and the stained soul.** Does the flicker count as a near-miss that hurts her?
 - **The near-misses** where the stained soul hurts her. Candidate: B5, when Harry is failing Occlumency with Snape and she, an Occlumens, tries to help him and recoils. That also keeps the Department of Mysteries trap working.
 - **How and when she finds the rule.** A teacher might allude to it in passing (Flitwick, perhaps in B1) and point her to where to look.
 - **Hermione as a witness** during the school years, if needed. She can't resonate herself (DIV-021).
@@ -179,11 +184,15 @@ At the start of B6 she breaks up with Harry, brutally enough to lead in the end 
 - **Narcissa.** In canon she asks Harry whether Draco is alive, then declares him dead. Does her lie stay, and does she then watch her daughter's challenge knowing Harry is alive?
 - **Bellatrix.** Her niece challenges her master. Where is she, and where does Molly vs Bellatrix go? Inbox idea: Narcissa and Lucius duel her. Whoever faces her, Neville sees the fight and lets her go (DIV-025).
 - **Lucius, and the Slytherins**, who in canon are sent away before the battle. In canon Voldemort takes Lucius's wand at the start of B7.
-- **Neville's hat.** Does Dracaena step in while the hat burns on his head?
+- **Neville's hat.** Does Dracaena step in while the hat burns on his head? If the sword takes in the hat's fire (a proposal in [final-duel](../scenes/b7/final-duel.md)), the burning stays.
 
 ### Q-033 · The dead of the Battle of Hogwarts (DIV-025)
 
 Voldemort raises every body in the Great Hall as an Inferius, on both sides, so the death toll at that point decides who rises. Canon's tally may change. Who stays dead, and who rises against the people who loved them? Do the Inferi fall when he dies?
+
+### Q-035 · Supporting scenes for Harry's turn (DIV-018)
+
+At the lake, Harry's opinion of her turns because four things add up ([buckbeak-rescue](../scenes/b3/buckbeak-rescue.md)). That needs groundwork in B1–B3: moments where her sincerity shows and he dismisses it. So far: Potions (DIV-017), the lap-pillow smile, her Patronus study. More are needed.
 
 ## Answered
 
@@ -198,6 +207,10 @@ It's Hermione's idea. She agrees because she owes Harry, having just confessed t
 ### Q-012 · Two casters, one wand (DIV-006, DIV-007)
 
 Harry's hand closes over hers on her wand, and they draw the same radicals together, in resonance. → DIV-021, [scenes/b7/final-duel.md](../scenes/b7/final-duel.md)
+
+### Q-034 · Dracaena's Patronus form (DIV-027)
+
+A dragon. → [threads/patronus.md](../threads/patronus.md)
 
 ### Q-017 · Point of view (style)
 

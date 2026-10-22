@@ -35,15 +35,12 @@ A wand resonates when two people wield it in total sync, and their magic becomes
 - **Volatile.** No instant win. The state shows cracks, but it holds.
 - **Occlumency.** In resonance, Dracaena wraps Harry's mind in hers. Voldemort's Legilimency finds nothing but her love for Harry.
 - **The stained soul.** Until the forest, Harry's Horcrux blocks it. They come close a few times, and each time she's hurt by the stained, mutilated soul she senses in him, without either of them knowing what it is. Full resonance only becomes possible once the Killing Curse in the forest destroys that fragment.
-- **Rungs,** each harder than the last:
-  1. Face to face, two wands: rivals mirroring each other in a duel.
-  2. Side by side, two wands.
-  3. One wand in two hands. Reached only in the final duel.
+- **How it builds** across the books is kept vague until a dedicated session (Q-028). So far: a first flicker at the B3 lake (DIV-018), and one wand in two hands in the final duel (🔒 DIV-006).
 - **Nobody knows.** In school no one knows what resonance is. Dracaena works out the rule herself, by research, and tells no one.
 - **Never disarmed.** When they're together they're each other's strength. Harry doesn't need a wand of his own, because hers is theirs.
 - *(draft)* **The link.** Drawing the same radicals with no leader opens a link between the two minds. The link is what multiplies their power, what lets her extend her Occlumency over him, what brings her into contact with the stained soul, and what can crack.
 
-Where the rungs and near-misses happen across B1–B6, and how she finds the rule: Q-028.
+Where the near-misses happen across B1–B6, and how she finds the rule: Q-028.
 
 ## Legilimency and Occlumency *(settled)* · DIV-020
 

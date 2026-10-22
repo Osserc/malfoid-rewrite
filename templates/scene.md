@@ -6,6 +6,7 @@ pov:
 characters: []  # character file slugs
 threads: []     # thread file slugs
 divergences: [] # DIV-### list
+sketch:         # path to the sketch, if any
 ---
 
 # Scene Title

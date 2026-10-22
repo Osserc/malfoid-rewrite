@@ -25,13 +25,15 @@ _Marauders era, the first war. Not yet worked out._
 ## B3 · 1993–94
 
 - **1993-09**: The hippogriff lesson. She milks the injury for weeks: the match delay, the Potions servant. DIV-017
-- **1994-06**, the night of Buckbeak's execution: her fake lead sends the Dementors to the lake. She frees Buckbeak, ends up at the lake and confesses. Harry casts his Patronus. She flies Buckbeak to Sirius, who escapes. Sequence provisional (Q-003). DIV-003, DIV-018
+- **1994, during Harry's Patronus lessons**: she spies on them and studies the charm for him, getting only mist herself. The lap-pillow scene. DIV-018, DIV-027
+- **1994-06**, the night of Buckbeak's execution: her fake lead sends the Dementors to the lake. She frees Buckbeak, ends up at the lake, fails to cast a Patronus and confesses. Harry casts his, with a first flicker of resonance. She flies Buckbeak to Sirius, who escapes. Sequence provisional (Q-003). DIV-003, DIV-018
 
 ## B4 · 1994–95
 
 - **Before the Yule Ball**: Sirius plants the idea of asking her. DIV-019
 
 - **1994-12-25**: Yule Ball. Harry asks, Dracaena accepts. DIV-004, DIV-013
+- **After the Yule Ball**: its memory gives her her first corporeal Patronus. DIV-027
 - **1995-02-24**: Second Task. Dracaena is Harry's hostage, and the dream begins. DIV-005, DIV-013
 - **End of B4 (June 1995)**: Lucius comes up with the "keeping tabs on Potter" strategy. DIV-013, Q-022
 - **Summer 1995**: Snape teaches Dracaena Occlumency. DIV-020
@@ -47,11 +49,12 @@ _Marauders era, the first war. Not yet worked out._
 
 - **1996-09**, start of term: she breaks up with Harry, brutally. DIV-015, Q-031
 - **1996-09**: First Potions lesson with Slughorn. Harry beats her at the Draught of Living Death using the Prince's notes. DIV-011
+- **1996–97**: she can't cast a Patronus. DIV-027
 - **Spring 1997**: Sectumsempra (canon, kept).
 
 ## B7 · 1997–98
 
 - **1997-07**: Malfoy Manor. Burbage pleads with Snape and with Dracaena before she's killed. DIV-016
-- **1998-05-02**: Battle of Hogwarts. After Snape's memories, Harry stops for Dracaena on his way to the forest and tells her never to give up hope (DIV-022). With Harry shown dead, she challenges Voldemort. Harry rises and joins her, and together they defeat him (DIV-006, DIV-023), while Neville and the DA hold off the risen dead and the Dementors (DIV-025)
+- **1998-05-02**: Battle of Hogwarts. Her Patronus drives off the Dementors for a while (DIV-027). After Snape's memories, Harry stops for Dracaena on his way to the forest and tells her never to give up hope (DIV-022). With Harry shown dead, she challenges Voldemort. Harry rises and joins her, and together they defeat him (DIV-006, DIV-023), while Neville and the DA hold off the risen dead and the Dementors (DIV-025)
 
 ## After

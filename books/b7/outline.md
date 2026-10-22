@@ -22,6 +22,7 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 🔒 locked; everything else here is settled.
 
 - Burbage pleads with Snape and with Dracaena before she's killed. DIV-016, [charity-burbage](../../scenes/b7/charity-burbage.md)
+- At the Battle of Hogwarts, Dracaena's Patronus drives off the Dementors for a while. DIV-027
 - Before the forest, Harry stops for Dracaena and tells her never to give up hope. DIV-022, [before-the-forest](../../scenes/b7/before-the-forest.md)
 - The final sequence: with Harry shown dead, she challenges Voldemort. Harry rises and joins her, his hand over hers on her wand, and they duel Voldemort in resonance. No wand allegiance decides it. DIV-021, DIV-023, DIV-024, [final-duel](../../scenes/b7/final-duel.md)
 - While they duel, Voldemort raises the Great Hall's dead as Inferi and sets them and the Dementors on the duellists. Neville holds the line, then rallies the DA to shield them. DIV-025, [final-duel](../../scenes/b7/final-duel.md)

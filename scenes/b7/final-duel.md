@@ -5,7 +5,7 @@ placement: Battle of Hogwarts, 2 May 1998. From Harry's return as a "corpse" to 
 pov:
 characters: [harry-potter, dracaena-malfoy, lord-voldemort, neville-longbottom, minerva-mcgonagall, horace-slughorn, kingsley-shacklebolt, bellatrix-lestrange, godric-gryffindor]
 threads: [harry-dracaena, sleeping-beauty]
-divergences: [DIV-006, DIV-021, DIV-023, DIV-024, DIV-025, DIV-026]
+divergences: [DIV-006, DIV-021, DIV-023, DIV-024, DIV-025, DIV-026, DIV-027]
 ---
 
 # The Final Duel
@@ -47,10 +47,10 @@ All beats are *(settled)*, part of DIV-023, unless marked 🔒 or *(draft)*.
 
 All settled, part of DIV-025. It runs alongside beats 13–16.
 
-- **N1.** Voldemort can't get past them, so he turns the battlefield against them. With the Elder Wand at full power (Q-011) he raises every body in the Great Hall as an Inferius, good and bad alike. He sees only bodies, and any will do (who has died by then: Q-033). He calls in the Dementors from outside and sets the whole horde on Harry and Dracaena, who are locked on him and can't defend themselves.
-- **N2.** Neville stands against them with the sword of Gryffindor and his own wand, holding the creatures off the duellists. He keeps going as his injuries mount.
+- **N1.** Voldemort can't get past them, so he turns the battlefield against them. With the Elder Wand at full power (Q-011) he raises every body in the Great Hall as an Inferius, good and bad alike. He sees only bodies, and any will do (who has died by then: Q-033). He calls back the Dementors Dracaena drove off earlier in the battle (DIV-027) and sets the whole horde on Harry and Dracaena, who are locked on him and can't defend themselves.
+- **N2.** Neville stands against them with his own wand and the sword of Gryffindor, holding the creatures off the duellists. The sword burns through the Inferi (why it burns: Neville's enchantment, or *Goblin silver* below). He keeps going as his injuries mount.
 - **N3.** Surrounded, he goes down on one knee and hears the voice of Godric Gryffindor, along the lines of "If you fall here, all will be lost. So stand your ground, heir of Gryffindor!" (Wording to polish.)
-- **N4.** He gets back up and rallies the DA. Together they shield Harry and Dracaena from the horde and buy them time to finish Voldemort.
+- **N4.** He gets back up and rallies the DA. They raise walls of flame against the Inferi, and together they shield Harry and Dracaena from the horde and buy them time to finish Voldemort.
 - **N5.** He sees Bellatrix in a duel (who she's fighting: Q-032) and doesn't go after her, because his friends need him. He too chooses love and justice over vengeance.
 - **N6.** He survives.
 
@@ -87,7 +87,7 @@ All settled, part of DIV-025. It runs alongside beats 13–16.
 - **Godric through the sword.** In canon the sword already chooses who is worthy, so the voice comes through it, once only. That stretches existing lore rather than adding a new rule. "Heir of Gryffindor" mirrors the Heir of Slytherin (B2): Voldemort is an heir by blood, Neville by choice.
 - **The Patronuses Harry taught.** Against the Dementors, the DA shield him with the spell he taught them in B5. Canon has a precedent: Luna, Ernie and Seamus cast Patronuses for Harry during the battle.
 - **The other boy.** The prophecy could have meant Neville. The boy who wasn't chosen holds the line for the one who never really was (DIV-026).
-- **Fire.** In canon Inferi fear fire and light, not blades (Dumbledore's ring of fire in the B6 cave). Neville's line could use that, or our Inferi could just be cut down.
+- **Goblin silver.** The sword takes in only what makes it stronger (in canon, the basilisk venom). Neville pulls it from the burning hat, so it takes in the fire and burns of its own accord. That gives the burning hat a reason to stay (Q-032).
 - **Unseen.** Neville's line gets its own POV section, cut into the duel. Harry and Dracaena never see it, and only learn afterwards who held the line.
 
 ## Open

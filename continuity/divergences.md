@@ -109,7 +109,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 - **Status:** settled
 - **Canon:** Draco's hostility toward Harry never lets up. In B5 he joins Umbridge's Inquisitorial Squad.
-- **Ours:** Harry's feats (Quirrell, the Basilisk, the Dementors) repair her opinion of him, because she prizes competence, daring and valour. They also convince her that if *Potter* can step outside the script, so can she. (That's incoherent, by design.) So she accepts Harry's invitation to the Yule Ball, half-believing he might really be her prince. Being his Second Task hostage tips her fully into the dream. She keeps her edge, but for the rest of B4 and nearly all of B5 she's simply happy with him. Her cover is "keeping tabs on Potter", a strategy Lucius himself comes up with at the end of B4, with the Inquisitorial Squad on top.
+- **Ours:** Harry's feats (Quirrell, the Basilisk, the Dementors) repair her opinion of him, because she prizes competence, daring and valour. So she accepts Harry's invitation to the Yule Ball, half-believing he might really be her prince. Being his Second Task hostage tips her fully into the dream. She keeps her edge, but for the rest of B4 and nearly all of B5 she's simply happy with him. Her cover is "keeping tabs on Potter", a strategy Lucius himself comes up with at the end of B4, with the Inquisitorial Squad on top.
 - **Home:** [threads/sleeping-beauty.md](../threads/sleeping-beauty.md)
 - **Ripples:** Q-008, Q-009, Q-021, Q-022 · DIV-020 · [continuity/reveals.md](reveals.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
 
@@ -156,15 +156,15 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Canon:** The Dementors converge on the lake, drawn by Black. Harry is saved by a Patronus his time-travelling self casts. Then he and Hermione fly Buckbeak to free Sirius.
 - **Ours:**
   - **The lead:** to make room to free Buckbeak, she plants a fake lead with the Ministry that draws the Dementors to the lake (how: Q-025).
-  - **The lake:** she can't control Buckbeak and ends up at the lake herself, unable to do anything because she doesn't know the Patronus Charm.
-  - **The Patronus:** Harry drives off the swarm with his Patronus and saves everyone (which memory: Q-003).
+  - **The lake:** she can't control Buckbeak and ends up at the lake herself. She knows the Patronus Charm, having watched Harry attempt it and studied it for him, but she tries and can't cast it (DIV-027).
+  - **The Patronus:** Harry re-evaluates her. She stole Buckbeak to save him, the lap pillow and her Patronus study weren't jokes, and now she's trying to drive the Dementors off herself: there's something more to this girl. His Patronus drives off the swarm and saves everyone, powered by the memory of the lap-pillow scene. As he casts there's a first flicker of resonance between them (DIV-021): love, however vague, is already there. How it works is open (Q-028).
   - **The confession:** under the Dementors' influence she breaks down sobbing and confesses, unprompted, that the swarm is her fault.
   - **Hermione's idea:** ask her to fly Buckbeak to Sirius.
   - **Why she agrees:** she owes Harry, and knows it. And she's just been thrust into the fairy tale: her prince drove off a horde of demons, for her.
   - **Sirius:** he recognises Narcissa's daughter, and they talk briefly. Maybe the Black family made something good after all, if Narcissa gave birth to a girl this brave.
 - **Note:** This builds on 🔒 DIV-003 without changing it. The canon sequence has to be rebuilt without Time-Turners: Q-003.
 - **Home:** [scenes/b3/buckbeak-rescue.md](../scenes/b3/buckbeak-rescue.md)
-- **Ripples:** Q-003, Q-007, Q-025 · DIV-019 · [continuity/reveals.md](reveals.md)
+- **Ripples:** Q-003, Q-007, Q-025, Q-026, Q-028, Q-035 · DIV-019, DIV-021, DIV-027 · [continuity/reveals.md](reveals.md)
 
 ### DIV-019 · B4: Sirius plants the Yule Ball idea
 
@@ -196,11 +196,11 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **Volatile:** no instant win. It shows cracks, but it holds.
   - **Occlumency:** in resonance Dracaena wraps Harry's mind in hers. Voldemort's Legilimency finds nothing but her love for Harry.
   - **The stained soul:** until the forest, Harry's Horcrux blocks it. In near-misses she's hurt by the stained, mutilated soul she senses in him, without either of them knowing what it is.
-  - **Rungs:** face to face with two wands, side by side with two wands, one wand in two hands. The last is reached only in the final duel.
+  - **How it builds:** a first flicker at the B3 lake (DIV-018). Beyond that it's kept vague until a dedicated session (Q-028).
   - **Nobody knows:** in school no one knows what resonance is. Dracaena finds the rule by research and tells no one.
 - **Note:** builds on 🔒 DIV-006 and 🔒 DIV-007 without changing them.
 - **Home:** [setting/magic.md](../setting/magic.md)
-- **Ripples:** Q-012 (answered), Q-014, Q-024, Q-028 · DIV-023 · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
+- **Ripples:** Q-012 (answered), Q-014, Q-024, Q-028 · DIV-018, DIV-023 · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
 
 ### DIV-022 · Before the forest: Harry stops for her
 
@@ -231,9 +231,9 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 - **Status:** settled
 - **Canon:** After killing Nagini, Neville disappears into the general fighting. When Harry and Voldemort face off in the Great Hall, everyone falls silent to watch, and nothing threatens the duel.
-- **Ours:** Voldemort can't get past the resonance, so he turns the battlefield against them. With the Elder Wand at full power he raises every body in the Great Hall as an Inferius, friend and foe alike: he sees only bodies, and any will do. He calls in the Dementors from outside and sets the whole horde on the duellists, who are locked on him and can't defend themselves. Neville stands against it with the sword of Gryffindor and his own wand, and keeps fighting as his injuries mount. Surrounded and down on one knee, he hears Godric Gryffindor tell him to stand his ground as Gryffindor's heir. He gets up and rallies the DA, and together they shield Harry and Dracaena long enough for them to win. On the way he sees Bellatrix and lets her go, because he's needed to protect his friends: he too chooses love and justice over vengeance. He survives.
+- **Ours:** Voldemort can't get past the resonance, so he turns the battlefield against them. With the Elder Wand at full power he raises every body in the Great Hall as an Inferius, friend and foe alike: he sees only bodies, and any will do. He calls back the Dementors Dracaena drove off earlier (DIV-027) and sets the whole horde on the duellists, who are locked on him and can't defend themselves. Neville stands against it with his own wand and the sword of Gryffindor, which burns through the Inferi, and keeps fighting as his injuries mount. Surrounded and down on one knee, he hears Godric Gryffindor tell him to stand his ground as Gryffindor's heir. He gets up and rallies the DA, who raise walls of flame against the Inferi, and together they shield Harry and Dracaena long enough for them to win. On the way he sees Bellatrix and lets her go, because he's needed to protect his friends: he too chooses love and justice over vengeance. He survives.
 - **Home:** [scenes/b7/final-duel.md](../scenes/b7/final-duel.md)
-- **Ripples:** Q-011, Q-032, Q-033 · DIV-023, DIV-026
+- **Ripples:** Q-011, Q-032, Q-033 · DIV-023, DIV-026, DIV-027
 
 ### DIV-026 · Harry's sacrifice protects no one
 
@@ -243,3 +243,12 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Why:** the Chosen One isn't enough on his own. Besides, he was never really chosen. See [core/themes.md](../core/themes.md).
 - **Home:** [setting/magic.md](../setting/magic.md)
 - **Ripples:** Q-014 · DIV-023, DIV-025
+
+### DIV-027 · Dracaena's Patronus
+
+- **Status:** settled
+- **Canon:** Draco never casts a Patronus.
+- **Ours:** In B3 she studies the charm for Harry, and can't cast it, not even at the lake (DIV-018). She resolves to master it but gets only mist, until the memory of the Yule Ball gives her a corporeal Patronus. After the death of faith she can't produce one in B6. At the Battle of Hogwarts, before the forest, she casts a powerful Patronus that drives off the Dementors for a while. They come back for the final duel (DIV-025). Her Patronus is a dragon.
+- **Why:** her Patronus tracks her faith in the dream. It also mirrors Harry's: his B3 Patronus runs on memories of her, and hers on memories of him.
+- **Home:** [threads/patronus.md](../threads/patronus.md)
+- **Ripples:** Q-013, Q-034 (answered) · DIV-015, DIV-018, DIV-025 · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md)

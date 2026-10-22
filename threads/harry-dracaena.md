@@ -4,7 +4,7 @@ status: draft
 
 # Harry × Dracaena
 
-The romance at the centre of the series. Her side of it runs through [the Sleeping Beauty thread](sleeping-beauty.md). When each of them realises or admits their feelings is tracked in [continuity/reveals.md](../continuity/reveals.md).
+The romance at the centre of the series. Her side of it runs through [the Sleeping Beauty thread](sleeping-beauty.md). When each of them realises or admits their feelings is tracked in [continuity/reveals.md](../continuity/reveals.md). Their Patronuses mirror each other: [patronus](patronus.md).
 
 ## Shape of the arc
 
@@ -12,7 +12,8 @@ Her side: a fairy tale she builds from one sincere compliment, a grudge when the
 
 His side: like canon, he wants little to do with her and regrets ever being kind. B3 turns him:
 - **Potions:** her strange sweetness weirds him out (DIV-017).
-- **The lake:** she confesses and flies Buckbeak to Sirius (DIV-018).
+- **The Patronus lessons:** she spies on them and studies the charm for him. In the lap-pillow scene he catches her smiling at him, and it becomes his Patronus memory (DIV-018).
+- **The lake:** it all adds up. She stole Buckbeak to save him, the smile and the Patronus study weren't jokes, and now she's trying to drive the Dementors off herself. There's something more to this girl (DIV-018).
 
 In B4 Sirius plants the idea of asking her to the Ball (DIV-019). He can be harsher than canon, with his Horcrux playing a bigger part (Q-024).
 
@@ -24,7 +25,8 @@ In B4 Sirius plants the idea of asking her to the Ball (DIV-019). He can be hars
 | B1 | The train: he refuses her over Ron. Her grudge begins: she'll prove he's nothing special | [hogwarts-express](../scenes/b1/hogwarts-express.md) |
 | B1–B3 | His feats slowly repair her opinion of him (DIV-013) | |
 | B3 | Potions: she makes him her servant and is strangely sweet under the barbs (DIV-017) | [potions-servant](../scenes/b3/potions-servant.md) |
-| B3 | 🔒 She saves Buckbeak (DIV-003). At the lake she confesses the swarm is her fault, his Patronus saves them all, and she flies Buckbeak to Sirius (DIV-018). His opinion of her turns | [buckbeak-rescue](../scenes/b3/buckbeak-rescue.md) |
+| B3 | She spies on his Patronus lessons and studies the charm for him. The lap-pillow scene, which becomes his Patronus memory (DIV-018) | [lap-pillow](../scenes/b3/lap-pillow.md) |
+| B3 | 🔒 She saves Buckbeak (DIV-003). At the lake she confesses the swarm is her fault, his Patronus saves them all with a first flicker of resonance, and she flies Buckbeak to Sirius (DIV-018). His opinion of her turns | [buckbeak-rescue](../scenes/b3/buckbeak-rescue.md) |
 | B4 | Sirius plants the idea of asking her (DIV-019) | [yule-ball](../scenes/b4/yule-ball.md) |
 | B4 | 🔒 The Yule Ball: he asks, she accepts. The turning point (DIV-004, DIV-013) | [yule-ball](../scenes/b4/yule-ball.md) |
 | B4 | 🔒 She is his Second Task hostage, and the dream begins (DIV-005, DIV-013) | [second-task](../scenes/b4/second-task.md) |
@@ -41,12 +43,13 @@ In B4 Sirius plants the idea of asking her to the Ball (DIV-019). He can be hars
 | Payoff | Needs setting up | Planted in |
 |---|---|---|
 | B4 Yule Ball as the turning point | A relationship worth turning, built through B1–B3 | B1–B3 (DIV-009, DIV-013) |
-| B3 Harry's Patronus | A Dracaena-related memory (Q-003, Q-026) | B1–B3? |
+| B3 Harry's Patronus | The lap-pillow scene (DIV-018, Q-026) | B3 |
+| B3 his turn at the lake | Her sincerity glimpsed and dismissed: Potions (DIV-017), the lap-pillow smile, her Patronus study. More needed (Q-035) | B1–B3 |
 | B4 Harry asks her | Sirius's nudge (DIV-019), resting on their one encounter (DIV-018) | B3, B4 |
 | B6 her broken promise | The promise (DIV-014) | B5 |
 | B6 Sectumsempra | A breakup brutal enough to lead there (DIV-015, Q-031) | B6 |
 | B7 she challenges Voldemort | Her B6 despair, to be reversed (DIV-015). "Never give up hope" (DIV-022) | B6, B7 |
 | B7 love rebounds the curse | Resonance: its rule, what it takes, and that it can fail (DIV-021) | B1–B6 (Q-028) |
-| B7 his hand over hers on her wand | The rungs of resonance, up to one wand in two hands (DIV-021). Harry wandless (Q-029) | B1–B6 (Q-028), B7 |
+| B7 his hand over hers on her wand | Resonance building across the books, kept vague for now (DIV-021, Q-028). Harry wandless (Q-029) | B1–B6 (Q-028), B7 |
 | B7 full resonance only after the forest | Near-misses spoiled by the stained soul (DIV-021, Q-024) | B1–B6 (Q-028) |
 | B7 the Occlumency embrace | Her Occlumency (DIV-020), broken by Voldemort (DIV-015). His B5 failure to stay in Harry's mind (canon) | B5, summer 1996 |

@@ -49,8 +49,9 @@ Motif echoes to use at the moments that carry weight, not everywhere.
 - **The Second Task** is the enchanted sleep, with Harry crossing danger to bring her back.
 - **Sixteen:** she turns 16 on 5 June 1996 and is Marked that summer. The Mark is the spindle.
 - **The Draught of Living Death**, the tale's curse as a potion, bookends B1 (she knows it, he doesn't) and B6 (he beats her with the Prince's notes) (DIV-011).
+- **Her Patronus** tracks the dream: mist until the Yule Ball, corporeal in the dream, gone in the nightmare, back when she wakes ([patronus](patronus.md)).
 - **The final duel** is love breaking the curse (DIV-006).
-- **Her name:** Dracaena is from *drakaina*, a she-dragon. In Harry's version of the tale the villain becomes a dragon. Princess or dragon is the question she keeps facing.
+- **Her name:** Dracaena is from *drakaina*, a she-dragon. In Harry's version of the tale the villain becomes a dragon. Princess or dragon is the question she keeps facing. Her Patronus is a dragon (DIV-027).
 
 ## Props
 
