@@ -20,7 +20,11 @@ Time-Turners do not exist. Whether any other time magic exists: Q-004.
 
 🔒 The payoff (DIV-006): in B7, love rebounds the Killing Curse.
 
-How it relates to love as sacrifice (Lily's protection, Harry's in the forest) is open: Q-014.
+### Sacrifice *(settled)* · DIV-026
+
+Harry's death in the forest protects no one. Unlike canon, it doesn't stop Voldemort's spells from taking hold on the defenders. It opens the way to Voldemort's destruction, but everyone still has to play their part (see [themes](../core/themes.md)).
+
+Lily's protection is canon. Why her sacrifice protects and his doesn't, and how resonance relates to both, is open: Q-014.
 
 ### Resonance *(settled)* · DIV-021
 

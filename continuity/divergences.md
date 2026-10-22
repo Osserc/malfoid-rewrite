@@ -214,10 +214,10 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 - **Status:** settled. Harry's broken wand is draft.
 - **Canon:** Narcissa declares Harry dead and Hagrid carries his body to the castle. Neville defies Voldemort, who sets the Sorting Hat burning on his head. Neville pulls the sword from it and kills Nagini, and the battle resumes into the Great Hall, where Voldemort duels McGonagall, Slughorn and Shacklebolt at once. Harry reveals himself, explains the Elder Wand's allegiance while they circle, and the curse rebounds off his Expelliarmus.
-- **Ours:** While Voldemort taunts Neville, Dracaena steps forward and challenges him to a duel, taking up the mantle of the boy she loves. She's outmatched. Their spells ricochet, Neville kills Nagini (canon), and a brawl breaks out. She's wounded, and McGonagall, Slughorn and Shacklebolt cover her and are overwhelmed. She's back on her feet with her wand on Voldemort when Harry, risen in the chaos, walks up behind her, wandless and smiling, and closes his hand over hers on her wand. They stare Voldemort down and duel him in resonance (DIV-021). He throws everything at them, Legilimency included, and ends up cornered. His Killing Curse meets their Expelliarmus and rebounds. No wand technicalities decide it (DIV-024): together, they are simply stronger.
+- **Ours:** While Voldemort taunts Neville, Dracaena steps forward and challenges him to a duel, taking up the mantle of the boy she loves. She's outmatched. Their spells ricochet, Neville kills Nagini (canon), and a brawl breaks out. She's wounded, and McGonagall, Slughorn and Shacklebolt cover her and are overwhelmed. She's back on her feet with her wand on Voldemort when Harry, risen in the chaos, walks up behind her, wandless and smiling, and closes his hand over hers on her wand. They stare Voldemort down and duel him in resonance (DIV-021). He throws everything at them, Legilimency included, along with the risen dead and the Dementors, which Neville and the DA hold off (DIV-025). He ends up cornered. His Killing Curse meets their Expelliarmus and rebounds. No wand technicalities decide it (DIV-024): together, they are simply stronger.
 - **Note:** expands 🔒 DIV-006 without changing it.
 - **Home:** [scenes/b7/final-duel.md](../scenes/b7/final-duel.md)
-- **Ripples:** Q-011, Q-013, Q-014, Q-029, Q-032
+- **Ripples:** Q-011, Q-013, Q-014, Q-029, Q-032 · DIV-025, DIV-026
 
 ### DIV-024 · No wand allegiance
 
@@ -226,3 +226,20 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Ours:** Purged. Wands have no allegiance that passes by conquest. The Elder Wand is the exception, with lore of its own: it passes by blood, through killing. So Voldemort killing Snape is the correct move, and pointless (DIV-023). Only the idea is set.
 - **Home:** [setting/magic.md](../setting/magic.md)
 - **Ripples:** Q-011, Q-027 · DIV-023
+
+### DIV-025 · Neville holds the line
+
+- **Status:** settled
+- **Canon:** After killing Nagini, Neville disappears into the general fighting. When Harry and Voldemort face off in the Great Hall, everyone falls silent to watch, and nothing threatens the duel.
+- **Ours:** Voldemort can't get past the resonance, so he turns the battlefield against them. With the Elder Wand at full power he raises every body in the Great Hall as an Inferius, friend and foe alike: he sees only bodies, and any will do. He calls in the Dementors from outside and sets the whole horde on the duellists, who are locked on him and can't defend themselves. Neville stands against it with the sword of Gryffindor and his own wand, and keeps fighting as his injuries mount. Surrounded and down on one knee, he hears Godric Gryffindor tell him to stand his ground as Gryffindor's heir. He gets up and rallies the DA, and together they shield Harry and Dracaena long enough for them to win. On the way he sees Bellatrix and lets her go, because he's needed to protect his friends: he too chooses love and justice over vengeance. He survives.
+- **Home:** [scenes/b7/final-duel.md](../scenes/b7/final-duel.md)
+- **Ripples:** Q-011, Q-032, Q-033 · DIV-023, DIV-026
+
+### DIV-026 · Harry's sacrifice protects no one
+
+- **Status:** settled
+- **Canon:** Harry's willing death in the forest works like Lily's did. Voldemort's spells no longer hold on the defenders Harry died for, and he tells Voldemort so in the Great Hall.
+- **Ours:** Cut. Harry's death in the forest protects no one. It opens the way to Voldemort's destruction, but everyone has to play their part, and if any of them fails, it's over.
+- **Why:** the Chosen One isn't enough on his own. Besides, he was never really chosen. See [core/themes.md](../core/themes.md).
+- **Home:** [setting/magic.md](../setting/magic.md)
+- **Ripples:** Q-014 · DIV-023, DIV-025

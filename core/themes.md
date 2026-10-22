@@ -22,6 +22,10 @@ _Open._ See Q-016. Her Muggle reading pulls both ways: it wears down her contemp
 
 The series ends with love working as actual magic: resonance (DIV-021). It's literally the power of love, and only love, since friendship isn't enough. Together, Harry and Dracaena are never disarmed: they're each other's strength. That only lands if it has been a theme, and a rule, all along. See Q-014 and Q-028.
 
+## The Chosen One isn't enough *(settled)* · DIV-026
+
+Harry opens the way to Voldemort's destruction, but he can't destroy him alone, and his death in the forest protects no one. Everyone has to play their part: Dracaena, Neville, the DA, even the Malfoys (their role: Q-032). If any of them fails, it's over. They're all inspired by Harry, but being the Chosen One isn't enough, and he was never really chosen in the first place. Neville holding the line is the clearest case (DIV-025).
+
 ## By book
 
 | Book | What it argues |

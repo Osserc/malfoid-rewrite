@@ -84,7 +84,9 @@ Canon already treats love as magic through Lily's sacrifice. How do we make it w
 
 *Partly answered:* the mechanism is resonance, which runs on the radicals (DIV-021). Planting it: Q-028.
 
-Still open: how resonance relates to love as sacrifice. That means Lily's protection, and Harry's in the forest, which in canon stops Voldemort's spells binding on the defenders. If Harry's stays, it lowers the danger of Dracaena's duel (DIV-023).
+*Also answered:* Harry's sacrifice in the forest protects no one (DIV-026).
+
+Still open: how resonance relates to love as sacrifice, meaning Lily's protection. Also, why does Lily's sacrifice protect Harry when his protects no one? Readers who know canon will ask.
 
 ### Q-015 · Designing the radical system (DIV-007)
 
@@ -175,9 +177,13 @@ At the start of B6 she breaks up with Harry, brutally enough to lead in the end 
 ### Q-032 · Who else is in the final sequence? (DIV-023)
 
 - **Narcissa.** In canon she asks Harry whether Draco is alive, then declares him dead. Does her lie stay, and does she then watch her daughter's challenge knowing Harry is alive?
-- **Bellatrix.** Her niece challenges her master. Where is she, and where does Molly vs Bellatrix go? Inbox idea: Narcissa and Lucius duel her.
-- **Lucius, and the Slytherins**, who in canon are sent away before the battle.
+- **Bellatrix.** Her niece challenges her master. Where is she, and where does Molly vs Bellatrix go? Inbox idea: Narcissa and Lucius duel her. Whoever faces her, Neville sees the fight and lets her go (DIV-025).
+- **Lucius, and the Slytherins**, who in canon are sent away before the battle. In canon Voldemort takes Lucius's wand at the start of B7.
 - **Neville's hat.** Does Dracaena step in while the hat burns on his head?
+
+### Q-033 · The dead of the Battle of Hogwarts (DIV-025)
+
+Voldemort raises every body in the Great Hall as an Inferius, on both sides, so the death toll at that point decides who rises. Canon's tally may change. Who stays dead, and who rises against the people who loved them? Do the Inferi fall when he dies?
 
 ## Answered
 

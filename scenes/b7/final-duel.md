@@ -3,9 +3,9 @@ status: draft
 book: 7
 placement: Battle of Hogwarts, 2 May 1998. From Harry's return as a "corpse" to Voldemort's death
 pov:
-characters: [harry-potter, dracaena-malfoy, lord-voldemort, neville-longbottom, minerva-mcgonagall, horace-slughorn, kingsley-shacklebolt]
+characters: [harry-potter, dracaena-malfoy, lord-voldemort, neville-longbottom, minerva-mcgonagall, horace-slughorn, kingsley-shacklebolt, bellatrix-lestrange, godric-gryffindor]
 threads: [harry-dracaena, sleeping-beauty]
-divergences: [DIV-006, DIV-021, DIV-023, DIV-024]
+divergences: [DIV-006, DIV-021, DIV-023, DIV-024, DIV-025, DIV-026]
 ---
 
 # The Final Duel
@@ -38,15 +38,27 @@ All beats are *(settled)*, part of DIV-023, unless marked 🔒 or *(draft)*.
 ### The duel
 
 12. Voldemort gloats. He killed Harry once and will again, and he turned Dracaena away from him. Unfazed, they duel him in resonance (DIV-021), and he's shocked at how powerful they are.
-13. The fight is hard. The resonance is volatile and shows cracks, but it holds. Voldemort uses every trick he has and can't get past them.
+13. The fight is hard. The resonance is volatile and shows cracks, but it holds. Voldemort uses every trick he has and can't get past them, and turns the battlefield against them (Neville's line, below).
 14. He tries Legilimency. Dracaena wraps Harry's mind in hers, and Voldemort finds nothing but her love for Harry. It's a callback to B5 (canon), when he can't stay in Harry's mind once it fills with love.
 15. He's on the back foot, then cornered.
 16. 🔒 Their Expelliarmus meets his Killing Curse, and their "love" rebounds it onto him. It's their signature spell. He dies for good.
+
+### Neville's line
+
+All settled, part of DIV-025. It runs alongside beats 13–16.
+
+- **N1.** Voldemort can't get past them, so he turns the battlefield against them. With the Elder Wand at full power (Q-011) he raises every body in the Great Hall as an Inferius, good and bad alike. He sees only bodies, and any will do (who has died by then: Q-033). He calls in the Dementors from outside and sets the whole horde on Harry and Dracaena, who are locked on him and can't defend themselves.
+- **N2.** Neville stands against them with the sword of Gryffindor and his own wand, holding the creatures off the duellists. He keeps going as his injuries mount.
+- **N3.** Surrounded, he goes down on one knee and hears the voice of Godric Gryffindor, along the lines of "If you fall here, all will be lost. So stand your ground, heir of Gryffindor!" (Wording to polish.)
+- **N4.** He gets back up and rallies the DA. Together they shield Harry and Dracaena from the horde and buy them time to finish Voldemort.
+- **N5.** He sees Bellatrix in a duel (who she's fighting: Q-032) and doesn't go after her, because his friends need him. He too chooses love and justice over vengeance.
+- **N6.** He survives.
 
 ## Mechanics
 
 - No wand technicalities decide the duel (DIV-024). Together they are simply stronger.
 - They are never disarmed when they're together. They're each other's strength.
+- Harry's death in the forest protects no one (DIV-026). Voldemort's spells take hold on everyone in the hall, and every part has to be played.
 
 ## Must keep
 
@@ -57,6 +69,9 @@ All beats are *(settled)*, part of DIV-023, unless marked 🔒 or *(draft)*.
 - "You are."
 - The Occlumency embrace.
 - No wand technicalities.
+- Voldemort sees only bodies.
+- Neville back on his feet after Godric's voice, then the DA rallying behind him.
+- Neville letting Bellatrix go.
 
 ## Proposals (not yet agreed)
 
@@ -67,7 +82,14 @@ All beats are *(settled)*, part of DIV-023, unless marked 🔒 or *(draft)*.
 - **Walls and embrace.** Her walls broke in 1996 (DIV-015). An embrace has nothing to break.
 - **Silence.** Voldemort gets all the words. They never speak to each other or answer him, except "You are", said together. Canon's explaining while circling is cut.
 - **The tale flips.** The prince is the one asleep, and she's the one who walks up to the dragon.
+- **Two armies.** Voldemort fights with things that have no will: the dead and the soulless. The duellists are shielded by the living, who chose to be there.
+- **Friendship's job.** Friendship can't resonate (DIV-021), so it can't win the duel. What it can do is buy love the time to win it.
+- **Godric through the sword.** In canon the sword already chooses who is worthy, so the voice comes through it, once only. That stretches existing lore rather than adding a new rule. "Heir of Gryffindor" mirrors the Heir of Slytherin (B2): Voldemort is an heir by blood, Neville by choice.
+- **The Patronuses Harry taught.** Against the Dementors, the DA shield him with the spell he taught them in B5. Canon has a precedent: Luna, Ernie and Seamus cast Patronuses for Harry during the battle.
+- **The other boy.** The prophecy could have meant Neville. The boy who wasn't chosen holds the line for the one who never really was (DIV-026).
+- **Fire.** In canon Inferi fear fire and light, not blades (Dumbledore's ring of fire in the B6 cave). Neville's line could use that, or our Inferi could just be cut down.
+- **Unseen.** Neville's line gets its own POV section, cut into the duel. Harry and Dracaena never see it, and only learn afterwards who held the line.
 
 ## Open
 
-Q-011 (the Elder Wand) · Q-013 (how she gets to his side) · Q-014 (resonance and sacrifice) · Q-028 (seeding resonance) · Q-029 (Harry's wand) · Q-032 (who else is there)
+Q-011 (the Elder Wand) · Q-013 (how she gets to his side) · Q-014 (resonance and sacrifice) · Q-028 (seeding resonance) · Q-029 (Harry's wand) · Q-032 (who else is there) · Q-033 (the dead)
