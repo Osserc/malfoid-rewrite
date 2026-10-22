@@ -33,21 +33,25 @@ _Marauders era, the first war. Not yet worked out._
 
 - **1994-12-25**: Yule Ball. Harry asks, Dracaena accepts. DIV-004, DIV-013
 - **1995-02-24**: Second Task. Dracaena is Harry's hostage, and the dream begins. DIV-005, DIV-013
+- **End of B4 (June 1995)**: Lucius comes up with the "keeping tabs on Potter" strategy. DIV-013, Q-022
+- **Summer 1995**: Snape teaches Dracaena Occlumency. DIV-020
 
 ## B5 · 1995–96
 
+- **1995–96**: Lucius meets Voldemort regularly, never at the Manor, and tells him he has planted his daughter as a spy. DIV-020
 - **1996-06-05**: Dracaena turns 16.
 - **1996-06**: Department of Mysteries. Sirius dies; Lucius is arrested (canon). Soon after, she comforts Harry and promises to be there for him. DIV-014
-- **Summer 1996**: She is Marked and meets Voldemort; her faith dies. DIV-015
+- **Summer 1996**: She is Marked and meets Voldemort for the first time. He shatters her Occlumency with ease, and her faith dies. Lucius is in Azkaban (Q-030). DIV-015
 
 ## B6 · 1996–97
 
+- **1996-09**, start of term: she breaks up with Harry, brutally. DIV-015, Q-031
 - **1996-09**: First Potions lesson with Slughorn. Harry beats her at the Draught of Living Death using the Prince's notes. DIV-011
 - **Spring 1997**: Sectumsempra (canon, kept).
 
 ## B7 · 1997–98
 
 - **1997-07**: Malfoy Manor. Burbage pleads with Snape and with Dracaena before she's killed. DIV-016
-- **1998-05-02**: Battle of Hogwarts. Harry and Dracaena defeat Voldemort together. DIV-006
+- **1998-05-02**: Battle of Hogwarts. After Snape's memories, Harry stops for Dracaena on his way to the forest and tells her never to give up hope (DIV-022). With Harry shown dead, she challenges Voldemort. Harry rises and joins her, and together they defeat him (DIV-006, DIV-023)
 
 ## After

@@ -24,10 +24,18 @@ The dream is believing she can live outside the script, away from her family's a
 | B1–B3 | His feats repair her opinion. If *Potter* can step outside the script, so can she (DIV-013) |
 | B3 | Her play-acting gets Buckbeak condemned, and she learns about consequences (DIV-017). 🔒 She saves him, defying her father's pettiness (DIV-003). At the lake her prince drives off a horde of demons, for her (DIV-018) |
 | B4 | Slipping into the dream: she accepts his invitation to the Yule Ball. As his Second Task hostage, she's elated (DIV-013) |
-| B5 | Dreaming: she keeps her edge but is simply happy. She tells Lucius she's keeping tabs on Potter, with the Inquisitorial Squad as cover (DIV-013). After Sirius dies she comforts Harry and promises to be there (DIV-014) |
-| B5→B6 | The death of faith: Marked, and after meeting Voldemort she believes her prince can't win. The dream was never real; back in the cage (DIV-015) |
-| B6 | The nightmare. Sectumsempra (canon, kept) |
-| B7 | The bottom: Burbage pleads with her and she can't act (DIV-016). Waking: Q-013. 🔒 The final duel (DIV-006) |
+| B5 | Dreaming: she keeps her edge but is simply happy. As far as Lucius is concerned she's keeping tabs on Potter, a strategy he came up with himself at the end of B4, with the Inquisitorial Squad as cover (DIV-013). After Sirius dies she comforts Harry and promises to be there (DIV-014) |
+| B5→B6 | The death of faith: Marked, and Voldemort shatters her walls with ease. She believes her prince can't win. The dream was never real; back in the cage (DIV-015) |
+| B6 | The nightmare. She breaks up with Harry, brutally (Q-031). Sectumsempra (canon, kept) |
+| B7 | The bottom: Burbage pleads with her and she can't act (DIV-016). Waking: Q-013. Before the forest, Harry tells her never to give up hope (DIV-022). When he's shown dead she doesn't despair: she challenges Voldemort herself (DIV-023). 🔒 The final duel (DIV-006) |
+
+### The death of faith *(settled)* · DIV-015
+
+She is Marked that summer (canon default), and meets Voldemort for the first time. She has studied Occlumency (DIV-020) and spent an almost blissful fifth year with Harry, and Voldemort shatters her walls with ease. He doesn't care that she "lied". He wants obedience and people broken into submission, and her love for Potter is only more suffering to inflict.
+
+That's what convinces her Harry can't possibly win: Voldemort is too powerful. She sinks into despair, panics, and goes along with the assassination plot to at least save her parents. At the start of B6 she breaks up with Harry, brutally enough to lead in the end to Sectumsempra (Q-031).
+
+Where the meeting happens, and what Voldemort makes of Lucius's spy story: Q-030.
 
 ## The Muggle line
 

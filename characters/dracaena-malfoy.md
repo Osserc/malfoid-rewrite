@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's rival and his tsundere love interest. 🔒 DIV-001
 **Canon baseline:** Draco Malfoy. Anything not overridden follows canon Draco, adjusted for the knock-on effects of her being a daughter (Q-001).
-**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018
+**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023
 
 ## Core
 
@@ -23,6 +23,10 @@ Gifted and brave, as befits wizard royalty (DIV-011):
 - Cunning.
 - A voracious reader on whatever grips her: poisons, the strange boy's stories, then Muggle novels (DIV-010).
 - Competent, and no coward.
+
+## Occlumency
+
+*(settled)* DIV-020. She learns it from Snape in the summer between B4 and B5. The Malfoy discipline helps. Snape's stated reason is a general precaution for someone working under cover. It isn't enough: at their first meeting in summer 1996, Voldemort shatters her walls with ease (DIV-015). In the final duel she uses it another way. Instead of walling him out, she wraps Harry's mind in hers (DIV-021). Rules: [setting/magic.md](../setting/magic.md).
 
 ## The tsundere engine
 
@@ -50,13 +54,15 @@ Grey eyes (canon default), not the princess's purple. Otherwise canon default, o
 
 ## Wand
 
-Hawthorn and unicorn hair (canon default). It matters: it's the wand she and Harry share in the final duel (DIV-006, Q-012).
+Hawthorn and unicorn hair (canon default). It matters: it's the wand she and Harry share in the final duel, his hand over hers (DIV-006, DIV-023).
 
 ## Relationships
 
 - **Harry Potter:** see [threads/harry-dracaena.md](../threads/harry-dracaena.md).
+- **Lucius Malfoy:** see [lucius-malfoy.md](lucius-malfoy.md).
 - **Hermione Granger:** fellow star pupil and academic rival in Muggle Studies (DIV-012).
 - **Charity Burbage:** her Muggle Studies teacher (DIV-012, DIV-016).
+- **Severus Snape:** teaches her Occlumency, summer 1995 (DIV-020).
 
 ## Arc by book
 
@@ -67,10 +73,10 @@ Her inner arc is the [Sleeping Beauty thread](../threads/sleeping-beauty.md).
 | B1 | Wizard royalty, used to flattery | Called a princess, sincerely, by a nameless boy; reads the tale. Refused on the train (DIV-009, DIV-010) | Holds a grudge: she'll prove he's nothing special |
 | B2 | | His feats start to repair her opinion (DIV-013) | |
 | B3 | Milking the injury; her play-acting gets Buckbeak condemned (DIV-017) | 🔒 Saves Buckbeak (DIV-003). Confesses the swarm at the lake; flies Buckbeak to Sirius (DIV-018) | Owes Harry; her prince drove off the demons for her |
-| B4 | | 🔒 Accepts his invitation to the Yule Ball, the turning point (DIV-004, DIV-013). 🔒 His Second Task hostage (DIV-005) | In the dream |
-| B5 | Dreaming, under cover (DIV-013) | Comforts him after Sirius and promises to be there (DIV-014) | Marked; faith dead (DIV-015) |
-| B6 | Back in the cage | The nightmare. Sectumsempra | |
-| B7 | | Burbage pleads with her (DIV-016). 🔒 Duels Voldemort at Harry's side, with her wand (DIV-006) | |
+| B4 | | 🔒 Accepts his invitation to the Yule Ball, the turning point (DIV-004, DIV-013). 🔒 His Second Task hostage (DIV-005) | In the dream. Lucius comes up with the spy strategy (DIV-013) |
+| B5 | Learns Occlumency from Snape over the summer (DIV-020). Dreaming, under cover (DIV-013) | Comforts him after Sirius and promises to be there (DIV-014) | Marked. Voldemort shatters her walls; faith dead (DIV-015) |
+| B6 | Back in the cage. Breaks up with Harry, brutally (DIV-015) | The nightmare. Sectumsempra | |
+| B7 | | Burbage pleads with her (DIV-016). Back with Harry (Q-013); he tells her never to give up hope (DIV-022) | Challenges Voldemort alone. 🔒 Duels him at Harry's side, with her wand (DIV-006, DIV-023) |
 
 ## Secrets
 
@@ -78,4 +84,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-026
+Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-026, Q-028, Q-030–Q-032

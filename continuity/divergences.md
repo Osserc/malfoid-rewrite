@@ -109,9 +109,9 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 - **Status:** settled
 - **Canon:** Draco's hostility toward Harry never lets up. In B5 he joins Umbridge's Inquisitorial Squad.
-- **Ours:** Harry's feats (Quirrell, the Basilisk, the Dementors) repair her opinion of him, because she prizes competence, daring and valour. They also convince her that if *Potter* can step outside the script, so can she. (That's incoherent, by design.) So she accepts Harry's invitation to the Yule Ball, half-believing he might really be her prince. Being his Second Task hostage tips her fully into the dream. She keeps her edge, but for the rest of B4 and nearly all of B5 she's simply happy with him. She tells Lucius she's keeping tabs on Potter and uses the Inquisitorial Squad as cover.
+- **Ours:** Harry's feats (Quirrell, the Basilisk, the Dementors) repair her opinion of him, because she prizes competence, daring and valour. They also convince her that if *Potter* can step outside the script, so can she. (That's incoherent, by design.) So she accepts Harry's invitation to the Yule Ball, half-believing he might really be her prince. Being his Second Task hostage tips her fully into the dream. She keeps her edge, but for the rest of B4 and nearly all of B5 she's simply happy with him. Her cover is "keeping tabs on Potter", a strategy Lucius himself comes up with at the end of B4, with the Inquisitorial Squad on top.
 - **Home:** [threads/sleeping-beauty.md](../threads/sleeping-beauty.md)
-- **Ripples:** Q-008, Q-009, Q-021, Q-022 · [continuity/reveals.md](reveals.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
+- **Ripples:** Q-008, Q-009, Q-021, Q-022 · DIV-020 · [continuity/reveals.md](reveals.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
 
 ### DIV-014 · End of B5: she comforts Harry after Sirius dies
 
@@ -125,9 +125,9 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 - **Status:** settled
 - **Canon:** Draco takes the Dark Mark and the mission to kill Dumbledore, as punishment for Lucius's failure. He's proud of it until it crushes him.
-- **Ours:** She is Marked and co-opted (canon default), but meeting Voldemort in person convinces her that her prince can't possibly win. The dream was never real. She's back in the cage, and the promise she just made is broken. B6 is the nightmare.
+- **Ours:** She is Marked and co-opted (canon default). That summer she meets Voldemort for the first time, and her Occlumency (DIV-020) is no match for him: he shatters her walls with ease. He doesn't care that she "lied". He wants obedience and people broken into submission, and her love for Potter is only more suffering to inflict. She realises her prince can't possibly win, because Voldemort is too powerful. The dream was never real. She sinks into despair and panic and goes along with the assassination plot, to at least save her parents. She's back in the cage, and the promise she just made is broken: at the start of B6 she breaks up with Harry, brutally enough to lead in the end to Sectumsempra. B6 is the nightmare.
 - **Home:** [threads/sleeping-beauty.md](../threads/sleeping-beauty.md)
-- **Ripples:** Q-013, Q-023 · [scenes/b6/sectumsempra.md](../scenes/b6/sectumsempra.md)
+- **Ripples:** Q-013, Q-023, Q-030, Q-031 · DIV-020 · [scenes/b6/sectumsempra.md](../scenes/b6/sectumsempra.md)
 
 ### DIV-016 · B7: Burbage pleads with Dracaena
 
@@ -173,3 +173,56 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Ours:** Sirius plants the idea of asking Dracaena to the Ball in Harry's head. He hasn't seen her since their one encounter in B3 and goes entirely on that.
 - **Home:** [scenes/b4/yule-ball.md](../scenes/b4/yule-ball.md)
 - **Ripples:** Q-008
+
+### DIV-020 · Occlumency: the Malfoys, and Snape's lessons
+
+- **Status:** settled
+- **Canon:** Draco is an Occlumens, taught by his aunt Bellatrix (mentioned in B6). Lucius isn't shown to be one.
+- **Ours:**
+  - **The family:** no one is born an Occlumens, but the discipline the Malfoys instil lends itself to learning it.
+  - **Lucius** is a skilled Occlumens. He can't lie to Voldemort's face as Snape does, but in their regular B5 meetings he tweaks what Voldemort perceives through passive Legilimency. He tells Voldemort he has planted his daughter as a spy on Potter (DIV-013). Voldemort never comes to the Manor before B6.
+  - **Dracaena** learns Occlumency from Snape in the summer between B4 and B5 (the author has the hook). Snape's cover holds: he's a fine Occlumens, and he has plausible deniability with Lucius, since he trained her as a general precaution for someone working under cover, not to deceive Voldemort.
+  - **It isn't enough.** In summer 1996 Voldemort shatters her walls with ease (DIV-015). In the final duel she uses it another way (DIV-021).
+- **Why:** Legilimency isn't mind reading, and Voldemort is very arrogant. That leaves Lucius room to tweak and Snape room to hide.
+- **Home:** [setting/magic.md](../setting/magic.md) (the rules) · [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md) (her lessons) · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md) (Lucius)
+- **Ripples:** Q-022, Q-030 · DIV-013, DIV-015
+
+### DIV-021 · Resonance
+
+- **Status:** settled. The link rule in its home is draft.
+- **Canon:** Love works as magic through sacrifice: Lily's death protects Harry, and his in B7 protects the defenders. In B5 Voldemort can't stay in Harry's mind once it fills with love. Wands bond strangely through twin cores (Priori Incantatem, B4).
+- **Ours:** A wand resonates when two people wield it in total sync, and their magic becomes exponentially stronger. It's literally the power of love: friendship isn't enough, or it would be more common. It's obscure, extremely rare and extremely hard to pull off.
+  - **Sync:** both draw the same radicals (DIV-007) at the same instant, with no leader. Harry and Dracaena can because of years of feuding and duelling.
+  - **Volatile:** no instant win. It shows cracks, but it holds.
+  - **Occlumency:** in resonance Dracaena wraps Harry's mind in hers. Voldemort's Legilimency finds nothing but her love for Harry.
+  - **The stained soul:** until the forest, Harry's Horcrux blocks it. In near-misses she's hurt by the stained, mutilated soul she senses in him, without either of them knowing what it is.
+  - **Rungs:** face to face with two wands, side by side with two wands, one wand in two hands. The last is reached only in the final duel.
+  - **Nobody knows:** in school no one knows what resonance is. Dracaena finds the rule by research and tells no one.
+- **Note:** builds on 🔒 DIV-006 and 🔒 DIV-007 without changing them.
+- **Home:** [setting/magic.md](../setting/magic.md)
+- **Ripples:** Q-012 (answered), Q-014, Q-024, Q-028 · DIV-023 · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
+
+### DIV-022 · Before the forest: Harry stops for her
+
+- **Status:** settled
+- **Canon:** After Snape's memories, Harry walks to the Forbidden Forest to die. He tells Neville to kill the snake and passes Ginny without stopping, because if he stopped he couldn't leave.
+- **Ours:** By then Harry and Dracaena are back together. He stops for her and tells her never to give up hope. He has a faint hope himself: Dumbledore is one man and may be wrong. With that glimmer he marches to his death. She doesn't know exactly what's going to happen, but she trusts him and prepares for the worst. Whatever happens, she won't fall into despair as she did in B6.
+- **Home:** [scenes/b7/before-the-forest.md](../scenes/b7/before-the-forest.md)
+- **Ripples:** Q-013 · DIV-015, DIV-023
+
+### DIV-023 · The final sequence
+
+- **Status:** settled. Harry's broken wand is draft.
+- **Canon:** Narcissa declares Harry dead and Hagrid carries his body to the castle. Neville defies Voldemort, who sets the Sorting Hat burning on his head. Neville pulls the sword from it and kills Nagini, and the battle resumes into the Great Hall, where Voldemort duels McGonagall, Slughorn and Shacklebolt at once. Harry reveals himself, explains the Elder Wand's allegiance while they circle, and the curse rebounds off his Expelliarmus.
+- **Ours:** While Voldemort taunts Neville, Dracaena steps forward and challenges him to a duel, taking up the mantle of the boy she loves. She's outmatched. Their spells ricochet, Neville kills Nagini (canon), and a brawl breaks out. She's wounded, and McGonagall, Slughorn and Shacklebolt cover her and are overwhelmed. She's back on her feet with her wand on Voldemort when Harry, risen in the chaos, walks up behind her, wandless and smiling, and closes his hand over hers on her wand. They stare Voldemort down and duel him in resonance (DIV-021). He throws everything at them, Legilimency included, and ends up cornered. His Killing Curse meets their Expelliarmus and rebounds. No wand technicalities decide it (DIV-024): together, they are simply stronger.
+- **Note:** expands 🔒 DIV-006 without changing it.
+- **Home:** [scenes/b7/final-duel.md](../scenes/b7/final-duel.md)
+- **Ripples:** Q-011, Q-013, Q-014, Q-029, Q-032
+
+### DIV-024 · No wand allegiance
+
+- **Status:** settled. The Elder Wand's own lore is open (Q-011).
+- **Canon:** A wand's allegiance passes to whoever defeats its owner, by disarming or overpowering them, and a won wand works better for its new owner. The Elder Wand's chain (Dumbledore → Draco → Harry) decides the final duel.
+- **Ours:** Purged. Wands have no allegiance that passes by conquest. The Elder Wand is the exception, with lore of its own: it passes by blood, through killing. So Voldemort killing Snape is the correct move, and pointless (DIV-023). Only the idea is set.
+- **Home:** [setting/magic.md](../setting/magic.md)
+- **Ripples:** Q-011, Q-027 · DIV-023

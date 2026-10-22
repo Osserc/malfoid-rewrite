@@ -16,10 +16,42 @@ Design still open (Q-015): which radicals exist, how they combine, what incantat
 
 Time-Turners do not exist. Whether any other time magic exists: Q-004.
 
-## Love as magic 🔒 (payoff) · DIV-006
+## Love as magic
 
-In B7, love rebounds the Killing Curse. How it follows rules alongside the radical system: Q-014.
+🔒 The payoff (DIV-006): in B7, love rebounds the Killing Curse.
 
-## Wands and allegiance
+How it relates to love as sacrifice (Lily's protection, Harry's in the forest) is open: Q-014.
 
-Canon default for now. What's left of the Elder Wand's role: Q-011. How two people can use one wand: Q-012.
+### Resonance *(settled)* · DIV-021
+
+A wand resonates when two people wield it in total sync, and their magic becomes exponentially stronger. It's literally the power of love.
+
+- **Only love.** Friendship isn't enough, or resonance would be more common. Harry and Hermione could never do it. It's obscure, extremely rare and extremely hard to pull off.
+- **Sync.** Both draw the same radicals at the same instant, with no leader. That's almost impossible between two people. Harry and Dracaena can do it because of years of feuding and duelling, spent learning each other's every move.
+- **Volatile.** No instant win. The state shows cracks, but it holds.
+- **Occlumency.** In resonance, Dracaena wraps Harry's mind in hers. Voldemort's Legilimency finds nothing but her love for Harry.
+- **The stained soul.** Until the forest, Harry's Horcrux blocks it. They come close a few times, and each time she's hurt by the stained, mutilated soul she senses in him, without either of them knowing what it is. Full resonance only becomes possible once the Killing Curse in the forest destroys that fragment.
+- **Rungs,** each harder than the last:
+  1. Face to face, two wands: rivals mirroring each other in a duel.
+  2. Side by side, two wands.
+  3. One wand in two hands. Reached only in the final duel.
+- **Nobody knows.** In school no one knows what resonance is. Dracaena works out the rule herself, by research, and tells no one.
+- **Never disarmed.** When they're together they're each other's strength. Harry doesn't need a wand of his own, because hers is theirs.
+- *(draft)* **The link.** Drawing the same radicals with no leader opens a link between the two minds. The link is what multiplies their power, what lets her extend her Occlumency over him, what brings her into contact with the stained soul, and what can crack.
+
+Where the rungs and near-misses happen across B1–B6, and how she finds the rule: Q-028.
+
+## Legilimency and Occlumency *(settled)* · DIV-020
+
+- **Not mind reading.** Legilimency perceives thoughts, feelings and memories (canon). What it perceives can be shaped.
+- **Passive Legilimency.** Voldemort can sense the people in front of him without casting with a wand. With his own followers he usually has no reason to do more.
+- **Tweaking.** A skilled Occlumens can tweak what passive Legilimency perceives. Lying outright to Voldemort's face takes far more: Snape can, Lucius can't. Voldemort's arrogance helps both of them.
+- **The Malfoys.** No one is born an Occlumens, but the discipline the Malfoys instil lends itself to learning it.
+- **Dracaena** learns it from Snape in summer 1995. Against Voldemort in summer 1996 her walls break with ease (DIV-015). In the final duel she doesn't wall him out: she wraps Harry's mind in hers (DIV-021).
+
+## Wands *(settled)* · DIV-024
+
+- **No allegiance.** Wands have no allegiance that passes to whoever defeats their owner. Canon's lore about winning a wand by disarming or overpowering is purged, and nothing in the final duel turns on it.
+- **The Elder Wand** is the exception, with lore of its own: it passes by blood, through killing. Voldemort killing Snape is the correct move, and pointless. Only the idea is set. The canon chain doesn't fit it (Grindelwald and Dumbledore never killed for it), and who masters it at the end is open: Q-011.
+- **Two casters, one wand.** Harry's hand over hers on her wand, in resonance (DIV-021, DIV-023).
+- **Wand rules** in general, including what "the wand chooses the wizard" means now: Q-027.

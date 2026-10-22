@@ -12,7 +12,7 @@ divergences: [DIV-015]
 
 ## Purpose
 
-The bottom of B6's nightmare for both of them. The girl who promised to be there for him has vanished into the Death Eaters, and his hurt ends in a spell from the Prince's book that nearly kills her.
+The bottom of B6's nightmare for both of them. The girl who promised to be there for him broke up with him brutally at the start of term (DIV-015) and has vanished into the Death Eaters. His hurt ends in a spell from the Prince's book that nearly kills her.
 
 ## Beats
 
@@ -30,4 +30,4 @@ The Prince's book is behind both of Harry's B6 wins over her: the Draught of Liv
 
 ## Open
 
-Q-024 (does the Horcrux play a part in Harry's hostility here?)
+Q-024 (does the Horcrux play a part in Harry's hostility here?) · Q-031 (the breakup)

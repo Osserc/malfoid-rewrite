@@ -24,6 +24,7 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 - Sirius plants the idea of asking Dracaena to the Ball. DIV-019
 - 🔒 Harry asks Dracaena to the Yule Ball and she accepts: the turning point. DIV-004, DIV-013, [yule-ball](../../scenes/b4/yule-ball.md)
 - 🔒 Dracaena is Harry's Second Task hostage, and the dream begins. DIV-005, DIV-013, [second-task](../../scenes/b4/second-task.md)
+- End of the year: Lucius comes up with the "keeping tabs on Potter" strategy, in a scene the author has in mind. DIV-013, Q-022
 
 ## Acts
 

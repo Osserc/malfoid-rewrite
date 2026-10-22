@@ -8,7 +8,7 @@ The romance at the centre of the series. Her side of it runs through [the Sleepi
 
 ## Shape of the arc
 
-Her side: a fairy tale she builds from one sincere compliment, a grudge when the prince refuses the script, a slow repair as he proves himself, then the dream in B4–B5, the death of faith before B6, and the nightmare. How she wakes is open (Q-013).
+Her side: a fairy tale she builds from one sincere compliment, a grudge when the prince refuses the script, a slow repair as he proves himself, then the dream in B4–B5, the death of faith before B6, and the nightmare. How she wakes is open (Q-013). By the time he walks to the forest they're back together, and he tells her never to give up hope. This time she doesn't despair (DIV-022, DIV-023).
 
 His side: like canon, he wants little to do with her and regrets ever being kind. B3 turns him:
 - **Potions:** her strange sweetness weirds him out (DIV-017).
@@ -30,9 +30,11 @@ In B4 Sirius plants the idea of asking her to the Ball (DIV-019). He can be hars
 | B4 | 🔒 She is his Second Task hostage, and the dream begins (DIV-005, DIV-013) | [second-task](../scenes/b4/second-task.md) |
 | B5 | The dream: happy with him, under cover (DIV-013) | |
 | B5 | After Sirius: she comforts him and promises to be there (DIV-014) | [after-sirius](../scenes/b5/after-sirius.md) |
-| B6 | She's gone: Marked, faith dead, promise broken (DIV-015) | |
+| B5→B6 | Voldemort shatters her walls, and her faith dies (DIV-015) | |
+| B6 | She's gone: Marked, faith dead, promise broken. She breaks up with him, brutally (DIV-015, Q-031) | |
 | B6 | Sectumsempra (canon, kept) | [sectumsempra](../scenes/b6/sectumsempra.md) |
-| B7 | 🔒 They duel Voldemort together; their "love" rebounds the Killing Curse (DIV-006) | [final-duel](../scenes/b7/final-duel.md) |
+| B7 | Back together (Q-013). On his way to the forest he stops for her and tells her never to give up hope (DIV-022) | [before-the-forest](../scenes/b7/before-the-forest.md) |
+| B7 | With Harry shown dead, she challenges Voldemort. Harry rises and joins her, his hand over hers on her wand (DIV-023). 🔒 They duel Voldemort together; their "love" rebounds the Killing Curse (DIV-006) | [final-duel](../scenes/b7/final-duel.md) |
 
 ## Setups → payoffs
 
@@ -42,5 +44,9 @@ In B4 Sirius plants the idea of asking her to the Ball (DIV-019). He can be hars
 | B3 Harry's Patronus | A Dracaena-related memory (Q-003, Q-026) | B1–B3? |
 | B4 Harry asks her | Sirius's nudge (DIV-019), resting on their one encounter (DIV-018) | B3, B4 |
 | B6 her broken promise | The promise (DIV-014) | B5 |
-| B7 love rebounds the curse | Love as magic that follows rules (Q-014) | ? |
-| B7 they share her wand | Why her wand, and how two people can use one (Q-012) | ? |
+| B6 Sectumsempra | A breakup brutal enough to lead there (DIV-015, Q-031) | B6 |
+| B7 she challenges Voldemort | Her B6 despair, to be reversed (DIV-015). "Never give up hope" (DIV-022) | B6, B7 |
+| B7 love rebounds the curse | Resonance: its rule, what it takes, and that it can fail (DIV-021) | B1–B6 (Q-028) |
+| B7 his hand over hers on her wand | The rungs of resonance, up to one wand in two hands (DIV-021). Harry wandless (Q-029) | B1–B6 (Q-028), B7 |
+| B7 full resonance only after the forest | Near-misses spoiled by the stained soul (DIV-021, Q-024) | B1–B6 (Q-028) |
+| B7 the Occlumency embrace | Her Occlumency (DIV-020), broken by Voldemort (DIV-015). His B5 failure to stay in Harry's mind (canon) | B5, summer 1996 |

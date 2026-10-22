@@ -20,7 +20,7 @@ _Open._ See Q-016. Her Muggle reading pulls both ways: it wears down her contemp
 
 ## Love as a literal force (DIV-006)
 
-The series ends with love working as actual magic. That only lands if it has been a theme, and a rule, all along. See Q-014.
+The series ends with love working as actual magic: resonance (DIV-021). It's literally the power of love, and only love, since friendship isn't enough. Together, Harry and Dracaena are never disarmed: they're each other's strength. That only lands if it has been a theme, and a rule, all along. See Q-014 and Q-028.
 
 ## By book
 
@@ -32,4 +32,4 @@ The series ends with love working as actual magic. That only lands if it has bee
 | B4 | _open_ |
 | B5 | _open_ |
 | B6 | _open_ |
-| B7 | _open_ |
+| B7 | _open_. Candidate: refusing despair. Canon's B7 is about accepting death. Ours turns on her keeping faith where in B6 she gave in (DIV-015, DIV-022) |

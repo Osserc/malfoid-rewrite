@@ -13,7 +13,9 @@ Cells give the book and the scene or chapter where each party learns the truth. 
 | The Second Task names Dracaena as the one Harry would miss most | ? | ? | B4, Second Task | ? | DIV-005, Q-009 |
 | Dracaena reads Muggle fairy tales and novels | ? | ? | B1 | Narcissa and the contact: B1. Lucius: ? | DIV-010, Q-018, Q-019 |
 | Dracaena takes Muggle Studies | ? | ? | — | The Death Eaters: by B7 | DIV-012, Q-020 |
-| "Keeping tabs on Potter" is cover for being happy with him | ? | ? | B4 | Lucius believes the cover: ? | DIV-013, Q-021, Q-022 |
+| "Keeping tabs on Potter" is cover for being happy with him | ? | ? | B4 | Lucius: comes up with the strategy at the end of B4; what he knows is in the author's scene (Q-022). Voldemort: summer 1996, when he breaks her walls (DIV-015) | DIV-013, DIV-015, DIV-020, Q-021, Q-022 |
+| Something is wrong inside Harry (his Horcrux) | ? | ? | In resonance near-misses, without knowing what it is | She tells no one | DIV-021, Q-024, Q-028 |
+| Resonance exists, and what it is | ? | ? | By her own research; when: Q-028 | Nobody at school. Hermione, if she witnesses it: ? | DIV-021, Q-028 |
 
 ## Feelings
 
@@ -25,5 +27,6 @@ The romance's private milestones: when each of them admits it to themselves, and
 | Harry tells her | ? | |
 | Dracaena admits her feelings to herself | B4: the Yule Ball, fully by the Second Task | DIV-013 |
 | Dracaena tells him | ? | |
-| Dracaena gives up on him | Between B5 and B6 | DIV-015 |
+| Dracaena gives up on him | Between B5 and B6. She breaks up with him at the start of B6 | DIV-015, Q-031 |
+| They're back together | B7, before the forest (how: Q-013) | DIV-022 |
 | Others see it: friends, Slytherin, the school, her family | ? | Q-009, Q-021 |
