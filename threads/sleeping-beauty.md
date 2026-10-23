@@ -55,4 +55,4 @@ Motif echoes to use at the moments that carry weight, not everywhere.
 
 ## Props
 
-- Her fairy-tale books, with her corrections in the margins. A hidden person found in a book's margins, which echoes the Prince's textbook in B6.
+- Her fairy-tale books, with her corrections in the margins. A hidden person found in a book's margins, which echoes the Prince's textbook in B6. *(draft)* She picked up the habit from the potions book Snape sent her as a child, annotated in his hand (DIV-031).

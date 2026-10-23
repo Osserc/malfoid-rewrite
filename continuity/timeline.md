@@ -12,6 +12,8 @@ _Marauders era, the first war. Not yet worked out._
 - **1980-07-31**: Harry born.
 - **1981-10-31**: The Potters are killed; Voldemort falls.
 - **Early 1980s**: Lucius escapes Azkaban by claiming the Imperius Curse (canon). A Death Eater still at large tries to curse him for it and hits Narcissa, who can never have another child. DIV-030
+- **Soon after the curse**: Snape starts brewing Narcissa's medicine, which holds the curse at bay without lifting it. DIV-030, DIV-031
+- **c. 1985**: Dracaena, about five, meets Snape at the Manor and asks to learn to brew her mother's medicine. He sends her one of his old potions books; private lessons follow until Hogwarts. DIV-031
 - **Mid-1980s**: Harry secretly watches *Sleeping Beauty* from behind the Dursleys' living-room door. DIV-009
 
 ## B1 · 1991–92
@@ -19,7 +21,7 @@ _Marauders era, the first war. Not yet worked out._
 - **1991-07-31**: Diagon Alley. Harry and Dracaena meet at Madam Malkin's. DIV-009
 - **1991-08**: Dracaena reads the Muggle books Narcissa obtained for her. DIV-010
 - **1991-09-01**: Hogwarts Express. Harry rejects her; her grudge begins. DIV-009
-- **1991-09**: First Potions lesson. She knows the Draught of Living Death question Harry can't answer. DIV-011
+- **1991-09**: First Potions lesson. Snape has her answer the questions Harry can't, the Draught of Living Death among them. Hermione blurts out the third answer and loses points; Dracaena outdoes her. DIV-011, DIV-031
 
 ## B2 · 1992–93
 
@@ -40,7 +42,7 @@ _Marauders era, the first war. Not yet worked out._
 - **After the Yule Ball**: its memory gives her her first corporeal Patronus. DIV-027
 - **1995-02-24**: Second Task. Dracaena is Harry's hostage, and the dream begins. DIV-005, DIV-013
 - **End of B4 (June 1995)**: Lucius comes up with the "keeping tabs on Potter" strategy. DIV-013, Q-022
-- **Summer 1995**: Snape teaches Dracaena Occlumency. DIV-020
+- **Summer 1995**: Snape teaches Dracaena Occlumency, and sees her memories of Harry. DIV-020, DIV-031, Q-043
 
 ## B5 · 1995–96
 
@@ -53,7 +55,7 @@ _Marauders era, the first war. Not yet worked out._
 ## B6 · 1996–97
 
 - **1996-09**, start of term: she breaks up with Harry, brutally. DIV-015, Q-031
-- **1996-09**: First Potions lesson with Slughorn. Harry beats her at the Draught of Living Death using the Prince's notes. DIV-011
+- **1996-09**: First Potions lesson with Slughorn. Harry beats her at the Draught of Living Death using the Prince's notes. She and Hermione both notice his tricks resemble her technique. DIV-011, Q-042
 - **1996–97**: she can't cast a Patronus. DIV-027
 - **Spring 1997**: Sectumsempra (canon, kept).
 

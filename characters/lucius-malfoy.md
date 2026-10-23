@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Dracaena's father. A Death Eater, and a skilled Occlumens.
 **Canon baseline:** Lucius Malfoy. Anything not overridden follows canon.
-**Changes from canon:** DIV-013, DIV-020, DIV-030
+**Changes from canon:** DIV-013, DIV-020, DIV-030, DIV-031
 
 ## Core
 
@@ -16,6 +16,10 @@ status: draft
 - **Lie he believes:** _open_
 
 How his marriage works and what he knows about his daughter: Q-019 (the author has ideas).
+
+## The first war
+
+*(settled)* Voldemort's logistics man: procurement, money, contacts. That's what makes the Imperius defence plausible. Officially, he's almost a bureaucrat and a schemer who never did the heinous work himself. Voldemort surely made him kill or torture at least once. Commissioning potions from Snape is part of the job ([severus-snape](severus-snape.md)).
 
 ## His daughter
 
@@ -43,7 +47,7 @@ Canon default.
 
 - [Dracaena Malfoy](dracaena-malfoy.md): his only child.
 - [Narcissa Malfoy](narcissa-malfoy.md): his wife. She forgave him for the curse; he never forgave himself (DIV-030, Q-019).
-- Severus Snape: teaches Dracaena Occlumency in summer 1995 (DIV-020).
+- [Severus Snape](severus-snape.md): his protégé since Snape's Sorting, and among the few Snape calls a friend. After school, books by owl and paid commissions. Lucius pays him to brew Narcissa's medicine, and trusts no one else with it (DIV-030). He let Snape take Dracaena on as a pupil at five (DIV-031). Snape teaches her Occlumency in summer 1995 (DIV-020).
 
 ## Arc by book
 

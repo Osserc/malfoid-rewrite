@@ -132,7 +132,7 @@ The "keeping tabs on Potter" cover only holds if she hands over something. What 
 
 Canon Draco's attempts (the cursed necklace, the poisoned mead) are clumsy, which shows his heart isn't in it. She's competent and has lost faith. Does she try in earnest, sabotage herself without admitting it, or fail for other reasons? The mead nearly killing Ron sits here.
 
-*Partly answered:* she goes along with the plot in despair and panic, to at least save her parents (DIV-015). The attempts themselves are still open.
+*Partly answered:* she goes along with the plot in despair and panic, to at least save her parents (DIV-015). The attempts themselves are still open. Her mastery of Potions (DIV-031) makes a botched poisoning harder to explain away.
 
 ### Q-024 · Harry's Horcrux
 
@@ -226,7 +226,33 @@ Still open:
 - **Who cast the curse**, and were they caught? A Death Eater still at large could resurface after Voldemort's return.
 - **Does Dracaena know** why she's an only child? Tracked in [reveals.md](reveals.md).
 
+### Q-041 · Narcissa's medicine (DIV-030, DIV-031)
+
+*Partly answered:* the curse is a magical necrosis on her belly, like Dumbledore's hand. Years of treatment have weakened it and she lives a more or less normal life, but without regular doses it regresses (DIV-030) → [narcissa-malfoy](../characters/narcissa-malfoy.md).
+
+Still open:
+- **The handover:** when Dracaena takes over brewing it in Snape's stead. Claude's proposal: when Snape dies in B7 she's the only one left who can, and her childhood promise comes true. Or earlier, as proof of her mastery.
+- **Leverage:** once Voldemort is back, Narcissa's dependence on Snape is a lever on the family.
+
+### Q-042 · B6: the Prince's tricks and her technique (DIV-011, DIV-031)
+
+Dracaena and Hermione both notice how much Harry's new tricks resemble her technique.
+- **Hermione:** in canon she distrusts the book. Here she has a sharper reason.
+- **Dracaena:** does she work out that Harry has something of Snape's? If the book Snape sent her was annotated (draft, DIV-031), she'd know the handwriting on sight. Does she tell Snape? In canon he learns of the book only after Sectumsempra.
+- **The reader:** from the B1 flashback on, readers can guess who the Prince is. Is that dramatic irony, or a mystery we keep? Track in [reveals.md](reveals.md).
+
+### Q-043 · Snape and the romance (DIV-020, DIV-031)
+
+His favourite pupil falls for the son of his arch-enemy. In summer 1995 the Occlumency lessons show him her memories of Harry. Open:
+- **B4:** how he reacts to the Ball and the Second Task.
+- **Summer 1995:** what he does with what he sees. Does he keep it to himself? His deniability with Lucius has to hold (DIV-020), and what Lucius knows is the author's scene (Q-022).
+- **B6:** she's Marked and in his care. Canon's Unbreakable Vow with Narcissa carries more weight with this history.
+
 ## Answered
+
+### Q-040 · What keeps Lucius and Snape close? (DIV-031)
+
+Canon ages stay, so the sketch's young Snape advising Lucius is out. After school Lucius keeps him supplied with books by owl and commissions potions from him: paid work, never charity. It fits Lucius as Voldemort's logistics man. → [severus-snape](../characters/severus-snape.md), [lucius-malfoy](../characters/lucius-malfoy.md)
 
 ### Q-005 · What makes Dracaena regret Buckbeak? (DIV-003)
 

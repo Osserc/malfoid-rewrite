@@ -93,9 +93,13 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 - **Status:** settled
 - **Canon:** Draco is a capable student who leans on his father's name and folds under real danger.
-- **Ours:** An excellent potioneer, cunning, and a voracious reader on whatever grips her: poisons, the strange boy's stories. Competent and no coward, as befits wizard royalty. In B1's first Potions lesson she knows the Draught of Living Death question Harry can't answer. In B6 Harry beats her at brewing it, using the Prince's notes.
+- **Ours:** An excellent potioneer, cunning, and a voracious reader on whatever grips her: poisons, the strange boy's stories. Competent and no coward, as befits wizard royalty.
+  - **Potions:** the best potioneer in her year, and possibly in the castle, thanks to a six-year head start with Snape as her master (DIV-031). Hermione comes second. At least in Potions, she isn't the brightest witch of her generation.
+  - **B1, the first Potions lesson:** Snape has her answer the questions Harry can't, to show her off. Hermione blurts out the answer to the third and loses points: right by the book, imprecise in practice. "Anything to add, Miss Malfoy?" Dracaena corrects her from years of experience and wins points for Slytherin. Hermione's hatred of her starts here.
+  - **B6, the first Potions lesson:** Harry beats her at the Draught of Living Death using the Prince's notes. The sixth-year Prince's tricks are experimental and less elegant than the method the adult Snape taught her, and she has no drive left to one-up Harry: her priorities are elsewhere (DIV-015). She and Hermione both notice how much his new tricks resemble her technique.
+- **Why:** her skill needs a source, and Hermione needs taking down a peg.
 - **Home:** [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md)
-- **Ripples:** Q-023 · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md)
+- **Ripples:** Q-023, Q-042 · DIV-031 · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md) · [scenes/b1/uncle-severus.md](../scenes/b1/uncle-severus.md)
 
 ### DIV-012 · Muggle Studies: Burbage's star pupils
 
@@ -185,7 +189,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **It isn't enough.** In summer 1996 Voldemort shatters her walls with ease (DIV-015). In the final duel she uses it another way (DIV-021).
 - **Why:** Legilimency isn't mind reading, and Voldemort is very arrogant. That leaves Lucius room to tweak and Snape room to hide.
 - **Home:** [setting/magic.md](../setting/magic.md) (the rules) · [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md) (her lessons) · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md) (Lucius)
-- **Ripples:** Q-022, Q-030 · DIV-013, DIV-015
+- **Ripples:** Q-022, Q-030, Q-043 · DIV-013, DIV-015, DIV-031
 
 ### DIV-021 · Resonance
 
@@ -275,7 +279,19 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 - **Status:** settled
 - **Canon:** Draco is an only child, and canon gives no reason. Narcissa is never Marked but stays in the Death Eaters' orbit until B7, when love for her son leads her to lie to Voldemort.
-- **Ours:** After Voldemort's fall, Lucius escapes Azkaban by renouncing him and claiming the Imperius Curse (canon). A Death Eater still at large tries to curse him for it, and hits Narcissa instead: she can never have another child. Lucius never forgives himself. Narcissa forgives him, but uses his guilt to manoeuvre him where Dracaena is concerned. The Death Eaters took her future children, so she has soured on the cause and wants Dracaena to be happy, almost in her stead. That makes her Harry's ally inside the house. Lucius stays on board only out of fear, the same reasoning Dracaena will follow in B6 (DIV-015).
-- **Why:** it explains the only child, and gives Lucius's sheltering, his guilt and Narcissa's indulgence one root.
+- **Ours:** After Voldemort's fall, Lucius escapes Azkaban by renouncing him and claiming the Imperius Curse (canon). A Death Eater still at large tries to curse him for it, and hits Narcissa instead: she can never have another child. The curse is still at work: a magical necrosis on her belly, like Dumbledore's hand. A very complex potion that Snape brews shrinks it and keeps it at bay, without ever lifting it (DIV-031). After years of treatment it's weaker, and she lives a more or less normal life, but she needs regular doses or it regresses, and she still bears its dark marks. One day Dracaena takes over brewing it in his stead (when: Q-041). Lucius never forgives himself. Narcissa forgives him, but uses his guilt to manoeuvre him where Dracaena is concerned. The Death Eaters took her future children, so she has soured on the cause and wants Dracaena to be happy, almost in her stead. That makes her Harry's ally inside the house. Lucius stays on board only out of fear, the same reasoning Dracaena will follow in B6 (DIV-015).
+- **Why:** it explains the only child, and gives Lucius's sheltering, his guilt and Narcissa's indulgence one root. The medicine keeps the Snape–Malfoy connection going, and gives Dracaena a tangible way to show her growth when she steps in to brew it.
 - **Home:** [characters/narcissa-malfoy.md](../characters/narcissa-malfoy.md)
-- **Ripples:** Q-019, Q-032, Q-036, Q-039 · DIV-010, DIV-015 · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md) · [continuity/reveals.md](reveals.md)
+- **Ripples:** Q-019, Q-032, Q-036, Q-039, Q-041 · DIV-010, DIV-015, DIV-031 · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md) · [continuity/reveals.md](reveals.md)
+
+### DIV-031 · Uncle Severus: Snape is her potions master
+
+- **Status:** settled. The annotated book is draft.
+- **Canon:** Snape is a friend of the Malfoys and favours Draco in class, but there's no private bond and no tutoring. Draco is a capable potioneer, nothing more.
+- **Ours:** Snape has brewed Narcissa's medicine since soon after the curse (DIV-030), and Lucius pays him for it. Around 1985, when she's about five, Dracaena meets him at the Manor. She hugs him for making mama feel better and asks to learn to brew it herself, so mama never runs out. Her eager curiosity reminds him of Lily, so instead of refusing he offers to set her on the path. First comes one of his old potions books, then more instruction once she gets through it. He becomes her master, and she calls him "uncle Severus". What he teaches her is the adult Snape's refined method, more elegant than the experimental tricks in the Prince's sixth-year book. By Hogwarts she has a six-year head start (DIV-011).
+  - **On the page** Lily is never named. Snape's thoughts break off at "her": a hint that something doesn't add up, and a wink for readers who know canon.
+  - *(draft)* **The book** he sends her is his own, annotated in the margins. Her habit of correcting her fairy tales in the margins comes from him.
+  - **The Occlumency lessons** in summer 1995 (DIV-020) show him her memories of Harry: his favourite pupil, getting chummy with the son of his arch-enemy.
+- **Why:** it grounds her skill, explains why Snape favours her, roots her potions in her love for her mother, and keeps the Snape–Malfoy connection going.
+- **Home:** [characters/severus-snape.md](../characters/severus-snape.md)
+- **Ripples:** Q-040 (answered), Q-041, Q-042, Q-043 · DIV-011, DIV-020, DIV-030 · [scenes/b1/uncle-severus.md](../scenes/b1/uncle-severus.md) · [continuity/reveals.md](reveals.md) · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md)

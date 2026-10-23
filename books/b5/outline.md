@@ -21,7 +21,7 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 
 🔒 locked; everything else here is settled.
 
-- The summer before: Snape teaches Dracaena Occlumency. DIV-020
+- The summer before: Snape teaches Dracaena Occlumency, and sees her memories of Harry. DIV-020, DIV-031, Q-043
 - Dracaena is dreaming: happy with Harry, "keeping tabs on him" (Lucius's strategy), with the Inquisitorial Squad as cover. DIV-013
 - Lucius tells Voldemort he has planted his daughter as a spy. DIV-020
 - Early on, Umbridge shuts down the Duelling Club, one of her first acts. DIV-028, [duelling-club](../../threads/duelling-club.md)

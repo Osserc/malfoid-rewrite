@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's rival and his tsundere love interest. 🔒 DIV-001
 **Canon baseline:** Draco Malfoy. Anything not overridden follows canon Draco, adjusted for the knock-on effects of her being a daughter (Q-001).
-**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–030
+**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–031
 
 ## Core
 
@@ -19,7 +19,7 @@ status: draft
 
 Gifted and brave, as befits wizard royalty (DIV-011):
 
-- An excellent potioneer, with a particular interest in poisons.
+- An excellent potioneer, with a particular interest in poisons. The best in her year and possibly in the castle, ahead of Hermione (DIV-011). See *Potions* below.
 - Cunning.
 - A voracious reader on whatever grips her: poisons, the strange boy's stories, then Muggle novels (DIV-010).
 - Competent, and no coward.
@@ -28,9 +28,18 @@ Gifted and brave, as befits wizard royalty (DIV-011):
 
 *(settled)* A tomboy in spirit, at least: Quidditch, flying, duelling, dragons. But she's still a refined heiress, and the two have to live together in her. Like canon Draco she's spoiled and almost always gets her way, but here it comes off as cute rather than pathetic, all the more because she comes into her powers quickly (DIV-011). Lucius would rather shelter her, and rarely wins ([lucius-malfoy](lucius-malfoy.md)).
 
+## Potions
+
+*(settled)* DIV-011, DIV-031. Snape has been her master since she was about five. She asked him to teach her so she could brew mama's medicine herself, and mama would never run out (DIV-030). Full story: [severus-snape](severus-snape.md).
+
+- **The head start.** Six years of private lessons by the time she reaches Hogwarts, in the adult Snape's refined method.
+- **B1.** At the first Potions lesson Snape shows her off, and she outdoes Hermione, whose hatred of her starts there ([uncle-severus](../scenes/b1/uncle-severus.md)).
+- **B6.** Harry beats her at the Draught of Living Death with the Prince's notes. That isn't because the Prince is better than his own older self. The sixth-year tricks are experimental and less elegant than what she was taught, but they work, and she has no drive left to one-up Harry: her priorities are elsewhere (DIV-015). She notices how much his new tricks resemble her technique, and so does Hermione (Q-042).
+- **Mama's medicine.** One day she takes over brewing it in Snape's stead, a tangible sign of how far she's come (when: Q-041).
+
 ## Occlumency
 
-*(settled)* DIV-020. She learns it from Snape in the summer between B4 and B5. The Malfoy discipline helps. Snape's stated reason is a general precaution for someone working under cover. It isn't enough: at their first meeting in summer 1996, Voldemort shatters her walls with ease (DIV-015). In the final duel she uses it another way. Instead of walling him out, she wraps Harry's mind in hers (DIV-021). Rules: [setting/magic.md](../setting/magic.md).
+*(settled)* DIV-020. She learns it from Snape in the summer between B4 and B5, continuing their old apprenticeship (DIV-031). The Malfoy discipline helps. Snape's stated reason is a general precaution for someone working under cover. It isn't enough: at their first meeting in summer 1996, Voldemort shatters her walls with ease (DIV-015). In the final duel she uses it another way. Instead of walling him out, she wraps Harry's mind in hers (DIV-021). Rules: [setting/magic.md](../setting/magic.md).
 
 ## Patronus
 
@@ -63,6 +72,7 @@ Grey eyes (canon default), not the princess's purple. Otherwise canon default, o
 
 - Lucius and Narcissa Malfoy; she is their only child, because a curse meant for her father hit her mother (DIV-030). She loves them both. Her mother is "mama", and her model of love. Her father is strict, and she's a bit afraid of him, above all of disappointing him: her B3 Boggart is him looking at her with disgust ([lap-pillow](../scenes/b3/lap-pillow.md)). That's her fear, not what he feels ([lucius-malfoy](lucius-malfoy.md)).
 - Narcissa quietly gets her the Muggle books (DIV-010, Q-018, Q-019), and is Harry's ally inside the house ([narcissa-malfoy](narcissa-malfoy.md)).
+- Her mother's curse needs a potion to hold it back. Dracaena learned Potions so she could brew it herself (DIV-030, DIV-031).
 - Narcissa was born a Black, so Sirius is her mother's cousin, and Bellatrix and Andromeda are her aunts (canon default). Relevant to Q-006 and DIV-014.
 
 ## Wand
@@ -73,9 +83,9 @@ Hawthorn and unicorn hair (canon default). It matters: it's the wand she and Har
 
 - **Harry Potter:** see [threads/harry-dracaena.md](../threads/harry-dracaena.md).
 - **Lucius Malfoy:** see [lucius-malfoy.md](lucius-malfoy.md).
-- **Hermione Granger:** fellow star pupil and academic rival in Muggle Studies (DIV-012).
+- **Hermione Granger:** her rival from the first Potions lesson, where Dracaena shows her up; second best to her in Potions (DIV-011). Later her fellow star pupil and academic rival in Muggle Studies (DIV-012).
 - **Charity Burbage:** her Muggle Studies teacher (DIV-012, DIV-016).
-- **Severus Snape:** teaches her Occlumency, summer 1995 (DIV-020).
+- **Severus Snape:** "uncle Severus", her potions master since she was five (DIV-031). Teaches her Occlumency, summer 1995 (DIV-020). See [severus-snape](severus-snape.md).
 
 ## Arc by book
 
@@ -97,4 +107,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-028, Q-030–Q-032, Q-035–Q-038
+Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-028, Q-030–Q-032, Q-035–Q-038, Q-041–Q-043

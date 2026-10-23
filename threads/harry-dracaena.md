@@ -23,6 +23,7 @@ In B4 Sirius plants the idea of asking her to the Ball (DIV-019). He can be hars
 |---|---|---|
 | B1 | Madam Malkin's: he's awestruck, she's flattered, it sours. He comes away thinking she's cruel (DIV-009) | [madam-malkins](../scenes/b1/madam-malkins.md) |
 | B1 | The train: he refuses her over Ron. Her grudge begins: she'll prove he's nothing special | [hogwarts-express](../scenes/b1/hogwarts-express.md) |
+| B1 | First Potions lesson: Snape has her answer every question Harry can't (DIV-011, DIV-031) | [uncle-severus](../scenes/b1/uncle-severus.md) |
 | B1–B3 | His feats slowly repair her opinion of him (DIV-013) | |
 | B2 on | Flitwick's Duelling Club: evenly matched, they learn to read each other and come to enjoy the fights (DIV-028) | [duelling-club](duelling-club.md) |
 | B2 on | They always watch each other's Quidditch matches | [quidditch](quidditch.md) |
@@ -37,6 +38,7 @@ In B4 Sirius plants the idea of asking her to the Ball (DIV-019). He can be hars
 | B5 | After Sirius: she comforts him and promises to be there (DIV-014) | [after-sirius](../scenes/b5/after-sirius.md) |
 | B5→B6 | Voldemort shatters her walls, and her faith dies (DIV-015) | |
 | B6 | She's gone: Marked, faith dead, promise broken. She breaks up with him, brutally (DIV-015, Q-031) | |
+| B6 | First Potions lesson: he beats her with the Prince's notes, and she notices his tricks resemble her technique (DIV-011, Q-042) | |
 | B6 | Sectumsempra (canon, kept) | [sectumsempra](../scenes/b6/sectumsempra.md) |
 | B7 | Back together (Q-013). On his way to the forest he stops for her and tells her never to give up hope (DIV-022) | [before-the-forest](../scenes/b7/before-the-forest.md) |
 | B7 | With Harry shown dead, she challenges Voldemort. Harry rises and joins her, his hand over hers on her wand (DIV-023). 🔒 They duel Voldemort together; their "love" rebounds the Killing Curse (DIV-006) | [final-duel](../scenes/b7/final-duel.md) |

@@ -23,7 +23,7 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 
 - Dracaena is back in the cage; her promise is broken. DIV-015
 - Start of term: she breaks up with Harry, brutally enough to lead in the end to Sectumsempra. DIV-015, Q-031
-- First Potions lesson: Harry beats her at the Draught of Living Death using the Prince's notes. DIV-011
+- First Potions lesson: Harry beats her at the Draught of Living Death using the Prince's notes. She and Hermione both notice his tricks resemble her technique. DIV-011, Q-042
 - She can no longer cast a Patronus. DIV-027
 - Sectumsempra (canon, kept). [sectumsempra](../../scenes/b6/sectumsempra.md)
 
