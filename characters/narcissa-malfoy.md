@@ -38,7 +38,7 @@ Canon default.
 
 ## Relationships
 
-- [Dracaena Malfoy](dracaena-malfoy.md): her only child. Quietly gets her the Muggle books (DIV-010). Dracaena learned Potions to brew her medicine (DIV-031).
+- [Dracaena Malfoy](dracaena-malfoy.md): her only child. Quietly gets her the Muggle books (DIV-010). Dracaena learned Potions to brew her medicine (DIV-031). Her Sectumsempra scars echo Narcissa's marks (DIV-032).
 - [Severus Snape](severus-snape.md): brews the medicine that holds her curse back (DIV-030).
 - [Lucius Malfoy](lucius-malfoy.md): her husband. She has forgiven him for the curse, and uses the guilt he still carries.
 - Harry Potter: her ally in all but name (Q-039).
@@ -62,4 +62,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-018, Q-019, Q-030, Q-032, Q-036, Q-039, Q-041
+Q-018, Q-019, Q-030, Q-032, Q-036, Q-039, Q-041, Q-044

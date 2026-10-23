@@ -39,7 +39,7 @@ In B4 Sirius plants the idea of asking her to the Ball (DIV-019). He can be hars
 | B5→B6 | Voldemort shatters her walls, and her faith dies (DIV-015) | |
 | B6 | She's gone: Marked, faith dead, promise broken. She breaks up with him, brutally (DIV-015, Q-031) | |
 | B6 | First Potions lesson: he beats her with the Prince's notes, and she notices his tricks resemble her technique (DIV-011, Q-042) | |
-| B6 | Sectumsempra (canon, kept) | [sectumsempra](../scenes/b6/sectumsempra.md) |
+| B6 | Sectumsempra scars her for life. He can never forget it; she comes to like them (DIV-032) | [sectumsempra](../scenes/b6/sectumsempra.md) |
 | B7 | Back together (Q-013). On his way to the forest he stops for her and tells her never to give up hope (DIV-022) | [before-the-forest](../scenes/b7/before-the-forest.md) |
 | B7 | With Harry shown dead, she challenges Voldemort. Harry rises and joins her, his hand over hers on her wand (DIV-023). 🔒 They duel Voldemort together; their "love" rebounds the Killing Curse (DIV-006) | [final-duel](../scenes/b7/final-duel.md) |
 
@@ -53,6 +53,7 @@ In B4 Sirius plants the idea of asking her to the Ball (DIV-019). He can be hars
 | B4 Harry asks her | Sirius's nudge (DIV-019), resting on their one encounter (DIV-018) | B3, B4 |
 | B6 her broken promise | The promise (DIV-014) | B5 |
 | B6 Sectumsempra | A breakup brutal enough to lead there (DIV-015, Q-031) | B6 |
+| Her scars as a symbol of what they got over together | Sectumsempra, and his guilt (DIV-032). Her mother's marks on the page before then, for the echo to land (DIV-030) | B6; the marks: ? |
 | B7 she challenges Voldemort | Her B6 despair, to be reversed (DIV-015). "Never give up hope" (DIV-022) | B6, B7 |
 | B7 love rebounds the curse | Resonance: its rule, what it takes, and that it can fail (DIV-021) | B1–B6 (Q-028) |
 | B7 his hand over hers on her wand | Resonance building across the books, kept vague for now (DIV-021, Q-028). Harry wandless (Q-029) | B1–B6 (Q-028), B7 |

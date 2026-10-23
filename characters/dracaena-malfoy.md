@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's rival and his tsundere love interest. 🔒 DIV-001
 **Canon baseline:** Draco Malfoy. Anything not overridden follows canon Draco, adjusted for the knock-on effects of her being a daughter (Q-001).
-**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–031
+**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–032
 
 ## Core
 
@@ -44,6 +44,14 @@ Gifted and brave, as befits wizard royalty (DIV-011):
 ## Patronus
 
 *(settled)* DIV-027. Mist from B3, when she studies the charm for Harry, until the Yule Ball gives her a corporeal one. Gone in B6, back at the Battle of Hogwarts. It's a dragon. Full arc: [threads/patronus.md](../threads/patronus.md).
+
+## Scars
+
+*(settled)* DIV-032. Snape saves her from Sectumsempra but arrives too late to prevent the scars, and she bears them for life. At least one runs from her belly to her neck, which reminds her a little of her mother's marks ([narcissa-malfoy](narcissa-malfoy.md)). How many more, and where: Q-044.
+
+- **Harry** didn't know what the spell would do, and can never forget the mistake he made in a moment of anger.
+- **She** goes through something similar at first. Eventually she comes to like them, as a symbol of what they got over together. They match his lightning scar.
+- **Their game.** She sometimes uses them to guilt-trip him into doing her favours. He always kisses them when he sees them, hoping one day it'll make them disappear.
 
 ## The tsundere engine
 
@@ -98,7 +106,7 @@ Her inner arc is the [Sleeping Beauty thread](../threads/sleeping-beauty.md).
 | B3 | Milking the injury; her play-acting gets Buckbeak condemned (DIV-017) | 🔒 Saves Buckbeak (DIV-003). Confesses the swarm at the lake; flies Buckbeak to Sirius (DIV-018) | Owes Harry; her prince drove off the demons for her |
 | B4 | | 🔒 Accepts his invitation to the Yule Ball, the turning point (DIV-004, DIV-013). 🔒 His Second Task hostage (DIV-005) | In the dream. Lucius comes up with the spy strategy (DIV-013) |
 | B5 | Learns Occlumency from Snape over the summer (DIV-020). Dreaming, under cover (DIV-013) | Comforts him after Sirius and promises to be there (DIV-014) | Marked. Voldemort shatters her walls; faith dead (DIV-015) |
-| B6 | Back in the cage. Breaks up with Harry, brutally (DIV-015) | The nightmare. Sectumsempra | |
+| B6 | Back in the cage. Breaks up with Harry, brutally (DIV-015) | The nightmare. Sectumsempra scars her for life (DIV-032) | |
 | B7 | | Burbage pleads with her (DIV-016). Back with Harry (Q-013); he tells her never to give up hope (DIV-022) | Challenges Voldemort alone. 🔒 Duels him at Harry's side, with her wand (DIV-006, DIV-023) |
 
 ## Secrets
@@ -107,4 +115,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-028, Q-030–Q-032, Q-035–Q-038, Q-041–Q-043
+Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-028, Q-030–Q-032, Q-035–Q-038, Q-041–Q-044

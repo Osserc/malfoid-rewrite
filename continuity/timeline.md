@@ -57,7 +57,7 @@ _Marauders era, the first war. Not yet worked out._
 - **1996-09**, start of term: she breaks up with Harry, brutally. DIV-015, Q-031
 - **1996-09**: First Potions lesson with Slughorn. Harry beats her at the Draught of Living Death using the Prince's notes. She and Hermione both notice his tricks resemble her technique. DIV-011, Q-042
 - **1996–97**: she can't cast a Patronus. DIV-027
-- **Spring 1997**: Sectumsempra (canon, kept).
+- **Spring 1997**: Sectumsempra. Snape saves her too late to prevent the scars, which she bears for life. DIV-032
 
 ## B7 · 1997–98
 

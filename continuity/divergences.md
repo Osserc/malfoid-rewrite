@@ -295,3 +295,15 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Why:** it grounds her skill, explains why Snape favours her, roots her potions in her love for her mother, and keeps the Snape–Malfoy connection going.
 - **Home:** [characters/severus-snape.md](../characters/severus-snape.md)
 - **Ripples:** Q-040 (answered), Q-041, Q-042, Q-043 · DIV-011, DIV-020, DIV-030 · [scenes/b1/uncle-severus.md](../scenes/b1/uncle-severus.md) · [continuity/reveals.md](reveals.md) · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md)
+
+### DIV-032 · Sectumsempra scars her for life
+
+- **Status:** settled. How far the scars extend is open (Q-044).
+- **Canon:** Harry hits Draco with Sectumsempra without knowing what it does. Snape arrives, closes the wounds, and says dittany straight away may spare him even a scar.
+- **Ours:** Snape saves her, but arrives too late to prevent the scars, and she bears them for life. At least one runs from her belly to her neck, which reminds her a little of her mother's marks (DIV-030).
+  - **Harry** didn't know what the spell would do. He can never forget the mistake he made in a moment of anger.
+  - **Dracaena** goes through something similar at first, but she comes to like them, as a symbol of what they got over together. They match his lightning scar.
+  - **Their game.** She sometimes uses them to guilt-trip him into doing her favours. He always kisses them when he sees them, hoping one day it'll make them disappear.
+- **Why:** the moment of anger has to cost them both something permanent, and the scars are what they get over together. Dark magic leaves lasting damage, as it does in canon (George's ear) and with Narcissa's curse (DIV-030).
+- **Home:** [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md)
+- **Ripples:** Q-024, Q-043, Q-044 · DIV-015, DIV-030 · [scenes/b6/sectumsempra.md](../scenes/b6/sectumsempra.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)

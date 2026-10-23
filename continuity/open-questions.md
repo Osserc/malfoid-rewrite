@@ -248,6 +248,13 @@ His favourite pupil falls for the son of his arch-enemy. In summer 1995 the Occl
 - **Summer 1995:** what he does with what he sees. Does he keep it to himself? His deniability with Lucius has to hold (DIV-020), and what Lucius knows is the author's scene (Q-022).
 - **B6:** she's Marked and in his care. Canon's Unbreakable Vow with Narcissa carries more weight with this history.
 
+### Q-044 · Her scars (DIV-032)
+
+- **Extent:** beyond the one from her belly to her neck, how many, and where.
+- **Narcissa:** the scars echo her own marks (DIV-030). How does Harry's ally take him nearly killing her daughter (Q-039)?
+- **Snape:** Sectumsempra is his own spell, from his own book (canon), turned on his favourite pupil by James Potter's son (Q-043).
+- **The turn:** when she starts to like them. After they're back together (Q-013)?
+
 ## Answered
 
 ### Q-040 · What keeps Lucius and Snape close? (DIV-031)
