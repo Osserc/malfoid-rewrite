@@ -8,6 +8,7 @@ Canon elements that break the plot or the ethics and have to be dealt with rathe
 |---|---|---|---|
 | [Time-Turners](time-turners.md) | Plot | resolved | DIV-002 |
 | [House-elves](house-elves.md) | Ethics | open | — |
+| [Scale](scale.md) | Plot | resolved | DIV-035 |
 
 ## Candidates
 
@@ -20,7 +21,6 @@ Suggested by Claude and not yet sorted. Promote a candidate to a file, or strike
 - Fidelius Charm: the Secret-Keeper rules aren't consistent.
 - Marauder's Map: its owners never notice Pettigrew on it.
 - Wizarding justice: Sirius was jailed without a trial; the Ministry has no checks on it.
-- Scale: the wizarding population is tiny and its economy can't work.
 
 **Breaks the ethics or the theme**
 - Slytherin as the evil house. Central for us: Dracaena is a Slytherin, and DIV-008 gives purebloods a point.

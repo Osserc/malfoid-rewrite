@@ -17,10 +17,12 @@ House-elves are a sentient species bound in hereditary servitude, and most of th
 
 _Not discussed yet._
 
+*Direction from the author:* house-elves won't stay a permanent slave underclass. The author has an idea for them, out of scope for now, which may tie into the way out of the wizarding decline (Q-048). Until then, elf labour doesn't quietly prop up the economy (DIV-035).
+
 ## Resolution
 
 _Open._
 
 ## Ripples
 
-Q-016 · Q-018 (Dobby is one option for fetching Dracaena's Muggle books)
+Q-016 · Q-018 (Dobby is one option for fetching Dracaena's Muggle books) · Q-048 · DIV-035

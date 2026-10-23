@@ -39,7 +39,7 @@ Where the meeting happens, and what Voldemort makes of Lucius's spy story: Q-030
 
 ## The Muggle line
 
-Fairy tales lead to novels, and novels lead to Muggle Studies, where she and Hermione become Charity Burbage's star pupils and rivals (DIV-012). Her parents pay for it in B7 (DIV-016). When she starts, and how it gets out: Q-020.
+Fairy tales lead to novels, and novels lead to Muggle Studies, where she becomes Charity Burbage's star pupil (DIV-012). *(draft)* Hermione takes it in B3 and drops it ([hermione-granger](../characters/hermione-granger.md)), and Dracaena frames it as conceding defeat. The jab doubles as cover: the pure-blood heiress keeps the subject the Muggle-born dropped, out of a real interest she can't admit. Her parents pay for it in B7 (DIV-016). When she starts, and how it gets out: Q-020.
 
 ## Echoes
 

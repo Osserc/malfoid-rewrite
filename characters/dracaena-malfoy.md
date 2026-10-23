@@ -91,7 +91,7 @@ Hawthorn and unicorn hair (canon default). It matters: it's the wand she and Har
 
 - **Harry Potter:** see [threads/harry-dracaena.md](../threads/harry-dracaena.md).
 - **Lucius Malfoy:** see [lucius-malfoy.md](lucius-malfoy.md).
-- **Hermione Granger:** her rival from the first Potions lesson, where Dracaena shows her up; second best to her in Potions (DIV-011). Later her fellow star pupil and academic rival in Muggle Studies (DIV-012).
+- **Hermione Granger:** her rival from the first Potions lesson, where Dracaena shows her up; second best to her in Potions (DIV-011). When Hermione drops Muggle Studies in B3, Dracaena calls it conceding defeat (DIV-012). See [hermione-granger](hermione-granger.md).
 - **Charity Burbage:** her Muggle Studies teacher (DIV-012, DIV-016).
 - **Severus Snape:** "uncle Severus", her potions master since she was five (DIV-031). Teaches her Occlumency, summer 1995 (DIV-020). See [severus-snape](severus-snape.md).
 

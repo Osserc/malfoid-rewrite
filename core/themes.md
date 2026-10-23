@@ -18,6 +18,12 @@ The dream is the belief that you can live outside the script you were born into.
 
 _Open._ See Q-016. Her Muggle reading pulls both ways: it wears down her contempt, and it shows her why purebloods fear being swallowed.
 
+*(draft)* **The ruins.** In the vein of FromSoftware's games, wizarding Britain lives in the ruins of a once-thriving world: a castle built for a thousand that holds a third of that, and a people shrinking since the Statute of Secrecy (DIV-035). That gives Voldemort's promise to take it back real credence, except that his war killed so many it made the decline worse. The resolution after the war is the author's idea (Q-048).
+
+## Unity across the Houses *(draft)* · DIV-033, DIV-034
+
+The four leads cover all four Houses: Harry in Gryffindor, Ron in Hufflepuff, Hermione in Ravenclaw, Dracaena in Slytherin. Canon states this theme (the Hat's warnings, Dumbledore's call for unity at the end of B4) and never delivers it. The Houses stay fiercely tribal, so crossing them means something. The measure is the classroom, where four clumps by House slowly dissolve (DIV-034). The risk is a schematic line-up with one lead per House, so each House has to shape its lead and set them against the others, not just serve as a badge.
+
 ## Love as a literal force (DIV-006)
 
 The series ends with love working as actual magic: resonance (DIV-021). It's literally the power of love, and only love, since friendship isn't enough. Together, Harry and Dracaena are never disarmed: they're each other's strength. That only lands if it has been a theme, and a rule, all along. See Q-014 and Q-028.

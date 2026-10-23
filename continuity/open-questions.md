@@ -14,7 +14,7 @@ Her standing as the Malfoy heir, marriage expectations, what Lucius wants from h
 
 In canon a Time-Turner explains how she attends overlapping classes. Cut the subplot, or explain it another way?
 
-*Partly answered:* she keeps Muggle Studies (DIV-012). What she drops instead is open.
+*Partly answered (draft):* electives are timetabled in blocks (DIV-034), and two of her choices clash. That, and finding the subject is mostly wizards getting Muggles wrong, is why she drops Muggle Studies. Dracaena calls it conceding defeat (DIV-012). Still open: how long she juggles before giving up, and when in B3 she drops it.
 
 ### Q-003 · Rebuilding the B3 climax (DIV-002, DIV-018)
 
@@ -51,9 +51,13 @@ The hostages are the people the champions would miss most, so choosing her says 
 
 Still open: who made the choice, and how Harry, Slytherin, the school and her family react. Track in [reveals.md](reveals.md).
 
-### Q-010 · Ron in B4 (DIV-005)
+### Q-010 · Ron in B4 (DIV-005, DIV-033)
 
 What's Ron's role without the hostage spot? Does the Harry–Ron falling-out still happen? Does Harry still save Fleur's sister?
+
+*Partly answered (draft):* in Hufflepuff, Ron is caught between his best friend and Cedric, who is both his mentor and his House's champion. Divided loyalty, not jealousy, drives the falling-out. He can carry tips between the champions: the dragons, the egg ([ron-weasley](../characters/ron-weasley.md)).
+
+Still open: Fleur's sister. And Cedric's death: how Ron takes it, and whether it cracks the friendship going into B5.
 
 ### Q-011 · The Elder Wand and the Hallows (DIV-006, DIV-024)
 
@@ -99,6 +103,8 @@ Which radicals exist, how they combine, what incantations add, how nonverbal and
 What's the real grievance or truth, and where does it turn into Voldemort's ideology? Where do the Malfoys stand?
 
 *Lead from DIV-010:* Muggle literature dwarfs wizarding literature, which is what being culturally swallowed looks like. And Muggle fairy tales cast magic users as the villains.
+
+*Lead from DIV-035 (draft):* wizarding Britain really is shrinking, and it lives off the Muggle economy. The turn is the blame: Muggle-borns are the only inflow slowing the decline → [society](../setting/society.md).
 
 ### Q-018 · Who fetches the books? (DIV-010)
 
@@ -247,6 +253,7 @@ His favourite pupil falls for the son of his arch-enemy. In summer 1995 the Occl
 - **B4:** how he reacts to the Ball and the Second Task.
 - **Summer 1995:** what he does with what he sees. Does he keep it to himself? His deniability with Lucius has to hold (DIV-020), and what Lucius knows is the author's scene (Q-022).
 - **B6:** she's Marked and in his care. Canon's Unbreakable Vow with Narcissa carries more weight with this history.
+- **The pairing:** he pairs Harry with Dracaena in Potions to punish Harry, and it ends up giving them space ([hogwarts](../setting/hogwarts.md), DIV-034). When does he see his own hand in it? Does he keep pairing them in B5, once the Occlumency lessons have shown him the result?
 
 ### Q-044 · Her scars (DIV-032)
 
@@ -254,6 +261,42 @@ His favourite pupil falls for the son of his arch-enemy. In summer 1995 the Occl
 - **Narcissa:** the scars echo her own marks (DIV-030). How does Harry's ally take him nearly killing her daughter (Q-039)?
 - **Snape:** Sectumsempra is his own spell, from his own book (canon), turned on his favourite pupil by James Potter's son (Q-043).
 - **The turn:** when she starts to like them. After they're back together (Q-013)?
+
+### Q-045 · Getting into Hufflepuff (DIV-036)
+
+Hufflepuff's hospitality is its weak spot. Its students let Crookshanks in because he's big and cuddly, and the same weakness lets Black in, in place of Neville's lost list of passwords ([sirius-break-ins](../scenes/b3/sirius-break-ins.md)). Open:
+- **Who** lets the cat in, and who or what lets Black in. The same student?
+- **How** Black gets past the Hufflepuff entrance.
+- **Neville's list.** Without it, Neville is spared canon's humiliation: the ban, and his gran's Howler. Keep that, or give the humiliation to someone else?
+
+### Q-046 · Where does the trio meet? (DIV-033)
+
+They no longer share a common room, and in term the common rooms take no guests. Classes and the holidays are covered (DIV-034). Candidates for the rest:
+- Hagrid's hut, already neutral ground in canon.
+- The library.
+- Disused classrooms, plentiful in a castle a third full (DIV-035).
+- The Room of Requirement, found early. Cost: canon ties its discovery to the DA in B5. Gain: in B6 she repairs the Cabinet in the room they shared.
+
+### Q-047 · Whole-year classes: the norm, or a reform? (DIV-034)
+
+Either Hogwarts has always taught each year as one class, or it's a reform from the war years, when the cohorts shrank. If it's a reform: whose (Dumbledore's, as a unity measure?), when, and did Lucius object from the Board of Governors? Also: do the bigger post-war years (DIV-035) go back to pairs of Houses?
+
+### Q-048 · The way out of the decline (DIV-035)
+
+Wizarding Britain is shrinking, and Voldemort's war made it worse. After the war the story needs a resolution. The author has an idea, tied to how magic works and to why the blood supremacists are partly right while their solution is suicidal. House-elves may tie in ([problems/house-elves.md](../problems/house-elves.md)). Out of scope for now.
+
+### Q-049 · Canon beats that assume a Gryffindor trio (DIV-033)
+
+To settle as each book is planned:
+- **B1:** the House Cup ending, with Dumbledore's last-minute points split across three Houses. Neville standing up to friends who aren't his housemates any more.
+- **B2:** the Polyjuice trip into the Slytherin common room, which likely changes anyway with Dracaena there.
+- **B4:** the falling-out, which canon plays out in their shared dormitory (Q-010).
+- **B5:** Ron and Hermione as prefects of their own Houses. Ron as Hufflepuff's Keeper.
+- **B6:** Ron and Lavender, a Gryffindor.
+- **Ginny's House.**
+- **The dormitory talks** between Harry and Ron, which canon uses throughout.
+
+Already covered: the Christmases (DIV-034) and Sirius's break-ins (DIV-036).
 
 ## Answered
 
