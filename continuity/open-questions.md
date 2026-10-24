@@ -297,7 +297,7 @@ To settle as each book is planned:
 - **Ginny's House.**
 - **The dormitory talks** between Harry and Ron, which canon uses throughout.
 
-Already covered: the Christmases (DIV-034) and Sirius's break-ins (DIV-036).
+Already covered: the Christmases (DIV-034), Sirius's break-ins (DIV-036) and the Boggart lesson (DIV-042).
 
 ### Q-050 · Does anyone notice at the World Cup? (DIV-037)
 
@@ -324,6 +324,23 @@ Still open:
 ### Q-052 · Rita after the Second Task (DIV-038)
 
 In canon, Rita follows the Second Task with a Witch Weekly piece casting Hermione as a girl toying with Harry and Krum. Here the whole school has watched Dracaena claim Harry and kiss him at the lake, and Rita has already printed that they went to the Ball together (DIV-040). What does she print now, and does the Hermione–Krum angle survive?
+
+### Q-053 · The remedial Boggart (DIV-017)
+
+She faces her Boggart alone with Lupin ([remedial-boggart](../scenes/b3/remedial-boggart.md)). Open:
+- **On the page?** Showing it, from her POV or Lupin's, gives the reader her Boggart before Harry gets it. Keeping it offstage leaves the lap pillow a reveal for both ([reveals](reveals.md)).
+- **Lupin knows.** He has seen her fear of her father. Does it change how he treats her? Does he notice her spying on Harry's Patronus lessons?
+- **When.** How long she keeps the sling, and so how long after the class lesson the remedial one comes.
+
+### Q-054 · Hermione and the moon (DIV-042)
+
+In canon, Lupin's Boggart turning into the moon is one of Hermione's clues to his secret. In Ravenclaw she misses Gryffindor's session ([boggart-lesson](../scenes/b3/boggart-lesson.md)). The author's candidates:
+- **The corridor.** Gryffindor goes before Ravenclaw. As the Gryffindors come out, she overhears Dean or someone mention the ball of light.
+- **The debrief.** The trio didn't see each other's Boggarts, so afterwards they compare. Harry says Lupin stepped in before his turn, and a shiny ball appeared.
+
+Candidate (Claude): the debrief, which can take in the corridor: she catches a fragment outside and gets the rest from Harry. It gives the split trio a scene, and a contrast: they share their fears with each other, while Dracaena has no one to tell until Harry ([remedial-boggart](../scenes/b3/remedial-boggart.md)).
+
+Also open: in canon Hermione never gets a turn in class. Does she in Ravenclaw's session, and does her Boggart come up in the debrief?
 
 ## Answered
 

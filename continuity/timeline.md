@@ -34,7 +34,7 @@ _Marauders era, the first war. Not yet worked out._
 ## B3 · 1993–94
 
 - **From about 1993**: The post-war cohorts reach Hogwarts, and each Sorting runs a little longer than the last. DIV-035
-- **1993-09**: The hippogriff lesson. She milks the injury for weeks: the match delay, the Potions servant. DIV-017
+- **1993-09**: The hippogriff lesson. She milks the injury for weeks: the match delay, the Potions servant. Lupin runs the Boggart lesson House by House; she sits out Slytherin's session in her sling, and faces hers alone with Lupin once it comes off. DIV-017, DIV-042
 - **1993-10-31**: Black slashes the Fat Lady, assuming Ron is a Gryffindor. DIV-036
 - **Later in the year (canon timing)**: Black breaks into Hufflepuff and stands over Ron's bed. DIV-036
 - **During B3**: Hermione drops Muggle Studies, and Dracaena calls it conceding defeat. DIV-012

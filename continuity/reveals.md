@@ -11,7 +11,7 @@ Cells give the book and the scene or chapter where each party learns the truth. 
 | Dracaena saved Buckbeak and helped Sirius escape | ? | B3, the lake | B3 (she did it) | Hermione: B3, the lake. Sirius: B3, the escape. Others: ? | DIV-003, DIV-018, Q-007 |
 | Her fake lead brought the Dementors to the lake | ? | B3, her confession | B3 (she did it) | Hermione: B3, her confession. The Ministry: ? | DIV-018, Q-025 |
 | The lap pillow was sincere | ? | B3, the lake | B3 | — | DIV-018, [lap-pillow](../scenes/b3/lap-pillow.md) |
-| Her Boggart is her father, looking at her with disgust | By B3, the lap pillow | B3, the lap pillow | B3, the Boggart lesson | Her Defence class: B3. Lucius: ? | [lap-pillow](../scenes/b3/lap-pillow.md), Q-036 |
+| Her Boggart is her father, looking at her with disgust | By B3, the lap pillow, unless the remedial lesson is on the page (Q-053) | B3, the lap pillow | B3, [remedial-boggart](../scenes/b3/remedial-boggart.md) | Lupin: B3, [remedial-boggart](../scenes/b3/remedial-boggart.md). Lucius: ? | DIV-017, [lap-pillow](../scenes/b3/lap-pillow.md), Q-036 |
 | The Second Task names Dracaena as the one Harry would miss most | ? | ? | B4, Second Task | ? | DIV-005, Q-009 |
 | The veela can't touch Harry, because he's in love | ? | ? He hears Fleur say it in B4, [the-little-basilisk](../scenes/b4/the-little-basilisk.md), without understanding it | That he loves someone: the World Cup, where she assumes it's Cho (DIV-041). That it's her: B4, [the-little-basilisk](../scenes/b4/the-little-basilisk.md) | Fleur: B4, her test. Hermione: ? (Q-050) | DIV-037, DIV-038, Q-050 |
 | Why she's an only child: the curse meant for Lucius hit Narcissa | ? | ? | ? (Q-039) | Lucius and Narcissa: always | DIV-030, Q-039 |

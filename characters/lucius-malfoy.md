@@ -23,7 +23,7 @@ How his marriage works and what he knows about his daughter: Q-019 (the author h
 
 ## His daughter
 
-*(settled)* He isn't resentful about having a daughter rather than a son. He thinks a daughter is too precious and fragile, and should be somewhat sheltered. But he's up against two formidable opponents: his doting wife, and his beloved daughter, who almost always gets her way ([dracaena-malfoy](dracaena-malfoy.md)). When she wants to fly, he has to give in, and sneaks in his condition: no training without supervision. As the years pass his worries ease, because he sees how capable she is, but he stays very protective. He's strict. Her Boggart is him looking at her with disgust ([lap-pillow](../scenes/b3/lap-pillow.md)), but that's her fear, not what he feels. How sheltering her squares with the rest of his story: Q-036.
+*(settled)* He isn't resentful about having a daughter rather than a son. He thinks a daughter is too precious and fragile, and should be somewhat sheltered. But he's up against two formidable opponents: his doting wife, and his beloved daughter, who almost always gets her way ([dracaena-malfoy](dracaena-malfoy.md)). When she wants to fly, he has to give in, and sneaks in his condition: no training without supervision. As the years pass his worries ease, because he sees how capable she is, but he stays very protective. He's strict. Her Boggart is him looking at her with disgust ([remedial-boggart](../scenes/b3/remedial-boggart.md)), but that's her fear, not what he feels. How sheltering her squares with the rest of his story: Q-036.
 
 ## Occlumency
 

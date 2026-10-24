@@ -5,7 +5,7 @@ placement: Spring term 1994, after one of Harry's failed Patronus lessons (tenta
 pov: harry-potter
 characters: [dracaena-malfoy, harry-potter]
 threads: [harry-dracaena, patronus]
-divergences: [DIV-018, DIV-027, DIV-028]
+divergences: [DIV-017, DIV-018, DIV-027, DIV-028]
 sketch: ../../sketches/b3/lap-pillow.md
 ---
 
@@ -30,7 +30,7 @@ Settled, from the author's sketch. The order and wording can still move.
 3. She wants her sparring partner back, so she pushes harder to provoke him into fighting back. She guesses he's struggling with the charm: a Patronus needs a strong, happy memory, so he mustn't have any. The taunt is also the run-up to her offer (*What she's trying to do*). It gets her far more than she bargained for: he explodes before she gets there.
 4. **The outburst.** Harry looms over her and screams what the Dementors make him hear: Voldemort killing his parents, over and over. She's terrified, and for the first time she feels he truly hates her. Kept on purpose: it shows Harry can become unstable, which we can use later (Q-024).
 5. **What she didn't know.** Not that his parents are dead, but that the Dementors make him relive it. Seeing how deeply it hurts him, she wishes she'd never said it. She apologises, stammering.
-6. **Her Boggart.** To make a connection, she offers a vulnerability of her own: she couldn't beat her Boggart either. It was her father, looking at her with disgust, and she froze in front of the whole class.
+6. **Her Boggart.** To make a connection, she offers a vulnerability of her own: she couldn't beat her Boggart either. It was her father, looking at her with disgust, and she froze. She faced it alone with Lupin, after sitting out Slytherin's session in her sling, so Harry is the first person she tells ([remedial-boggart](remedial-boggart.md)).
 7. **The lap pillow.** She offers to help and pulls his head into her lap, stroking his hair and cheek, because that's what mama does whenever she's upset. He laughs at "mama". She blushes but doesn't stop. For a few precious seconds he catches her giving him a heartfelt, sweet smile, with none of her usual venom.
 8. **The tsun excuse.** He asks why she's being nice. She sounds almost wronged: if the Dementors make him faint during their Quidditch match, how can she prove she's better than him? She wants to beat him fair and square. (Wording to polish.)
 9. He ends it. Did it work? It did *something*. She runs off, threatening to hex him if he tells anyone, with the skip in her step she has after beating him at the Duelling Club (DIV-028). He walks back touching the cheek she stroked.

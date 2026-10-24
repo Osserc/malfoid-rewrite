@@ -65,13 +65,13 @@ What the hell was going on? Was she apologizing? *The* Malfoy, apologizing to hi
 
 The sudden revelation from Dracaena shook Harry from his torpor, and he turned towards her, and finally saw the effect his outburst had on her. She looked far from the proud and composed witch he knew. She looked... small. Like the little girl she was.
 
-"Yeah. When *Rags* called me, I thought I would have gotten some kind of creepy crawly or something", she said while mimicking a bug's scuttling with her fingers, "but instead... I got father."
+"Yeah. *Rags* set up a remedial lesson for me, I thought I would have gotten some kind of creepy crawly or something", she said while mimicking a bug's skittering with her fingers, "but instead... I got father."
 
-She shuddered at her recollection, before continuing, "he had this... disgusted expression, l-like he was looking at walking garbage and, and I just... froze. In front of everyone."
+She shuddered at her recollection, before continuing, "he had this... disgusted expression, l-like he was looking at walking garbage and, and I just... froze. *Rags* had to step in."
 
 Was she trying to... make him feel better? The girl took a long, slow, deep breath before looking him in the eyes.
 
-"A-anyway, back to the actal point. I think I can help you with the Patronus. I-if you want me too..."
+"A-anyway, back to the actual point. I think I can help you with the Patronus. I-if you want me too..."
 
 She smiled weakly, tapping her thighs and just said "come here".
 
@@ -105,7 +105,7 @@ Dracaena startled and immediately raised her head, distancing herself from his. 
 "S-so, did you like it?"
 "What?"
 "I mean, did it work?"
-"I, I guess it did *something*..."
+"I... I guess it did *something*..."
 
 The girl clapped her hands once, "good! Now don't go fainting anymore! I need you to be in top shape when I demolish you!", and darted away without giving him a chance to respond, "oh, and if you tell anyone I'll hex you!". There was a certain skip to her step that only appeared after she beat him during dueling club.
 

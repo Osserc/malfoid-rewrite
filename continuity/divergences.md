@@ -152,8 +152,9 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **Potions:** she badgers Harry into preparing her ingredients and turns him into her servant. When his poor technique spoils the potion she steps in, strangely sweet under the barbs. In her head they're a married couple cooking together, until she realises she's daydreaming in front of the whole class and scrambles to save face. Harry is weirded out.
   - **The lesson:** later she realises her play-acting gave Lucius the fuel to have Buckbeak executed. That lesson in consequences is what pushes her to save him.
   - **The prank:** she takes no part in the fake-Dementor prank at the Ravenclaw match. Crabbe and Goyle pull it on their own initiative, thinking she'll approve, and are confused when she greatly disapproves. Kicking him while he's down isn't her game ([lap-pillow](../scenes/b3/lap-pillow.md)).
-- **Home:** [scenes/b3/potions-servant.md](../scenes/b3/potions-servant.md) (the lesson) · [scenes/b3/buckbeak-rescue.md](../scenes/b3/buckbeak-rescue.md) (the motive) · [threads/quidditch.md](../threads/quidditch.md) (the match, the prank)
-- **Ripples:** Q-026 (answered)
+  - **The Boggart:** with her wand arm in a sling, she sits out Slytherin's Boggart session (DIV-042). Lupin later goads her into a remedial lesson: she'd have faced a Boggart when Harry never has. She freezes in front of her father's disgust, alone with Lupin, and tells no one until Harry.
+- **Home:** [scenes/b3/potions-servant.md](../scenes/b3/potions-servant.md) (the lesson) · [scenes/b3/buckbeak-rescue.md](../scenes/b3/buckbeak-rescue.md) (the motive) · [threads/quidditch.md](../threads/quidditch.md) (the match, the prank) · [scenes/b3/remedial-boggart.md](../scenes/b3/remedial-boggart.md) (the Boggart)
+- **Ripples:** Q-026 (answered), Q-053 · DIV-034, DIV-042
 
 ### DIV-018 · B3 climax: the swarm, the confession, the flight to Sirius
 
@@ -320,7 +321,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **The hub:** the Gryffindor common room stops being the trio's base. Classes and the holidays are covered by DIV-034; where else they meet is Q-046.
 - **Why:** unity across the Houses as a theme ([themes](../core/themes.md)). Ron gets out of his brothers' shadow, and the cast draws on every House.
 - **Home:** [characters/ron-weasley.md](../characters/ron-weasley.md) (Ron) · [characters/hermione-granger.md](../characters/hermione-granger.md) (Hermione)
-- **Ripples:** Q-010, Q-046, Q-049 · DIV-025, DIV-034, DIV-036
+- **Ripples:** Q-010, Q-046, Q-049 · DIV-025, DIV-034, DIV-036, DIV-042
 
 ### DIV-034 · Whole-year classes, and the holiday exception
 
@@ -333,7 +334,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **The holidays:** in term, common rooms are havens for their own House. Over the holidays, with the castle nearly empty, the few who stay can mix and bunk together, by long tradition.
 - **Why:** the trio no longer shares a House (DIV-033). Per-subject sets or reshuffled cores would be a logistical mess, worst of all for electives.
 - **Home:** [setting/hogwarts.md](../setting/hogwarts.md)
-- **Ripples:** Q-002, Q-043, Q-046, Q-047 · DIV-011, DIV-012, DIV-017, DIV-028, DIV-033, DIV-035
+- **Ripples:** Q-002, Q-043, Q-046, Q-047 · DIV-011, DIV-012, DIV-017, DIV-028, DIV-033, DIV-035, DIV-042
 
 ### DIV-035 · A small, shrinking people
 
@@ -406,3 +407,16 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Why:** asking Ravenclaw's Seeker first and only then Dracaena would cheapen the invitation. Cho has nothing on her anyway: a few interactions with Harry, against a fellow Seeker who is always around him. Building Cho up would mean writing her into more scenes, only to throw it all away when Cedric wins her and Harry is turned down. With Dracaena the outcome is inevitable, and Harry has been primed all summer.
 - **Home:** [threads/harry-dracaena.md](../threads/harry-dracaena.md)
 - **Ripples:** Q-008, Q-021, Q-050 · DIV-004, DIV-037, DIV-038
+
+### DIV-042 · B3: the Boggart lesson, House by House
+
+- **Status:** draft
+- **Canon:** In Lupin's first practical lesson, the class takes turns at a Boggart and watches each other's fears. Lupin steps in before Harry's turn, and his own Boggart, the moon, is one of the clues that lead Hermione to his secret.
+- **Ours:** The whole year is one class (DIV-034), so Lupin runs the lesson in four House sessions of about fifteen minutes each, back to back over an hour, while the other Houses wait outside. No House sees another's fears.
+  - **Gryffindor's session** is canon's lesson, Lupin stepping in for Harry included.
+  - **Ron** faces his spider with Hufflepuff, out of Harry's sight.
+  - **Hermione** misses Lupin's moon: Q-054.
+  - **Dracaena** sits out Slytherin's session in her sling (DIV-017).
+- **Why:** forty pupils at one Boggart is too many, and a Boggart shows your deepest fear. Lupin won't hand detractors in the other Houses ammunition: within a House, fears stay among people who share a common room. He knows what a Boggart can give away, since his own is the moon. The split also shows how far apart the Houses still are in B3.
+- **Home:** [scenes/b3/boggart-lesson.md](../scenes/b3/boggart-lesson.md)
+- **Ripples:** Q-049, Q-053, Q-054 · DIV-017, DIV-033, DIV-034

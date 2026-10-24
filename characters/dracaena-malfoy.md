@@ -79,7 +79,7 @@ Grey eyes (canon default), not the princess's purple. Otherwise canon default, o
 
 ## Family
 
-- Lucius and Narcissa Malfoy; she is their only child, because a curse meant for her father hit her mother (DIV-030). She loves them both. Her mother is "mama", and her model of love. Her father is strict, and she's a bit afraid of him, above all of disappointing him: her B3 Boggart is him looking at her with disgust ([lap-pillow](../scenes/b3/lap-pillow.md)). That's her fear, not what he feels ([lucius-malfoy](lucius-malfoy.md)).
+- Lucius and Narcissa Malfoy; she is their only child, because a curse meant for her father hit her mother (DIV-030). She loves them both. Her mother is "mama", and her model of love. Her father is strict, and she's a bit afraid of him, above all of disappointing him: her B3 Boggart is him looking at her with disgust ([remedial-boggart](../scenes/b3/remedial-boggart.md)). That's her fear, not what he feels ([lucius-malfoy](lucius-malfoy.md)).
 - Narcissa quietly gets her the Muggle books (DIV-010, Q-018, Q-019), and is Harry's ally inside the house ([narcissa-malfoy](narcissa-malfoy.md)).
 - Her mother's curse needs a potion to hold it back. Dracaena learned Potions so she could brew it herself (DIV-030, DIV-031).
 - Narcissa was born a Black, so Sirius is her mother's cousin, and Bellatrix and Andromeda are her aunts (canon default). Relevant to Q-006 and DIV-014.

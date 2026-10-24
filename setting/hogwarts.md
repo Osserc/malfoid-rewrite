@@ -24,6 +24,7 @@ Why wizarding Britain is small and shrinking: [society](society.md). What that m
 - **Pairs.** The practical part of a lesson is done in pairs. Left to themselves, pupils pair within their House at first, and the clumps have dissolved when they start crossing the lines on their own. Teachers can force specific pairings, and each has their own habits: one pairs to punish, another puts a weak pupil with a bright one, another pairs the best together to push them further. Forced pairings give "among hostiles" on demand: Ron stuck with a Slytherin, Hermione with Pansy.
   - **Snape** pairs Harry with Dracaena, thinking he's handing her a chew toy. In time it gives them space together instead, and the Potions servant routine grows out of it (DIV-017). What he makes of his own handiwork: Q-043.
   - **Flitwick** pairs them at the Duelling Club because iron sharpens iron ([duelling-club](../threads/duelling-club.md)).
+- **Lupin's Boggart lesson** goes House by House, so no House sees another's fears ([boggart-lesson](../scenes/b3/boggart-lesson.md), DIV-042).
 - **Norm or reform:** Q-047.
 
 ## Common rooms and the holidays · DIV-034
