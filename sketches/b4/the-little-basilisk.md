@@ -17,11 +17,11 @@ The part veela champion of the french school seemed to have taken a shine to him
 
 In hindsight, Harry deeply regretted his choice of rescuing both girls. He suspected it was only thanks to Ludo Bagman that most of the judges agreed to reward his "bravery" ("more like utter stupidity, Potter"), which allowed him to remain in the running for the tournament. It was bad enough that people thought he was an attention seeker of the worst kind, now he had to endure every student's jabs. The entire school body seemed to relish in poking fun at the "valorous knight" who insisted on bringing both damsels back to shore, and could not distinguish fantasy from reality. And Fleur, of all people, was not helping.
 
-She was always able to find him and made a point of praising him and grabbing his arm, much to the annoyance of Hermione, Ron, and of course a certain Dracaena Malfoy ("oh non, ze petit basilic!"). The french campion was hell bent on provoking the Slytherin girl, acting extra saccharine especially in front of her. Harry remembered clearly how upset she was that Fleur had tried to kiss him on the cheeks when he emerged with her sister from the murky depths of the lake ("sank you so much, mon chevalier!"), so he closed his eyes and indulged in the memory for a moment.
+She was always able to find him and made a point of praising him and grabbing his arm, much to the annoyance of Hermione, Ron, and of course a certain Dracaena Malfoy ("oh non, ze petit basilic!"). The french champion was hell bent on provoking the Slytherin girl, acting extra saccharine especially in front of her. Harry remembered clearly how upset she was that Fleur had tried to kiss him on the cheeks when he emerged with her sister from the murky depths of the lake ("sank you so much, mon chevalier!"), so he closed his eyes and indulged in the memory for a moment. Her anger had been a sight to behold.
 
 _________
 
-He surfaced from the lake gasping for hair, the gillyweed extract having already run out and leaving his lungs in flames. The two people he was carrying were not cooperating, but he was at least grateful they weren't making his job harder, but as soon as their noses felt the presence of open air, they woke with a sudden gasp.
+He surfaced from the lake gasping for hair, the gillyweed extract having already run out and leaving his lungs in flames. The two people he was carrying were not cooperating, but he was at least grateful they weren't making his job harder, but as soon as their noses felt the presence of open air they woke with a sudden gasp.
 
 "Gabrielle! Gabrielle!"
 
@@ -34,7 +34,7 @@ It took the superhuman might of Hagrid (whose arms received plenty of nasty scra
 
 Then it happened.
 
-As Fleur approached Harry, and her arms were trying to wrap him in an embrace, Dracaena angrily shoved her away with more strength that she should have been to exert. He would always remember her threat:
+As Fleur approached Harry, and her arms were trying to wrap him in an embrace, Dracaena angrily shoved her away with more strength that she should have been able to exert. He would always remember her threat:
 
 "BACK OFF YOU SLAG! HE'S MINE!"
 
@@ -67,7 +67,7 @@ Fleur stood between Harry and the advancing girl, as if to shield him from a dan
 The french champion raised a hand to the sky, and moved the other to her heart, as if pretending to faint.
 
 "Ah! Zis is no little snake, but a fierce dragon! I can't best her!"
-Gracefully spinning around, winking at Harry with a "remember your Fleur, Arry! I know you will remain in my heart forever!", as if it were a line she rehearsed dozens of times before, she sauntered off towards her own schoolmates at the Ravenclaw table.
+Gracefully spinning around, winking at Harry with a "remember your Fleur, Arry! You will remain in my heart forever!", as if it were a line she rehearsed dozens of times before, she retreated towards her own schoolmates at the Ravenclaw table.
 
 "Potter."
 
@@ -75,7 +75,7 @@ A sudden force grabbed his tie and jerked him around, and he was face to face wi
 
 "Oh thank goo-" he tried to say, but his words were smothered by Dracaena's lips closing his own.
 
-After what felt like an eternity, Dracaena pulled away, but did not let go of his tie. "We're leaving", and started dragging towards the doors of the Great Hall, as their audience erupted in chatter, having enjoyed the spectacle.
+After what felt like an eternity, Dracaena pulled away, but did not let go of his tie. "We're leaving", and started dragging him towards the doors of the Great Hall, as their audience erupted in chatter, clearly amused by the spectacle.
 
 _________
 
@@ -116,8 +116,8 @@ He titled his head towards Dracaena's and could see her cheeks taking on a very 
 "Ugh, could they NOT?"
 "Really, it's getting out of hand..."
 
-Dracaena quickly turned and stuck out a tongue at the approacing Ron and Hermione, who vocalized their displeasure at her effusion.
+Dracaena quickly turned around and stuck out a tongue at the approaching Ron and Hermione, who vocalized their displeasure at her effusions.
 
 "Jealous, mud- muffin head?", she corrected herself mid-sentence, before sticking even closer to Harry, humming to herself.
 Harry turned his neck slightly and shot his friends an apologetic smile, before resting his head on Dracaena's, and taking hold of her hip with his arm.
-Not even the prospect of a Potions lesson could damped his mood, as he could hear Dracaena humming happily at his side.
+Not even the prospect of a Potions lesson could dampen his mood, as he could hear Dracaena humming happily at his side.
