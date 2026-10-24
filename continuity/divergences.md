@@ -114,9 +114,9 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 - **Status:** settled
 - **Canon:** Draco's hostility toward Harry never lets up. In B5 he joins Umbridge's Inquisitorial Squad.
-- **Ours:** Harry's feats (Quirrell, the Basilisk, the Dementors) repair her opinion of him, because she prizes competence, daring and valour. So she accepts Harry's invitation to the Yule Ball, half-believing he might really be her prince. Being his Second Task hostage tips her fully into the dream. She keeps her edge, but for the rest of B4 and nearly all of B5 she's simply happy with him. Her cover is "keeping tabs on Potter", a strategy Lucius himself comes up with at the end of B4, with the Inquisitorial Squad on top.
+- **Ours:** Harry's feats (Quirrell, the Basilisk, the Dementors) repair her opinion of him, because she prizes competence, daring and valour. So she accepts Harry's invitation to the Yule Ball, half-believing he might really be her prince. Being his Second Task hostage tips her fully into the dream. She keeps her edge, but for the rest of B4 and nearly all of B5 she's simply happy with him. Her cover is "keeping tabs on Potter", a strategy Lucius himself comes up with at the end of B4, when she refuses his order to cut ties with Potter (DIV-040), with the Inquisitorial Squad on top.
 - **Home:** [threads/sleeping-beauty.md](../threads/sleeping-beauty.md)
-- **Ripples:** Q-008, Q-009, Q-021, Q-022 · DIV-020 · [continuity/reveals.md](reveals.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
+- **Ripples:** Q-008, Q-009, Q-021, Q-022 · DIV-020, DIV-040 · [continuity/reveals.md](reveals.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
 
 ### DIV-014 · End of B5: she comforts Harry after Sirius dies
 
@@ -190,7 +190,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **It isn't enough.** In summer 1996 Voldemort shatters her walls with ease (DIV-015). In the final duel she uses it another way (DIV-021).
 - **Why:** Legilimency isn't mind reading, and Voldemort is very arrogant. That leaves Lucius room to tweak and Snape room to hide.
 - **Home:** [setting/magic.md](../setting/magic.md) (the rules) · [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md) (her lessons) · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md) (Lucius)
-- **Ripples:** Q-022, Q-030, Q-043 · DIV-013, DIV-015, DIV-031
+- **Ripples:** Q-022, Q-030, Q-043 · DIV-013, DIV-015, DIV-031, DIV-040
 
 ### DIV-021 · Resonance
 
@@ -355,3 +355,54 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Why:** keeps canon's misdirection on Harry intact all the way to the Shack, and turns the threat outward: his friends are in danger because of him, and he isn't there to protect them.
 - **Home:** [scenes/b3/sirius-break-ins.md](../scenes/b3/sirius-break-ins.md)
 - **Ripples:** Q-003, Q-045 · DIV-033
+
+### DIV-037 · The veela charm can't touch someone in love
+
+- **Status:** settled
+- **Canon:** Veela dazzle the men around them. At the 1994 World Cup the mascots have Harry and Ron ready to leap out of the Top Box, and Ron is hopeless around Fleur all year. Canon never says whether love protects against it.
+- **Ours:** A veela's charm has no hold on someone who's already in love. Harry is immune by the World Cup: fresh off the B3 lake, where she saved his godfather, he sees Dracaena again and can't explain to himself why he's happy to. He's in love before he knows it. In B4 Fleur uses the rule to test him (DIV-038). It's veela lore: Fleur knows it, and so does Dracaena, who notices at the World Cup but can't tell who he loves, and assumes it's Cho (DIV-041). Harry doesn't.
+- **Why:** proof of Harry's feelings that runs ahead of his own understanding of them, and a way for Fleur to see what he can't say.
+- **Home:** [setting/magic.md](../setting/magic.md)
+- **Ripples:** Q-050 · DIV-038, DIV-041 · [threads/harry-dracaena.md](../threads/harry-dracaena.md) · [continuity/reveals.md](reveals.md)
+
+### DIV-038 · B4: Fleur and the little basilisk
+
+- **Status:** settled
+- **Canon:** Fleur never reaches her sister in the Second Task, so Harry brings Gabrielle up along with his own hostage. Fleur thanks him with kisses on the cheeks, and Ron too. She warms to them after that, but plays no part in Harry's love life.
+- **Ours:**
+  - **The lake.** When Fleur comes to thank Harry with a hug, Dracaena shoves her away, calls her a slag, claims him as hers and kisses him in front of the whole school. It isn't their first kiss: that was at the Ball.
+  - **The test.** To repay Harry for Gabrielle, Fleur spends the next three days on his arm, needling Dracaena, whom she calls "le petit basilic". It's a test: she turns her charm on him to find out whether his heart is taken (DIV-037). She has no intention of stealing him.
+  - **The pantomime.** On the third day, once she's sure, she stages a scene in the Great Hall. She casts herself as the rival and Dracaena as the villainess, then concedes to "a fierce dragon". It's her gift to Harry: a chance for Dracaena to show off and win him in front of everyone. Dracaena sees through it, and owes her.
+- **Why:** romance in the dream (DIV-013), and more of Fleur.
+- **Home:** [scenes/b4/second-task.md](../scenes/b4/second-task.md) (the lake) · [scenes/b4/the-little-basilisk.md](../scenes/b4/the-little-basilisk.md) (the test and the pantomime)
+- **Ripples:** Q-009, Q-010, Q-052 · DIV-005, DIV-013, DIV-037 · [characters/fleur-delacour.md](../characters/fleur-delacour.md)
+
+### DIV-039 · B4: the gillyweed extract
+
+- **Status:** settled
+- **Canon:** Harry has no way to breathe underwater until the morning of the Second Task, when Dobby brings him gillyweed stolen from Snape's stores. The disguised Crouch Jr has been steering him towards it. Harry chews the weed raw.
+- **Ours:** Harry goes down on a gillyweed extract Dracaena brewed for him.
+- **Why:** it's her care for him, in her own art (DIV-011, DIV-031).
+- **Home:** [scenes/b4/second-task.md](../scenes/b4/second-task.md)
+- **Ripples:** Q-051 · DIV-005, DIV-011
+
+### DIV-040 · B4: Lucius learns before the Ball
+
+- **Status:** settled
+- **Canon:** Draco takes Pansy Parkinson to the Ball, and Lucius has nothing to find out.
+- **Ours:**
+  - **Two owls.** Before the Ball, Dracaena writes home twice. Her father hears she'll be attending with Hogwarts' champion: Hogwarts has two, and she doesn't say which. Her mother is asked for the backless green dress.
+  - **The Manor.** Lucius grows suspicious and questions Narcissa, who confirms it while she goes through their daughter's wardrobe for a dress to go with Harry. She plays Harry's advocate: he's a good prospect for Dracaena, and she has soured on the Death Eaters. Lucius is annoyed, but reluctantly sees her point. Narcissa sends a more modest dress.
+  - **The Prophet.** Right after the Ball, Rita Skeeter prints that they went together. She'd jump at the chance.
+  - **End of B4.** Lucius orders her to cut ties with Potter, and she adamantly refuses. He resigns himself to protecting her from herself: the "keeping tabs on Potter" cover (DIV-013), and Snape's Occlumency lessons (DIV-020).
+- **Home:** [characters/lucius-malfoy.md](../characters/lucius-malfoy.md) · the Manor scene: [scenes/b4/the-green-dress.md](../scenes/b4/the-green-dress.md)
+- **Ripples:** Q-022, Q-038, Q-039 · DIV-004, DIV-013, DIV-020 · [characters/narcissa-malfoy.md](../characters/narcissa-malfoy.md) · [continuity/reveals.md](reveals.md)
+
+### DIV-041 · B4: Cho only in Dracaena's head
+
+- **Status:** settled
+- **Canon:** Harry has a crush on Cho Chang from B3. In B4 he asks her to the Ball, but she's already going with Cedric, and he ends up taking Parvati.
+- **Ours:** Harry never asks Cho. Dracaena is the only one he asks (DIV-004, DIV-019). Cho is a rival only in Dracaena's head: at the World Cup she sees the veela leave him cold (DIV-037), knows he's in love with someone, and assumes it's Cho. She's jealous all autumn. His invitation throws her, and Fleur's line settles it (DIV-038).
+- **Why:** asking Ravenclaw's Seeker first and only then Dracaena would cheapen the invitation. Cho has nothing on her anyway: a few interactions with Harry, against a fellow Seeker who is always around him. Building Cho up would mean writing her into more scenes, only to throw it all away when Cedric wins her and Harry is turned down. With Dracaena the outcome is inevitable, and Harry has been primed all summer.
+- **Home:** [threads/harry-dracaena.md](../threads/harry-dracaena.md)
+- **Ripples:** Q-008, Q-021, Q-050 · DIV-004, DIV-037, DIV-038

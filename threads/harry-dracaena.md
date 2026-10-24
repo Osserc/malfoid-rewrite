@@ -15,7 +15,17 @@ His side: like canon, he wants little to do with her and regrets ever being kind
 - **The Patronus lessons:** she spies on them and studies the charm for him. In the lap-pillow scene he catches her smiling at him. He writes the scene off as a prank and won't count it as a happy memory until the lake, but he keeps going back to that smile and finding it very pretty, which confuses him (DIV-018).
 - **The lake:** it all adds up. She stole Buckbeak to save him, the smile and the Patronus study weren't jokes, and now she's trying to drive the Dementors off herself. There's something more to this girl (DIV-018).
 
-In B4 Sirius plants the idea of asking her to the Ball (DIV-019). He can be harsher than canon, with his Horcrux playing a bigger part (Q-024).
+By the World Cup in summer 1994 he's already in love without knowing it. Fresh off the lake, where she saved his godfather, he sees her again and can't explain to himself why he's happy to, and the veela don't touch him (DIV-037). In B4 Sirius plants the idea of asking her to the Ball (DIV-019), and she's the only one he asks: Cho never comes into it (DIV-041). He can be harsher than canon, with his Horcrux playing a bigger part (Q-024).
+
+## Cho, only in her head *(settled)* · DIV-041
+
+Harry never asks Cho to the Ball. Dracaena is the only one he asks. Cho is a rival only in Dracaena's head:
+
+- **The World Cup.** She sees the veela leave him cold (DIV-037), so she knows he's in love, and assumes it's Cho, whom she's seen him notice. She watches his matches like a hawk ([quidditch](quidditch.md)).
+- **The autumn.** She's jealous of Cho.
+- **The invitation** throws her. Fleur's line settles it ([the-little-basilisk](../scenes/b4/the-little-basilisk.md)).
+
+Why Harry never asks Cho: asking Ravenclaw's Seeker first and only then Dracaena would cheapen the invitation. Cho has nothing on her anyway: a few interactions with Harry, against a fellow Seeker who is always around him. Building Cho up would mean writing her into more scenes, only to throw it all away when Cedric wins her and Harry is turned down. With Dracaena the outcome is inevitable, and Harry has been primed all summer.
 
 ## By book
 
@@ -30,10 +40,14 @@ In B4 Sirius plants the idea of asking her to the Ball (DIV-019). He can be hars
 | B3 | Potions: she makes him her servant and is strangely sweet under the barbs (DIV-017) | [potions-servant](../scenes/b3/potions-servant.md) |
 | B3 | She spies on his Patronus lessons and studies the charm for him. The lap-pillow scene, which becomes his Patronus memory (DIV-018) | [lap-pillow](../scenes/b3/lap-pillow.md) |
 | B3 | 🔒 She saves Buckbeak (DIV-003). At the lake she confesses the swarm is her fault, his Patronus saves them all with a first flicker of resonance, and she flies Buckbeak to Sirius (DIV-018). His opinion of her turns | [buckbeak-rescue](../scenes/b3/buckbeak-rescue.md) |
+| B4 | The World Cup: the veela don't touch him. He's in love before he knows it (DIV-037). She notices, and assumes it's Cho (DIV-041) | |
 | B4 | Sirius plants the idea of asking her (DIV-019) | [yule-ball](../scenes/b4/yule-ball.md) |
 | B4 | The Durmstrang challenger: Harry beats a rival for her attention, too hard. She's delighted he's jealous, and would never use anyone to provoke him (DIV-029) | [durmstrang-challenger](../scenes/b4/durmstrang-challenger.md) |
-| B4 | 🔒 The Yule Ball: he asks, she accepts. The turning point (DIV-004, DIV-013) | [yule-ball](../scenes/b4/yule-ball.md) |
-| B4 | 🔒 She is his Second Task hostage, and the dream begins (DIV-005, DIV-013) | [second-task](../scenes/b4/second-task.md) |
+| B4 | Her owls home tip off Lucius before the Ball; Narcissa takes Harry's side (DIV-040) | [the-green-dress](../scenes/b4/the-green-dress.md) |
+| B4 | 🔒 The Yule Ball: he asks, she accepts. The turning point (DIV-004, DIV-013). Their first kiss. Rita prints it right after (DIV-040) | [yule-ball](../scenes/b4/yule-ball.md) |
+| B4 | 🔒 She is his Second Task hostage, and the dream begins (DIV-005, DIV-013). He goes down on her gillyweed extract (DIV-039). At the lake she claims him and kisses him in front of the school (DIV-038) | [second-task](../scenes/b4/second-task.md) |
+| B4 | Fleur tests his heart with her charm, then hands Dracaena a public win (DIV-037, DIV-038) | [the-little-basilisk](../scenes/b4/the-little-basilisk.md) |
+| B4 | End of year: she refuses her father's order to cut ties, and he comes up with her cover (DIV-013, DIV-040) | |
 | B5 | The dream: happy with him, under cover (DIV-013) | |
 | B5 | After Sirius: she comforts him and promises to be there (DIV-014) | [after-sirius](../scenes/b5/after-sirius.md) |
 | B5→B6 | Voldemort shatters her walls, and her faith dies (DIV-015) | |
@@ -51,6 +65,7 @@ In B4 Sirius plants the idea of asking her to the Ball (DIV-019). He can be hars
 | B3 Harry's Patronus | The lap-pillow scene (DIV-018) | B3 |
 | B3 his turn at the lake | Her sincerity glimpsed and dismissed: Potions (DIV-017), the lap-pillow smile, her Patronus study, her unguarded smiles at the Duelling Club (DIV-028). More needed (Q-035) | B1–B3 |
 | B4 Harry asks her | Sirius's nudge (DIV-019), resting on their one encounter (DIV-018) | B3, B4 |
+| B4 Fleur's charm does nothing to him | His immunity already at the World Cup (DIV-037) | B4 |
 | B6 her broken promise | The promise (DIV-014) | B5 |
 | B6 Sectumsempra | A breakup brutal enough to lead there (DIV-015, Q-031) | B6 |
 | Her scars as a symbol of what they got over together | Sectumsempra, and his guilt (DIV-032). Her mother's marks on the page before then, for the echo to land (DIV-030) | B6; the marks: ? |

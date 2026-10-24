@@ -23,7 +23,7 @@ The dream is believing she can live outside the script, away from her family's a
 | B1 | The dream begins: she reads the tale before term and casts herself and the boy in it. On the train he refuses her. She's shocked anyone would tell her off, and the grudge begins (DIV-009, DIV-010) |
 | B1–B3 | His feats repair her opinion. If *Potter* can step outside the script, so can she (DIV-013) |
 | B3 | Her play-acting gets Buckbeak condemned, and she learns about consequences (DIV-017). 🔒 She saves him, defying her father's pettiness (DIV-003). At the lake her prince drives off a horde of demons, for her (DIV-018) |
-| B4 | Slipping into the dream: she accepts his invitation to the Yule Ball. As his Second Task hostage, she's elated (DIV-013) |
+| B4 | Slipping into the dream: she accepts his invitation to the Yule Ball. As his Second Task hostage, she's elated (DIV-013). At the end of the year she refuses her father's order to cut ties, and he comes up with her cover (DIV-040) |
 | B5 | Dreaming: she keeps her edge but is simply happy. As far as Lucius is concerned she's keeping tabs on Potter, a strategy he came up with himself at the end of B4, with the Inquisitorial Squad as cover (DIV-013). After Sirius dies she comforts Harry and promises to be there (DIV-014) |
 | B5→B6 | The death of faith: Marked, and Voldemort shatters her walls with ease. She believes her prince can't win. The dream was never real; back in the cage (DIV-015) |
 | B6 | The nightmare. She breaks up with Harry, brutally (Q-031). Sectumsempra (canon, kept) |
@@ -47,6 +47,7 @@ Motif echoes to use at the moments that carry weight, not everywhere.
 
 - **The Yule Ball** is the dance at the end of the film.
 - **The Second Task** is the enchanted sleep, with Harry crossing danger to bring her back.
+- **The little basilisk** plays princess or dragon for laughs: Fleur casts Dracaena as the villainess and concedes to "a fierce dragon" ([the-little-basilisk](../scenes/b4/the-little-basilisk.md)).
 - **Sixteen:** she turns 16 on 5 June 1996 and is Marked that summer. The Mark is the spindle.
 - **The Draught of Living Death**, the tale's curse as a potion, bookends B1 (she knows it, he doesn't) and B6 (he beats her with the Prince's notes) (DIV-011).
 - **Her Patronus** tracks the dream: mist until the Yule Ball, corporeal in the dream, gone in the nightmare, back when she wakes ([patronus](patronus.md)).

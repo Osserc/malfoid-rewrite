@@ -38,7 +38,7 @@ Canon default.
 
 - Harry Potter: her friend. She can't resonate with him: friendship isn't enough (DIV-021).
 - [Ron Weasley](ron-weasley.md): in Hufflepuff. Her cat in his dormitory turns their B3 feud into a House incident (DIV-036).
-- [Dracaena Malfoy](dracaena-malfoy.md): her rival from the first Potions lesson, where Dracaena shows her up (DIV-011). Taunts her for dropping Muggle Studies (DIV-012).
+- [Dracaena Malfoy](dracaena-malfoy.md): her rival from the first Potions lesson, where Dracaena shows her up (DIV-011). Taunts her for dropping Muggle Studies (DIV-012). From B4 she stops slurring her, for Harry's sake.
 - Crookshanks: her cat, and Black's accomplice (DIV-036).
 
 ## Arc by book
@@ -59,4 +59,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-002, Q-028, Q-042, Q-046, Q-049
+Q-002, Q-028, Q-042, Q-046, Q-049–Q-052

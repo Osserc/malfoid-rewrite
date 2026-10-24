@@ -39,17 +39,17 @@ Still open: Ron, Dumbledore, anyone else. Track in [reveals.md](reveals.md).
 
 ### Q-008 · How do they end up at the Yule Ball together? (DIV-004)
 
-*Partly answered:* Harry asks and she accepts (DIV-013). He asks because Sirius planted the idea (DIV-019).
+*Partly answered:* Harry asks and she accepts (DIV-013). He asks because Sirius planted the idea (DIV-019). They kiss for the first time at the Ball. Harry never asks Cho (DIV-041).
 
-Still open: where the relationship stands going in and coming out, and the knock-on effects for Cho, Parvati, Pansy and Ron. Going in, Harry has already shown his jealousy by beating a Durmstrang student at the Duelling Club (DIV-029).
+Still open: where the relationship stands going in and coming out, and the knock-on effects for Parvati, Pansy and Ron. Going in, Harry has already shown his jealousy by beating a Durmstrang student at the Duelling Club (DIV-029).
 
 ### Q-009 · The Second Task makes Harry's feelings public (DIV-005)
 
 The hostages are the people the champions would miss most, so choosing her says something about Harry in front of the whole school.
 
-*Partly answered:* privately, she's elated (DIV-013).
+*Partly answered:* privately, she's elated (DIV-013). In public, she claims him at the lake and kisses him in front of the school (DIV-038). Her parents already know from before the Ball (DIV-040).
 
-Still open: who made the choice, and how Harry, Slytherin, the school and her family react. Track in [reveals.md](reveals.md).
+Still open: who made the choice, and how Harry, Slytherin and the school react. Track in [reveals.md](reveals.md).
 
 ### Q-010 · Ron in B4 (DIV-005, DIV-033)
 
@@ -57,7 +57,9 @@ What's Ron's role without the hostage spot? Does the Harry–Ron falling-out sti
 
 *Partly answered (draft):* in Hufflepuff, Ron is caught between his best friend and Cedric, who is both his mentor and his House's champion. Divided loyalty, not jealousy, drives the falling-out. He can carry tips between the champions: the dragons, the egg ([ron-weasley](../characters/ron-weasley.md)).
 
-Still open: Fleur's sister. And Cedric's death: how Ron takes it, and whether it cracks the friendship going into B5.
+*Answered:* Fleur's sister. Harry still brings Gabrielle up along with his hostage (canon default), which sets up Fleur's part in B4 (DIV-038).
+
+Still open: Cedric's death: how Ron takes it, and whether it cracks the friendship going into B5.
 
 ### Q-011 · The Elder Wand and the Hallows (DIV-006, DIV-024)
 
@@ -126,13 +128,13 @@ Which year she starts, how she justifies it at home ("know your enemy"?), when L
 
 ### Q-021 · What are they to each other in B5? (DIV-013)
 
-A secret couple, secret friends, something unnamed? Who knows? What happens with Cho? And what about the DA bust, where canon Draco is the one who catches Harry?
+A secret couple, secret friends, something unnamed? Who knows? What happens with Cho? In B4 she was only ever a rival in Dracaena's head (DIV-041). And what about the DA bust, where canon Draco is the one who catches Harry?
 
 ### Q-022 · What does she feed Lucius? (DIV-013)
 
 The "keeping tabs on Potter" cover only holds if she hands over something. What does she give him, and does any of it help set the Department of Mysteries trap?
 
-*Partly answered:* the strategy is Lucius's own. He comes up with it at the end of B4, in a scene the author has in mind, and in B5 he tells Voldemort he has planted his daughter as a spy (DIV-013, DIV-020).
+*Partly answered:* the strategy is Lucius's own. He comes up with it at the end of B4, in a scene the author has in mind: he orders her to cut ties with Potter, she adamantly refuses, and he resigns himself to protecting her from herself (DIV-040). In B5 he tells Voldemort he has planted his daughter as a spy (DIV-013, DIV-020).
 
 ### Q-023 · Her B6 attempts (DIV-011, DIV-015)
 
@@ -218,17 +220,16 @@ Quidditch has to be a real avenue for their rivalry, so Seeker duels have to be 
 
 Harry's fight with the Durmstrang challenger gives Rita Skeeter prime ammunition: a violent, tormented boy.
 
-*Partly answered:* it's extra material for canon's "disturbed and dangerous" piece at the Third Task, which may move a little earlier if needed. Rita knows the fight was over Dracaena, and prints it. The author wants to milk Rita's presence a lot, and wants Lucius to discover his daughter's relationship through the Daily Prophet, of all ways.
+*Partly answered:* it's extra material for canon's "disturbed and dangerous" piece at the Third Task, which may move a little earlier if needed. Rita knows the fight was over Dracaena, and prints it. The author wants to milk Rita's presence a lot. It isn't her first story about the couple: right after the Ball she prints that they went together (DIV-040).
 
 Still open:
 - **Her source.** Dracaena wouldn't touch Rita with a ten-foot pole. Candidates: the humiliated Durmstrang student; Pansy Parkinson, miffed that after the Ball and the Second Task the two are basically a couple; or, if Pansy stays Dracaena's friend, a Slytherin girl from a rival pure-blood house who dislikes her, seeded in B1–B3.
-- **What Lucius already knows.** The Ball and the Second Task are public (Q-009). For the article to be how he finds out, he has to know the facts without knowing what they mean.
-- **The timing.** Canon puts the piece on the morning of the Third Task. That night Lucius is in the graveyard with Harry. Does it feed his end-of-B4 strategy (DIV-013, Q-022)?
+- **The timing.** Canon puts the piece on the morning of the Third Task. That night Lucius is in the graveyard with Harry. Does it feed his end-of-B4 order to cut ties (DIV-040, Q-022)?
 - **Hermione's jar.** In canon Hermione catches Rita at the end of B4 and keeps her quiet. Too late for this article. Does it protect their B5 cover (DIV-013)?
 
 ### Q-039 · Narcissa's curse and her alliance (DIV-030)
 
-- **Harry's ally.** When and how does it show? Candidates: the brooms and the books (DIV-010), the end-of-B4 strategy (DIV-013, Q-022), her B7 lie (Q-032). When does she first meet Harry as more than her daughter's rival?
+- **Harry's ally.** It shows in B4, when she confirms Lucius's suspicions before the Ball and plays Harry's advocate (DIV-040). Where else? Candidates: the brooms and the books (DIV-010), the end-of-B4 strategy (DIV-013, Q-022), her B7 lie (Q-032). When does she first meet Harry as more than her daughter's rival?
 - **Who cast the curse**, and were they caught? A Death Eater still at large could resurface after Voldemort's return.
 - **Does Dracaena know** why she's an only child? Tracked in [reveals.md](reveals.md).
 
@@ -297,6 +298,32 @@ To settle as each book is planned:
 - **The dormitory talks** between Harry and Ron, which canon uses throughout.
 
 Already covered: the Christmases (DIV-034) and Sirius's break-ins (DIV-036).
+
+### Q-050 · Does anyone notice at the World Cup? (DIV-037)
+
+The veela dazzle Ron and half the stadium, and leave Harry cold.
+
+*Partly answered:*
+- **Dracaena** notices. She knows the rule, so she knows he's in love, but she has no way of knowing it's with her. She assumes it's Cho (DIV-041).
+- **The married men.** The rule makes a test of every man in the Top Box. Arthur Weasley and Lucius Malfoy are unmoved.
+
+Still open:
+- **Hermione.** She's more perceptive, and might already work something out.
+- **Narcissa.** She's in the Top Box too. Does she notice, and is it where her "of course it's him" comes from ([the-green-dress](../scenes/b4/the-green-dress.md))?
+- **A joke.** Some *other* husband in the box gives himself away. Who?
+
+### Q-051 · The gillyweed extract (DIV-039)
+
+*Partly answered:* Harry shares what he knows about the task with her. He has no reason not to.
+
+Still open:
+- **Working it out.** Candidate: she and Hermione work out the task for him amid their bickering, which brings them to some kind of truce for Harry's sake. Then Dracaena one-ups Hermione with her potion.
+- **The gillyweed.** Where does she get it? Snape's stores, with or without uncle Severus's leave?
+- **Canon's route.** What's left of the disguised Crouch Jr steering Harry towards gillyweed, of Dobby's theft, and of Snape accusing Harry of raiding his stores?
+
+### Q-052 · Rita after the Second Task (DIV-038)
+
+In canon, Rita follows the Second Task with a Witch Weekly piece casting Hermione as a girl toying with Harry and Krum. Here the whole school has watched Dracaena claim Harry and kiss him at the lake, and Rita has already printed that they went to the Ball together (DIV-040). What does she print now, and does the Hermione–Krum angle survive?
 
 ## Answered
 

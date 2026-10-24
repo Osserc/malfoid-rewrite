@@ -42,6 +42,17 @@ A wand resonates when two people wield it in total sync, and their magic becomes
 
 Where the near-misses happen across B1–B6, and how she finds the rule: Q-028.
 
+### The veela charm *(settled)* · DIV-037
+
+A veela's charm has no hold on someone who's already in love. Canon never says either way.
+
+- **Harry** is immune by the 1994 World Cup. Fresh off the B3 lake, where she saved his godfather, he sees Dracaena again and can't explain to himself why he's happy to. He's in love before he knows it ([harry-dracaena](../threads/harry-dracaena.md)).
+- **Who knows.** It's veela lore. Fleur knows it, and so does Dracaena. Harry doesn't.
+- **Dracaena notices** at the World Cup that he's unmoved, so she knows he's in love. She has no way of knowing it's with her, and assumes it's Cho (DIV-041).
+- **The married men** in the Top Box: Arthur Weasley and Lucius Malfoy are unmoved too. Who else notices: Q-050.
+- **Fleur's test.** In B4 she turns her charm on Harry to find out whether his heart is taken (DIV-038).
+- **Separate from resonance.** It takes no wand and no sync: it's a limit of the charm, not something two people do.
+
 ## Legilimency and Occlumency *(settled)* · DIV-020
 
 - **Not mind reading.** Legilimency perceives thoughts, feelings and memories (canon). What it perceives can be shaped.

@@ -43,13 +43,17 @@ _Marauders era, the first war. Not yet worked out._
 
 ## B4 · 1994–95
 
+- **1994-08**: Quidditch World Cup. The veela don't touch Harry: he's already in love without knowing it. Dracaena notices, and assumes it's Cho. Arthur and Lucius are unmoved too. DIV-037, DIV-041, Q-050
 - **Between the visitors' arrival (1994-10-30) and the Yule Ball**: at the Duelling Club, Harry beats a Durmstrang student who has taken an interest in Dracaena, too aggressively. Rita Skeeter gets her ammunition. DIV-029
 - **Before the Yule Ball**: Sirius plants the idea of asking her. DIV-019
+- **December 1994, before the Ball**: Dracaena's owls home. Lucius suspects, and Narcissa confirms it and takes Harry's side. DIV-040
 
-- **1994-12-25**: Yule Ball. Harry asks, Dracaena accepts. DIV-004, DIV-013
+- **1994-12-25**: Yule Ball. Harry asks, Dracaena accepts. Their first kiss. DIV-004, DIV-013
+- **Right after the Ball**: Rita Skeeter prints that they went together. DIV-040
 - **After the Yule Ball**: its memory gives her her first corporeal Patronus. DIV-027
-- **1995-02-24**: Second Task. Dracaena is Harry's hostage, and the dream begins. DIV-005, DIV-013
-- **End of B4 (June 1995)**: Lucius comes up with the "keeping tabs on Potter" strategy. DIV-013, Q-022
+- **1995-02-24**: Second Task. Dracaena is Harry's hostage, and the dream begins. He goes down on her gillyweed extract; at the lake she claims him in front of the school. DIV-005, DIV-013, DIV-038, DIV-039
+- **The next three days**: Fleur's test, then her pantomime in the Great Hall. DIV-037, DIV-038
+- **End of B4 (June 1995)**: Lucius orders Dracaena to cut ties with Potter. She refuses, and he comes up with the "keeping tabs on Potter" strategy. DIV-013, DIV-040, Q-022
 - **Summer 1995**: Snape teaches Dracaena Occlumency, and sees her memories of Harry. DIV-020, DIV-031, Q-043
 
 ## B5 · 1995–96

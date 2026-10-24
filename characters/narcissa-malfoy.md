@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Dracaena's mother, her "mama" and her model of love. Soured on the Death Eaters, and Harry's ally inside the house.
 **Canon baseline:** Narcissa Malfoy, née Black. Anything not overridden follows canon.
-**Changes from canon:** DIV-010, DIV-030, DIV-031
+**Changes from canon:** DIV-010, DIV-030, DIV-031, DIV-040
 
 ## Core
 
@@ -26,7 +26,7 @@ status: draft
 
 ## Harry
 
-*(settled)* Her souring makes her Harry's ally inside the house. She understands what it means to be in love, and Harry is hardly a bad match for a Malfoy: almost a pure-blood, with a pure-blood father. Rowling's own essay on the Malfoy family says they avoided marrying within the small pure-blood pool, and half-bloods turn up throughout their family tree. When and how the alliance shows: Q-039.
+*(settled)* Her souring makes her Harry's ally inside the house. She understands what it means to be in love, and Harry is hardly a bad match for a Malfoy: almost a pure-blood, with a pure-blood father. Rowling's own essay on the Malfoy family says they avoided marrying within the small pure-blood pool, and half-bloods turn up throughout their family tree. It first shows in B4. Before the Yule Ball she picks out a dress to go with Harry, confirms Lucius's suspicions and plays Harry's advocate, and Lucius reluctantly sees her point ([the-green-dress](../scenes/b4/the-green-dress.md), DIV-040). Where else it shows: Q-039.
 
 ## Voice
 
@@ -51,7 +51,7 @@ Canon default.
 | B1 | Gets Dracaena her Muggle books (DIV-010) | | |
 | B2 | | | |
 | B3 | | | |
-| B4 | | | |
+| B4 | | Plays Harry's advocate before the Ball (DIV-040) | |
 | B5 | | | |
 | B6 | | | |
 | B7 | | | Her lie to Voldemort (Q-032) |
