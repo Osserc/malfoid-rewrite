@@ -85,6 +85,7 @@ Still open, as part of a broader B7 redesign:
 - **Her presence.** Canon Draco barely appears in B7: the Manor, then the castle. Our heroine can't be absent for most of the book, so B7 changes a lot. The Manor may not happen at all.
 - **She wakes herself** (settled, [sleeping-beauty](../threads/sleeping-beauty.md)). Her turn to Harry's side has to be her own act. The reconciliation follows it rather than causing it.
 - **Does Voldemort use her against Harry?** He saw her love in summer 1996 (DIV-015), and in B5 he used Sirius as a lever on Harry. Arrogance explains why he doesn't care she lied, not why he'd ignore the lever.
+- **What she said in the Hospital Wing** has to be answered: that he's like the Dark Lord, that she was only a body to him, that she'd rather be dead ([after-sectumsempra](../scenes/b6/after-sectumsempra.md)).
 
 ### Q-014 · Love as magic that follows rules (DIV-006, DIV-007)
 
@@ -130,17 +131,21 @@ Which year she starts, how she justifies it at home ("know your enemy"?), when L
 
 A secret couple, secret friends, something unnamed? Who knows? What happens with Cho? In B4 she was only ever a rival in Dracaena's head (DIV-041). And what about the DA bust, where canon Draco is the one who catches Harry?
 
+*Partly answered:* a secret couple that fools no one. They stage fights in front of Umbridge. From April 1996, when the Inquisitorial Squad forms (canon), she uses its privileges to take Harry to Hogsmeade on "errands", as her errand boy: their secret dates ([the-pear-perfume](../scenes/b5/the-pear-perfume.md)). Who knows, Cho and the DA bust are still open.
+
 ### Q-022 · What does she feed Lucius? (DIV-013)
 
 The "keeping tabs on Potter" cover only holds if she hands over something. What does she give him, and does any of it help set the Department of Mysteries trap?
 
-*Partly answered:* the strategy is Lucius's own. He comes up with it at the end of B4, in a scene the author has in mind: he orders her to cut ties with Potter, she adamantly refuses, and he resigns himself to protecting her from herself (DIV-040). In B5 he tells Voldemort he has planted his daughter as a spy (DIV-013, DIV-020).
+*Partly answered:* the strategy is Lucius's own. He comes up with it at the end of B4, in a scene the author has in mind: he orders her to cut ties with Potter, she adamantly refuses (throwing Harry's silence about him back at him, DIV-047), and he resigns himself to protecting her from herself (DIV-040). In B5 he tells Voldemort he has planted his daughter as a spy (DIV-013, DIV-020).
 
 ### Q-023 · Her B6 attempts (DIV-011, DIV-015)
 
 Canon Draco's attempts (the cursed necklace, the poisoned mead) are clumsy, which shows his heart isn't in it. She's competent and has lost faith. Does she try in earnest, sabotage herself without admitting it, or fail for other reasons? The mead nearly killing Ron sits here.
 
 *Partly answered:* she goes along with the plot in despair and panic, to at least save her parents (DIV-015). The attempts themselves are still open. Her mastery of Potions (DIV-031) makes a botched poisoning harder to explain away.
+
+*The necklace:* canon puts Katie Bell's cursing on the first Hogsmeade weekend, in October 1996. Canon Harry suspects Draco because in August he saw him at Borgin and Burkes, the shop where he'd seen that necklace in B2. Whether Harry sees her there decides how early he suspects her. It isn't the breakup trigger (DIV-015).
 
 ### Q-024 · Harry's Horcrux
 
@@ -181,9 +186,13 @@ Points to resolve:
 - **Lucius is in Azkaban by then.** He's arrested at the Department of Mysteries in June 1996 (canon default, relied on in [after-sirius](../scenes/b5/after-sirius.md)). His tweaking covers his own B5 meetings, but she faces Voldemort without him. Where does it happen (Voldemort first comes to the Manor in B6), and who's there? Narcissa?
 - **Voldemort sees she was never a spy.** The strategy was Lucius's (Q-022). What does Voldemort make of that, and what does it cost Lucius?
 
+Candidate (author): when she first meets Voldemort, Narcissa is trembling and holding her belly. He has tortured her for Lucius's failure, and the torture has retriggered her curse (DIV-030). It would also answer the leverage point in Q-041.
+
 ### Q-031 · The breakup (DIV-015)
 
-At the start of B6 she breaks up with Harry, brutally enough to lead in the end to Sectumsempra. How does it happen, what does she say, and what makes it that brutal? Harry's side ties into Q-024.
+A few weeks into B6 she breaks up with Harry, brutally enough to lead in the end to Sectumsempra. How does it happen, what does she say, and what makes it that brutal? Harry's side ties into Q-024.
+
+*Partly answered:* after the hollow weeks ([sleeping-beauty](../threads/sleeping-beauty.md)), Harry offers the reopened Duelling Club as a date. She refuses, and the fight ends badly ([the-breakup](../scenes/b6/the-breakup.md)). Still open: what she says, and the line one of them can't take back. Candidate (Claude): the promise she made after Sirius (DIV-014), broken out loud.
 
 ### Q-032 · Who else is in the final sequence? (DIV-023)
 
@@ -253,13 +262,13 @@ Dracaena and Hermione both notice how much Harry's new tricks resemble her techn
 His favourite pupil falls for the son of his arch-enemy. In summer 1995 the Occlumency lessons show him her memories of Harry. Open:
 - **B4:** how he reacts to the Ball and the Second Task.
 - **Summer 1995:** what he does with what he sees. Does he keep it to himself? His deniability with Lucius has to hold (DIV-020), and what Lucius knows is the author's scene (Q-022).
-- **B6:** she's Marked and in his care. Canon's Unbreakable Vow with Narcissa carries more weight with this history.
+- **B6:** she's Marked and in his care. Canon's Unbreakable Vow with Narcissa carries more weight with this history. After Sectumsempra he buries the incident and forbids Harry from going near her, on pain of death (DIV-043).
 - **The pairing:** he pairs Harry with Dracaena in Potions to punish Harry, and it ends up giving them space ([hogwarts](../setting/hogwarts.md), DIV-034). When does he see his own hand in it? Does he keep pairing them in B5, once the Occlumency lessons have shown him the result?
 
 ### Q-044 · Her scars (DIV-032)
 
-- **Extent:** beyond the one from her belly to her neck, how many, and where.
-- **Narcissa:** the scars echo her own marks (DIV-030). How does Harry's ally take him nearly killing her daughter (Q-039)?
+- **Extent:** beyond the one from her belly to her neck, how many, and where. Some stay for life and some don't ([after-sectumsempra](../scenes/b6/after-sectumsempra.md)). The curse itself is dispelled (DIV-032).
+- **Narcissa:** the scars echo her own marks (DIV-030). How does Harry's ally take him nearly killing her daughter (Q-039)? With the incident buried (DIV-043), does she even learn it was Harry? Kreacher knows, and in canon B5 he carried tales to her.
 - **Snape:** Sectumsempra is his own spell, from his own book (canon), turned on his favourite pupil by James Potter's son (Q-043).
 - **The turn:** when she starts to like them. After they're back together (Q-013)?
 
@@ -277,6 +286,8 @@ They no longer share a common room, and in term the common rooms take no guests.
 - The library.
 - Disused classrooms, plentiful in a castle a third full (DIV-035).
 - The Room of Requirement, found early. Cost: canon ties its discovery to the DA in B5. Gain: in B6 she repairs the Cabinet in the room they shared.
+
+*The pressure keeps coming back.* In B6, after Sectumsempra, Harry vanishes for four days and comes back looking like a zombie. His friends have to see it and get it out of him, with no common room to do it in (Q-057). The author flags the split trio as a complication, to work through in a dedicated session.
 
 ### Q-047 · Whole-year classes: the norm, or a reform? (DIV-034)
 
@@ -342,7 +353,46 @@ Candidate (Claude): the debrief, which can take in the corridor: she catches a f
 
 Also open: in canon Hermione never gets a turn in class. Does she in Ravenclaw's session, and does her Boggart come up in the debrief?
 
+### Q-057 · Sectumsempra's canon aftermath (DIV-043)
+
+In canon Harry gets detention for the rest of term, so he misses the last Quidditch match, and he hides the Prince's book in the Room of Requirement. The school knows. With the incident buried, what's left? How does Snape punish Harry without saying why, and what does Harry tell Ron and Hermione?
+
+*Partly answered:*
+- **Detention.** Snape gives Harry detention. Officially it's for screaming at Snape and for getting violent with Crabbe and Goyle, who bar his way to the Hospital Wing. They get off scot-free: self-defence. Candidate (author) for the screaming: he doesn't care about anything, he just wants to see her.
+- **Quidditch.** Harry is banned, one way or another.
+- **His friends.** He tells them eventually. They haven't seen him for four days, and he comes back looking like a zombie. Getting the trio together naturally is a recurring snag (Q-046).
+- **The book** still ends up in the Room of Requirement, as in canon: hiding it there is how Harry spots the diadem in B7.
+- **Her cover story** is official: an old enchanted mirror in a disused room shattered on her (DIV-043).
+
+Still open:
+- **What the detention is.** Options so far:
+  - *The leash* (Claude): every evening and every Saturday until the end of term, under Snape's eye. The point is surveillance, so Harry can't get near her; it's what he slips on day four ([after-sectumsempra](../scenes/b6/after-sectumsempra.md)). The final falls on a Saturday, so the ban comes with it.
+  - *What he does there:* nothing, sitting in silence while Snape works (Claude's pick); or pointless chores, like scrubbing cauldrons by hand.
+  - *Legilimency* before the sentence (Claude): canon has Snape use it on Harry after Sectumsempra to find where the spell came from. Ours tears through his memories of her, a taste of what Voldemort did to her.
+  - *Ruled out:* preparing her treatment (Snape would never let him help her, or trust him with it); canon's old detention records (pointless next to what he did).
+- **McGonagall** will want to know why Harry went berserk, and he can't tell her. Candidate (author): Snape won't let him see Dracaena. Claude: it works because it's true, minus one fact. Snape is her Head of House and can say she doesn't want to see Potter, which she'd confirm, and Dumbledore backs him (DIV-044). Option (Claude): the Quidditch ban comes from McGonagall herself.
+
 ## Answered
+
+### Q-060 · Does Dumbledore notice the missing name? (DIV-047)
+
+Yes, and he welcomes it. He's all about redemption, and this is Harry offering Lucius a chance, out of love for his daughter. It prompts his word to Harry about her tough spot. → DIV-046, DIV-047
+
+### Q-059 · Does Harry keep Lucius's name from Fudge? (DIV-046)
+
+Yes. Dracaena is in the hospital wing for the shouting match and sees him do it. At the end of B4 she throws it at her father when she refuses to cut ties. → DIV-047, [lucius-malfoy](../characters/lucius-malfoy.md)
+
+### Q-058 · Did Dumbledore encourage the couple? (DIV-044)
+
+Yes, more than once: to her on the eve of the Second Task, to Harry at the end of B4 and of B5, and once more in B6. → DIV-046, [harry-dracaena](../threads/harry-dracaena.md)
+
+### Q-056 · What does Harry see in the Mirror? (DIV-043)
+
+Their wedding, just for a second, before the duel, to break his heart further. She sees the Yule Ball. Even at their darkest he can see a future together, while she can't allow herself one and retreats to the past. It extends B1, where the Mirror showed him the family he lost. The Mirror shows desire, not the future, so it doesn't commit the epilogue. → [sectumsempra](../scenes/b6/sectumsempra.md)
+
+### Q-055 · Dumbledore's talk: when, on the night of the cave? (DIV-044)
+
+On the walk to Hogsmeade. Harry is angry at Snape, Dumbledore dangles adventure in front of him, and takes the chance to say something cryptic about the incident. Right after, they greet Rosmerta. No lesson: canon has none between Sectumsempra and the cave, and we don't reshuffle. Whether he encouraged the couple moved to Q-058. → [dumbledores-counsel](../scenes/b6/dumbledores-counsel.md)
 
 ### Q-040 · What keeps Lucius and Snape close? (DIV-031)
 

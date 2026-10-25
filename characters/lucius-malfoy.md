@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Dracaena's father. A Death Eater, and a skilled Occlumens.
 **Canon baseline:** Lucius Malfoy. Anything not overridden follows canon.
-**Changes from canon:** DIV-013, DIV-020, DIV-030, DIV-031, DIV-037, DIV-040
+**Changes from canon:** DIV-013, DIV-020, DIV-030, DIV-031, DIV-037, DIV-040, DIV-047
 
 ## Core
 
@@ -36,6 +36,7 @@ Before the Yule Ball, Dracaena writes home twice: to him, that she'll be attendi
 ## The spy strategy
 
 - *(settled)* At the end of B4 he orders her to cut ties with Potter, and she adamantly refuses. He resigns himself to protecting her from herself: he comes up with the "keeping tabs on Potter" strategy, and Snape teaches her Occlumency (DIV-013, DIV-020, DIV-040). The scene is one the author has in mind (Q-022).
+- *(settled)* **Harry covered for him.** After the Third Task, Harry keeps Lucius's name from Fudge, out of concern for Dracaena, and she's in the hospital wing to see it (DIV-047). When Lucius orders her to cut ties, she throws it back at him: Harry covered for you, so why can't you do it for him, and for me? For Lucius, covering for Potter means deceiving Voldemort, of all people. It calls back her noblesse oblige over Buckbeak (Q-005): a debt of honour has to be repaid. Dumbledore notices the missing name too, and welcomes it as a chance at redemption for Lucius (DIV-046).
 - In B5 he tells Voldemort he has planted his daughter as a spy on Potter (DIV-020). He meets Voldemort regularly, but never at the Manor before B6.
 - He's in Azkaban from June 1996 (canon default). That summer Voldemort sees in Dracaena's head that she was never a spy (DIV-015). What that costs Lucius: Q-030.
 
@@ -60,7 +61,7 @@ Canon default.
 | B1 | | | |
 | B2 | | | |
 | B3 | | Has Buckbeak condemned, fuelled by Dracaena's play-acting (DIV-017) | |
-| B4 | | Learns she's going to the Ball with Potter; Narcissa takes Harry's side (DIV-040) | Orders her to cut ties; she refuses, and he comes up with the spy strategy (DIV-013, DIV-040) |
+| B4 | | Learns she's going to the Ball with Potter; Narcissa takes Harry's side (DIV-040) | Orders her to cut ties; she refuses, citing Harry's silence about him (DIV-047), and he comes up with the spy strategy (DIV-013, DIV-040) |
 | B5 | Tells Voldemort his daughter is a spy (DIV-020) | | Arrested at the Department of Mysteries (canon) |
 | B6 | In Azkaban (canon) | | |
 | B7 | | | |

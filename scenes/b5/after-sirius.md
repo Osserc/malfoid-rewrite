@@ -5,7 +5,7 @@ placement: Soon after the Department of Mysteries, June 1996
 pov:
 characters: [harry-potter, dracaena-malfoy]
 threads: [harry-dracaena, sleeping-beauty]
-divergences: [DIV-014]
+divergences: [DIV-014, DIV-046]
 ---
 
 # After Sirius
@@ -16,7 +16,7 @@ The high point of the dream, and the promise that makes DIV-015 so cruel.
 
 ## Beats
 
-1. Harry has just lost Sirius.
+1. Harry has just lost Sirius. In his office, Dumbledore has told him to treasure the love he has left, and not only his friends' (DIV-046).
 2. She comforts him.
 3. She promises to be there for him, whatever happens.
 

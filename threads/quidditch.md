@@ -21,7 +21,7 @@ The game itself needs reworking to carry a real rivalry: Seeker duels have to be
 | B3 | She uses her injury to delay the match against him, to practise (DIV-017). Crabbe and Goyle pull the fake-Dementor prank at the Ravenclaw match on their own, and she disapproves (DIV-017). Her tsun excuse in the lap-pillow scene is their match. At the Ravenclaw match Harry notices Cho (canon), and Dracaena sees him do it: her evidence at the World Cup (DIV-041) | [lap-pillow](../scenes/b3/lap-pillow.md) |
 | B4 | No Quidditch (canon: cancelled for the Tournament) | |
 | B5 | Canon's post-match fight and Harry's ban need rethinking (Q-037) | |
-| B6 | | |
+| B6 | She quits the Slytherin team at the start of term, part of the death of faith (DIV-015). Canon Draco only skips the match against Gryffindor. Harry loses the sight of her flying. After Sectumsempra he's banned too, one way or another (Q-057) | |
 | B7 | | |
 
 ## Open

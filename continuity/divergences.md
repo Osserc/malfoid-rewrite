@@ -96,10 +96,10 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Ours:** An excellent potioneer, cunning, and a voracious reader on whatever grips her: poisons, the strange boy's stories. Competent and no coward, as befits wizard royalty.
   - **Potions:** the best potioneer in her year, and possibly in the castle, thanks to a six-year head start with Snape as her master (DIV-031). Hermione comes second. At least in Potions, she isn't the brightest witch of her generation.
   - **B1, the first Potions lesson:** Snape has her answer the questions Harry can't, to show her off. Hermione blurts out the answer to the third and loses points: right by the book, imprecise in practice. "Anything to add, Miss Malfoy?" Dracaena corrects her from years of experience and wins points for Slytherin. Hermione's hatred of her starts here.
-  - **B6, the first Potions lesson:** Harry beats her at the Draught of Living Death using the Prince's notes. The sixth-year Prince's tricks are experimental and less elegant than the method the adult Snape taught her, and she has no drive left to one-up Harry: her priorities are elsewhere (DIV-015). She and Hermione both notice how much his new tricks resemble her technique.
+  - **B6, the first Potions lesson:** Harry beats her at the Draught of Living Death using the Prince's notes. The sixth-year Prince's tricks are experimental and less elegant than the method the adult Snape taught her, and she has no drive left to one-up Harry: her priorities are elsewhere (DIV-015). She and Hermione both notice how much his new tricks resemble her technique. In the same lesson she knows the Amortentia and keeps her hand down (DIV-045).
 - **Why:** her skill needs a source, and Hermione needs taking down a peg.
 - **Home:** [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md)
-- **Ripples:** Q-023, Q-042 · DIV-031, DIV-034 · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md) · [scenes/b1/uncle-severus.md](../scenes/b1/uncle-severus.md)
+- **Ripples:** Q-023, Q-042 · DIV-031, DIV-034, DIV-045 · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md) · [scenes/b1/uncle-severus.md](../scenes/b1/uncle-severus.md)
 
 ### DIV-012 · Muggle Studies: Burbage's star pupil
 
@@ -116,7 +116,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Canon:** Draco's hostility toward Harry never lets up. In B5 he joins Umbridge's Inquisitorial Squad.
 - **Ours:** Harry's feats (Quirrell, the Basilisk, the Dementors) repair her opinion of him, because she prizes competence, daring and valour. So she accepts Harry's invitation to the Yule Ball, half-believing he might really be her prince. Being his Second Task hostage tips her fully into the dream. She keeps her edge, but for the rest of B4 and nearly all of B5 she's simply happy with him. Her cover is "keeping tabs on Potter", a strategy Lucius himself comes up with at the end of B4, when she refuses his order to cut ties with Potter (DIV-040), with the Inquisitorial Squad on top.
 - **Home:** [threads/sleeping-beauty.md](../threads/sleeping-beauty.md)
-- **Ripples:** Q-008, Q-009, Q-021, Q-022 · DIV-020, DIV-040 · [continuity/reveals.md](reveals.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
+- **Ripples:** Q-008, Q-009, Q-021, Q-022 · DIV-020, DIV-040 · [continuity/reveals.md](reveals.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md) · [scenes/b5/the-pear-perfume.md](../scenes/b5/the-pear-perfume.md)
 
 ### DIV-014 · End of B5: she comforts Harry after Sirius dies
 
@@ -130,9 +130,9 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 - **Status:** settled
 - **Canon:** Draco takes the Dark Mark and the mission to kill Dumbledore, as punishment for Lucius's failure. He's proud of it until it crushes him.
-- **Ours:** She is Marked and co-opted (canon default). That summer she meets Voldemort for the first time, and her Occlumency (DIV-020) is no match for him: he shatters her walls with ease. He doesn't care that she "lied". He wants obedience and people broken into submission, and her love for Potter is only more suffering to inflict. She realises her prince can't possibly win, because Voldemort is too powerful. The dream was never real. She sinks into despair and panic and goes along with the assassination plot, to at least save her parents. She's back in the cage, and the promise she just made is broken: at the start of B6 she breaks up with Harry, brutally enough to lead in the end to Sectumsempra. B6 is the nightmare.
+- **Ours:** She is Marked and co-opted (canon default), but she's never proud of it: she's broken from the outset, ashamed of the Mark and defiled by it, a constant reminder of the chains that hold her. That summer she meets Voldemort for the first time, and her Occlumency (DIV-020) is no match for him: he shatters her walls with ease. He doesn't care that she "lied". He wants obedience and people broken into submission, and her love for Potter is only more suffering to inflict. She realises her prince can't possibly win, because Voldemort is too powerful. The dream was never real. She sinks into despair and panic and goes along with the assassination plot, to at least save her parents. She's back in the cage, and the promise she just made is broken. Back at school she doesn't end it at once: for a few weeks she's distant and hollow, only physical with Harry, and she quits the Quidditch team. When Flitwick reopens the Duelling Club, Harry offers it as a date. She refuses, and their fight ends in the breakup, brutal enough to lead in the end to Sectumsempra. B6 is the nightmare.
 - **Home:** [threads/sleeping-beauty.md](../threads/sleeping-beauty.md)
-- **Ripples:** Q-013, Q-023, Q-030, Q-031 · DIV-020 · [scenes/b6/sectumsempra.md](../scenes/b6/sectumsempra.md)
+- **Ripples:** Q-013, Q-023, Q-030, Q-031 · DIV-020, DIV-028, DIV-043 · [scenes/b6/the-breakup.md](../scenes/b6/the-breakup.md) · [scenes/b6/sectumsempra.md](../scenes/b6/sectumsempra.md) · [threads/quidditch.md](../threads/quidditch.md)
 
 ### DIV-016 · B7: Burbage pleads with Dracaena
 
@@ -257,16 +257,16 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Ours:** In B3 she studies the charm for Harry, and can't cast it, not even at the lake (DIV-018). She resolves to master it but gets only mist, until the memory of the Yule Ball gives her a corporeal Patronus. After the death of faith she can't produce one in B6. At the Battle of Hogwarts, before the forest, she casts a powerful Patronus that drives off the Dementors for a while. They come back for the final duel (DIV-025). Her Patronus is a dragon.
 - **Why:** her Patronus tracks her faith in the dream. It also mirrors Harry's: his B3 Patronus runs on memories of her, and hers on memories of him.
 - **Home:** [threads/patronus.md](../threads/patronus.md)
-- **Ripples:** Q-013, Q-034 (answered) · DIV-015, DIV-018, DIV-025 · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md)
+- **Ripples:** Q-013, Q-034 (answered) · DIV-015, DIV-018, DIV-025, DIV-043 · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md)
 
 ### DIV-028 · Flitwick's Duelling Club
 
 - **Status:** settled
 - **Canon:** In B2 Lockhart starts a Duelling Club, with Snape as his assistant. Its one session ends in chaos with Draco's conjured snake and Harry speaking Parseltongue, and the club is never heard of again.
-- **Ours:** After Lockhart's disastrous first session, the students petition the teachers to keep the club going with a proper instructor, and Flitwick steps in. Harry and Dracaena become regular, evenly matched opponents: she's the better technician, he's instinctive and thrives in chaos. Over the years they learn to read each other, and come to enjoy the fights. In B4 it stays open, and the visiting students join. Early in B5 Umbridge shuts the club down, one of her first acts.
+- **Ours:** After Lockhart's disastrous first session, the students petition the teachers to keep the club going with a proper instructor, and Flitwick steps in. Harry and Dracaena become regular, evenly matched opponents: she's the better technician, he's instinctive and thrives in chaos. Over the years they learn to read each other, and come to enjoy the fights. In B4 it stays open, and the visiting students join. Early in B5 Umbridge shuts the club down, one of her first acts. In B6, with Umbridge gone, Flitwick reopens it. Harry offers it to Dracaena as a date, and her refusal leads to the breakup (DIV-015). She never comes back.
 - **Why:** it's where they come to know each other. It gives the years of duelling behind resonance a concrete home (DIV-021), and shows her sincerity in a way that sets up the B3 lake (Q-035).
 - **Home:** [threads/duelling-club.md](../threads/duelling-club.md)
-- **Ripples:** Q-028, Q-035 · DIV-021, DIV-029, DIV-034 · [threads/harry-dracaena.md](../threads/harry-dracaena.md) · [scenes/b3/lap-pillow.md](../scenes/b3/lap-pillow.md)
+- **Ripples:** Q-028, Q-035 · DIV-015, DIV-021, DIV-029, DIV-034, DIV-043 · [threads/harry-dracaena.md](../threads/harry-dracaena.md) · [scenes/b3/lap-pillow.md](../scenes/b3/lap-pillow.md)
 
 ### DIV-029 · B4: the Durmstrang challenger
 
@@ -302,13 +302,13 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 - **Status:** settled. How far the scars extend is open (Q-044).
 - **Canon:** Harry hits Draco with Sectumsempra without knowing what it does. Snape arrives, closes the wounds, and says dittany straight away may spare him even a scar.
-- **Ours:** Snape saves her, but arrives too late to prevent the scars, and she bears them for life. At least one runs from her belly to her neck, which reminds her a little of her mother's marks (DIV-030).
+- **Ours:** Snape saves her, but arrives too late to prevent the scars, and she bears them for life. He's in time to dispel the curse itself, which counter-curses and potions fight off over the following days. At least one scar runs from her belly to her neck, which reminds her a little of her mother's marks (DIV-030).
   - **Harry** didn't know what the spell would do. He can never forget the mistake he made in a moment of anger.
   - **Dracaena** goes through something similar at first, but she comes to like them, as a symbol of what they got over together. They match his lightning scar.
   - **Their game.** She sometimes uses them to guilt-trip him into doing her favours. He always kisses them when he sees them, hoping one day it'll make them disappear.
 - **Why:** the moment of anger has to cost them both something permanent, and the scars are what they get over together. Dark magic leaves lasting damage, as it does in canon (George's ear) and with Narcissa's curse (DIV-030).
 - **Home:** [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md)
-- **Ripples:** Q-024, Q-043, Q-044 · DIV-015, DIV-030 · [scenes/b6/sectumsempra.md](../scenes/b6/sectumsempra.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
+- **Ripples:** Q-024, Q-043, Q-044 · DIV-015, DIV-030, DIV-043 · [scenes/b6/sectumsempra.md](../scenes/b6/sectumsempra.md) · [scenes/b6/after-sectumsempra.md](../scenes/b6/after-sectumsempra.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
 
 ### DIV-033 · The trio split across three Houses
 
@@ -395,9 +395,9 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **Two owls.** Before the Ball, Dracaena writes home twice. Her father hears she'll be attending with Hogwarts' champion: Hogwarts has two, and she doesn't say which. Her mother is asked for the backless green dress.
   - **The Manor.** Lucius grows suspicious and questions Narcissa, who confirms it while she goes through their daughter's wardrobe for a dress to go with Harry. She plays Harry's advocate: he's a good prospect for Dracaena, and she has soured on the Death Eaters. Lucius is annoyed, but reluctantly sees her point. Narcissa sends a more modest dress.
   - **The Prophet.** Right after the Ball, Rita Skeeter prints that they went together. She'd jump at the chance.
-  - **End of B4.** Lucius orders her to cut ties with Potter, and she adamantly refuses. He resigns himself to protecting her from herself: the "keeping tabs on Potter" cover (DIV-013), and Snape's Occlumency lessons (DIV-020).
+  - **End of B4.** Lucius orders her to cut ties with Potter, and she adamantly refuses, throwing Harry's silence about him back at him (DIV-047). He resigns himself to protecting her from herself: the "keeping tabs on Potter" cover (DIV-013), and Snape's Occlumency lessons (DIV-020).
 - **Home:** [characters/lucius-malfoy.md](../characters/lucius-malfoy.md) · the Manor scene: [scenes/b4/the-green-dress.md](../scenes/b4/the-green-dress.md)
-- **Ripples:** Q-022, Q-038, Q-039 · DIV-004, DIV-013, DIV-020 · [characters/narcissa-malfoy.md](../characters/narcissa-malfoy.md) · [continuity/reveals.md](reveals.md)
+- **Ripples:** Q-022, Q-038, Q-039 · DIV-004, DIV-013, DIV-020, DIV-047 · [characters/narcissa-malfoy.md](../characters/narcissa-malfoy.md) · [continuity/reveals.md](reveals.md)
 
 ### DIV-041 · B4: Cho only in Dracaena's head
 
@@ -420,3 +420,52 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Why:** forty pupils at one Boggart is too many, and a Boggart shows your deepest fear. Lupin won't hand detractors in the other Houses ammunition: within a House, fears stay among people who share a common room. He knows what a Boggart can give away, since his own is the moon. The split also shows how far apart the Houses still are in B3.
 - **Home:** [scenes/b3/boggart-lesson.md](../scenes/b3/boggart-lesson.md)
 - **Ripples:** Q-049, Q-053, Q-054 · DIV-017, DIV-033, DIV-034
+
+### DIV-043 · B6: Sectumsempra at the Mirror, and Snape buries it
+
+- **Status:** settled
+- **Canon:** Harry finds Draco crying in Moaning Myrtle's bathroom. They duel, and Harry's Sectumsempra nearly kills him. Myrtle's screams bring Snape, who heals Draco. Harry gets detention for the rest of term and hides the Prince's book in the Room of Requirement. The school knows.
+- **Ours:**
+  - **The Mirror.** It happens in front of the Mirror of Erised, in a secluded part of the castle. She goes there to see the Yule Ball: she longs for the dream to come back. For a second, Harry sees their wedding in it (Q-056, answered). She has visited it at night since she found it. It breaks during the fight.
+  - **Kreacher.** Harry sends Kreacher for help, and Kreacher obeys in his own way: he fetches Madam Pomfrey and lets out that Harry cast Dark magic on her. Pomfrey runs to the scene and sends Kreacher for Snape, the expert.
+  - **Snape** arrives too late to prevent the scars (DIV-032), but in time to dispel the curse.
+  - **The burial.** Snape Obliviates Pomfrey, then tells her Dark magic is still at work, so her dressings are never to be changed without him present. That covers him, and keeps the Mark on her left arm out of sight. Before leaving for the site, he summons Crabbe and Goyle to the Hospital Wing as muscle to guard her; they don't know what happened. He forbids Harry from ever going near her again, on pain of death. The official story is that an old enchanted mirror in a disused room shattered on her. Harry gets detention, officially for screaming at Snape and attacking Crabbe and Goyle when they bar his way (Q-057).
+  - **Dumbledore** knows, through Snape (DIV-044).
+- **Why:** Snape is keeping Dracaena out of the spotlight. An inquiry into a Death Eater's daughter nearly killed by Dark magic, with Aurors at the castle (canon), would expose her Mark and her mission.
+- **Home:** [scenes/b6/sectumsempra.md](../scenes/b6/sectumsempra.md)
+- **Ripples:** Q-043, Q-044, Q-056 (answered), Q-057 · DIV-015, DIV-027, DIV-028, DIV-032, DIV-044 · [scenes/b6/after-sectumsempra.md](../scenes/b6/after-sectumsempra.md) · [continuity/reveals.md](reveals.md)
+
+### DIV-044 · B6: Dumbledore talks to Harry about her
+
+- **Status:** settled. What he says is draft.
+- **Canon:** As far as the books show, Dumbledore never takes Sectumsempra up with Harry.
+- **Ours:** Dumbledore knows, through Snape, and already knows her mission. He has encouraged the couple since B4 (DIV-046). Canon has no lesson between Sectumsempra and the cave, and we don't reshuffle either. That could be an excuse to leave it alone, but our Dumbledore wouldn't: on the night of the cave, on the walk to Hogsmeade, he says something cryptic to Harry about her (Q-055, answered).
+- **Why:** silence from a Dumbledore who approved of them would read as cold. It also mirrors the tower: he speaks of her to Harry knowing she has been sent to kill him.
+- **Home:** [scenes/b6/dumbledores-counsel.md](../scenes/b6/dumbledores-counsel.md)
+- **Ripples:** Q-055 (answered), Q-058 (answered) · DIV-043, DIV-046 · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
+
+### DIV-045 · B6: Harry's Amortentia smells of her
+
+- **Status:** settled
+- **Canon:** In Slughorn's first lesson, Hermione identifies Amortentia, which smells different to each person according to what attracts them. Among other things, Harry smells something flowery that he later traces to Ginny.
+- **Ours:** In the same lesson, during the hollow weeks (DIV-015), Harry smells pear and vanilla: the perfume he chose for her. She's standing beside him, wearing it, and he can't tell whether it comes from the cauldron or from her. Hermione names the potion, as in canon. Dracaena knows it at a glance and doesn't raise her hand.
+- **Why:** it puts the perfume on the page in B6, so the Hospital Wing scene lands. Her silence shows her drive is gone (DIV-011) without anyone saying so.
+- **Home:** [scenes/b6/slughorns-first-lesson.md](../scenes/b6/slughorns-first-lesson.md)
+- **Ripples:** DIV-011, DIV-015 · [scenes/b5/the-pear-perfume.md](../scenes/b5/the-pear-perfume.md) · [scenes/b6/after-sectumsempra.md](../scenes/b6/after-sectumsempra.md)
+
+### DIV-046 · Dumbledore encourages the couple
+
+- **Status:** settled. What he says each time is open.
+- **Canon:** Dumbledore takes no part in Harry's romances.
+- **Ours:** He approves of Harry and Dracaena, and encourages them more than once: to her on the eve of the Second Task, to Harry at the end of B4 and of B5, and once more in B6 (DIV-044).
+- **Home:** [threads/harry-dracaena.md](../threads/harry-dracaena.md)
+- **Ripples:** Q-058 (answered), Q-059 (answered), Q-060 (answered) · DIV-005, DIV-014, DIV-044, DIV-047 · [scenes/b4/second-task.md](../scenes/b4/second-task.md) · [scenes/b5/after-sirius.md](../scenes/b5/after-sirius.md)
+
+### DIV-047 · B4: Harry keeps Lucius's name from Fudge
+
+- **Status:** settled
+- **Canon:** In the hospital wing after the Third Task, Harry names Lucius Malfoy among the Death Eaters he saw in the graveyard. Fudge dismisses the names.
+- **Ours:** Harry keeps Lucius's name back, out of concern for Dracaena. She's in the hospital wing during his shouting match with Fudge, and sees him do it. At the end of B4, when Lucius orders her to cut ties with Potter, she throws it back at him: Harry covered for you, so why can't you do it for him, and for me? For Lucius, covering for Potter means deceiving Voldemort, of all people. Dumbledore notices the missing name and welcomes it: he's all about redemption, and this is Harry offering Lucius a chance, out of love for his daughter. It prompts his word to Harry about her tough spot (DIV-046).
+- **Why:** it calls back her noblesse oblige from B3, when she saved Buckbeak because punishing a creature for her own mistake was beneath a Malfoy (Q-005). A debt of honour has to be repaid. Fudge dismisses the names anyway, so Harry's silence costs little.
+- **Home:** [characters/lucius-malfoy.md](../characters/lucius-malfoy.md)
+- **Ripples:** Q-022, Q-059 (answered), Q-060 (answered) · DIV-003, DIV-013, DIV-040, DIV-046 · [continuity/reveals.md](reveals.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)

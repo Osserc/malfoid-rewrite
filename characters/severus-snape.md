@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Potions master, and Dracaena's private master since she was five: her "uncle Severus". Brews Narcissa's medicine. Teaches Dracaena Occlumency in summer 1995.
 **Canon baseline:** Severus Snape. Anything not overridden follows canon.
-**Changes from canon:** DIV-020, DIV-024, DIV-030, DIV-031, DIV-032
+**Changes from canon:** DIV-020, DIV-024, DIV-030, DIV-031, DIV-032, DIV-043
 
 ## Core
 
@@ -61,7 +61,7 @@ Canon default.
 | B3 | | | |
 | B4 | | | Teaches Dracaena Occlumency over the summer and sees her memories of Harry (DIV-020, Q-043) |
 | B5 | | | |
-| B6 | | Saves Dracaena from Sectumsempra, his own spell, too late to prevent the scars (DIV-032) | |
+| B6 | | Saves Dracaena from Sectumsempra, his own spell, too late to prevent the scars (DIV-032). Buries the incident, and forbids Harry from going near her on pain of death (DIV-043) | |
 | B7 | | | Killed by Voldemort for the Elder Wand: the correct move, and pointless (DIV-024) |
 
 ## Secrets

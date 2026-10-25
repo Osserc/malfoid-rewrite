@@ -19,11 +19,14 @@ Cells give the book and the scene or chapter where each party learns the truth. 
 | Snape has been her potions master since she was five | B1, the flashback | ? | Always | Lucius and Narcissa: always. Hermione, the school: ? | DIV-031 |
 | Snape loved Lily | A wink in B1: "her", never named. In full: B7 (canon) | B7, Snape's memories (canon) | ? | Dumbledore (canon) | DIV-031 |
 | Snape is the Half-Blood Prince | ? Hinted by her technique from B1, and by the resemblance in B6 (Q-042) | End of B6 (canon) | ? (Q-042) | Hermione: notices the resemblance in B6; works it out: ? | DIV-011, DIV-031, Q-042 |
-| Dracaena reads Muggle fairy tales and novels | ? | ? | B1 | Narcissa and the contact: B1. Lucius: ? | DIV-010, Q-018, Q-019 |
+| Dracaena reads Muggle fairy tales and novels | ? | By B5: she tells him about the tale she's reading, and calls herself his princess ([after-sectumsempra](../scenes/b6/after-sectumsempra.md)) | B1 | Narcissa and the contact: B1. Lucius: ? | DIV-010, Q-018, Q-019 |
 | Dracaena takes Muggle Studies | ? | ? | — | The Death Eaters: by B7 | DIV-012, Q-020 |
 | "Keeping tabs on Potter" is cover for being happy with him | ? | ? | B4 | Lucius: invents the cover at the end of B4, when she refuses to cut ties with Potter (DIV-040). Snape: summer 1995, when the Occlumency lessons show him her memories of Harry (Q-043). Voldemort: summer 1996, when he breaks her walls (DIV-015) | DIV-013, DIV-015, DIV-020, DIV-031, Q-021, Q-022, Q-043 |
 | Something is wrong inside Harry (his Horcrux) | ? | ? | In resonance near-misses, without knowing what it is | She tells no one | DIV-021, Q-024, Q-028 |
 | Resonance exists, and what it is | ? | ? | By her own research; when: Q-028 | Nobody at school. Hermione, if she witnesses it: ? | DIV-021, Q-028 |
+| Harry kept Lucius's name from Fudge | B4, the hospital wing | B4 (he did it) | B4, the hospital wing | Lucius: end of B4, from her. Dumbledore: B4, the hospital wing; he welcomes it (DIV-046). Voldemort: ? | DIV-047 |
+| Dracaena is Marked | Hinted in B6: "you wanted to mark me, too?" ([after-sectumsempra](../scenes/b6/after-sectumsempra.md)). Otherwise ? | Misses the hint in B6. Learns: ? | Summer 1996 | Voldemort, the Death Eaters, Narcissa, Snape: summer 1996 (canon). Dumbledore: through Snape (canon). Pomfrey: never; Snape keeps the arm covered (DIV-043) | DIV-015, DIV-043 |
+| Harry's Sectumsempra nearly killed her | B6, the scene | B6 | B6 | Snape, Kreacher: B6, the scene. Pomfrey: B6, then Obliviated. Dumbledore: through Snape (DIV-044). Crabbe and Goyle: never; they only guard her. Ron and Hermione: eventually, from Harry (Q-057). Narcissa: ? (Q-044). The school: never; the official story blames the Mirror (DIV-043) | DIV-032, DIV-043 |
 
 ## Feelings
 
@@ -36,6 +39,7 @@ The romance's private milestones: when each of them admits it to themselves, and
 | Dracaena admits her feelings to herself | B4: the Yule Ball, fully by the Second Task | DIV-013 |
 | Dracaena tells him | ? | |
 | Their first kiss | B4, the Yule Ball | DIV-004, Q-008 |
-| Dracaena gives up on him | Between B5 and B6. She breaks up with him at the start of B6 | DIV-015, Q-031 |
+| Dracaena gives up on him | Between B5 and B6. She breaks up with him a few weeks into B6 ([the-breakup](../scenes/b6/the-breakup.md)). She still loves him: in the Hospital Wing she's still wearing his perfume | DIV-015, Q-031 |
+| Harry gives up hope that she still loves him | B6, the Hospital Wing ([after-sectumsempra](../scenes/b6/after-sectumsempra.md)). The reader knows better | DIV-043 |
 | They're back together | B7, before the forest (how: Q-013) | DIV-022 |
 | Others see it: friends, Slytherin, the school, her family | Lucius: B4, before the Ball, from her owls home; Narcissa confirms (DIV-040). The wider world: Rita's article right after the Ball (DIV-040). The school: the Ball, then the lake (DIV-038). Friends and Slytherin: ? | Q-009, Q-021, Q-038, DIV-038, DIV-040 |

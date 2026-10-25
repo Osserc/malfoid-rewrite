@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's rival and his tsundere love interest. 🔒 DIV-001
 **Canon baseline:** Draco Malfoy. Anything not overridden follows canon Draco, adjusted for the knock-on effects of her being a daughter (Q-001).
-**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–032, DIV-038–041
+**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–032, DIV-038–041, DIV-043, DIV-045–047
 
 ## Core
 
@@ -35,7 +35,8 @@ Gifted and brave, as befits wizard royalty (DIV-011):
 - **The head start.** Six years of private lessons by the time she reaches Hogwarts, in the adult Snape's refined method.
 - **B1.** At the first Potions lesson Snape shows her off, and she outdoes Hermione, whose hatred of her starts there ([uncle-severus](../scenes/b1/uncle-severus.md)).
 - **B4.** She brews Harry a gillyweed extract for the Second Task (DIV-039, Q-051).
-- **B6.** Harry beats her at the Draught of Living Death with the Prince's notes. That isn't because the Prince is better than his own older self. The sixth-year tricks are experimental and less elegant than what she was taught, but they work, and she has no drive left to one-up Harry: her priorities are elsewhere (DIV-015). She notices how much his new tricks resemble her technique, and so does Hermione (Q-042).
+- **B6.** Harry beats her at the Draught of Living Death with the Prince's notes. That isn't because the Prince is better than his own older self. The sixth-year tricks are experimental and less elegant than what she was taught, but they work, and she has no drive left to one-up Harry: her priorities are elsewhere (DIV-015). She notices how much his new tricks resemble her technique, and so does Hermione (Q-042). In the same lesson she knows the Amortentia at a glance and doesn't raise her hand ([slughorns-first-lesson](../scenes/b6/slughorns-first-lesson.md), DIV-045).
+- **Her perfume.** She brews her own pear perfume, the one Harry picked for her in B5, adding a new note to every batch and daring him to name it. She still wears it in B6 ([the-pear-perfume](../scenes/b5/the-pear-perfume.md)).
 - **Mama's medicine.** One day she takes over brewing it in Snape's stead, a tangible sign of how far she's come (when: Q-041).
 
 ## Occlumency
@@ -48,11 +49,15 @@ Gifted and brave, as befits wizard royalty (DIV-011):
 
 ## Scars
 
-*(settled)* DIV-032. Snape saves her from Sectumsempra but arrives too late to prevent the scars, and she bears them for life. At least one runs from her belly to her neck, which reminds her a little of her mother's marks ([narcissa-malfoy](narcissa-malfoy.md)). How many more, and where: Q-044.
+*(settled)* DIV-032. Snape saves her from Sectumsempra but arrives too late to prevent the scars, and she bears them for life. He's in time to dispel the curse itself, which counter-curses and potions fight off over the following days. How it happens and how Snape buries it: [sectumsempra](../scenes/b6/sectumsempra.md) (DIV-043). At least one scar runs from her belly to her neck, which reminds her a little of her mother's marks ([narcissa-malfoy](narcissa-malfoy.md)). How many more, and where: Q-044.
 
 - **Harry** didn't know what the spell would do, and can never forget the mistake he made in a moment of anger.
 - **She** goes through something similar at first. Eventually she comes to like them, as a symbol of what they got over together. They match his lightning scar.
 - **Their game.** She sometimes uses them to guilt-trip him into doing her favours. He always kisses them when he sees them, hoping one day it'll make them disappear.
+
+## The Mark
+
+*(settled)* DIV-015. Unlike canon Draco, she's never proud of it. She's ashamed of it and feels defiled, and it reminds her constantly of the chains that hold her. In the hollow weeks she won't let Harry touch her ([sleeping-beauty](../threads/sleeping-beauty.md)).
 
 ## The tsundere engine
 
@@ -107,9 +112,9 @@ Her inner arc is the [Sleeping Beauty thread](../threads/sleeping-beauty.md).
 | B1 | Wizard royalty, used to flattery | Called a princess, sincerely, by a nameless boy; reads the tale. Refused on the train (DIV-009, DIV-010) | Holds a grudge: she'll prove he's nothing special |
 | B2 | | His feats start to repair her opinion (DIV-013). The Duelling Club under Flitwick: evenly matched with Harry (DIV-028) | |
 | B3 | Milking the injury; her play-acting gets Buckbeak condemned (DIV-017) | 🔒 Saves Buckbeak (DIV-003). Confesses the swarm at the lake; flies Buckbeak to Sirius (DIV-018) | Owes Harry; her prince drove off the demons for her |
-| B4 | | 🔒 Accepts his invitation to the Yule Ball, the turning point (DIV-004, DIV-013). 🔒 His Second Task hostage (DIV-005); claims him in front of the school (DIV-038) | In the dream. Refuses her father's order to cut ties, and he comes up with the spy strategy (DIV-013, DIV-040) |
+| B4 | | 🔒 Accepts his invitation to the Yule Ball, the turning point (DIV-004, DIV-013). 🔒 His Second Task hostage (DIV-005); claims him in front of the school (DIV-038) | In the dream. Refuses her father's order to cut ties, throwing Harry's silence about him back at him, and he comes up with the spy strategy (DIV-013, DIV-040, DIV-047) |
 | B5 | Learns Occlumency from Snape over the summer (DIV-020). Dreaming, under cover (DIV-013) | Comforts him after Sirius and promises to be there (DIV-014) | Marked. Voldemort shatters her walls; faith dead (DIV-015) |
-| B6 | Back in the cage. Breaks up with Harry, brutally (DIV-015) | The nightmare. Sectumsempra scars her for life (DIV-032) | |
+| B6 | Back in the cage. The hollow weeks, then she breaks up with Harry when he offers the reopened Duelling Club (DIV-015) | The nightmare. Sectumsempra, in front of the Mirror of Erised, scars her for life (DIV-032, DIV-043) | |
 | B7 | | Burbage pleads with her (DIV-016). Back with Harry (Q-013); he tells her never to give up hope (DIV-022) | Challenges Voldemort alone. 🔒 Duels him at Harry's side, with her wand (DIV-006, DIV-023) |
 
 ## Secrets

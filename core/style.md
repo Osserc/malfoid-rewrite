@@ -18,6 +18,8 @@ British English spelling and terminology (canon default).
 
 _Open._ Not afraid of the hard beats (Sectumsempra, Burbage).
 
+*(settled)* B6 turns much darker, on purpose, as canon does: the shadow war becomes a real one.
+
 ## Prose rules
 
 _Open._

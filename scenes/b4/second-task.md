@@ -5,7 +5,7 @@ placement: The Second Task, 24 February 1995
 pov: harry-potter
 characters: [harry-potter, dracaena-malfoy, fleur-delacour, gabrielle-delacour]
 threads: [harry-dracaena, sleeping-beauty]
-divergences: [DIV-005, DIV-013, DIV-038, DIV-039]
+divergences: [DIV-005, DIV-013, DIV-038, DIV-039, DIV-046]
 sketch: ../../sketches/b4/the-little-basilisk.md
 ---
 
@@ -17,7 +17,7 @@ Shows, in front of the whole school, who Harry would miss most. It comes two mon
 
 ## Beats
 
-1. 🔒 Dracaena is taken as Harry's hostage, in Ron's place.
+1. 🔒 Dracaena is taken as Harry's hostage, in Ron's place. *(settled)* On the eve, when Dumbledore puts the hostages to sleep (canon), he has a word with her (DIV-046). What he says is open.
 2. *(settled)* He goes down on a gillyweed extract she brewed for him, not the raw weed (DIV-039).
 3. Harry rescues her (canon default). The sight of her in the enchanted sleep stops him in his tracks. *(settled)* Fleur never reaches her sister, so he brings Gabrielle up too (canon default).
 4. *(settled)* She's elated at being his treasure. She keeps her edge, but from here she's dreaming (DIV-013).

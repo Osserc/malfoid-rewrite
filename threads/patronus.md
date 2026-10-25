@@ -21,7 +21,7 @@ Dracaena's Patronus, and how it mirrors Harry's. Hers tracks her faith in the dr
 | B4 | *(draft)* At the First Task she projects herself a little onto the dragon Harry flies around, before she knows what her Patronus is | |
 | B4 | Still only mist, until the Yule Ball. That memory gives her a corporeal Patronus (DIV-004) | [yule-ball](../scenes/b4/yule-ball.md) |
 | B5 | Corporeal, while she's in the dream | |
-| B6 | After the death of faith she can't produce one (DIV-015) | |
+| B6 | After the death of faith she can't produce one (DIV-015). The Yule Ball, the memory that gave her one, is now a wish she watches in the Mirror of Erised (DIV-043) | [sectumsempra](../scenes/b6/sectumsempra.md) |
 | B7 | At the Battle of Hogwarts, before the forest, a powerful Patronus drives the Dementors off the defenders for a while. Voldemort calls them back for the final duel (DIV-025) | |
 
 ## Setups → payoffs

@@ -51,25 +51,33 @@ _Marauders era, the first war. Not yet worked out._
 - **1994-12-25**: Yule Ball. Harry asks, Dracaena accepts. Their first kiss. DIV-004, DIV-013
 - **Right after the Ball**: Rita Skeeter prints that they went together. DIV-040
 - **After the Yule Ball**: its memory gives her her first corporeal Patronus. DIV-027
+- **1995-02-23**: the eve of the Second Task. Dumbledore has a word with Dracaena as he puts the hostages to sleep. DIV-046
 - **1995-02-24**: Second Task. Dracaena is Harry's hostage, and the dream begins. He goes down on her gillyweed extract; at the lake she claims him in front of the school. DIV-005, DIV-013, DIV-038, DIV-039
 - **The next three days**: Fleur's test, then her pantomime in the Great Hall. DIV-037, DIV-038
-- **End of B4 (June 1995)**: Lucius orders Dracaena to cut ties with Potter. She refuses, and he comes up with the "keeping tabs on Potter" strategy. DIV-013, DIV-040, Q-022
+- **1995-06-24**: Third Task. Afterwards, in the hospital wing, Harry keeps Lucius's name from Fudge, with Dracaena there. DIV-047
+- **End of B4 (June 1995)**: Dumbledore, who noticed the missing name and welcomes it, tells Harry she's in a very tough spot. DIV-046, DIV-047
+- **End of B4 (June 1995)**: Lucius orders Dracaena to cut ties with Potter. She refuses, throwing Harry's silence about him back at him, and he comes up with the "keeping tabs on Potter" strategy. DIV-013, DIV-040, DIV-047, Q-022
 - **Summer 1995**: Snape teaches Dracaena Occlumency, and sees her memories of Harry. DIV-020, DIV-031, Q-043
 
 ## B5 · 1995–96
 
 - **1995-09**: Umbridge shuts down the Duelling Club, one of her first acts. DIV-028
 - **1995–96**: Lucius meets Voldemort regularly, never at the Manor, and tells him he has planted his daughter as a spy. DIV-020
+- **From 1996-04**: the Inquisitorial Squad forms after Dumbledore's flight (canon). She uses its privileges to take Harry to Hogsmeade on "errands": their secret dates. He picks her pear perfume. DIV-013, [the-pear-perfume](../scenes/b5/the-pear-perfume.md)
 - **1996-06-05**: Dracaena turns 16.
-- **1996-06**: Department of Mysteries. Sirius dies; Lucius is arrested (canon). Soon after, she comforts Harry and promises to be there for him. DIV-014
+- **1996-06**: Department of Mysteries. Sirius dies; Lucius is arrested (canon). In his office Dumbledore tells Harry to treasure the love he has left (DIV-046). Soon after, she comforts Harry and promises to be there for him. DIV-014
 - **Summer 1996**: She is Marked and meets Voldemort for the first time. He shatters her Occlumency with ease, and her faith dies. Lucius is in Azkaban (Q-030). DIV-015
 
 ## B6 · 1996–97
 
-- **1996-09**, start of term: she breaks up with Harry, brutally. DIV-015, Q-031
-- **1996-09**: First Potions lesson with Slughorn. Harry beats her at the Draught of Living Death using the Prince's notes. She and Hermione both notice his tricks resemble her technique. DIV-011, Q-042
+- **1996-09**, start of term: she's distant and hollow, only physical with Harry, keeps disappearing, and quits the Quidditch team. DIV-015
+- **1996-09**: First Potions lesson with Slughorn. Harry smells her perfume in the Amortentia, and she doesn't bother to name it. Harry beats her at the Draught of Living Death using the Prince's notes. She and Hermione both notice his tricks resemble her technique. DIV-011, DIV-045, Q-042
+- **Late 1996-09** (tentative): Flitwick reopens the Duelling Club. Harry offers it as a date; she refuses, and their fight ends in the breakup. DIV-015, DIV-028, Q-031, [the-breakup](../scenes/b6/the-breakup.md)
 - **1996–97**: she can't cast a Patronus. DIV-027
-- **Spring 1997**: Sectumsempra. Snape saves her too late to prevent the scars, which she bears for life. DIV-032
+- **Spring 1997**: Sectumsempra, at night, in front of the Mirror of Erised, which breaks in the fight. Snape saves her too late to prevent the scars, which she bears for life, and buries the incident. DIV-032, DIV-043
+- **The same night**: Harry follows her to the Hospital Wing and attacks Crabbe and Goyle when they bar his way. In the days after he begs Snape, screams at him, and gets detention. Q-057
+- **Four days later**: Harry gets past Snape and visits her in the Hospital Wing. [after-sectumsempra](../scenes/b6/after-sectumsempra.md)
+- **The night of the cave**, end of term: on the walk to Hogsmeade, Dumbledore says something cryptic to Harry about her. DIV-044
 
 ## B7 · 1997–98
 
