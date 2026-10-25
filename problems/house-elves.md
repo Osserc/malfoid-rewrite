@@ -15,9 +15,9 @@ House-elves are a sentient species bound in hereditary servitude, and most of th
 
 ## Options
 
-_Not discussed yet._
+*The author's idea*, to be worked through in its own session: house-elves are spirits of the hearth made manifest, corrupted and enslaved by magic centuries ago, and no one remembers it. They can't leave their ancestral house for long without permission, and their existence is tied to the hearth and their masters. A freed elf fades away unless a new master accepts it. Dobby asks Harry to take him; Harry accepts, and calls him a friend. Ripples to trace then: Dobby's freeing in B2, Winky in B4, SPEW, Kreacher.
 
-*Direction from the author:* house-elves won't stay a permanent slave underclass. The author has an idea for them, out of scope for now, which may tie into the way out of the wizarding decline (Q-048). Until then, elf labour doesn't quietly prop up the economy (DIV-035).
+*Direction from the author:* house-elves won't stay a permanent slave underclass. The idea above may tie into the way out of the wizarding decline (Q-048). Until then, elf labour doesn't quietly prop up the economy (DIV-035).
 
 ## Resolution
 
@@ -25,4 +25,4 @@ _Open._
 
 ## Ripples
 
-Q-016 · Q-018 (Dobby is one option for fetching Dracaena's Muggle books) · Q-048 · DIV-035
+DIV-050 (Dobby's bond with the Manor, his limits, his death) · Q-016 · Q-018 (Dobby is one option for fetching Dracaena's Muggle books) · Q-048 · DIV-035
