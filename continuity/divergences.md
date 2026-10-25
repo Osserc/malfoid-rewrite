@@ -223,7 +223,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Ours:** While Voldemort taunts Neville, Dracaena steps forward and challenges him to a duel, taking up the mantle of the boy she loves. She's outmatched. Their spells ricochet, Neville kills Nagini (canon), and a brawl breaks out. She's wounded, and McGonagall, Slughorn and Shacklebolt cover her and are overwhelmed. She's back on her feet with her wand on Voldemort when Harry, risen in the chaos, walks up behind her, wandless and smiling, and closes his hand over hers on her wand. They stare Voldemort down and duel him in resonance (DIV-021). He throws everything at them, Legilimency included, along with the risen dead and the Dementors, which Neville and the DA hold off (DIV-025). He ends up cornered. His Killing Curse meets their Expelliarmus and rebounds. No wand technicalities decide it (DIV-024): together, they are simply stronger.
 - **Note:** expands 🔒 DIV-006 without changing it.
 - **Home:** [scenes/b7/final-duel.md](../scenes/b7/final-duel.md)
-- **Ripples:** Q-011, Q-013, Q-014, Q-029, Q-032, Q-062 · DIV-025, DIV-026, DIV-048
+- **Ripples:** Q-011, Q-013, Q-014, Q-029, Q-032, Q-062 (answered) · DIV-025, DIV-026, DIV-048, DIV-051, DIV-052
 
 ### DIV-024 · No wand allegiance
 
@@ -474,7 +474,52 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 - **Status:** settled
 - **Canon:** At King's Cross, Harry can go on or go back. He goes back because the work isn't finished, and returning may spare others.
-- **Ours:** He goes back for Dracaena. Not to finish the job, not to beat Voldemort: he wants his girl, and she's out there alone. That's what keeps him going. He goes back to stand with her, not to rescue her (DIV-023).
+- **Ours:** He goes back for Dracaena. Not to finish the job, not to beat Voldemort: he wants his girl, and she's out there alone. That's what keeps him going. He goes back to stand with her, not to rescue her (DIV-023). He stays in the in-between while Voldemort plays with his body and Hagrid carries it to the castle, and comes back for her stand. Nobody has to lie about his death: Narcissa isn't in the forest (DIV-052).
 - **Why:** it completes his arc, from dying for the purpose Dumbledore handed him to living for the girl he loves. His death protects no one and he was never really chosen (DIV-026), so going back for the job would leave him Dumbledore's instrument to the end.
 - **Home:** [scenes/b7/kings-cross.md](../scenes/b7/kings-cross.md)
-- **Ripples:** Q-061, Q-062 · DIV-022, DIV-023, DIV-026 · [continuity/reveals.md](reveals.md) · [core/themes.md](../core/themes.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
+- **Ripples:** Q-061, Q-062 (answered) · DIV-022, DIV-023, DIV-026, DIV-049, DIV-052 · [continuity/reveals.md](reveals.md) · [core/themes.md](../core/themes.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
+
+### DIV-049 · B7: the raid on Malfoy Manor
+
+- **Status:** settled. What destroys the locket, and the meeting itself, are open (Q-063, Q-064).
+- **Canon:** In spring, Snatchers catch the trio and drag them to Malfoy Manor. Bellatrix tortures Hermione, and Dobby gets everyone out.
+- **Ours:** Harry and Hermione go in on purpose at Christmas, with Dobby, looking for something in the Manor's Dark collection that can destroy the locket. Harry has a second motive: to apologise to Dracaena and find out whether he's out of her life for good. Inside, he breaks from the plan to find her. The raid frees the prisoners and the Malfoys, and the Death Eaters believe that was its purpose, so they never think to alert Gringotts.
+- **Why:** B7 can't keep Dracaena offstage until the end (Q-013). The raid brings her back halfway through, and Harry dropping the plan for her rehearses King's Cross (DIV-048).
+- **Home:** [scenes/b7/malfoy-manor.md](../scenes/b7/malfoy-manor.md)
+- **Ripples:** Q-013, Q-049, Q-063, Q-064, Q-065 · DIV-048, DIV-050, DIV-051, DIV-052 · [continuity/reveals.md](reveals.md)
+
+### DIV-050 · B7: Dobby dies of exhaustion
+
+- **Status:** settled. What elves are is open ([problems/house-elves.md](../problems/house-elves.md)).
+- **Canon:** Dobby Apparates everyone out of Malfoy Manor and dies on arrival at Shell Cottage, hit by Bellatrix's thrown knife.
+- **Ours:** He spends himself ferrying people out on his own Apparition, though he warned them he can't carry many: first the prisoners, then the Malfoys, his former masters, because Harry asked him to save "his family". Harry, last out, holds off Bellatrix and the others. Then Dobby has nothing left, and crumbles into dust.
+- **Why:** his death becomes a choice made out of love, not a stray knife.
+- **Home:** [scenes/b7/malfoy-manor.md](../scenes/b7/malfoy-manor.md)
+- **Ripples:** DIV-049, DIV-052 · [problems/house-elves.md](../problems/house-elves.md)
+
+### DIV-051 · B7: the sword stays at Hogwarts, and Ron comes back at the Manor
+
+- **Status:** settled
+- **Canon:** Snape's doe leads Harry to the sword in a frozen pool in the Forest of Dean. Ron, back through the Deluminator, pulls him out and destroys the locket with it. Griphook later takes the sword as his price for Gringotts.
+- **Ours:** Snape never brings the sword. It stays at Hogwarts, waiting in the Hat for Neville (canon). Ron's Deluminator brings him back straight into the Manor raid, where he fights side by side with Harry: his redemption for leaving.
+- **Why:** we don't need the sword. The Manor has what the locket needs (Q-064).
+- **Home:** [scenes/b7/malfoy-manor.md](../scenes/b7/malfoy-manor.md)
+- **Ripples:** Q-064 · DIV-023, DIV-049 · [characters/ron-weasley.md](../characters/ron-weasley.md)
+
+### DIV-052 · B7: Dracaena wakes, and the Malfoys defect
+
+- **Status:** settled. Whether Dobby's death is what turns her parents is draft. The meeting itself: Q-063.
+- **Canon:** The Malfoys stay in Voldemort's camp, disgraced. In the forest Narcissa lies about Harry's death to reach Draco, and at the end they look for him rather than fight.
+- **Ours:** During the Manor raid Dracaena decides to fight, and asks Harry to get her parents out too: once Voldemort and Bellatrix learn she's gone they'll kill them, and she won't leave without them. From then on she stays at Harry's side. Lucius and Narcissa turn against Voldemort and are at Hogwarts for the battle, so Narcissa never goes to the forest. The Death Eaters know they defected and keep it quiet.
+- **Why:** she can't stay offstage until the final duel. She has to wake herself, but where B6 leaves her she's a walking dead, and she can't do it without Harry's initiative. The choice to fight is still hers.
+- **Home:** [threads/sleeping-beauty.md](../threads/sleeping-beauty.md) (her waking) · [scenes/b7/malfoy-manor.md](../scenes/b7/malfoy-manor.md) (the raid)
+- **Ripples:** Q-013, Q-032, Q-063 · DIV-022, DIV-023, DIV-048, DIV-050 · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md) · [characters/narcissa-malfoy.md](../characters/narcissa-malfoy.md) · [continuity/reveals.md](reveals.md)
+
+### DIV-053 · B7: Lucius and Narcissa fight Bellatrix
+
+- **Status:** settled. Whether they're enough, and who finishes her, is open (Q-066).
+- **Canon:** In the Great Hall Bellatrix duels Hermione, Ginny and Luna at once, and Molly kills her. The Malfoys don't fight.
+- **Ours:** Lucius and Narcissa fight Bellatrix. Neville sees the fight and lets her go (DIV-025).
+- **Why:** it's their own stand in the climax, against Narcissa's sister. It follows from their defection (DIV-052).
+- **Home:** [scenes/b7/final-duel.md](../scenes/b7/final-duel.md)
+- **Ripples:** Q-032, Q-066 · DIV-025, DIV-052 · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md) · [characters/narcissa-malfoy.md](../characters/narcissa-malfoy.md)

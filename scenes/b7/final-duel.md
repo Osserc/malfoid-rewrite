@@ -3,9 +3,9 @@ status: draft
 book: 7
 placement: Battle of Hogwarts, 2 May 1998. From Harry's return as a "corpse" to Voldemort's death
 pov:
-characters: [harry-potter, dracaena-malfoy, lord-voldemort, neville-longbottom, minerva-mcgonagall, horace-slughorn, kingsley-shacklebolt, bellatrix-lestrange, godric-gryffindor]
+characters: [harry-potter, dracaena-malfoy, lord-voldemort, neville-longbottom, minerva-mcgonagall, horace-slughorn, kingsley-shacklebolt, bellatrix-lestrange, lucius-malfoy, narcissa-malfoy, godric-gryffindor]
 threads: [harry-dracaena, sleeping-beauty]
-divergences: [DIV-006, DIV-021, DIV-023, DIV-024, DIV-025, DIV-026, DIV-027, DIV-048]
+divergences: [DIV-006, DIV-021, DIV-023, DIV-024, DIV-025, DIV-026, DIV-027, DIV-048, DIV-051, DIV-052, DIV-053]
 ---
 
 # The Final Duel
@@ -20,7 +20,7 @@ All beats are *(settled)*, part of DIV-023, unless marked 🔒 or *(draft)*.
 
 ### Her stand
 
-1. Harry is shown dead (canon; Narcissa's part: Q-032). *(draft)* Voldemort has Harry's wand broken and shown with his body (Q-029).
+1. Harry is shown dead. He's still in the in-between, so he feels none of Voldemort's games with his body (DIV-048). Narcissa isn't in the forest: she and Lucius are at Hogwarts (DIV-052). *(draft)* Voldemort has Harry's wand broken and shown with his body (Q-029).
 2. While Voldemort taunts Neville, Dracaena steps forward and challenges him to a duel. Tears in her eyes and fury in her heart, she takes up the mantle of the boy she loves and fights in his stead.
 3. Voldemort taunts her, and she'll have none of it. He's impressed by her skill, but she's outmatched.
 4. Their spells start ricocheting. In the confusion Neville kills Nagini with Gryffindor's sword (canon), and the brawl breaks out.
@@ -51,8 +51,16 @@ All settled, part of DIV-025. It runs alongside beats 13–16.
 - **N2.** Neville stands against them with his own wand and the sword of Gryffindor, holding the creatures off the duellists. The sword burns through the Inferi (why it burns: Neville's enchantment, or *Goblin silver* below). He keeps going as his injuries mount.
 - **N3.** Surrounded, he goes down on one knee and hears the voice of Godric Gryffindor, along the lines of "If you fall here, all will be lost. So stand your ground, heir of Gryffindor!" (Wording to polish.)
 - **N4.** He gets back up and rallies the DA. They raise walls of flame against the Inferi, and together they shield Harry and Dracaena from the horde and buy them time to finish Voldemort.
-- **N5.** He sees Bellatrix in a duel (who she's fighting: Q-032) and doesn't go after her, because his friends need him. He too chooses love and justice over vengeance.
+- **N5.** He sees Bellatrix in a duel (with Lucius and Narcissa, DIV-053) and doesn't go after her, because his friends need him. He too chooses love and justice over vengeance.
 - **N6.** He survives.
+
+### Bellatrix's line
+
+All settled, part of DIV-053.
+
+- Lucius and Narcissa fight Bellatrix: their own stand, against Narcissa's sister.
+- Whether they're enough is open. She's Voldemort's best, and at the Manor she may outfight Harry and Ron together ([malfoy-manor](malfoy-manor.md), draft). Who else steps in, or finishes her: Q-066.
+- Not Neville: he sees the fight and lets her go (N5, DIV-025).
 
 ## Mechanics
 
@@ -92,4 +100,4 @@ All settled, part of DIV-025. It runs alongside beats 13–16.
 
 ## Open
 
-Q-011 (the Elder Wand) · Q-013 (how she gets to his side) · Q-014 (resonance and sacrifice) · Q-028 (seeding resonance) · Q-029 (Harry's wand) · Q-032 (who else is there) · Q-033 (the dead) · Q-062 (when Harry comes back)
+Q-011 (the Elder Wand) · Q-013 (how she gets to his side) · Q-014 (resonance and sacrifice) · Q-028 (seeding resonance) · Q-029 (Harry's wand) · Q-032 (who else is there) · Q-033 (the dead) · Q-066 (who finishes Bellatrix)

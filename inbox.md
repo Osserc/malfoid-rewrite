@@ -2,7 +2,6 @@
 
 Raw ideas, not yet accepted. Nothing here is canon. When an idea is accepted, move it to its home through the decision workflow in `CLAUDE.md` and delete it from here.
 
-- **Narcissa and Lucius duel Bellatrix** at the Battle of Hogwarts, if they're still alive by then. Their own stand in the climax, against Narcissa's sister. (Q-032)
 - **B2: Dracaena witnesses Harry kill the Basilisk** with the sword of Gryffindor. Hearing about it is nothing next to seeing it: a killshot for her heart, to capitalise on later. How she gets into the Chamber is open.
 - **Lucius and Snape after the fall.** Both stay out of Azkaban while the rest go in, so to the loyalists both are traitors. The curse that hit Narcissa could as easily have been meant for Snape. (Q-040)
 - **Her fairy tales at Hogwarts.** She brings them along. Someone in the Slytherin common room catches her rereading *Sleeping Beauty*, asks why the pictures don't move, and spots the scribbles in the margins. It can stay a small hint of how deep the tale went with her, or grow into something more. Snag: a Muggle book in the Slytherin common room puts her secret at risk (DIV-010). Who asks matters (Pansy?), and so does when: after B3, Muggle Studies is a cover ("know your enemy", Q-020). The margins habit comes from Snape (DIV-031).

@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Dracaena's mother, her "mama" and her model of love. Soured on the Death Eaters, and Harry's ally inside the house.
 **Canon baseline:** Narcissa Malfoy, née Black. Anything not overridden follows canon.
-**Changes from canon:** DIV-010, DIV-030, DIV-031, DIV-040
+**Changes from canon:** DIV-010, DIV-030, DIV-031, DIV-040, DIV-052, DIV-053
 
 ## Core
 
@@ -54,7 +54,7 @@ Canon default.
 | B4 | | Plays Harry's advocate before the Ball (DIV-040) | |
 | B5 | | | |
 | B6 | | | |
-| B7 | | | Her lie to Voldemort (Q-032) |
+| B7 | | Defects with Lucius during the Manor raid, when her daughter turns (DIV-052) | At Hogwarts for the battle, not in the forest: no lie (DIV-052). Fights her sister Bellatrix with Lucius (DIV-053) |
 
 ## Secrets
 

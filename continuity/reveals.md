@@ -28,6 +28,8 @@ Cells give the book and the scene or chapter where each party learns the truth. 
 | Dracaena is Marked | Hinted in B6: "you wanted to mark me, too?" ([after-sectumsempra](../scenes/b6/after-sectumsempra.md)). Otherwise ? | Misses the hint in B6. Learns: ? | Summer 1996 | Voldemort, the Death Eaters, Narcissa, Snape: summer 1996 (canon). Dumbledore: through Snape (canon). Pomfrey: never; Snape keeps the arm covered (DIV-043) | DIV-015, DIV-043 |
 | Harry's Sectumsempra nearly killed her | B6, the scene | B6 | B6 | Snape, Kreacher: B6, the scene. Pomfrey: B6, then Obliviated. Dumbledore: through Snape (DIV-044). Crabbe and Goyle: never; they only guard her. Ron and Hermione: eventually, from Harry (Q-057). Narcissa: ? (Q-044). The school: never; the official story blames the Mirror (DIV-043) | DIV-032, DIV-043 |
 | Harry went back from King's Cross for her | B7, [kings-cross](../scenes/b7/kings-cross.md) | B7 (he chose it) | ? (Q-061) | ? (Q-061) | DIV-048, Q-061 |
+| The Manor raid was for a way to destroy Horcruxes | B7, [malfoy-manor](../scenes/b7/malfoy-manor.md) | B7 (his plan) | ? | Hermione, Ron, Dobby: B7. The Death Eaters: never; they think it was a rescue (DIV-049) | DIV-049 |
+| The Malfoys defected | B7, [malfoy-manor](../scenes/b7/malfoy-manor.md) | B7, the Manor | B7, the Manor | The Death Eaters: at once. The public: kept from it | DIV-052 |
 
 ## Feelings
 
@@ -42,5 +44,5 @@ The romance's private milestones: when each of them admits it to themselves, and
 | Their first kiss | B4, the Yule Ball | DIV-004, Q-008 |
 | Dracaena gives up on him | Between B5 and B6. She breaks up with him a few weeks into B6 ([the-breakup](../scenes/b6/the-breakup.md)). She still loves him: in the Hospital Wing she's still wearing his perfume | DIV-015, Q-031 |
 | Harry gives up hope that she still loves him | B6, the Hospital Wing ([after-sectumsempra](../scenes/b6/after-sectumsempra.md)). The reader knows better | DIV-043 |
-| They're back together | B7, before the forest (how: Q-013) | DIV-022 |
+| They're back together | B7, the Manor at Christmas (the meeting: Q-063) | DIV-049, DIV-052 |
 | Others see it: friends, Slytherin, the school, her family | Lucius: B4, before the Ball, from her owls home; Narcissa confirms (DIV-040). The wider world: Rita's article right after the Ball (DIV-040). The school: the Ball, then the lake (DIV-038). Friends and Slytherin: ? | Q-009, Q-021, Q-038, DIV-038, DIV-040 |

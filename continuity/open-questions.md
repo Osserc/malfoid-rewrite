@@ -73,19 +73,19 @@ Still open:
   - Retcon: Grindelwald kills Gregorovitch. Doesn't fix Dumbledore, and changes canon's B7 visions of Voldemort hunting Gregorovitch.
   - Claude's proposal: the wand serves at full strength only for someone who killed its previous owner, and in anyone else's hand it's just a very good wand. Grindelwald and Dumbledore held it asleep (Dumbledore by choice: he refused to kill Grindelwald). Snape's kill wakes it, and it underperforms for Voldemort, as in canon, until he kills Snape. No retcons needed. The author isn't convinced yet.
 - **Who masters it after the final duel.** Proposal: no one, since Voldemort dies by his own rebounded curse.
-- **What's left of the Hallows plot.**
+- **What's left of the Hallows plot.** *Author's direction:* the Hallows are a red herring, and their moral, accepting death, runs against ours: living for love (DIV-048). They're Dumbledore's story, not ours ([themes](../core/themes.md)).
 
 ### Q-013 · How does Dracaena end up at Harry's side? (DIV-006, DIV-015)
 
 Her path through B6 and B7: Death Eater pressure, her family, Malfoy Manor, the Battle of Hogwarts. She starts from the cage of DIV-015: how does she wake?
 
-*Partly answered:* they're back together by the time Harry walks to the forest (DIV-022).
+*Partly answered:* they're back together by the time Harry walks to the forest (DIV-022). They reconcile at Christmas, when Harry comes to the Manor to apologise: she decides to fight and joins him, and her parents defect (DIV-049, DIV-052). The meeting itself: Q-063.
 
 Still open, as part of a broader B7 redesign:
-- **Her presence.** Canon Draco barely appears in B7: the Manor, then the castle. Our heroine can't be absent for most of the book, so B7 changes a lot. The Manor may not happen at all.
-- **She wakes herself** (settled, [sleeping-beauty](../threads/sleeping-beauty.md)). Her turn to Harry's side has to be her own act. The reconciliation follows it rather than causing it.
+- **Her presence.** Canon Draco barely appears in B7: the Manor, then the castle. Our heroine can't be absent for most of the book, so B7 changes a lot. *Partly answered:* she joins Harry at Christmas (DIV-052), so she's there for the second half. The first half is still open.
+- **She wakes herself** (settled, [sleeping-beauty](../threads/sleeping-beauty.md)). Where B6 leaves her she's a walking dead, and she can't wake without Harry's initiative. Deciding to fight is her own act (DIV-052).
 - **Does Voldemort use her against Harry?** He saw her love in summer 1996 (DIV-015), and in B5 he used Sirius as a lever on Harry. Arrogance explains why he doesn't care she lied, not why he'd ignore the lever.
-- **What she said in the Hospital Wing** has to be answered: that he's like the Dark Lord, that she was only a body to him, that she'd rather be dead ([after-sectumsempra](../scenes/b6/after-sectumsempra.md)).
+- **What she said in the Hospital Wing** has to be answered, at the Manor (Q-063).
 
 ### Q-014 · Love as magic that follows rules (DIV-006, DIV-007)
 
@@ -172,13 +172,14 @@ The hard part. Across B1–B6 we have to orchestrate moments where resonance hap
 - **How it builds.** The rungs (face to face, side by side, one wand) are scrapped as underdeveloped. The mechanics stay vague until a dedicated session. Fixed points so far: a first flicker at the B3 lake, with love already there, however vague (DIV-018), and one wand in two hands in the final duel (🔒 DIV-006).
 - **The lake and the stained soul.** Does the flicker count as a near-miss that hurts her?
 - **The near-misses** where the stained soul hurts her. Candidate: B5, when Harry is failing Occlumency with Snape and she, an Occlumens, tries to help him and recoils. That also keeps the Department of Mysteries trap working.
+- **The Manor** *(draft candidate)*: a near-miss in battle in B7, against Bellatrix, with two wands, broken by the stained soul. Harry and Ron, strong as a pair, set the contrast ([malfoy-manor](../scenes/b7/malfoy-manor.md)).
 - **How and when she finds the rule.** A teacher might allude to it in passing (Flitwick, perhaps in B1) and point her to where to look. Flitwick runs the Duelling Club from B2 (DIV-028), a natural place for it.
 - **Hermione as a witness** during the school years, if needed. She can't resonate herself (DIV-021).
 - **The author's further hook** for the feud that makes the shared radicals possible.
 
 ### Q-029 · Harry's wand (DIV-023)
 
-Harry is wandless when he rises. *(draft)* Voldemort has his wand picked up and broken, and shown alongside his body. The alternative is that it's simply left where he fell. In canon the holly wand breaks at Godric's Hollow and Harry fights with Draco's, so which wand he carries into the forest depends on the B7 redesign (Q-013). Also: does he get a wand of his own again afterwards?
+Harry is wandless when he rises. *(draft)* Voldemort has his wand picked up and broken, and shown alongside his body. The alternative is that it's simply left where he fell. In canon the holly wand breaks at Godric's Hollow and Harry fights with Draco's, so which wand he carries into the forest depends on the B7 redesign (Q-013). Also: does he get a wand of his own again afterwards? If Godric's Hollow goes (Q-065), so does the canon break. In canon Harry also takes Draco's wand at the Manor; ours keeps hers for the final duel (DIV-006, DIV-049).
 
 ### Q-030 · Her first meeting with Voldemort (DIV-015, DIV-020)
 
@@ -196,9 +197,9 @@ A few weeks into B6 she breaks up with Harry, brutally enough to lead in the end
 
 ### Q-032 · Who else is in the final sequence? (DIV-023)
 
-- **Narcissa.** In canon she asks Harry whether Draco is alive, then declares him dead. Does her lie stay, and does she then watch her daughter's challenge knowing Harry is alive? By then she's Harry's ally (DIV-030), which gives the lie a second reason.
-- **Bellatrix.** Her niece challenges her master. Where is she, and where does Molly vs Bellatrix go? Inbox idea: Narcissa and Lucius duel her. Whoever faces her, Neville sees the fight and lets her go (DIV-025).
-- **Lucius, and the Slytherins**, who in canon are sent away before the battle. In canon Voldemort takes Lucius's wand at the start of B7.
+- **Narcissa.** *Answered:* she isn't in the forest. She and Lucius defected at Christmas and are at Hogwarts for the battle (DIV-052), so canon's lie goes. Harry needs none: he's still in the in-between (DIV-048).
+- **Bellatrix.** *Partly answered:* Lucius and Narcissa fight her (DIV-053). Who finishes her: Q-066.
+- **Lucius, and the Slytherins**, who in canon are sent away before the battle. In canon Voldemort takes Lucius's wand at the start of B7. Lucius is at Hogwarts for the battle (DIV-052): with what wand?
 - **Neville's hat.** Does Dracaena step in while the hat burns on his head? If the sword takes in the hat's fire (a proposal in [final-duel](../scenes/b7/final-duel.md)), the burning stays.
 
 ### Q-033 · The dead of the Battle of Hogwarts (DIV-025)
@@ -301,7 +302,7 @@ Wizarding Britain is shrinking, and Voldemort's war made it worse. After the war
 
 To settle as each book is planned:
 - **B1:** the House Cup ending, with Dumbledore's last-minute points split across three Houses. Neville standing up to friends who aren't his housemates any more.
-- **B2:** the Polyjuice trip into the Slytherin common room, which likely changes anyway with Dracaena there.
+- **B2:** the Polyjuice trip into the Slytherin common room, which likely changes anyway with Dracaena there. Whatever replaces it has to keep Harry learning from her that the Manor hides Dark things: B7 relies on it (DIV-049).
 - **B4:** the falling-out, which canon plays out in their shared dormitory (Q-010).
 - **B5:** Ron and Hermione as prefects of their own Houses. Ron as Hufflepuff's Keeper.
 - **B6:** Ron and Lavender, a Gryffindor.
@@ -378,16 +379,48 @@ In canon, King's Cross is mostly Dumbledore explaining: the Horcrux in Harry and
 - **Who's there.** Dumbledore, as in canon, someone else, or no one, so the choice is Harry's alone.
 - **What it still has to explain**, now that the Hallows and the protection are gone. Ties in with Q-014: why Lily's sacrifice protected Harry when his protects no one.
 - **Does she ever learn** he came back for her? Does he tell her?
+- **How he knows** she's fighting alone: he sees her, senses her through resonance, or something else (Q-062, answered).
+
+### Q-063 · Their meeting at the Manor (DIV-049, DIV-052)
+
+How Harry's apology turns into her waking. Needs brainstorming.
+
+Set:
+- **Him.** He isn't there to whisk her away. He doesn't believe she wants him anymore. He owes her an apology and needs to know whether he's out of her life for good. He won't let the flight from the tower, or a battlefield, be their last meeting.
+- **Her.** She's a walking dead. She can't wake without his initiative, but deciding to fight, and asking him to get her family out, are her own acts.
+- **The Hospital Wing.** What she said there has to be answered here: that he's like the Dark Lord, that she was only a body to him, that she'd rather be dead ([after-sectumsempra](../scenes/b6/after-sectumsempra.md)).
+
+Open:
+- What he says, and what reaches her. Deserves a session of its own.
+- *Author's lean:* Harry is looking for a reason to live, and her not wanting him dead may be his only hope. His friends can't fill that: they give him belonging, she gives him desire ([themes](../core/themes.md)).
+- *Already leaving* (Claude): the author's notes have her parents planning to run. If she has already decided to go when he arrives, what he changes is flight into fight. The author sees merit in it, in some form.
+
+### Q-064 · The raid's open points (DIV-049, DIV-051)
+
+- **What destroys the locket.** Something in the Manor's Dark collection. Canon's means are basilisk venom and Fiendfyre. Who uses it on the locket? In canon, destroying it is Ron's catharsis.
+- **Her room.** How Harry knows the way: she described it once, or Dobby scouts it (the author's lean). If Dobby fetched her Muggle books (Q-018), he knows the room and her.
+- **The cellar.** Who's held there. In canon Luna is taken off the train home for Christmas, and Ollivander has been there since the summer. Griphook and Dean are caught with the trio in canon.
+- **Gringotts.** Without the sword, Griphook has nothing to ask for, and Bellatrix never panics over her vault, which is how canon finds the cup. Claude's proposals: the Malfoys supply the lead (Lucius once kept the diary for the Dark Lord, and Narcissa knows her sister), and they pay Griphook in goblin-made heirlooms returned to goblin hands, with no Imperius. The cover holds either way: the Death Eaters have no reason to alert Gringotts (DIV-049).
+
+### Q-065 · Godric's Hollow (DIV-049)
+
+In canon Harry and Hermione go on Christmas Eve: Bathilda and Nagini's trap, his parents' grave, the Peverell grave, and his wand breaking (Q-029). The Manor raid now takes Christmas. The author's lean: skip it, or change it a lot, perhaps with a visit after Dracaena joins. With the Hallows a red herring (Q-011), little of it has to stay.
+
+### Q-066 · Who finishes Bellatrix? (DIV-053)
+
+Lucius and Narcissa fight her (settled). But she's Voldemort's best witch, and stronger than canon's: at the Manor she may outfight Harry and Ron together (draft, [malfoy-manor](../scenes/b7/malfoy-manor.md)). Whoever beats her has to be believable. Options:
+- **Lucius and Narcissa alone**, if they're enough.
+- **Molly**, as in canon, after Bellatrix nearly kills Ginny.
+- **Tonks and Remus**, depending on whether we spare them or have them die here (in canon both die in the battle).
+- **Someone else with a grudge.**
+
+Not Neville: he holds the line around Harry and Dracaena (DIV-025). Also open: what wand Lucius fights with (Q-032).
+
+## Answered
 
 ### Q-062 · When does Harry come back? (DIV-048, DIV-023)
 
-In canon Harry wakes in the forest straight after King's Cross and plays dead: Narcissa checks him, Hagrid carries him to the castle, and he slips under the Cloak when the battle restarts. Ours has him rise in the chaos after Dracaena has challenged Voldemort, been wounded and stood up again (DIV-023). If he's conscious through her stand and lies still, that undercuts DIV-048: he came back for her, then let her fight alone.
-- *King's Cross lasts* (Claude's pick): his body is carried to the castle while he's still away, and her stand is what he goes back for. How he'd know (seeing her, sensing her through resonance) is open.
-- *Canon timing*, with a reason he can't move yet.
-
-Ties in with Q-029 (his wand) and Q-032 (Narcissa's part).
-
-## Answered
+King's Cross lasts. He's still in the in-between while Voldemort plays with his body and Hagrid carries it to the castle, and he comes back for her stand. Narcissa isn't in the forest, so there's no lie (DIV-052). → [kings-cross](../scenes/b7/kings-cross.md)
 
 ### Q-060 · Does Dumbledore notice the missing name? (DIV-047)
 

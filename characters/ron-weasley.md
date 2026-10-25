@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's best friend. Sorted into Hufflepuff, where Cedric Diggory takes him under his wing.
 **Canon baseline:** Ron Weasley. Anything not overridden follows canon.
-**Changes from canon:** DIV-033, DIV-036
+**Changes from canon:** DIV-033, DIV-036, DIV-051
 
 ## Core
 
@@ -55,7 +55,7 @@ Canon default.
 | B4 | | Torn between Harry and Cedric (Q-010) | Cedric dies |
 | B5 | | | |
 | B6 | | | |
-| B7 | | Leaves the tent (canon) | Comes back |
+| B7 | | Leaves the tent (canon) | Comes back through the Deluminator, straight into the Malfoy Manor raid, and fights beside Harry (DIV-051) |
 
 ## Secrets
 

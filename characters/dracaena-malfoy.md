@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's rival and his tsundere love interest. 🔒 DIV-001
 **Canon baseline:** Draco Malfoy. Anything not overridden follows canon Draco, adjusted for the knock-on effects of her being a daughter (Q-001).
-**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–032, DIV-038–041, DIV-043, DIV-045–047
+**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–032, DIV-038–041, DIV-043, DIV-045–047, DIV-049, DIV-052
 
 ## Core
 
@@ -115,7 +115,7 @@ Her inner arc is the [Sleeping Beauty thread](../threads/sleeping-beauty.md).
 | B4 | | 🔒 Accepts his invitation to the Yule Ball, the turning point (DIV-004, DIV-013). 🔒 His Second Task hostage (DIV-005); claims him in front of the school (DIV-038) | In the dream. Refuses her father's order to cut ties, throwing Harry's silence about him back at him, and he comes up with the spy strategy (DIV-013, DIV-040, DIV-047) |
 | B5 | Learns Occlumency from Snape over the summer (DIV-020). Dreaming, under cover (DIV-013) | Comforts him after Sirius and promises to be there (DIV-014) | Marked. Voldemort shatters her walls; faith dead (DIV-015) |
 | B6 | Back in the cage. The hollow weeks, then she breaks up with Harry when he offers the reopened Duelling Club (DIV-015) | The nightmare. Sectumsempra, in front of the Mirror of Erised, scars her for life (DIV-032, DIV-043) | |
-| B7 | | Burbage pleads with her (DIV-016). Back with Harry (Q-013); he tells her never to give up hope (DIV-022) | Challenges Voldemort alone. 🔒 Duels him at Harry's side, with her wand (DIV-006, DIV-023) |
+| B7 | | Burbage pleads with her (DIV-016). At Christmas Harry comes to the Manor to apologise; she decides to fight, and with his help gets her family out (DIV-049, DIV-052). Before the forest he tells her never to give up hope (DIV-022) | Challenges Voldemort alone. 🔒 Duels him at Harry's side, with her wand (DIV-006, DIV-023) |
 
 ## Secrets
 

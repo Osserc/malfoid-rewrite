@@ -6,6 +6,21 @@ status: draft
 
 What the rewrite is about, and what the change to Dracaena is for.
 
+## The thesis *(settled)*
+
+Romantic love is a different kind of thing from friendship and family love, not just a stronger version of them.
+
+- **Belonging.** The Weasleys, Hermione and Hagrid are Harry's found family. They make him feel welcome and accepted.
+- **Desire.** Dracaena gives him what they can't: she wants him. She went from "you're an eyesore" to "you make my life worth living". Being loved and desired like that is what gives him a reason to live.
+- **It runs both ways.** She makes him better and gives him a reason to improve, and he does the same for her.
+- **Not a put-down of friendship.** His friends are his family and they matter. They just do a different thing.
+
+Where it shows:
+- **The magic.** Resonance needs it: friendship can't resonate (DIV-021).
+- **King's Cross.** He goes back because he wants his girl, not for the job (DIV-048).
+- **The Manor.** Possibly how their meeting turns: he's looking for a reason to live, and her not wanting him dead may be his only hope (Q-063).
+- **The Hallows are demoted.** Mastering death by accepting it is Dumbledore's story, not ours (Q-011).
+
 ## Why a daughter
 
 _Open._ What making Draco a girl lets the story say that canon couldn't. See Q-001.
@@ -26,7 +41,7 @@ The four leads cover all four Houses: Harry in Gryffindor, Ron in Hufflepuff, He
 
 ## Love as a literal force (DIV-006)
 
-The series ends with love working as actual magic: resonance (DIV-021). It's literally the power of love, and only love, since friendship isn't enough. Together, Harry and Dracaena are never disarmed: they're each other's strength. That only lands if it has been a theme, and a rule, all along. See Q-014 and Q-028.
+The series ends with love working as actual magic: resonance (DIV-021). It's literally the power of love, and only love, since friendship isn't enough (why: *The thesis*, above). Together, Harry and Dracaena are never disarmed: they're each other's strength. That only lands if it has been a theme, and a rule, all along. See Q-014 and Q-028.
 
 ## The Chosen One isn't enough *(settled)* · DIV-026
 

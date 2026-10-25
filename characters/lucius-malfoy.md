@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Dracaena's father. A Death Eater, and a skilled Occlumens.
 **Canon baseline:** Lucius Malfoy. Anything not overridden follows canon.
-**Changes from canon:** DIV-013, DIV-020, DIV-030, DIV-031, DIV-037, DIV-040, DIV-047
+**Changes from canon:** DIV-013, DIV-020, DIV-030, DIV-031, DIV-037, DIV-040, DIV-047, DIV-052, DIV-053
 
 ## Core
 
@@ -64,7 +64,7 @@ Canon default.
 | B4 | | Learns she's going to the Ball with Potter; Narcissa takes Harry's side (DIV-040) | Orders her to cut ties; she refuses, citing Harry's silence about him (DIV-047), and he comes up with the spy strategy (DIV-013, DIV-040) |
 | B5 | Tells Voldemort his daughter is a spy (DIV-020) | | Arrested at the Department of Mysteries (canon) |
 | B6 | In Azkaban (canon) | | |
-| B7 | | | |
+| B7 | | Defects during the Manor raid, when his daughter turns (DIV-052) | At Hogwarts for the battle; fights Bellatrix with Narcissa (DIV-053) |
 
 ## Secrets
 

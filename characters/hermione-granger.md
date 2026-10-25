@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's friend, Sorted into Ravenclaw. Second to Dracaena in Potions, and hates her for it.
 **Canon baseline:** Hermione Granger. Anything not overridden follows canon.
-**Changes from canon:** DIV-011, DIV-012, DIV-018, DIV-021, DIV-033, DIV-036
+**Changes from canon:** DIV-011, DIV-012, DIV-018, DIV-021, DIV-033, DIV-036, DIV-049
 
 ## Core
 
@@ -51,7 +51,7 @@ Canon default.
 | B4 | | | |
 | B5 | | | |
 | B6 | | Notices Harry's new tricks resemble Dracaena's technique (Q-042) | |
-| B7 | | | |
+| B7 | | Plans the Malfoy Manor raid with Harry and Dobby (DIV-049) | |
 
 ## Secrets
 

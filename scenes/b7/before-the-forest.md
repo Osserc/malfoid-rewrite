@@ -18,7 +18,7 @@ Their goodbye, and the hope that carries her through the final sequence (DIV-023
 
 All beats are *(settled)*, part of DIV-022.
 
-1. Harry has seen Snape's memories and is walking to the forest to die. He and Dracaena are back together by now (how: Q-013).
+1. Harry has seen Snape's memories and is walking to the forest to die. He and Dracaena are back together by now, since the Manor raid ([malfoy-manor](malfoy-manor.md), DIV-052).
 2. In canon he can't stop for Ginny. Here he stops for her.
 3. He tells her never to give up hope.
 4. He has a faint hope of his own. He has few reasons for it, but Dumbledore is one man and may be wrong, and didn't he always tell them to keep faith and be brave? With that glimmer he marches to his death.
@@ -36,4 +36,4 @@ The payoff is King's Cross, where he goes back for her ([kings-cross](kings-cros
 
 ## Open
 
-Q-013 (how they got back together)
+Q-063 (how they got back together)

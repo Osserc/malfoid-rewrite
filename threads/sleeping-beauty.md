@@ -12,7 +12,7 @@ Dracaena's private fairy tale. It begins with one sincere compliment, and it car
 - **The books:** she wants to know what he saw, so Narcissa's contact brings her "a lot" of Muggle books (DIV-010). Who the contact is: Q-018.
 - **The versions:** Harry knows only the Disney film. She owns many versions of the tale, plus a picture book of the film, which is where she finds the purple-eyed princess and realises what he saw when he looked at her. The written versions don't match his: no purple eyes, no dragon, and Perrault's carries on past the wedding into a nightmare.
 - **Her voice:** she tuts at the silly Muggles who got real magic wrong. Poisons and sleeping draughts interest her as much as the stories do.
-- **Our Sleeping Beauty is active** *(settled)*. She saves Buckbeak, she's a competent witch, and by the end she isn't woken: she wakes herself and holds the wand (DIV-006).
+- **Our Sleeping Beauty is active** *(settled)*. She saves Buckbeak, she's a competent witch, and by the end she isn't woken: she wakes herself and holds the wand (DIV-006). She can't wake from nothing, though. By B7 she's a walking dead, and it takes Harry's initiative to reach her: he comes to the Manor to apologise. The choice to fight, and to ask him for help for her family, is hers (DIV-052).
 
 ## The dream and the nightmare
 
@@ -27,7 +27,7 @@ The dream is believing she can live outside the script, away from her family's a
 | B5 | Dreaming: she keeps her edge but is simply happy. As far as Lucius is concerned she's keeping tabs on Potter, a strategy he came up with himself at the end of B4, with the Inquisitorial Squad as cover (DIV-013). From April she takes him to Hogsmeade on Squad "errands" ([the-pear-perfume](../scenes/b5/the-pear-perfume.md)). After Sirius dies she comforts Harry and promises to be there (DIV-014) |
 | B5→B6 | The death of faith: Marked, and Voldemort shatters her walls with ease. She believes her prince can't win. The dream was never real; back in the cage (DIV-015) |
 | B6 | The nightmare. The hollow weeks, then she breaks up with Harry when he offers the reopened Duelling Club (DIV-015, Q-031). Sectumsempra, in front of the Mirror of Erised, where she goes to see the Yule Ball (DIV-043). In the Hospital Wing she casts him as the Dark Lord's like ([after-sectumsempra](../scenes/b6/after-sectumsempra.md)) |
-| B7 | The bottom: Burbage pleads with her and she can't act (DIV-016). Waking: Q-013. Before the forest, Harry tells her never to give up hope (DIV-022). When he's shown dead she doesn't despair: she challenges Voldemort herself (DIV-023). 🔒 The final duel (DIV-006) |
+| B7 | The bottom: Burbage pleads with her and she can't act (DIV-016). Waking: at Christmas Harry comes to the Manor to apologise, and she decides to fight and gets her family out with his help (DIV-049, DIV-052; the meeting: Q-063). Before the forest, Harry tells her never to give up hope (DIV-022). When he's shown dead she doesn't despair: she challenges Voldemort herself (DIV-023). 🔒 The final duel (DIV-006) |
 
 ### The death of faith *(settled)* · DIV-015
 
