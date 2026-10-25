@@ -42,4 +42,4 @@ Harry opens the way to Voldemort's destruction, but he can't destroy him alone, 
 | B4 | _open_ |
 | B5 | _open_ |
 | B6 | _open_ |
-| B7 | _open_. Candidate: refusing despair. Canon's B7 is about accepting death. Ours turns on her keeping faith where in B6 she gave in (DIV-015, DIV-022) |
+| B7 | _open_. Candidate: refusing despair. Canon's B7 is about accepting death. Ours turns on her keeping faith where in B6 she gave in (DIV-015, DIV-022), and on Harry choosing to live: he walks to his death for Dumbledore's plan, and at King's Cross goes back for her, not for the job (DIV-048) |

@@ -27,6 +27,7 @@ Cells give the book and the scene or chapter where each party learns the truth. 
 | Harry kept Lucius's name from Fudge | B4, the hospital wing | B4 (he did it) | B4, the hospital wing | Lucius: end of B4, from her. Dumbledore: B4, the hospital wing; he welcomes it (DIV-046). Voldemort: ? | DIV-047 |
 | Dracaena is Marked | Hinted in B6: "you wanted to mark me, too?" ([after-sectumsempra](../scenes/b6/after-sectumsempra.md)). Otherwise ? | Misses the hint in B6. Learns: ? | Summer 1996 | Voldemort, the Death Eaters, Narcissa, Snape: summer 1996 (canon). Dumbledore: through Snape (canon). Pomfrey: never; Snape keeps the arm covered (DIV-043) | DIV-015, DIV-043 |
 | Harry's Sectumsempra nearly killed her | B6, the scene | B6 | B6 | Snape, Kreacher: B6, the scene. Pomfrey: B6, then Obliviated. Dumbledore: through Snape (DIV-044). Crabbe and Goyle: never; they only guard her. Ron and Hermione: eventually, from Harry (Q-057). Narcissa: ? (Q-044). The school: never; the official story blames the Mirror (DIV-043) | DIV-032, DIV-043 |
+| Harry went back from King's Cross for her | B7, [kings-cross](../scenes/b7/kings-cross.md) | B7 (he chose it) | ? (Q-061) | ? (Q-061) | DIV-048, Q-061 |
 
 ## Feelings
 

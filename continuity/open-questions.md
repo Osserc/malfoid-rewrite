@@ -372,6 +372,21 @@ Still open:
   - *Ruled out:* preparing her treatment (Snape would never let him help her, or trust him with it); canon's old detention records (pointless next to what he did).
 - **McGonagall** will want to know why Harry went berserk, and he can't tell her. Candidate (author): Snape won't let him see Dracaena. Claude: it works because it's true, minus one fact. Snape is her Head of House and can say she doesn't want to see Potter, which she'd confirm, and Dumbledore backs him (DIV-044). Option (Claude): the Quidditch ban comes from McGonagall herself.
 
+### Q-061 · King's Cross: what's left of it? (DIV-048)
+
+In canon, King's Cross is mostly Dumbledore explaining: the Horcrux in Harry and why he survived, the Hallows and his own past, then the choice to go on or go back. Some of that is already gone or changed: the Hallows and wand allegiance (DIV-024, Q-011), and the sacrifice's protection (DIV-026). Points to resolve:
+- **Who's there.** Dumbledore, as in canon, someone else, or no one, so the choice is Harry's alone.
+- **What it still has to explain**, now that the Hallows and the protection are gone. Ties in with Q-014: why Lily's sacrifice protected Harry when his protects no one.
+- **Does she ever learn** he came back for her? Does he tell her?
+
+### Q-062 · When does Harry come back? (DIV-048, DIV-023)
+
+In canon Harry wakes in the forest straight after King's Cross and plays dead: Narcissa checks him, Hagrid carries him to the castle, and he slips under the Cloak when the battle restarts. Ours has him rise in the chaos after Dracaena has challenged Voldemort, been wounded and stood up again (DIV-023). If he's conscious through her stand and lies still, that undercuts DIV-048: he came back for her, then let her fight alone.
+- *King's Cross lasts* (Claude's pick): his body is carried to the castle while he's still away, and her stand is what he goes back for. How he'd know (seeing her, sensing her through resonance) is open.
+- *Canon timing*, with a reason he can't move yet.
+
+Ties in with Q-029 (his wand) and Q-032 (Narcissa's part).
+
 ## Answered
 
 ### Q-060 · Does Dumbledore notice the missing name? (DIV-047)

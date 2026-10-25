@@ -32,6 +32,8 @@ He stops for her. "Never give up hope." She trusts him without knowing what he's
 
 His hope doesn't cheapen the sacrifice, as long as he'd go without it. The sacrifice counts because he's willing, not because he's certain. His hope also makes what he tells her honest.
 
+The payoff is King's Cross, where he goes back for her ([kings-cross](kings-cross.md), DIV-048). Stopping for her is the seed.
+
 ## Open
 
 Q-013 (how they got back together)

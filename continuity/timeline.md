@@ -82,6 +82,6 @@ _Marauders era, the first war. Not yet worked out._
 ## B7 · 1997–98
 
 - **1997-07**: Malfoy Manor. Burbage pleads with Snape and with Dracaena before she's killed. DIV-016
-- **1998-05-02**: Battle of Hogwarts. Her Patronus drives off the Dementors for a while (DIV-027). After Snape's memories, Harry stops for Dracaena on his way to the forest and tells her never to give up hope (DIV-022). With Harry shown dead, she challenges Voldemort. Harry rises and joins her, and together they defeat him (DIV-006, DIV-023), while Neville and the DA hold off the risen dead and the Dementors (DIV-025)
+- **1998-05-02**: Battle of Hogwarts. Her Patronus drives off the Dementors for a while (DIV-027). After Snape's memories, Harry stops for Dracaena on his way to the forest and tells her never to give up hope (DIV-022). With Harry shown dead, she challenges Voldemort. Harry, who went back for her at King's Cross (DIV-048), rises and joins her, and together they defeat him (DIV-006, DIV-023), while Neville and the DA hold off the risen dead and the Dementors (DIV-025)
 
 ## After

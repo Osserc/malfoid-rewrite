@@ -15,7 +15,7 @@ His side: like canon, he wants little to do with her and regrets ever being kind
 - **The Patronus lessons:** she spies on them and studies the charm for him. In the lap-pillow scene he catches her smiling at him. He writes the scene off as a prank and won't count it as a happy memory until the lake, but he keeps going back to that smile and finding it very pretty, which confuses him (DIV-018).
 - **The lake:** it all adds up. She stole Buckbeak to save him, the smile and the Patronus study weren't jokes, and now she's trying to drive the Dementors off herself. There's something more to this girl (DIV-018).
 
-By the World Cup in summer 1994 he's already in love without knowing it. Fresh off the lake, where she saved his godfather, he sees her again and can't explain to himself why he's happy to, and the veela don't touch him (DIV-037). In B4 Sirius plants the idea of asking her to the Ball (DIV-019), and she's the only one he asks: Cho never comes into it (DIV-041). He can be harsher than canon, with his Horcrux playing a bigger part (Q-024). In B6 he spends the whole year angry over the breakup, and his heart isn't in Dumbledore's lessons.
+By the World Cup in summer 1994 he's already in love without knowing it. Fresh off the lake, where she saved his godfather, he sees her again and can't explain to himself why he's happy to, and the veela don't touch him (DIV-037). In B4 Sirius plants the idea of asking her to the Ball (DIV-019), and she's the only one he asks: Cho never comes into it (DIV-041). He can be harsher than canon, with his Horcrux playing a bigger part (Q-024). In B6 he spends the whole year angry over the breakup, and his heart isn't in Dumbledore's lessons. In B7 he walks to the forest to die for Dumbledore's plan, and at King's Cross he goes back for her, not for the job (DIV-048).
 
 ## Cho, only in her head *(settled)* · DIV-041
 
@@ -70,6 +70,7 @@ He approves of them, and encourages them more than once. What he says each time 
 | B6 | In the Hospital Wing she casts him as the Dark Lord's like and offers him her body with contempt. His last hope dies | [after-sectumsempra](../scenes/b6/after-sectumsempra.md) |
 | B6 | On the night of the cave, on the walk to Hogsmeade, Dumbledore talks to Harry about her (DIV-044) | [dumbledores-counsel](../scenes/b6/dumbledores-counsel.md) |
 | B7 | Back together (Q-013). On his way to the forest he stops for her and tells her never to give up hope (DIV-022) | [before-the-forest](../scenes/b7/before-the-forest.md) |
+| B7 | At King's Cross he goes back for her: not for the job, not for Voldemort (DIV-048) | [kings-cross](../scenes/b7/kings-cross.md) |
 | B7 | With Harry shown dead, she challenges Voldemort. Harry rises and joins her, his hand over hers on her wand (DIV-023). 🔒 They duel Voldemort together; their "love" rebounds the Killing Curse (DIV-006) | [final-duel](../scenes/b7/final-duel.md) |
 
 ## Setups → payoffs
@@ -90,6 +91,7 @@ He approves of them, and encourages them more than once. What he says each time 
 | He kisses her scars (DIV-032) | His dead hope of kissing them better | B6, [after-sectumsempra](../scenes/b6/after-sectumsempra.md) |
 | B7 back together (Q-013) | What she said in the Hospital Wing, to be answered (Q-013) | B6 |
 | B7 she challenges Voldemort | Her B6 despair, to be reversed (DIV-015). "Never give up hope" (DIV-022) | B6, B7 |
+| B7 he goes back for her (DIV-048) | Stopping for her on the way to the forest (DIV-022). Earlier signs that she's what he lives for, not only whom he loves | B7, [before-the-forest](../scenes/b7/before-the-forest.md); earlier: ? |
 | B7 love rebounds the curse | Resonance: its rule, what it takes, and that it can fail (DIV-021) | B1–B6 (Q-028) |
 | B7 his hand over hers on her wand | Resonance building across the books, kept vague for now (DIV-021, Q-028). Harry wandless (Q-029) | B1–B6 (Q-028), B7 |
 | B7 full resonance only after the forest | Near-misses spoiled by the stained soul (DIV-021, Q-024) | B1–B6 (Q-028) |

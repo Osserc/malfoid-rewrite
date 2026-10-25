@@ -214,7 +214,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Canon:** After Snape's memories, Harry walks to the Forbidden Forest to die. He tells Neville to kill the snake and passes Ginny without stopping, because if he stopped he couldn't leave.
 - **Ours:** By then Harry and Dracaena are back together. He stops for her and tells her never to give up hope. He has a faint hope himself: Dumbledore is one man and may be wrong. With that glimmer he marches to his death. She doesn't know exactly what's going to happen, but she trusts him and prepares for the worst. Whatever happens, she won't fall into despair as she did in B6.
 - **Home:** [scenes/b7/before-the-forest.md](../scenes/b7/before-the-forest.md)
-- **Ripples:** Q-013 · DIV-015, DIV-023
+- **Ripples:** Q-013 · DIV-015, DIV-023, DIV-048
 
 ### DIV-023 · The final sequence
 
@@ -223,7 +223,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Ours:** While Voldemort taunts Neville, Dracaena steps forward and challenges him to a duel, taking up the mantle of the boy she loves. She's outmatched. Their spells ricochet, Neville kills Nagini (canon), and a brawl breaks out. She's wounded, and McGonagall, Slughorn and Shacklebolt cover her and are overwhelmed. She's back on her feet with her wand on Voldemort when Harry, risen in the chaos, walks up behind her, wandless and smiling, and closes his hand over hers on her wand. They stare Voldemort down and duel him in resonance (DIV-021). He throws everything at them, Legilimency included, along with the risen dead and the Dementors, which Neville and the DA hold off (DIV-025). He ends up cornered. His Killing Curse meets their Expelliarmus and rebounds. No wand technicalities decide it (DIV-024): together, they are simply stronger.
 - **Note:** expands 🔒 DIV-006 without changing it.
 - **Home:** [scenes/b7/final-duel.md](../scenes/b7/final-duel.md)
-- **Ripples:** Q-011, Q-013, Q-014, Q-029, Q-032 · DIV-025, DIV-026
+- **Ripples:** Q-011, Q-013, Q-014, Q-029, Q-032, Q-062 · DIV-025, DIV-026, DIV-048
 
 ### DIV-024 · No wand allegiance
 
@@ -248,7 +248,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Ours:** Cut. Harry's death in the forest protects no one. It opens the way to Voldemort's destruction, but everyone has to play their part, and if any of them fails, it's over.
 - **Why:** the Chosen One isn't enough on his own. Besides, he was never really chosen. See [core/themes.md](../core/themes.md).
 - **Home:** [setting/magic.md](../setting/magic.md)
-- **Ripples:** Q-014 · DIV-023, DIV-025
+- **Ripples:** Q-014 · DIV-023, DIV-025, DIV-048
 
 ### DIV-027 · Dracaena's Patronus
 
@@ -469,3 +469,12 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Why:** it calls back her noblesse oblige from B3, when she saved Buckbeak because punishing a creature for her own mistake was beneath a Malfoy (Q-005). A debt of honour has to be repaid. Fudge dismisses the names anyway, so Harry's silence costs little.
 - **Home:** [characters/lucius-malfoy.md](../characters/lucius-malfoy.md)
 - **Ripples:** Q-022, Q-059 (answered), Q-060 (answered) · DIV-003, DIV-013, DIV-040, DIV-046 · [continuity/reveals.md](reveals.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
+
+### DIV-048 · B7: Harry goes back for her
+
+- **Status:** settled
+- **Canon:** At King's Cross, Harry can go on or go back. He goes back because the work isn't finished, and returning may spare others.
+- **Ours:** He goes back for Dracaena. Not to finish the job, not to beat Voldemort: he wants his girl, and she's out there alone. That's what keeps him going. He goes back to stand with her, not to rescue her (DIV-023).
+- **Why:** it completes his arc, from dying for the purpose Dumbledore handed him to living for the girl he loves. His death protects no one and he was never really chosen (DIV-026), so going back for the job would leave him Dumbledore's instrument to the end.
+- **Home:** [scenes/b7/kings-cross.md](../scenes/b7/kings-cross.md)
+- **Ripples:** Q-061, Q-062 · DIV-022, DIV-023, DIV-026 · [continuity/reveals.md](reveals.md) · [core/themes.md](../core/themes.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)

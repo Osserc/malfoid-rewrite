@@ -5,7 +5,7 @@ Everyone who appears, one line each. Characters with a full file are linked. "Ch
 | Character | Role | Changes | File |
 |---|---|---|---|
 | Dracaena Malfoy | Harry's rival and tsundere love interest | DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–032, DIV-038–041, DIV-043, DIV-045–047 | [dracaena-malfoy.md](dracaena-malfoy.md) |
-| Harry Potter | Protagonist. Can be harsher than canon. His death in the forest protects no one. Still in Gryffindor, with his friends in other Houses. Immune to the veela by the World Cup. Angry all through B6 over the breakup | DIV-004–006, DIV-009, DIV-015, DIV-017–019, DIV-021–023, DIV-026, DIV-028, DIV-029, DIV-032, DIV-033, DIV-037–039, DIV-041, DIV-043–047, Q-024, Q-029, Q-037, Q-038, Q-050, Q-057 | — |
+| Harry Potter | Protagonist. Can be harsher than canon. His death in the forest protects no one. Still in Gryffindor, with his friends in other Houses. Immune to the veela by the World Cup. Angry all through B6 over the breakup. Goes back for Dracaena at King's Cross | DIV-004–006, DIV-009, DIV-015, DIV-017–019, DIV-021–023, DIV-026, DIV-028, DIV-029, DIV-032, DIV-033, DIV-037–039, DIV-041, DIV-043–048, Q-024, Q-029, Q-037, Q-038, Q-050, Q-057, Q-061, Q-062 | — |
 | Ron Weasley | Harry's best friend. Sorted into Hufflepuff, where Cedric takes him under his wing | DIV-033, DIV-036, Q-010, Q-023, Q-045, Q-049 | [ron-weasley.md](ron-weasley.md) |
 | Hermione Granger | Harry's friend, in Ravenclaw. Second best to Dracaena in Potions, and hates her for it. Drops Muggle Studies in B3. Can't resonate with Harry | DIV-011, DIV-012, DIV-018, DIV-021, DIV-033, DIV-036, Q-002, Q-028, Q-042, Q-050–Q-052 | [hermione-granger.md](hermione-granger.md) |
 | Cedric Diggory | Ron's mentor in Hufflepuff | DIV-033, Q-010 | — |

@@ -5,7 +5,7 @@ placement: Battle of Hogwarts, 2 May 1998. From Harry's return as a "corpse" to 
 pov:
 characters: [harry-potter, dracaena-malfoy, lord-voldemort, neville-longbottom, minerva-mcgonagall, horace-slughorn, kingsley-shacklebolt, bellatrix-lestrange, godric-gryffindor]
 threads: [harry-dracaena, sleeping-beauty]
-divergences: [DIV-006, DIV-021, DIV-023, DIV-024, DIV-025, DIV-026, DIV-027]
+divergences: [DIV-006, DIV-021, DIV-023, DIV-024, DIV-025, DIV-026, DIV-027, DIV-048]
 ---
 
 # The Final Duel
@@ -28,7 +28,7 @@ All beats are *(settled)*, part of DIV-023, unless marked 🔒 or *(draft)*.
 
 ### The return
 
-6. She regains her strength and stands, wand pointed at Voldemort. In the chaos Harry gets up and walks towards her.
+6. She regains her strength and stands, wand pointed at Voldemort. In the chaos Harry, back from King's Cross for her ([kings-cross](kings-cross.md), DIV-048), gets up and walks towards her.
 7. Voldemort, his assailants beaten, turns and freezes at the sight of Harry behind her. She looks round and sees him there, smiling.
 8. Wandless, Harry raises his arm and puts his hand over hers, holding her wand with her.
 9. 🔒 Harry and Dracaena face Voldemort together.
@@ -92,4 +92,4 @@ All settled, part of DIV-025. It runs alongside beats 13–16.
 
 ## Open
 
-Q-011 (the Elder Wand) · Q-013 (how she gets to his side) · Q-014 (resonance and sacrifice) · Q-028 (seeding resonance) · Q-029 (Harry's wand) · Q-032 (who else is there) · Q-033 (the dead)
+Q-011 (the Elder Wand) · Q-013 (how she gets to his side) · Q-014 (resonance and sacrifice) · Q-028 (seeding resonance) · Q-029 (Harry's wand) · Q-032 (who else is there) · Q-033 (the dead) · Q-062 (when Harry comes back)
