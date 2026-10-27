@@ -92,8 +92,11 @@ Harry chuckled a bit, unintentionally, at the thought of the stuck-up witch who 
 Dracaena's pale cheeks suddenly turned to a burning pink, but she didn't stop, nor did she comment. A few more seconds slipped by before Harry managed to blurt out the question that had been occupying his mind.
 
 "Why are you doing this?"
+
 "What do you mean?"
+
 "Being... nice to me. You're never nice to me."
+
 The girl appeared a bit resentful at that, as if it was a false accusation, "l-listen Potter, I'm just... worried about our duel, ok? What am I going to do if the big scary Dementors show up during our Quidditch match and I win because you faint again? I want to beat you fair and square, no excuses. I want you to know I'm better than you."
 
 Something did not sit quite right with him, but he decided against speaking up. Although he remained wary, there was a strange quality to Dracaena's smile that gave him pause. It was gentle and sweet, without any of the usual venom that accompanied it.
@@ -103,8 +106,11 @@ Something did not sit quite right with him, but he decided against speaking up. 
 Dracaena startled and immediately raised her head, distancing herself from his. He awkwardly got up, missing the softness a bit, and when he turned around Malfoy was already standing. She looked extremely embarrassed, possibly even more than him.
 
 "S-so, did you like it?"
+
 "What?"
+
 "I mean, did it work?"
+
 "I... I guess it did *something*..."
 
 The girl clapped her hands once, "good! Now don't go fainting anymore! I need you to be in top shape when I demolish you!", and darted away without giving him a chance to respond, "oh, and if you tell anyone I'll hex you!". There was a certain skip to her step that only appeared after she beat him during dueling club.
@@ -112,4 +118,5 @@ The girl clapped her hands once, "good! Now don't go fainting anymore! I need yo
 "What was that about?"
 
 He had faced three-headed dogs and ancient monsters before, but this had to be the strangest encounter he had ever had. Would this really help against a Dementor? And what was Malfoy even plotting?
+
 He didn't even notice he was absent-mindedly touching the cheek Dracaena was stroking while making his way to Gryffindor's common room.

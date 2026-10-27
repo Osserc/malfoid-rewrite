@@ -28,6 +28,7 @@ He surfaced from the lake gasping for hair, the gillyweed extract having already
 He felt one weight leaving his hands, as Fleur reached out and grabbed her sister from Harry's grasp. The *other* weight, however, was less courteous. As soon as she came to, Dracaena gripped him in a vice and refused to let go, buring her face in his neck.
 
 "Malfoy, you're hurting me."
+
 "You deserve it, stupid, stupid Potter!"
 
 It took the superhuman might of Hagrid (whose arms received plenty of nasty scratches from Dracaena's nails, desperately trying to escape his firm grip to get back to Harry) to separate them and allow Madam Pomfrey to administer first aid. After a couple of minutes all the late comers from the abyss were wrapped in magically heated blankets, with a cup of hot chocolate in their hands. Dracaena was nestled under Harry's own cloak, and looked like a fearsome dragon protecting her hoard, very much like the Horntail he faced months earlier.
@@ -67,6 +68,7 @@ Fleur stood between Harry and the advancing girl, as if to shield him from a dan
 The french champion raised a hand to the sky, and moved the other to her heart, as if pretending to faint.
 
 "Ah! Zis is no little snake, but a fierce dragon! I can't best her!"
+
 Gracefully spinning around, winking at Harry with a "remember your Fleur, Arry! You will remain in my heart forever!", as if it were a line she rehearsed dozens of times before, she retreated towards her own schoolmates at the Ravenclaw table.
 
 "Potter."
@@ -84,6 +86,7 @@ _________
 Once away from prying eyes, she let go of his tie and turned around angrily. She was wearing a formidable scowl and was biting her thumbnail as she was wont to do when something annoyed her, usually him. But her anger did not extend to her eyes.
 
 "That devious woman. Now I'll have to send her something nice."
+
 "What was that about?"
 
 She raised her gaze to look him in the eye, and started jabbing at his chest with a pointed finger.
@@ -93,13 +96,17 @@ She raised her gaze to look him in the eye, and started jabbing at his chest wit
 Harry could not avoid chuckling at her little show of jealousy. There was a time where she feared her frown and the venomous words that would soon come out of her lips, but he knew her well enough by now that he could only find her endearing. Dracaena pouted.
 
 "You know, you could have made more of an effort to push her away."
+
 "I'm sorry, I'm not too good at this."
+
 "Well good thing I am capable enough for both of us then. Honestly Potter, you're so hopeless, I bet no other girl would put up wi-."
 
 Suddenly Harry wrapped her in a tight hug, and he could feel Dracaena melt into his embrace and press herself against him.
 
 "Do it first, next time", she grumbled.
+
 He couldn't help but smile at her antics, "do what?"
+
 "Figure it out!"
 
 She pushed him away and started angrily walking towards the Potions dungeon, but after a few steps she spun around, and flashed him a luminous smile.
@@ -109,15 +116,21 @@ She pushed him away and started angrily walking towards the Potions dungeon, but
 The boy hurried up and took his place besides Dracaena, and she wasted no time in grabbing his hand, and leaned towards him as they walked. He gripped hers back, and he swore he could hear a purr of delight coming from her.
 
 "You know, Fleur said something strange to me earlier. She said 'my tricks really have no effect on you', or something like that. What did she mean?"
+
 He titled his head towards Dracaena's and could see her cheeks taking on a very cute shade of pink. "I don't know Potter, do I look like an encyclopedia to you? Ask you *other* girlfriend, I'm sure she'll love to regale you with everything she knows about veelas", she said, trying her best to sound annoyed.
+
 "Since when are there two Dracaena Malfoys at Hogwarts? How could I miss her?", he said playfully, as he made a show of looking around.
+
 "You couldn't handle two of me, Potter", she giggled, before briefly standing on her tippy toes to steal a quick kiss from his lips.
 
 "Ugh, could they NOT?"
+
 "Really, it's getting out of hand..."
 
 Dracaena quickly turned around and stuck out a tongue at the approaching Ron and Hermione, who vocalized their displeasure at her effusions.
 
 "Jealous, mud- muffin head?", she corrected herself mid-sentence, before sticking even closer to Harry, humming to herself.
+
 Harry turned his neck slightly and shot his friends an apologetic smile, before resting his head on Dracaena's, and taking hold of her hip with his arm.
+
 Not even the prospect of a Potions lesson could dampen his mood, as he could hear Dracaena humming happily at his side.
