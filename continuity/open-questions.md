@@ -111,6 +111,8 @@ What's the real grievance or truth, and where does it turn into Voldemort's ideo
 
 *Lead from DIV-035 (draft):* wizarding Britain really is shrinking, and it lives off the Muggle economy. The turn is the blame: Muggle-borns are the only inflow slowing the decline → [society](../setting/society.md).
 
+*Lead (author, draft):* power runs in magical lines, so Muggle-borns are weaker on average, though not worse witches → [society](../setting/society.md).
+
 ### Q-018 · Who fetches the books? (DIV-010)
 
 Narcissa is the conduit but would never shop herself. Options:
@@ -157,6 +159,8 @@ It plays a bigger role than in canon, possibly in his hostility. Harry can be ha
 
 *Partly answered:* it blocks resonance until the forest. In near-misses Dracaena is hurt by the stained soul she senses in him, without knowing what it is (DIV-021). Its part in his hostility is still open.
 
+*(draft)* It also gives him an edge in power, which he loses in the forest, when full resonance opens → [magic](../setting/magic.md).
+
 A first sign on the page: his B3 outburst at Dracaena, kept to show he can become unstable ([lap-pillow](../scenes/b3/lap-pillow.md)). In B4 he beats the Durmstrang challenger too aggressively (DIV-029).
 
 ### Q-025 · Planting the fake lead (DIV-018)
@@ -169,6 +173,13 @@ How does she get the Ministry to send the Dementors to the lake? Floated so far:
 ### Q-027 · Wand rules after the purge (DIV-024)
 
 With allegiance gone, what does "the wand chooses the wizard" mean now? Also: how wands work in general, wandless magic (overlaps Q-015), and what's left of canon's other wand-bond lore, such as twin cores and Priori Incantatem (B4) and the holly wand acting on its own in B7. Deferred: the author plans to write down the rules of magic, wands and wandless magic.
+
+*Author's direction, for that session:*
+- **Wands** are both a crutch and a precision instrument: they focus magic and allow finer control.
+- **Other traditions** may be stronger than wand casting, because they tap magic directly, but they take more power, and let it course through the body.
+- **The Dark Arts crack the soul.** They break your seal and let more ambient magic in, so they increase your power, and you pay for it. That's Voldemort's transformations, which Dumbledore alludes to, the snake-man most visibly. Snape too ([society](../setting/society.md)).
+- **Practice** raises power and endurance somewhat, not much without the aptitude.
+- Questions it raises: does the Mark count as a crack (DIV-015)? What do Harry's Sectumsempra (DIV-043) and canon's B7 Unforgivables (Crucio on Amycus Carrow, Imperius at Gringotts) cost him? Is it what makes Bellatrix so formidable (Q-066)?
 
 ### Q-028 · Seeding resonance (DIV-021)
 

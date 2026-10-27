@@ -26,6 +26,10 @@ DIV-033. Ravenclaw, which canon's Hat seriously considered for her.
 
 *(draft)* DIV-012. She takes it in B3 and drops it, as in canon. She grew up among Muggles and already knows a fair bit, and what's left is mostly how wizards see Muggles, which they mostly get wrong. It's the mirror of Dracaena tutting at Muggles who get magic wrong. A timetable clash between electives gives her the excuse ([hogwarts](../setting/hogwarts.md), Q-002). Dracaena frames it as conceding defeat, while she herself stays on as Burbage's star pupil ([sleeping-beauty](../threads/sleeping-beauty.md)).
 
+## Magic *(draft)*
+
+Weaker than most pure-bloods, as a rule for Muggle-borns ([society](../setting/society.md)). She makes up for it with immense technical skill, and excels at charms and enchantments that need precision rather than power: the brains of the operation and a support, not the magical muscle. Dracaena wipes the floor with her at the Duelling Club ([duelling-club](../threads/duelling-club.md)). She can't easily take someone along when she Apparates, least of all when she's already spent ([apparate-dancing](../scenes/b7/apparate-dancing.md)).
+
 ## Voice
 
 Canon default.

@@ -18,6 +18,8 @@ It runs from B2 through B4. In B4 it stays open and the visiting students from D
 
 Through the clashes they come to know each other. They learn to read each other's body language and anticipate each other's reactions. At some point they start looking forward to the "games", and we see them smiling as they fight.
 
+*(draft)* Early on, Dracaena wipes the floor with Hermione: she's that much more powerful, and a talented duellist too. It puts power by blood on the page early ([society](../setting/society.md)), and casts Hermione as the brains rather than the muscle. When: open.
+
 When she wins she sometimes forgets to gloat. No sneer, just a bright, happy "Did you see that? I won!", and Harry finds it endearing enough that losing doesn't seem so bad. It stands out against her usual teasing and casual cruelty, towards Ron and Hermione too.
 
 ## By book

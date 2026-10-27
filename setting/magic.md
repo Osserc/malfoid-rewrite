@@ -35,6 +35,7 @@ A wand resonates when two people wield it in total sync, and their magic becomes
 - **Volatile.** No instant win. The state shows cracks, but it holds.
 - **Occlumency.** In resonance, Dracaena wraps Harry's mind in hers. Voldemort's Legilimency finds nothing but her love for Harry.
 - **The stained soul.** Until the forest, Harry's Horcrux blocks it. They come close a few times, and each time she's hurt by the stained, mutilated soul she senses in him, without either of them knowing what it is. Full resonance only becomes possible once the Killing Curse in the forest destroys that fragment.
+- *(draft)* **The stolen edge.** By her line, Dracaena is the more powerful ([society](society.md)). Harry evens it with instinct (DIV-028) and with the piece of Voldemort in him, which gives him an edge (how: Q-027). The irony: part of his power comes from his enemy, and it's the same piece that hurts her in the near-misses. In the forest he loses it. Alone he's weaker, but full resonance opens, and together they come out more powerful than ever.
 - **How it builds** across the books is kept vague until a dedicated session (Q-028). So far: a first flicker at the B3 lake (DIV-018), and one wand in two hands in the final duel (🔒 DIV-006).
 - **Nobody knows.** In school no one knows what resonance is. Dracaena works out the rule herself, by research, and tells no one.
 - **Never disarmed.** When they're together they're each other's strength. Harry doesn't need a wand of his own, because hers is theirs.

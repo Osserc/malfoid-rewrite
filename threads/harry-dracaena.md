@@ -105,5 +105,5 @@ He approves of them, and encourages them more than once. What he says each time 
 | B7 he goes back for her (DIV-048) | The Manor, where he first drops the plan for her (DIV-049). Stopping for her on the way to the forest (DIV-022). Earlier signs that she's what he lives for, not only whom he loves | B7; earlier: ? |
 | B7 love rebounds the curse | Resonance: its rule, what it takes, and that it can fail (DIV-021) | B1–B6 (Q-028) |
 | B7 his hand over hers on her wand | Resonance building across the books, kept vague for now (DIV-021, Q-028). Harry wandless (Q-029) | B1–B6 (Q-028), B7 |
-| B7 full resonance only after the forest | Near-misses spoiled by the stained soul (DIV-021, Q-024) | B1–B6 (Q-028); B7, the Manor (draft) |
+| B7 full resonance only after the forest | Near-misses spoiled by the stained soul (DIV-021, Q-024). His edge from the Horcrux, lost in the forest (draft) | B1–B6 (Q-028); B7, the Manor (draft) |
 | B7 the Occlumency embrace | Her Occlumency (DIV-020), broken by Voldemort (DIV-015). His B5 failure to stay in Harry's mind (canon) | B5, summer 1996 |

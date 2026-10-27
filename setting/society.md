@@ -12,6 +12,11 @@ The ideologues have an actual point. What it is, and where it turns into Voldemo
 
 *(draft)* **Lead from DIV-035.** Wizarding Britain really is disappearing, and it really does live off the Muggles. The self-sufficient pure-blood estate, owing Muggles nothing, is a dream of independence. That gives Voldemort's promise to take it all back real credence, though his war, by killing so many, made the decline worse. The turn into his ideology is the blame: Muggle-borns are the only inflow slowing the decline, and the ideologues attack them.
 
+*(draft)* **Lead: power runs in lines.** This is what the pure-bloods are right about. As a rule, the less magical your ancestry, the weaker your magic. What counts is the line, not the fraction: one prominent magical line on one side can carry a half-blood (Harry through the Potters), and Muggle-borns have none. Voldemort and Snape have something darker on top: the Dark Arts (Q-027). Practice raises power and endurance somewhat, but not much without the aptitude.
+- **Not worth, only power.** A Muggle-born can still be an excellent witch. Hermione is the proof: immense technical skill, and excellent at charms and enchantments that need precision rather than power. She's the brains of the operation and a support, not the magical muscle ([hermione-granger](../characters/hermione-granger.md)).
+- **On the page early.** At the Duelling Club, Dracaena wipes the floor with Hermione ([duelling-club](../threads/duelling-club.md)).
+- **The dilemma.** Muggle-borns are the only inflow slowing the decline, and they're weaker on average. Where the ideologues' answer turns suicidal: Q-048.
+
 ## Population and economy *(draft)* · DIV-035
 
 Wizarding Britain is small and shrinking. The figures are illustrative: something like seventy pupils a year in peacetime, and lifespans of well over a century, give roughly ten thousand people. Canon's single institutions (one school, one bank, one hospital, one newspaper, one prison, one wandmaker) are what a community that size looks like: a market town scattered across a country, with Diagon Alley as its high street. Ollivander making about a hundred wands a year is right for forty to eighty eleven-year-olds.
