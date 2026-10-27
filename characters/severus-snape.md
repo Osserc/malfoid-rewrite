@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Potions master, and Dracaena's private master since she was five: her "uncle Severus". Brews Narcissa's medicine. Teaches Dracaena Occlumency in summer 1995.
 **Canon baseline:** Severus Snape. Anything not overridden follows canon.
-**Changes from canon:** DIV-020, DIV-024, DIV-030, DIV-031, DIV-032, DIV-043
+**Changes from canon:** DIV-020, DIV-024, DIV-030, DIV-031, DIV-032, DIV-043, DIV-056
 
 ## Core
 
@@ -33,6 +33,12 @@ status: draft
 
 Lucius took him under his wing when he was sorted into Slytherin (canon: Lucius is a prefect at his Sorting, and in his last year). Lucius got him rare books without ever making it feel like charity, and taught him curses not even the Restricted Section has. Snape knows Lucius was cultivating a client, and doesn't mind: under the game, Lucius counts him a friend, and Snape has few, if any, left. *(settled)* After school, Lucius keeps him supplied by owl and commissions potions from him: paid work, never charity. In the war years that fits Lucius's role as Voldemort's logistics man ([lucius-malfoy](lucius-malfoy.md)). The 1985 lockbox is the same arrangement, grown up. (Q-040, answered)
 
+## The pairing
+
+*(draft)* DIV-056. He seats Harry next to Dracaena in Potions. Canon's timetable already has both Houses in the room, so nothing has to move; he simply puts the boy where his best pupil can needle him all lesson, and calls it discipline. No other teacher assigns partners.
+
+It backfires, slowly and completely. Years of being made to work side by side is most of what gives them hours together, and the Potions-servant routine grows straight out of it (DIV-017, [potions-servant](../scenes/b3/potions-servant.md)). The joke is that the relationship he would least want is one he built himself, out of spite, and he can't undo it without admitting what he did. When he notices, and whether he keeps it up after the Occlumency lessons show him her memories: Q-043.
+
 ## The Occlumency lessons
 
 *(settled)* DIV-020. He teaches Dracaena in summer 1995, and his cover holds with Lucius: a general precaution for someone working under cover. The lessons continue their old apprenticeship. They also show him her memories of Harry: his favourite pupil, getting chummy with the son of his arch-enemy. What he does with it: Q-043.
@@ -56,7 +62,7 @@ Canon default.
 
 | Book | Start | Turn | End |
 |---|---|---|---|
-| B1 | Shows off his pupil at the first Potions lesson (DIV-011) | | |
+| B1 | Shows off his pupil at the first Potions lesson (DIV-011); seats Harry next to her to punish him (DIV-056) | | |
 | B2 | | | |
 | B3 | | | |
 | B4 | | | Teaches Dracaena Occlumency over the summer and sees her memories of Harry (DIV-020, Q-043) |

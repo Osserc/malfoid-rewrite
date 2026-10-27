@@ -4,6 +4,8 @@ Every departure from canon. Anything not listed here follows the original books.
 
 Entry format: **Status** · **Canon** (what the original does, in our own words) · **Ours** · **Why** (if it isn't obvious) · **Home** (where it's written out in full) · **Ripples** (affected files, open questions).
 
+**Retired, never reuse:** DIV-033, DIV-034, DIV-036, DIV-042 — the trio split across three Houses and its knock-ons (whole-year classes, Sirius's second break-in, the Boggart lesson House by House), reverted 2026-10-27. Canon applies; the unity theme moved to DIV-055. The entries are in the git history.
+
 ---
 
 ### DIV-001 · Draco is Dracaena Malfoy
@@ -99,7 +101,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **B6, the first Potions lesson:** Harry beats her at the Draught of Living Death using the Prince's notes. The sixth-year Prince's tricks are experimental and less elegant than the method the adult Snape taught her, and she has no drive left to one-up Harry: her priorities are elsewhere (DIV-015). She and Hermione both notice how much his new tricks resemble her technique. In the same lesson she knows the Amortentia and keeps her hand down (DIV-045).
 - **Why:** her skill needs a source, and Hermione needs taking down a peg.
 - **Home:** [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md)
-- **Ripples:** Q-023, Q-042 · DIV-031, DIV-034, DIV-045 · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md) · [scenes/b1/uncle-severus.md](../scenes/b1/uncle-severus.md)
+- **Ripples:** Q-023, Q-042 · DIV-031, DIV-045 · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md) · [scenes/b1/uncle-severus.md](../scenes/b1/uncle-severus.md)
 
 ### DIV-012 · Muggle Studies: Burbage's star pupil
 
@@ -108,7 +110,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Ours:** Dracaena takes Muggle Studies and becomes Charity Burbage's star pupil. *(draft)* Hermione takes it in B3 and drops it, as in canon: she grew up among Muggles, and what's left is mostly wizards getting Muggles wrong. A timetable clash gives her the excuse. Dracaena frames it as Hermione conceding defeat.
 - **Why:** the Muggle-born dropping the subject while the pure-blood heiress keeps it is a sharper irony than a shared rivalry, and it makes Dracaena Burbage's only star pupil for DIV-016.
 - **Home:** [threads/sleeping-beauty.md](../threads/sleeping-beauty.md) (Dracaena) · [characters/hermione-granger.md](../characters/hermione-granger.md) (Hermione dropping it)
-- **Ripples:** Q-002, Q-020 · DIV-016, DIV-034
+- **Ripples:** Q-002, Q-020 · DIV-016
 
 ### DIV-013 · B4–B5: the dream
 
@@ -152,9 +154,9 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **Potions:** she badgers Harry into preparing her ingredients and turns him into her servant. When his poor technique spoils the potion she steps in, strangely sweet under the barbs. In her head they're a married couple cooking together, until she realises she's daydreaming in front of the whole class and scrambles to save face. Harry is weirded out.
   - **The lesson:** later she realises her play-acting gave Lucius the fuel to have Buckbeak executed. That lesson in consequences is what pushes her to save him.
   - **The prank:** she takes no part in the fake-Dementor prank at the Ravenclaw match. Crabbe and Goyle pull it on their own initiative, thinking she'll approve, and are confused when she greatly disapproves. Kicking him while he's down isn't her game ([lap-pillow](../scenes/b3/lap-pillow.md)).
-  - **The Boggart:** with her wand arm in a sling, she sits out Slytherin's Boggart session (DIV-042). Lupin later goads her into a remedial lesson: she'd have faced a Boggart when Harry never has. She freezes in front of her father's disgust, alone with Lupin, and tells no one until Harry.
+  - **The Boggart:** with her wand arm in a sling, she sits out her own class's Boggart lesson. Harry never sees it: canon's lesson is Gryffindor's, and Slytherin isn't in the room. Lupin later goads her into a remedial lesson: she'd have faced a Boggart when Harry never has. She freezes in front of her father's disgust, alone with Lupin, and tells no one until Harry.
 - **Home:** [scenes/b3/potions-servant.md](../scenes/b3/potions-servant.md) (the lesson) · [scenes/b3/buckbeak-rescue.md](../scenes/b3/buckbeak-rescue.md) (the motive) · [threads/quidditch.md](../threads/quidditch.md) (the match, the prank) · [scenes/b3/remedial-boggart.md](../scenes/b3/remedial-boggart.md) (the Boggart)
-- **Ripples:** Q-026 (answered), Q-053 · DIV-034, DIV-042
+- **Ripples:** Q-026 (answered), Q-053 · DIV-056
 
 ### DIV-018 · B3 climax: the swarm, the confession, the flight to Sirius
 
@@ -239,7 +241,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Canon:** After killing Nagini, Neville disappears into the general fighting. When Harry and Voldemort face off in the Great Hall, everyone falls silent to watch, and nothing threatens the duel.
 - **Ours:** Voldemort can't get past the resonance, so he turns the battlefield against them. With the Elder Wand at full power he raises every body in the Great Hall as an Inferius, friend and foe alike: he sees only bodies, and any will do. He calls back the Dementors Dracaena drove off earlier (DIV-027) and sets the whole horde on the duellists, who are locked on him and can't defend themselves. Neville stands against it with his own wand and the sword of Gryffindor, which burns through the Inferi, and keeps fighting as his injuries mount. Surrounded and down on one knee, he hears Godric Gryffindor tell him to stand his ground as Gryffindor's heir. He gets up and rallies the DA, who raise walls of flame against the Inferi, and together they shield Harry and Dracaena long enough for them to win. On the way he sees Bellatrix and lets her go, because he's needed to protect his friends: he too chooses love and justice over vengeance. He survives.
 - **Home:** [scenes/b7/final-duel.md](../scenes/b7/final-duel.md)
-- **Ripples:** Q-011, Q-032, Q-033 · DIV-023, DIV-026, DIV-027, DIV-033
+- **Ripples:** Q-011, Q-032, Q-033 · DIV-023, DIV-026, DIV-027, DIV-055
 
 ### DIV-026 · Harry's sacrifice protects no one
 
@@ -266,7 +268,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Ours:** After Lockhart's disastrous first session, the students petition the teachers to keep the club going with a proper instructor, and Flitwick steps in. Harry and Dracaena become regular, evenly matched opponents: she's the better technician, he's instinctive and thrives in chaos. Over the years they learn to read each other, and come to enjoy the fights. In B4 it stays open, and the visiting students join. Early in B5 Umbridge shuts the club down, one of her first acts. In B6, with Umbridge gone, Flitwick reopens it. Harry offers it to Dracaena as a date, and her refusal leads to the breakup (DIV-015). She never comes back.
 - **Why:** it's where they come to know each other. It gives the years of duelling behind resonance a concrete home (DIV-021), and shows her sincerity in a way that sets up the B3 lake (Q-035).
 - **Home:** [threads/duelling-club.md](../threads/duelling-club.md)
-- **Ripples:** Q-028, Q-035 · DIV-015, DIV-021, DIV-029, DIV-034, DIV-043 · [threads/harry-dracaena.md](../threads/harry-dracaena.md) · [scenes/b3/lap-pillow.md](../scenes/b3/lap-pillow.md)
+- **Ripples:** Q-028, Q-035 · DIV-015, DIV-021, DIV-029, DIV-043 · [threads/harry-dracaena.md](../threads/harry-dracaena.md) · [scenes/b3/lap-pillow.md](../scenes/b3/lap-pillow.md)
 
 ### DIV-029 · B4: the Durmstrang challenger
 
@@ -310,32 +312,6 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Home:** [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md)
 - **Ripples:** Q-024, Q-043, Q-044 · DIV-015, DIV-030, DIV-043 · [scenes/b6/sectumsempra.md](../scenes/b6/sectumsempra.md) · [scenes/b6/after-sectumsempra.md](../scenes/b6/after-sectumsempra.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
 
-### DIV-033 · The trio split across three Houses
-
-- **Status:** draft
-- **Canon:** Harry, Ron and Hermione are all Sorted into Gryffindor, and Gryffindor Tower is the trio's base.
-- **Ours:** Harry stays in Gryffindor. Ron goes to Hufflepuff and Hermione to Ravenclaw, so with Dracaena in Slytherin the four leads cover all four Houses.
-  - **Ron:** the Hat doesn't hesitate for a second. With no doubt to weigh, his wish for Gryffindor never comes into it. The speed is what hurts: the first Weasley outside Gryffindor, sent to the House he thinks takes the rejects. Cedric Diggory takes him under his wing.
-  - **Hermione:** Ravenclaw, which canon's Hat seriously considered for her.
-  - **Harry:** with his friends in other Houses, Neville becomes his main housemate, which builds DIV-025 across seven books.
-  - **The hub:** the Gryffindor common room stops being the trio's base. Classes and the holidays are covered by DIV-034; where else they meet is Q-046.
-- **Why:** unity across the Houses as a theme ([themes](../core/themes.md)). Ron gets out of his brothers' shadow, and the cast draws on every House.
-- **Home:** [characters/ron-weasley.md](../characters/ron-weasley.md) (Ron) · [characters/hermione-granger.md](../characters/hermione-granger.md) (Hermione)
-- **Ripples:** Q-010, Q-046, Q-049 · DIV-025, DIV-034, DIV-036, DIV-042
-
-### DIV-034 · Whole-year classes, and the holiday exception
-
-- **Status:** draft
-- **Canon:** Classes pair two Houses: Gryffindor with Slytherin for Potions, with Hufflepuff for Herbology, and so on. Common rooms are for their own House only.
-- **Ours:**
-  - **Classes:** each year is taught as one class, all four Houses together. A year is about forty pupils (DIV-035): a big class, not a crowd. Electives are subsets of the year, timetabled in blocks.
-  - **The clumps:** the classroom starts out in four clumps by House. How far they've dissolved by B5 is the visible measure of the unity theme.
-  - **Pairs:** practical work is done in pairs. Pupils choose their own partners, but teachers can force pairings, each in their own way. Snape pairs Harry with Dracaena to punish him; Flitwick pairs them at the Duelling Club to sharpen them.
-  - **The holidays:** in term, common rooms are havens for their own House. Over the holidays, with the castle nearly empty, the few who stay can mix and bunk together, by long tradition.
-- **Why:** the trio no longer shares a House (DIV-033). Per-subject sets or reshuffled cores would be a logistical mess, worst of all for electives.
-- **Home:** [setting/hogwarts.md](../setting/hogwarts.md)
-- **Ripples:** Q-002, Q-043, Q-046, Q-047 · DIV-011, DIV-012, DIV-017, DIV-028, DIV-033, DIV-035, DIV-042
-
 ### DIV-035 · A small, shrinking people
 
 - **Status:** draft
@@ -344,18 +320,9 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **The long decline:** since the Statute of Secrecy, people have married out and drifted into the Muggle world, and the pure-blood lines have thinned. The castle was built for a far larger magical population.
   - **The war dip:** the first war hollowed out the cohorts born in it, so everyone at Hogwarts during the series is war-born, and those years are proportionally more Muggle-born. A post-war boom follows.
   - **The economy:** magic multiplies labour, the Ministry is sized to police the border with the Muggles, and the economy lives off the Muggle one.
-- **Why:** whole-year classes need small years (DIV-034), and the canon problem needed an answer ([problems/scale.md](../problems/scale.md)). It gives DIV-008 hard numbers: wizarding Britain really is disappearing.
+- **Why:** the canon problem needed an answer ([problems/scale.md](../problems/scale.md)). It gives DIV-008 hard numbers: wizarding Britain really is disappearing.
 - **Home:** [setting/society.md](../setting/society.md) (the population and the economy) · [setting/hogwarts.md](../setting/hogwarts.md) (the school's numbers)
-- **Ripples:** Q-016, Q-048 · DIV-008, DIV-034 · [core/themes.md](../core/themes.md) · [problems/house-elves.md](../problems/house-elves.md)
-
-### DIV-036 · B3: Sirius breaks into two Houses
-
-- **Status:** draft
-- **Canon:** Black slashes the Fat Lady on Halloween. Later he gets into Gryffindor Tower with Neville's lost list of passwords and stands over Ron's bed with a knife. Harry and Ron share a dormitory, so everyone believes he's after Harry, when he's after Scabbers. Crookshanks, his accomplice, hounds Scabbers around the Gryffindor common room, which drives Ron and Hermione apart.
-- **Ours:** Ron sleeps in Hufflepuff (DIV-033), so Black breaks in twice. First Gryffindor, on Halloween, because he assumes Ron is a Gryffindor like every Weasley: everyone believes he's after Harry, as in canon. Then Hufflepuff, once Crookshanks sets him straight: the school reads it as Black going after Harry's best friend to get at Harry. Crookshanks gets into Hufflepuff because its students let the big, cuddly cat in, and the same hospitality lets Black in (Q-045).
-- **Why:** keeps canon's misdirection on Harry intact all the way to the Shack, and turns the threat outward: his friends are in danger because of him, and he isn't there to protect them.
-- **Home:** [scenes/b3/sirius-break-ins.md](../scenes/b3/sirius-break-ins.md)
-- **Ripples:** Q-003, Q-045 · DIV-033
+- **Ripples:** Q-016, Q-048 · DIV-008 · [core/themes.md](../core/themes.md) · [problems/house-elves.md](../problems/house-elves.md)
 
 ### DIV-037 · The veela charm can't touch someone in love
 
@@ -407,19 +374,6 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Why:** asking Ravenclaw's Seeker first and only then Dracaena would cheapen the invitation. Cho has nothing on her anyway: a few interactions with Harry, against a fellow Seeker who is always around him. Building Cho up would mean writing her into more scenes, only to throw it all away when Cedric wins her and Harry is turned down. With Dracaena the outcome is inevitable, and Harry has been primed all summer.
 - **Home:** [threads/harry-dracaena.md](../threads/harry-dracaena.md)
 - **Ripples:** Q-008, Q-021, Q-050 · DIV-004, DIV-037, DIV-038
-
-### DIV-042 · B3: the Boggart lesson, House by House
-
-- **Status:** draft
-- **Canon:** In Lupin's first practical lesson, the class takes turns at a Boggart and watches each other's fears. Lupin steps in before Harry's turn, and his own Boggart, the moon, is one of the clues that lead Hermione to his secret.
-- **Ours:** The whole year is one class (DIV-034), so Lupin runs the lesson in four House sessions of about fifteen minutes each, back to back over an hour, while the other Houses wait outside. No House sees another's fears.
-  - **Gryffindor's session** is canon's lesson, Lupin stepping in for Harry included.
-  - **Ron** faces his spider with Hufflepuff, out of Harry's sight.
-  - **Hermione** misses Lupin's moon: Q-054.
-  - **Dracaena** sits out Slytherin's session in her sling (DIV-017).
-- **Why:** forty pupils at one Boggart is too many, and a Boggart shows your deepest fear. Lupin won't hand detractors in the other Houses ammunition: within a House, fears stay among people who share a common room. He knows what a Boggart can give away, since his own is the moon. The split also shows how far apart the Houses still are in B3.
-- **Home:** [scenes/b3/boggart-lesson.md](../scenes/b3/boggart-lesson.md)
-- **Ripples:** Q-049, Q-053, Q-054 · DIV-017, DIV-033, DIV-034
 
 ### DIV-043 · B6: Sectumsempra at the Mirror, and Snape buries it
 
@@ -486,7 +440,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Ours:** Harry and Hermione go in on purpose at Christmas, with Dobby, looking for something in the Manor's Dark collection that can destroy the locket. Harry has a second motive: to apologise to Dracaena and find out whether he's out of her life for good. Inside, he breaks from the plan to find her. The raid frees the prisoners and the Malfoys, and the Death Eaters believe that was its purpose, so they never think to alert Gringotts.
 - **Why:** B7 can't keep Dracaena offstage until the end (Q-013). The raid brings her back halfway through, and Harry dropping the plan for her rehearses King's Cross (DIV-048).
 - **Home:** [scenes/b7/malfoy-manor.md](../scenes/b7/malfoy-manor.md)
-- **Ripples:** Q-013, Q-049, Q-063, Q-064, Q-065 · DIV-048, DIV-050, DIV-051, DIV-052 · [continuity/reveals.md](reveals.md)
+- **Ripples:** Q-013, Q-063, Q-064, Q-065, Q-071 · DIV-048, DIV-050, DIV-051, DIV-052 · [continuity/reveals.md](reveals.md)
 
 ### DIV-050 · B7: Dobby dies of exhaustion
 
@@ -532,3 +486,25 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Why:** a cute scene; a feat of magical mastery for Harry; it shows the part emotions, connection and love play in magic; and it brings her along with the trio, with a real limit.
 - **Home:** [setting/magic.md](../setting/magic.md) (the technique) · [scenes/b7/apparate-dancing.md](../scenes/b7/apparate-dancing.md) (the scene and the limit) · [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md) (the lessons, before and after)
 - **Ripples:** Q-015, Q-041, Q-067, Q-068, Q-069 · DIV-015, DIV-021, DIV-032, DIV-052 · [threads/harry-dracaena.md](../threads/harry-dracaena.md) · [scenes/b4/yule-ball.md](../scenes/b4/yule-ball.md) · [characters/ron-weasley.md](../characters/ron-weasley.md)
+
+### DIV-055 · Slytherins in the DA, and at the battle
+
+- **Status:** draft
+- **Canon:** The DA takes no Slytherins, and the rule is stated outright at the first meeting. Before the battle, a Slytherin calls for Harry to be handed over and the whole House is marched out of the castle. Slughorn comes back at the head of reinforcements, but no Slytherin pupil is shown fighting.
+- **Ours:** Some Slytherins are in the DA, and some stay for the battle and fight alongside Slughorn. They carry the unity theme.
+  - **Seeded early.** Across B1–B6, some Slytherins behave like ordinary people rather than bullies, so their turn at the end isn't a surprise. Canon's Slytherins are a wall of sneers; a handful of them being unremarkable costs nothing and pays off twice.
+  - **One of Dracaena's own.** A friend of hers is among them: Pansy Parkinson or Daphne Greengrass (Q-070).
+  - **The evacuation.** When McGonagall clears the House out, some refuse to go.
+- **Why:** cross-House unity works better as a subplot than as a structural change, and canon already supplies the device. The DA argues the theme without touching the trio, the dormitories or the timetable, and it lands in the book where it matters, next to Neville's stand (DIV-025).
+- **Home:** [threads/house-unity.md](../threads/house-unity.md)
+- **Ripples:** Q-070 · DIV-025 · [core/themes.md](../core/themes.md) · [characters/_roster.md](../characters/_roster.md)
+
+### DIV-056 · Snape seats Harry next to Dracaena
+
+- **Status:** draft
+- **Canon:** Snape doesn't assign Potions partners. Harry works with Ron, and Snape spends the lesson humiliating him.
+- **Ours:** Snape seats Harry next to Dracaena in Potions, where canon's timetable already has both Houses. He means it as a punishment: his best pupil parked at Harry's elbow to needle him for an hour at a time. It backfires. The forced proximity is most of what gives the two of them time together, and the Potions-servant routine grows out of it (DIV-017). No other teacher does this; it's Snape's habit, not the school's.
+- **Why:** the irony. The relationship Snape would least want is one he builds himself, out of spite, and he can't undo it without admitting what he did. When he notices: Q-043.
+- **Home:** [characters/severus-snape.md](../characters/severus-snape.md)
+- **Ripples:** Q-043 · DIV-011, DIV-017 · [scenes/b3/potions-servant.md](../scenes/b3/potions-servant.md) · [setting/hogwarts.md](../setting/hogwarts.md)
+

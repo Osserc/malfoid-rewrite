@@ -57,7 +57,7 @@ Files in `problems/` use `open` / `resolved` instead, and sketches use `raw` / `
 ## IDs
 
 - `DIV-###` is defined only in `continuity/divergences.md`, and `Q-###` only in `continuity/open-questions.md`.
-- IDs are permanent: never renumber or reuse them. Answered questions move to the Answered section and stay there.
+- IDs are permanent: never renumber or reuse them. Answered questions move to the Answered section and stay there. When a decision is reverted, delete its entries and list the numbers under **Retired, never reuse** at the top of the file; the reasoning stays in the git history.
 - Refer to them by bare ID (e.g. `DIV-003`) so they're greppable. Refer to books as `B1`–`B7`.
 
 ## Workflows

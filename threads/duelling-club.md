@@ -10,7 +10,7 @@ Flitwick's Duelling Club, where Harry and Dracaena fight for years and learn eac
 
 *(settled)* DIV-028. After Lockhart's disastrous first session (canon), the students petition the teachers to keep the club going with a proper instructor, and Flitwick steps in. Harry and Dracaena face each other regularly and are evenly matched: sometimes he wins, sometimes she does. She's the better technical duellist. He's instinctive, and thrives in chaos and improvisation.
 
-*(draft)* They keep facing each other because Flitwick pairs them on purpose: iron sharpens iron. He was a duelling champion in his youth (canon), and he'd like Hogwarts to produce more. Two evenly matched duellists who push each other are exactly what he's looking for. His stake in them as a pair also makes him a natural source for the resonance hint (Q-028). How pairings work in general: [hogwarts](../setting/hogwarts.md) (DIV-034).
+*(draft)* They keep facing each other because Flitwick pairs them on purpose: iron sharpens iron. He was a duelling champion in his youth (canon), and he'd like Hogwarts to produce more. Two evenly matched duellists who push each other are exactly what he's looking for. His stake in them as a pair also makes him a natural source for the resonance hint (Q-028).
 
 It runs from B2 through B4. In B4 it stays open and the visiting students from Durmstrang and Beauxbatons join: the Tournament doesn't take much of anyone's time, and with Quidditch cancelled (canon) the club is the only arena their rivalry has left in the year of the Yule Ball. Early in B5 Umbridge shuts it down, one of the first things she does, and they're both miffed.
 

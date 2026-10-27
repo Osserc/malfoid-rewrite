@@ -19,7 +19,7 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 
 ## Decided beats
 
-🔒 locked; everything else here is settled.
+🔒 locked, *(draft)* draft; everything else here is settled.
 
 - Burbage pleads with Snape and with Dracaena before she's killed. DIV-016, [charity-burbage](../../scenes/b7/charity-burbage.md)
 - At Christmas, Harry and Hermione raid Malfoy Manor with Dobby, looking for a way to destroy the locket. Harry breaks off to apologise to Dracaena; she decides to fight and asks him to get her family out. DIV-049, DIV-052, [malfoy-manor](../../scenes/b7/malfoy-manor.md)
@@ -32,6 +32,7 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 - The final sequence: with Harry shown dead, she challenges Voldemort. Harry rises and joins her, his hand over hers on her wand, and they duel Voldemort in resonance. No wand allegiance decides it. DIV-021, DIV-023, DIV-024, [final-duel](../../scenes/b7/final-duel.md)
 - While they duel, Voldemort raises the Great Hall's dead as Inferi and sets them and the Dementors on the duellists. Neville holds the line, then rallies the DA to shield them. DIV-025, [final-duel](../../scenes/b7/final-duel.md)
 - Lucius and Narcissa fight Bellatrix in the Great Hall. Who finishes her is open. DIV-053, [final-duel](../../scenes/b7/final-duel.md)
+- *(draft)* Some Slytherins refuse the evacuation and fight, alongside Slughorn. DIV-055, [house-unity](../../threads/house-unity.md)
 - Harry's death in the forest protects no one: everyone has to play their part. DIV-026
 - 🔒 Harry and Dracaena duel Voldemort together with her wand; their "love" rebounds the Killing Curse. DIV-006, [final-duel](../../scenes/b7/final-duel.md)
 

@@ -17,7 +17,7 @@ The hinge of B7. It brings Dracaena back into the story halfway through the book
 
 ## Why they go *(settled)* · DIV-049
 
-- **The locket.** They have it and no way to destroy it. Harry remembers Dracaena letting slip in B2 that her house is full of Dark things (canon's hook is the hidden chamber under the drawing-room floor; whatever replaces the Polyjuice trip has to keep it, Q-049). They figure something there might destroy even a Horcrux. What: Q-064.
+- **The locket.** They have it and no way to destroy it. Harry remembers Dracaena letting slip in B2 that her house is full of Dark things (canon's hook is the hidden chamber under the drawing-room floor; the B2 trip has to keep it, Q-071). They figure something there might destroy even a Horcrux. What: Q-064.
 - **Christmas.** She's home for the holidays.
 - **The plan.** Harry and Hermione plan it with Dobby as a quick in and out. Ron has left (canon).
 

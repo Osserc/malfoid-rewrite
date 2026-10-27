@@ -5,7 +5,7 @@ placement: Autumn 1993, once she gives up the sling (tentative)
 pov:
 characters: [dracaena-malfoy, remus-lupin]
 threads: [harry-dracaena]
-divergences: [DIV-017, DIV-042]
+divergences: [DIV-017]
 sketch:
 ---
 
@@ -13,13 +13,13 @@ sketch:
 
 ## Purpose
 
-How she meets her Boggart, and why nobody but Lupin has seen it. Lupin runs the class lesson House by House ([boggart-lesson](boggart-lesson.md), DIV-042), which keeps it from Harry. The sling she's milking keeps her out of Slytherin's session too, so it's also kept from her own House, the children of her father's circle. What she faces later, alone, is the vulnerability she offers Harry at the [lap pillow](lap-pillow.md).
+How she meets her Boggart, and why nobody but Lupin has seen it. Canon's Boggart lesson is Gryffindor's, so Harry was never going to see hers; the sling she's milking (DIV-017) keeps her out of her own class's lesson too, so it's also kept from her own House, the children of her father's circle. What she faces later, alone, is the vulnerability she offers Harry at the [lap pillow](lap-pillow.md).
 
 ## Beats
 
 *(settled)*
 
-1. **Slytherin's session** ([boggart-lesson](boggart-lesson.md)). Her House takes its turn at the Boggart without her: she's milking the hippogriff injury (DIV-017), and watches with her wand arm in a sling.
+1. **Her class's lesson.** Lupin runs the Boggart practical for her class as he does for Harry's (canon). She sits it out: she's milking the hippogriff injury (DIV-017), and watches with her wand arm in a sling.
 2. **The offer.** Once the sling comes off, Lupin offers her a remedial lesson to catch up. She looks down on him ("Rags").
 3. **The goad.** Lupin tells her he stepped in before Harry's turn, so she'd have faced a Boggart when Harry Potter never has.
 4. **Her Boggart.** She expects some creepy-crawly. She gets her father, looking at her with disgust. She freezes, and Lupin deals with it.
@@ -41,7 +41,7 @@ Claude's, not settled:
 
 ## Must keep
 
-- She sits out Slytherin's session because of the sling she's milking.
+- She sits out her class's lesson because of the sling she's milking.
 - Lupin goads her with Harry, to do his job, not to hurt her.
 - She accepts for the bragging rights.
 - She freezes, alone with Lupin, and tells no one until Harry.

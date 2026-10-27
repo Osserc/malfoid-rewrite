@@ -2,6 +2,8 @@
 
 Undecided points and ripples from decisions already made. IDs are permanent. When a question is answered, move it to **Answered** with a one-line answer and a link to where it's written out.
 
+**Retired, never reuse:** Q-045, Q-046, Q-047, Q-049, Q-054 — all moot with the trio split (reverted 2026-10-27). The one live item carried on as Q-071. The entries are in the git history.
+
 ## Open
 
 ### Q-001 · What does being a daughter change for Dracaena? (DIV-001)
@@ -14,7 +16,7 @@ Her standing as the Malfoy heir, marriage expectations, what Lucius wants from h
 
 In canon a Time-Turner explains how she attends overlapping classes. Cut the subplot, or explain it another way?
 
-*Partly answered (draft):* electives are timetabled in blocks (DIV-034), and two of her choices clash. That, and finding the subject is mostly wizards getting Muggles wrong, is why she drops Muggle Studies. Dracaena calls it conceding defeat (DIV-012). Still open: how long she juggles before giving up, and when in B3 she drops it.
+*Partly answered (draft):* two of her choices clash, as they must without a Time-Turner. That, and finding the subject is mostly wizards getting Muggles wrong, is why she drops Muggle Studies. Dracaena calls it conceding defeat (DIV-012). Still open: how long she juggles before giving up, and when in B3 she drops it.
 
 ### Q-003 · Rebuilding the B3 climax (DIV-002, DIV-018)
 
@@ -51,15 +53,15 @@ The hostages are the people the champions would miss most, so choosing her says 
 
 Still open: who made the choice, and how Harry, Slytherin and the school react. Track in [reveals.md](reveals.md).
 
-### Q-010 · Ron in B4 (DIV-005, DIV-033)
+### Q-010 · Ron in B4 (DIV-005)
 
-What's Ron's role without the hostage spot? Does the Harry–Ron falling-out still happen? Does Harry still save Fleur's sister?
+What's Ron's role without the hostage spot? Does the Harry–Ron falling-out still happen?
 
-*Partly answered (draft):* in Hufflepuff, Ron is caught between his best friend and Cedric, who is both his mentor and his House's champion. Divided loyalty, not jealousy, drives the falling-out. He can carry tips between the champions: the dragons, the egg ([ron-weasley](../characters/ron-weasley.md)).
+*Partly answered (draft):* the falling-out stays canon's, jealousy and all, and the hostage sharpens it instead of removing it. Canon's Ron resents Harry's glory; ours watches the whole school find out that the person Harry would miss most is Malfoy. His best friend has been lying to him for months, and lying about *her*. That's a better wedge than canon's, it costs nothing, and it drives the throughline rather than running beside it. Which of the two wounds leads, the glory or the secret, is open ([ron-weasley](../characters/ron-weasley.md)).
 
 *Answered:* Fleur's sister. Harry still brings Gabrielle up along with his hostage (canon default), which sets up Fleur's part in B4 (DIV-038).
 
-Still open: Cedric's death: how Ron takes it, and whether it cracks the friendship going into B5.
+Still open: how the reconciliation goes, and what Ron makes of the relationship once it's public.
 
 ### Q-011 · The Elder Wand and the Hallows (DIV-006, DIV-024)
 
@@ -135,7 +137,11 @@ Which year she starts, how she justifies it at home ("know your enemy"?), when L
 
 A secret couple, secret friends, something unnamed? Who knows? What happens with Cho? In B4 she was only ever a rival in Dracaena's head (DIV-041). And what about the DA bust, where canon Draco is the one who catches Harry?
 
-*Partly answered:* a secret couple that fools no one. They stage fights in front of Umbridge. From April 1996, when the Inquisitorial Squad forms (canon), she uses its privileges to take Harry to Hogsmeade on "errands", as her errand boy: their secret dates ([the-pear-perfume](../scenes/b5/the-pear-perfume.md)). Who knows, Cho and the DA bust are still open.
+*Partly answered:* a secret couple that fools no one. They stage fights in front of Umbridge. From April 1996, when the Inquisitorial Squad forms (canon), she uses its privileges to take Harry to Hogsmeade on "errands", as her errand boy: their secret dates ([the-pear-perfume](../scenes/b5/the-pear-perfume.md)).
+
+*The Squad is a toy, not a job.* She's living the dream, and she has no intention of doing Umbridge's policing, least of all anything that would get Harry into real trouble. What the badge is for is leverage to invent excuses: errands to run, rules to catch him breaking, pretexts to bully him with. So canon's bust can't turn on her catching him.
+
+Who knows, Cho, and who catches the DA instead, are still open.
 
 ### Q-022 · What does she feed Lucius? (DIV-013)
 
@@ -151,7 +157,7 @@ Canon Draco's attempts (the cursed necklace, the poisoned mead) are clumsy, whic
 
 *The necklace:* canon puts Katie Bell's cursing on the first Hogsmeade weekend, in October 1996. Canon Harry suspects Draco because in August he saw him at Borgin and Burkes, the shop where he'd seen that necklace in B2. Whether Harry sees her there decides how early he suspects her. It isn't the breakup trigger (DIV-015).
 
-*Candidate (author), to investigate later:* Hermione in Katie's place. Her return from St Mungo's in spring sends Dracaena to the Mirror (check: in canon, Katie's return is what sends Draco to the bathroom). There Harry accuses her of the necklace, and she answers "if only she'd died for real". It's a lie, the last step in making him hate her: the necklace was meant for Dumbledore. He's done with her, and attacks. It deepens her despair too: he's angry on behalf of another girl, one who's always around him. Costs: Hermione is gone for most of B6; her B7 kid gloves have to carry forgiving the girl whose necklace nearly killed her; B7 owes an apology and the truth about the lie (Q-063); with the mead, both of Harry's friends nearly die from her plot. Whether to keep the trio split (DIV-033) is a separate question.
+*Candidate (author), to investigate later:* Hermione in Katie's place. Her return from St Mungo's in spring sends Dracaena to the Mirror (check: in canon, Katie's return is what sends Draco to the bathroom). There Harry accuses her of the necklace, and she answers "if only she'd died for real". It's a lie, the last step in making him hate her: the necklace was meant for Dumbledore. He's done with her, and attacks. It deepens her despair too: he's angry on behalf of another girl, one who's always around him. Costs: Hermione is gone for most of B6; her B7 kid gloves have to carry forgiving the girl whose necklace nearly killed her; B7 owes an apology and the truth about the lie (Q-063); with the mead, both of Harry's friends nearly die from her plot.
 
 ### Q-024 · Harry's Horcrux
 
@@ -279,7 +285,7 @@ His favourite pupil falls for the son of his arch-enemy. In summer 1995 the Occl
 - **B4:** how he reacts to the Ball and the Second Task.
 - **Summer 1995:** what he does with what he sees. Does he keep it to himself? His deniability with Lucius has to hold (DIV-020), and what Lucius knows is the author's scene (Q-022).
 - **B6:** she's Marked and in his care. Canon's Unbreakable Vow with Narcissa carries more weight with this history. After Sectumsempra he buries the incident and forbids Harry from going near her, on pain of death (DIV-043).
-- **The pairing:** he pairs Harry with Dracaena in Potions to punish Harry, and it ends up giving them space ([hogwarts](../setting/hogwarts.md), DIV-034). When does he see his own hand in it? Does he keep pairing them in B5, once the Occlumency lessons have shown him the result?
+- **The pairing:** he pairs Harry with Dracaena in Potions to punish Harry, and it ends up giving them space (DIV-056). When does he see his own hand in it? Does he keep pairing them in B5, once the Occlumency lessons have shown him the result?
 
 ### Q-044 · Her scars (DIV-032)
 
@@ -288,43 +294,9 @@ His favourite pupil falls for the son of his arch-enemy. In summer 1995 the Occl
 - **Snape:** Sectumsempra is his own spell, from his own book (canon), turned on his favourite pupil by James Potter's son (Q-043).
 - **The turn:** when she starts to like them. After they're back together (Q-013)? Candidate: when she makes Harry take off his velvet gloves (Q-069).
 
-### Q-045 · Getting into Hufflepuff (DIV-036)
-
-Hufflepuff's hospitality is its weak spot. Its students let Crookshanks in because he's big and cuddly, and the same weakness lets Black in, in place of Neville's lost list of passwords ([sirius-break-ins](../scenes/b3/sirius-break-ins.md)). Open:
-- **Who** lets the cat in, and who or what lets Black in. The same student?
-- **How** Black gets past the Hufflepuff entrance.
-- **Neville's list.** Without it, Neville is spared canon's humiliation: the ban, and his gran's Howler. Keep that, or give the humiliation to someone else?
-
-### Q-046 · Where does the trio meet? (DIV-033)
-
-They no longer share a common room, and in term the common rooms take no guests. Classes and the holidays are covered (DIV-034). Candidates for the rest:
-- Hagrid's hut, already neutral ground in canon.
-- The library.
-- Disused classrooms, plentiful in a castle a third full (DIV-035).
-- The Room of Requirement, found early. Cost: canon ties its discovery to the DA in B5. Gain: in B6 she repairs the Cabinet in the room they shared.
-
-*The pressure keeps coming back.* In B6, after Sectumsempra, Harry vanishes for four days and comes back looking like a zombie. His friends have to see it and get it out of him, with no common room to do it in (Q-057). The author flags the split trio as a complication, to work through in a dedicated session.
-
-### Q-047 · Whole-year classes: the norm, or a reform? (DIV-034)
-
-Either Hogwarts has always taught each year as one class, or it's a reform from the war years, when the cohorts shrank. If it's a reform: whose (Dumbledore's, as a unity measure?), when, and did Lucius object from the Board of Governors? Also: do the bigger post-war years (DIV-035) go back to pairs of Houses?
-
 ### Q-048 · The way out of the decline (DIV-035)
 
 Wizarding Britain is shrinking, and Voldemort's war made it worse. After the war the story needs a resolution. The author has an idea, tied to how magic works and to why the blood supremacists are partly right while their solution is suicidal. House-elves may tie in ([problems/house-elves.md](../problems/house-elves.md)). Out of scope for now.
-
-### Q-049 · Canon beats that assume a Gryffindor trio (DIV-033)
-
-To settle as each book is planned:
-- **B1:** the House Cup ending, with Dumbledore's last-minute points split across three Houses. Neville standing up to friends who aren't his housemates any more.
-- **B2:** the Polyjuice trip into the Slytherin common room, which likely changes anyway with Dracaena there. Whatever replaces it has to keep Harry learning from her that the Manor hides Dark things: B7 relies on it (DIV-049).
-- **B4:** the falling-out, which canon plays out in their shared dormitory (Q-010).
-- **B5:** Ron and Hermione as prefects of their own Houses. Ron as Hufflepuff's Keeper.
-- **B6:** Ron and Lavender, a Gryffindor.
-- **Ginny's House.**
-- **The dormitory talks** between Harry and Ron, which canon uses throughout.
-
-Already covered: the Christmases (DIV-034), Sirius's break-ins (DIV-036) and the Boggart lesson (DIV-042).
 
 ### Q-050 · Does anyone notice at the World Cup? (DIV-037)
 
@@ -359,16 +331,6 @@ She faces her Boggart alone with Lupin ([remedial-boggart](../scenes/b3/remedial
 - **Lupin knows.** He has seen her fear of her father. Does it change how he treats her? Does he notice her spying on Harry's Patronus lessons?
 - **When.** How long she keeps the sling, and so how long after the class lesson the remedial one comes.
 
-### Q-054 · Hermione and the moon (DIV-042)
-
-In canon, Lupin's Boggart turning into the moon is one of Hermione's clues to his secret. In Ravenclaw she misses Gryffindor's session ([boggart-lesson](../scenes/b3/boggart-lesson.md)). The author's candidates:
-- **The corridor.** Gryffindor goes before Ravenclaw. As the Gryffindors come out, she overhears Dean or someone mention the ball of light.
-- **The debrief.** The trio didn't see each other's Boggarts, so afterwards they compare. Harry says Lupin stepped in before his turn, and a shiny ball appeared.
-
-Candidate (Claude): the debrief, which can take in the corridor: she catches a fragment outside and gets the rest from Harry. It gives the split trio a scene, and a contrast: they share their fears with each other, while Dracaena has no one to tell until Harry ([remedial-boggart](../scenes/b3/remedial-boggart.md)).
-
-Also open: in canon Hermione never gets a turn in class. Does she in Ravenclaw's session, and does her Boggart come up in the debrief?
-
 ### Q-057 · Sectumsempra's canon aftermath (DIV-043)
 
 In canon Harry gets detention for the rest of term, so he misses the last Quidditch match, and he hides the Prince's book in the Room of Requirement. The school knows. With the incident buried, what's left? How does Snape punish Harry without saying why, and what does Harry tell Ron and Hermione?
@@ -376,7 +338,7 @@ In canon Harry gets detention for the rest of term, so he misses the last Quiddi
 *Partly answered:*
 - **Detention.** Snape gives Harry detention. Officially it's for screaming at Snape and for getting violent with Crabbe and Goyle, who bar his way to the Hospital Wing. They get off scot-free: self-defence. Candidate (author) for the screaming: he doesn't care about anything, he just wants to see her.
 - **Quidditch.** Harry is banned, one way or another.
-- **His friends.** He tells them eventually. They haven't seen him for four days, and he comes back looking like a zombie. Getting the trio together naturally is a recurring snag (Q-046).
+- **His friends.** He tells them eventually. They haven't seen him for four days, and he comes back to the common room looking like a zombie.
 - **The book** still ends up in the Room of Requirement, as in canon: hiding it there is how Harry spots the diadem in B7.
 - **Her cover story** is official: an old enchanted mirror in a disused room shattered on her (DIV-043).
 
@@ -449,6 +411,19 @@ She can only get away with Harry, and the danger keeps mounting. Ron's fear is t
 After the Manor, Harry handles her with velvet gloves until she confronts him about Sectumsempra and asks him to stop ([harry-dracaena](../threads/harry-dracaena.md)). Open: when, where, and what she says.
 
 *Claude's lean:* make it the turn in Q-044, where she starts to like her scars and their game begins (DIV-032). It also belongs before the final duel: resonance has no leader (DIV-021), and he can't stand beside her as an equal while he treats her like glass.
+
+### Q-070 · Which Slytherins, and how do they get there? (DIV-055)
+
+Slytherins in the DA and at the battle ([house-unity](../threads/house-unity.md)). Open:
+- **Dracaena's friend.** Pansy Parkinson or Daphne Greengrass? Pansy is already pulling double duty as a candidate for Rita's source (Q-038), and canon gives her the call to hand Harry over, so using her means choosing which Pansy we want. Greengrass is a blank slate with a canon name.
+- **How many,** and which of them get seeded in which books. A handful, named and recurring, beats a crowd.
+- **Getting in.** Canon's DA bars Slytherins outright, and the reason is distrust, not spite. Who vouches for them, and who objects?
+- **Dracaena and the Squad.** Not a problem: in B5 she's dreaming and barely does the job, least of all anything that would land Harry in real trouble (Q-021). A friend of hers in the DA is safe from her. Still worth deciding whether she knows, and what she does with knowing.
+- **The evacuation.** Who refuses to leave, and whether they go to Slughorn or stay hidden in the castle.
+
+### Q-071 · B2: the Polyjuice trip with Dracaena in Slytherin (DIV-001, DIV-049)
+
+Canon's trip has Harry and Ron interrogate Draco in the Slytherin common room. With Dracaena there it changes: she's a girl, she's been circling Harry for a year, and Crabbe and Goyle are her friends, not her minders. Whatever it becomes has to keep Harry learning that the Manor hides Dark things, because B7 relies on it (DIV-049, [malfoy-manor](../scenes/b7/malfoy-manor.md)).
 
 ## Answered
 

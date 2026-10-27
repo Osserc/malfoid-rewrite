@@ -24,7 +24,6 @@ _Marauders era, the first war. Not yet worked out._
 - **1991-07-31**: Diagon Alley. Harry and Dracaena meet at Madam Malkin's. DIV-009
 - **1991-08**: Dracaena reads the Muggle books Narcissa obtained for her. DIV-010
 - **1991-09-01**: Hogwarts Express. Harry rejects her; her grudge begins. DIV-009
-- **1991-09-01**: The Sorting. Ron goes to Hufflepuff without a moment's hesitation, Hermione to Ravenclaw. DIV-033
 - **1991-09**: First Potions lesson. Snape has her answer the questions Harry can't, the Draught of Living Death among them. Hermione blurts out the third answer and loses points; Dracaena outdoes her. DIV-011, DIV-031
 
 ## B2 · 1992–93
@@ -34,9 +33,7 @@ _Marauders era, the first war. Not yet worked out._
 ## B3 · 1993–94
 
 - **From about 1993**: The post-war cohorts reach Hogwarts, and each Sorting runs a little longer than the last. DIV-035
-- **1993-09**: The hippogriff lesson. She milks the injury for weeks: the match delay, the Potions servant. Lupin runs the Boggart lesson House by House; she sits out Slytherin's session in her sling, and faces hers alone with Lupin once it comes off. DIV-017, DIV-042
-- **1993-10-31**: Black slashes the Fat Lady, assuming Ron is a Gryffindor. DIV-036
-- **Later in the year (canon timing)**: Black breaks into Hufflepuff and stands over Ron's bed. DIV-036
+- **1993-09**: The hippogriff lesson. She milks the injury for weeks: the match delay, the Potions servant. She sits out her class's Boggart lesson in her sling, and faces hers alone with Lupin once it comes off. DIV-017
 - **During B3**: Hermione drops Muggle Studies, and Dracaena calls it conceding defeat. DIV-012
 - **1994, during Harry's Patronus lessons**: she spies on them and studies the charm for him, getting only mist herself. The lap-pillow scene. DIV-018, DIV-027
 - **1994-06**, the night of Buckbeak's execution: her fake lead sends the Dementors to the lake. She frees Buckbeak, ends up at the lake, fails to cast a Patronus and confesses. Harry casts his, with a first flicker of resonance. She flies Buckbeak to Sirius, who escapes. Sequence provisional (Q-003). DIV-003, DIV-018

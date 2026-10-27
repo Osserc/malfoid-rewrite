@@ -35,9 +35,11 @@ _Open._ See Q-016. Her Muggle reading pulls both ways: it wears down her contemp
 
 *(draft)* **The ruins.** In the vein of FromSoftware's games, wizarding Britain lives in the ruins of a once-thriving world: a castle built for a thousand that holds a third of that, and a people shrinking since the Statute of Secrecy (DIV-035). That gives Voldemort's promise to take it back real credence, except that his war killed so many it made the decline worse. The resolution after the war is the author's idea (Q-048).
 
-## Unity across the Houses *(draft)* · DIV-033, DIV-034
+## Unity across the Houses *(draft)* · DIV-055
 
-The four leads cover all four Houses: Harry in Gryffindor, Ron in Hufflepuff, Hermione in Ravenclaw, Dracaena in Slytherin. Canon states this theme (the Hat's warnings, Dumbledore's call for unity at the end of B4) and never delivers it. The Houses stay fiercely tribal, so crossing them means something. The measure is the classroom, where four clumps by House slowly dissolve (DIV-034). The risk is a schematic line-up with one lead per House, so each House has to shape its lead and set them against the others, not just serve as a badge.
+Canon states this theme (the Hat's warnings, Dumbledore's call for unity at the end of B4) and never delivers it. The Houses stay fiercely tribal, so crossing them means something.
+
+It's a subplot, not a structural change. Harry and Dracaena carry it at full strength already: the romance crosses the deepest House line in the school, and it's where the book's attention is anyway. Around them it's argued through the DA, canon's own device: some Slytherins join it, and some stay for the battle and fight alongside Slughorn (DIV-055). The groundwork is a handful of Slytherins behaving like ordinary people across the early books, so the turn at the end reads as something that was always there rather than a conversion.
 
 ## Love as a literal force (DIV-006)
 

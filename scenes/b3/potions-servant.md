@@ -29,4 +29,4 @@ All six beats.
 
 ## Open
 
-Which potion. Who else notices. Snape already pairs them in Potions ([hogwarts](../../setting/hogwarts.md), DIV-034), so her "injury" means her partner does all the work. When does the pairing start?
+Which potion. Who else notices. Snape already seats them together in Potions (DIV-056), so her "injury" means her partner does all the work. When does the pairing start?

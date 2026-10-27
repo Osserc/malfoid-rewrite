@@ -12,14 +12,13 @@ Forty a year implies a wizarding Britain of a few thousand. That fits canon's vi
 
 ## Why it matters for us
 
-- Whole-year classes (DIV-034) need small years, and a reason for them.
 - A tiny minority makes the economy problem worse, not better.
 - DIV-008 needs the pureblood point to rest on something real.
 
 ## Options
 
 - **More schools, with Hogwarts the most prestigious.** Rejected:
-  - House identity only carries weight in wider society because every adult wizard was Sorted. Rival schools dilute the Houses, and with them the unity theme (DIV-033).
+  - House identity only carries weight in wider society because every adult wizard was Sorted. Rival schools dilute the Houses, and with them the unity theme ([themes](../core/themes.md)).
   - In B7 Voldemort takes Hogwarts because it holds the whole next generation. With rival schools, the Carrows control a fraction of it.
   - Fees would follow, and the Weasleys couldn't send seven children. Canon never charges fees, and B6 mentions a fund for pupils who can't afford books and robes. The Weasleys' poverty comes from one modest salary, seven children's kit, and Arthur's stalled career.
 - **A small population that holds together.** Adopted. Canon's single institutions are already a small town's. A long decline and the war dip explain the empty castle. Magic, the Muggle border and dependence on the Muggle economy explain how it runs.
@@ -30,4 +29,4 @@ A small, shrinking people: DIV-035.
 
 ## Ripples
 
-Q-016, Q-048 · DIV-034 · [house-elves](house-elves.md)
+Q-016, Q-048 · [house-elves](house-elves.md)
