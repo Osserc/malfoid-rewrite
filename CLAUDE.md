@@ -89,7 +89,7 @@ Scenes are named by slug, never by chapter number. Placement in the front matter
 
 The author's rough prose, ahead of the manuscript. Not canon: material to mine for ideas, and later a base for chapters.
 
-1. The author drops a sketch into `sketches/bN/` (or `sketches/unplaced/`) under its scene's slug, or pastes it in chat for Claude to file. Claude adds the front matter from the template and links it in the scene file's `sketch:` field.
+1. The author drops a sketch into `sketches/bN/` (or `sketches/unplaced/`) under its scene's slug, or pastes it in chat for Claude to file. Claude adds the front matter from the template, puts a blank line between lines (Markdown merges consecutive lines into one paragraph) and links it in the scene file's `sketch:` field.
 2. Read it against the bible. Raise new ideas and contradictions; record agreed ones through *Recording a decision*. Never adopt them quietly.
 3. Status: `raw` as written, `mined` once its ideas have been through the bible, `used` once it's worked into a chapter.
 
