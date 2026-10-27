@@ -38,7 +38,7 @@ Canon default.
 
 - Harry Potter: her friend. She can't resonate with him: friendship isn't enough (DIV-021).
 - [Ron Weasley](ron-weasley.md): in Hufflepuff. Her cat in his dormitory turns their B3 feud into a House incident (DIV-036).
-- [Dracaena Malfoy](dracaena-malfoy.md): her rival from the first Potions lesson, where Dracaena shows her up (DIV-011). Taunts her for dropping Muggle Studies (DIV-012). From B4 she stops slurring her, for Harry's sake.
+- [Dracaena Malfoy](dracaena-malfoy.md): her rival from the first Potions lesson, where Dracaena shows her up (DIV-011). Taunts her for dropping Muggle Studies (DIV-012). From B4 she stops slurring her, for Harry's sake. In B6 she calls Hermione "Mudblood" again, plenty, to hurt her ([dracaena-malfoy](dracaena-malfoy.md)). *(settled)* In B7 Hermione treats her with kid gloves anyway. She's perceptive, and knows Dracaena wasn't herself in B6, and still isn't: from the Ball to the end of B5 she was not too hostile for a year and a half. At Shell Cottage, her sealing spell saves Narcissa's medicine, and Dracaena starts treating her as a person for good ([narcissa-malfoy](narcissa-malfoy.md)).
 - Crookshanks: her cat, and Black's accomplice (DIV-036).
 
 ## Arc by book
@@ -51,7 +51,7 @@ Canon default.
 | B4 | | | |
 | B5 | | | |
 | B6 | | Notices Harry's new tricks resemble Dracaena's technique (Q-042) | |
-| B7 | | Plans the Malfoy Manor raid with Harry and Dobby (DIV-049) | |
+| B7 | | Plans the Malfoy Manor raid with Harry and Dobby (DIV-049). Treats Dracaena with kid gloves ([apparate-dancing](../scenes/b7/apparate-dancing.md)). Invents the sealing spell that preserves Narcissa's medicine | |
 
 ## Secrets
 

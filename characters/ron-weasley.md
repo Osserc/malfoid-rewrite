@@ -55,7 +55,7 @@ Canon default.
 | B4 | | Torn between Harry and Cedric (Q-010) | Cedric dies |
 | B5 | | | |
 | B6 | | | |
-| B7 | | Leaves the tent (canon) | Comes back through the Deluminator, straight into the Malfoy Manor raid, and fights beside Harry (DIV-051) |
+| B7 | | Leaves the tent (canon) | Comes back through the Deluminator, straight into the Malfoy Manor raid, and fights beside Harry (DIV-051). Sees Dracaena as a liability: she can't Apparate, and Harry would stay behind with her (DIV-054) |
 
 ## Secrets
 
@@ -63,4 +63,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-010, Q-023, Q-045, Q-046, Q-049
+Q-010, Q-023, Q-045, Q-046, Q-049, Q-068

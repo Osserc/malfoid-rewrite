@@ -45,6 +45,7 @@ So once they're inside, he breaks from the plan on purpose and heads for her roo
 
 - **Exhaustion, not a knife.** Canon has Bellatrix kill him with a thrown knife. Ours has him spend himself ferrying people out on his own Apparition. His death becomes a choice made out of love, and his limit is set up in the planning (beat 1).
 - **The Malfoys too.** He saves the family that abused him, because Harry asked, and to Dobby they're Harry's family.
+- **Afterwards.** He leaves no body. Harry scatters his ashes and makes him a tomb anyway, on the cliff at Shell Cottage ([apparate-dancing](apparate-dancing.md)).
 - **The Manor's geist.** His bond with the Manor makes his magic stronger there: he's still something of a Malfoy spirit. What elves are: [problems/house-elves.md](../../problems/house-elves.md).
 
 ## The cover *(settled)* · DIV-049

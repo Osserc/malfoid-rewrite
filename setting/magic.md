@@ -53,6 +53,18 @@ A veela's charm has no hold on someone who's already in love. Canon never says e
 - **Fleur's test.** In B4 she turns her charm on Harry to find out whether his heart is taken (DIV-038).
 - **Separate from resonance.** It takes no wand and no sync: it's a limit of the charm, not something two people do.
 
+### Harry's dance *(settled)* · DIV-054
+
+From B7, Harry Apparates Dracaena by dancing with her. She can't Apparate ([apparate-dancing](../scenes/b7/apparate-dancing.md)).
+
+- **Side-Along** is canon: anyone who can Apparate can take along someone who can't, hauled along, squeezed, with a crack.
+- **The turn.** Apparition is a turn on the spot (canon), and a waltz is a chain of turns. Each turn of the dance is the Apparition turn. Neither of them is dragged: it feels like a pull, a slide across the floor, not a squeeze.
+- **The wish.** What drives it is that he wants to go somewhere *with her*: "I wished we could go somewhere together." That's why it only works with her.
+- **The sound.** A *swoosh*, not canon's crack: the tell that his technique is different. On his own, Harry still cracks.
+- **No wand.** Apparition takes none, so his hands are free for her.
+- **A feat.** Chaining Apparitions on the beat, both of them, without a Splinch, is very hard. Ron and Hermione doubt many wizards alive could do it.
+- **Not resonance.** It's all in Harry's mind: he casts alone and leads. There's no shared wand and no link between them, so the stained soul never comes into it and it doesn't hurt her (see *Resonance* above).
+
 ## Legilimency and Occlumency *(settled)* · DIV-020
 
 - **Not mind reading.** Legilimency perceives thoughts, feelings and memories (canon). What it perceives can be shaped.

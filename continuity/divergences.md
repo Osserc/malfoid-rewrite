@@ -281,7 +281,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 - **Status:** settled
 - **Canon:** Draco is an only child, and canon gives no reason. Narcissa is never Marked but stays in the Death Eaters' orbit until B7, when love for her son leads her to lie to Voldemort.
-- **Ours:** After Voldemort's fall, Lucius escapes Azkaban by renouncing him and claiming the Imperius Curse (canon). A Death Eater still at large tries to curse him for it, and hits Narcissa instead: she can never have another child. The curse is still at work: a magical necrosis on her belly, like Dumbledore's hand. A very complex potion that Snape brews shrinks it and keeps it at bay, without ever lifting it (DIV-031). After years of treatment it's weaker, and she lives a more or less normal life, but she needs regular doses or it regresses, and she still bears its dark marks. One day Dracaena takes over brewing it in his stead (when: Q-041). Lucius never forgives himself. Narcissa forgives him, but uses his guilt to manoeuvre him where Dracaena is concerned. The Death Eaters took her future children, so she has soured on the cause and wants Dracaena to be happy, almost in her stead. That makes her Harry's ally inside the house. Lucius stays on board only out of fear, the same reasoning Dracaena will follow in B6 (DIV-015).
+- **Ours:** After Voldemort's fall, Lucius escapes Azkaban by renouncing him and claiming the Imperius Curse (canon). A Death Eater still at large tries to curse him for it, and hits Narcissa instead: she can never have another child. The curse is still at work: a magical necrosis on her belly, like Dumbledore's hand. A very complex potion that Snape brews shrinks it and keeps it at bay, without ever lifting it (DIV-031). After years of treatment it's weaker, and she lives a more or less normal life, but she needs a dose every month or it regresses, and she still bears its dark marks. The potion degrades within days, so each dose is brewed fresh. In B7, at Shell Cottage, Dracaena takes over, brewing a whole batch that Hermione's sealing spell preserves (Q-041). Lucius never forgives himself. Narcissa forgives him, but uses his guilt to manoeuvre him where Dracaena is concerned. The Death Eaters took her future children, so she has soured on the cause and wants Dracaena to be happy, almost in her stead. That makes her Harry's ally inside the house. Lucius stays on board only out of fear, the same reasoning Dracaena will follow in B6 (DIV-015).
 - **Why:** it explains the only child, and gives Lucius's sheltering, his guilt and Narcissa's indulgence one root. The medicine keeps the Snape–Malfoy connection going, and gives Dracaena a tangible way to show her growth when she steps in to brew it.
 - **Home:** [characters/narcissa-malfoy.md](../characters/narcissa-malfoy.md)
 - **Ripples:** Q-019, Q-032, Q-036, Q-039, Q-041 · DIV-010, DIV-015, DIV-031 · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md) · [continuity/reveals.md](reveals.md)
@@ -495,7 +495,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Ours:** He spends himself ferrying people out on his own Apparition, though he warned them he can't carry many: first the prisoners, then the Malfoys, his former masters, because Harry asked him to save "his family". Harry, last out, holds off Bellatrix and the others. Then Dobby has nothing left, and crumbles into dust.
 - **Why:** his death becomes a choice made out of love, not a stray knife.
 - **Home:** [scenes/b7/malfoy-manor.md](../scenes/b7/malfoy-manor.md)
-- **Ripples:** DIV-049, DIV-052 · [problems/house-elves.md](../problems/house-elves.md)
+- **Ripples:** DIV-049, DIV-052 · [problems/house-elves.md](../problems/house-elves.md) · [scenes/b7/apparate-dancing.md](../scenes/b7/apparate-dancing.md) (his tomb)
 
 ### DIV-051 · B7: the sword stays at Hogwarts, and Ron comes back at the Manor
 
@@ -523,3 +523,12 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Why:** it's their own stand in the climax, against Narcissa's sister. It follows from their defection (DIV-052).
 - **Home:** [scenes/b7/final-duel.md](../scenes/b7/final-duel.md)
 - **Ripples:** Q-032, Q-066 · DIV-025, DIV-052 · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md) · [characters/narcissa-malfoy.md](../characters/narcissa-malfoy.md)
+
+### DIV-054 · B7: Dracaena can't Apparate, and Harry dances her away
+
+- **Status:** settled. When the velvet gloves come off is draft (Q-069).
+- **Canon:** Draco is at the first Apparition lesson in B6, where Harry eavesdrops on him. Anyone who can't Apparate travels by Side-Along, hauled along by someone who can.
+- **Ours:** She skips the B6 lessons: her mind is on the mission. In B7 she can't Apparate, and doesn't learn during the book, because teaching her unsupervised is too dangerous and they can't afford a Splinching. Side-Along would get her out, but only with someone always at her side: Ron sees her as a liability. Harry Apparates her by dancing. Each turn of the waltz is the Apparition turn, with a *swoosh* instead of a crack, and it works only because he wants to go somewhere with her. From then on every Apparition with her is a dance step, and she has to be near Harry to get away. On his own he still cracks. After the war she learns, and still makes him dance her.
+- **Why:** a cute scene; a feat of magical mastery for Harry; it shows the part emotions, connection and love play in magic; and it brings her along with the trio, with a real limit.
+- **Home:** [setting/magic.md](../setting/magic.md) (the technique) · [scenes/b7/apparate-dancing.md](../scenes/b7/apparate-dancing.md) (the scene and the limit) · [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md) (the lessons, before and after)
+- **Ripples:** Q-015, Q-041, Q-067, Q-068, Q-069 · DIV-015, DIV-021, DIV-032, DIV-052 · [threads/harry-dracaena.md](../threads/harry-dracaena.md) · [scenes/b4/yule-ball.md](../scenes/b4/yule-ball.md) · [characters/ron-weasley.md](../characters/ron-weasley.md)

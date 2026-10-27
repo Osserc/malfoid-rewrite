@@ -43,7 +43,7 @@ Canon default.
 | B4 | Beauxbatons champion (canon) | Harry brings Gabrielle back (canon) | Tests Harry and plays matchmaker (DIV-038) |
 | B5 | | | |
 | B6 | | | |
-| B7 | | | |
+| B7 | | Hosts the Malfoys at Shell Cottage with Bill (canon default, Q-067) | |
 
 ## Secrets
 
@@ -51,4 +51,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-_None yet._
+Q-067

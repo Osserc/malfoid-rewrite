@@ -36,6 +36,12 @@ He approves of them, and encourages them more than once. What he says each time 
 - **End of B5.** As Harry rages in his office over Sirius's death (canon), Dumbledore tells him to treasure the love he has left, and not only his friends'. Soon after, she comforts him (DIV-014, [after-sirius](../scenes/b5/after-sirius.md)).
 - **B6.** On the night of the cave, he says something cryptic about Sectumsempra (DIV-044, [dumbledores-counsel](../scenes/b6/dumbledores-counsel.md)).
 
+## Velvet gloves · DIV-054
+
+*(settled)* After the Manor, Harry isn't over Sectumsempra. He's afraid of hurting her, and handles her with velvet gloves: it shows in how gently he Apparates her ([apparate-dancing](../scenes/b7/apparate-dancing.md)).
+
+*(draft)* It greatly annoys her. She enjoyed the rough and tumble of their rivalry, the duelling and the Quidditch ([duelling-club](duelling-club.md), [quidditch](quidditch.md)). Eventually she confronts him about Sectumsempra and asks him to stop. When, where, and what she says: Q-069.
+
 ## By book
 
 | Book | Beat | Where |
@@ -70,6 +76,7 @@ He approves of them, and encourages them more than once. What he says each time 
 | B6 | In the Hospital Wing she casts him as the Dark Lord's like and offers him her body with contempt. His last hope dies | [after-sectumsempra](../scenes/b6/after-sectumsempra.md) |
 | B6 | On the night of the cave, on the walk to Hogsmeade, Dumbledore talks to Harry about her (DIV-044) | [dumbledores-counsel](../scenes/b6/dumbledores-counsel.md) |
 | B7 | Christmas, the Manor raid: he comes to apologise; she decides to fight, and he gets her family out. Dobby dies doing it. Back together (DIV-049, DIV-050, DIV-052; the meeting: Q-063) | [malfoy-manor](../scenes/b7/malfoy-manor.md) |
+| B7 | Shell Cottage: she can't Apparate, so he asks her to dance and Apparates them both, *swoosh*. She raises the bar, as at the Ball, and he meets it (DIV-054). His velvet gloves, until she makes him take them off (Q-069) | [apparate-dancing](../scenes/b7/apparate-dancing.md) |
 | B7 | On his way to the forest he stops for her and tells her never to give up hope (DIV-022) | [before-the-forest](../scenes/b7/before-the-forest.md) |
 | B7 | At King's Cross he goes back for her: not for the job, not for Voldemort (DIV-048) | [kings-cross](../scenes/b7/kings-cross.md) |
 | B7 | With Harry shown dead, she challenges Voldemort. Harry rises and joins her, his hand over hers on her wand (DIV-023). 🔒 They duel Voldemort together; their "love" rebounds the Killing Curse (DIV-006) | [final-duel](../scenes/b7/final-duel.md) |
@@ -91,6 +98,9 @@ He approves of them, and encourages them more than once. What he says each time 
 | She likes her scars because they match his (DIV-032) | "We match now", said bitterly in the Hospital Wing | B6, [after-sectumsempra](../scenes/b6/after-sectumsempra.md) |
 | He kisses her scars (DIV-032) | His dead hope of kissing them better | B6, [after-sectumsempra](../scenes/b6/after-sectumsempra.md) |
 | B7 back together at the Manor (DIV-052) | What she said in the Hospital Wing, to be answered (Q-063) | B6 |
+| B7 she raises the bar mid-dance, and he meets it (DIV-054) | The second dance at the Yule Ball | B4, [yule-ball](../scenes/b4/yule-ball.md) |
+| B7 the velvet gloves come off (Q-069) | His guilt over Sectumsempra (DIV-032). The rough-and-tumble rivalry she misses (DIV-028) | B2 on; B6 |
+| B7 the limit bites (Q-068) | She can only get away with Harry (DIV-054) | B7, [apparate-dancing](../scenes/b7/apparate-dancing.md) |
 | B7 she challenges Voldemort | Her B6 despair, to be reversed (DIV-015). "Never give up hope" (DIV-022) | B6, B7 |
 | B7 he goes back for her (DIV-048) | The Manor, where he first drops the plan for her (DIV-049). Stopping for her on the way to the forest (DIV-022). Earlier signs that she's what he lives for, not only whom he loves | B7; earlier: ? |
 | B7 love rebounds the curse | Resonance: its rule, what it takes, and that it can fail (DIV-021) | B1–B6 (Q-028) |

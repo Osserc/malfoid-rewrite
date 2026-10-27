@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's rival and his tsundere love interest. 🔒 DIV-001
 **Canon baseline:** Draco Malfoy. Anything not overridden follows canon Draco, adjusted for the knock-on effects of her being a daughter (Q-001).
-**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–032, DIV-038–041, DIV-043, DIV-045–047, DIV-049, DIV-052
+**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–032, DIV-038–041, DIV-043, DIV-045–047, DIV-049, DIV-052, DIV-054
 
 ## Core
 
@@ -37,7 +37,7 @@ Gifted and brave, as befits wizard royalty (DIV-011):
 - **B4.** She brews Harry a gillyweed extract for the Second Task (DIV-039, Q-051).
 - **B6.** Harry beats her at the Draught of Living Death with the Prince's notes. That isn't because the Prince is better than his own older self. The sixth-year tricks are experimental and less elegant than what she was taught, but they work, and she has no drive left to one-up Harry: her priorities are elsewhere (DIV-015). She notices how much his new tricks resemble her technique, and so does Hermione (Q-042). In the same lesson she knows the Amortentia at a glance and doesn't raise her hand ([slughorns-first-lesson](../scenes/b6/slughorns-first-lesson.md), DIV-045).
 - **Her perfume.** She brews her own pear perfume, the one Harry picked for her in B5, adding a new note to every batch and daring him to name it. She still wears it in B6 ([the-pear-perfume](../scenes/b5/the-pear-perfume.md)).
-- **Mama's medicine.** One day she takes over brewing it in Snape's stead, a tangible sign of how far she's come (when: Q-041).
+- **Mama's medicine.** She takes over brewing it in Snape's stead in B7, at Shell Cottage, a tangible sign of how far she's come. Hermione's sealing spell lets her brew a whole batch ([narcissa-malfoy](narcissa-malfoy.md), Q-041).
 
 ## Occlumency
 
@@ -54,6 +54,10 @@ Gifted and brave, as befits wizard royalty (DIV-011):
 - **Harry** didn't know what the spell would do, and can never forget the mistake he made in a moment of anger.
 - **She** goes through something similar at first. Eventually she comes to like them, as a symbol of what they got over together. They match his lightning scar.
 - **Their game.** She sometimes uses them to guilt-trip him into doing her favours. He always kisses them when he sees them, hoping one day it'll make them disappear.
+
+## Apparition
+
+*(settled)* DIV-054. She skips the B6 Apparition lessons. She's in no state for them, and she believes the only escape from Voldemort is to carry out the mission, so she doesn't bother (DIV-015). In B7 she can't Apparate and doesn't learn: Harry dances her away instead ([apparate-dancing](../scenes/b7/apparate-dancing.md)). After the war she learns, so as not to be outdone, and still makes him dance her, because she enjoys it.
 
 ## The Mark
 
@@ -97,7 +101,7 @@ Hawthorn and unicorn hair (canon default). It matters: it's the wand she and Har
 
 - **Harry Potter:** see [threads/harry-dracaena.md](../threads/harry-dracaena.md).
 - **Lucius Malfoy:** see [lucius-malfoy.md](lucius-malfoy.md).
-- **Hermione Granger:** her rival from the first Potions lesson, where Dracaena shows her up; second best to her in Potions (DIV-011). When Hermione drops Muggle Studies in B3, Dracaena calls it conceding defeat (DIV-012). *(settled)* From B4 Harry won't stand for slurs against his friend, so she drops "Mudblood" for less charged insults, sometimes mid-word ([the-little-basilisk](../scenes/b4/the-little-basilisk.md)). See [hermione-granger](hermione-granger.md).
+- **Hermione Granger:** her rival from the first Potions lesson, where Dracaena shows her up; second best to her in Potions (DIV-011). When Hermione drops Muggle Studies in B3, Dracaena calls it conceding defeat (DIV-012). *(settled)* From B4 Harry won't stand for slurs against his friend, so she drops "Mudblood" for less charged insults, sometimes mid-word ([the-little-basilisk](../scenes/b4/the-little-basilisk.md)). *(settled)* In B6 she relapses: unwell, she calls Hermione that plenty, to hurt her, and to make Harry hate her. Going back on her promise to treat his friends better gives him one more reason to lash out ([sleeping-beauty](../threads/sleeping-beauty.md)). She isn't proud of it, and in B7 the memory is still fresh ([apparate-dancing](../scenes/b7/apparate-dancing.md)). *(settled)* At Shell Cottage, Hermione's sealing spell secures her mother's medicine. It's hard to hate someone who saved your mother: Dracaena is in her debt, and from then on treats her as a person for good, not just someone Harry likes whom she has to tolerate ([narcissa-malfoy](narcissa-malfoy.md)). See [hermione-granger](hermione-granger.md).
 - **Fleur Delacour:** needles her after the Second Task, then hands her a public win. Dracaena knows she owes her (DIV-038). See [fleur-delacour](fleur-delacour.md).
 - **Cho Chang:** a rival only in her head, from the World Cup until Fleur's line (DIV-041). See [harry-dracaena](../threads/harry-dracaena.md).
 - **Charity Burbage:** her Muggle Studies teacher (DIV-012, DIV-016).
@@ -115,7 +119,7 @@ Her inner arc is the [Sleeping Beauty thread](../threads/sleeping-beauty.md).
 | B4 | | 🔒 Accepts his invitation to the Yule Ball, the turning point (DIV-004, DIV-013). 🔒 His Second Task hostage (DIV-005); claims him in front of the school (DIV-038) | In the dream. Refuses her father's order to cut ties, throwing Harry's silence about him back at him, and he comes up with the spy strategy (DIV-013, DIV-040, DIV-047) |
 | B5 | Learns Occlumency from Snape over the summer (DIV-020). Dreaming, under cover (DIV-013) | Comforts him after Sirius and promises to be there (DIV-014) | Marked. Voldemort shatters her walls; faith dead (DIV-015) |
 | B6 | Back in the cage. The hollow weeks, then she breaks up with Harry when he offers the reopened Duelling Club (DIV-015) | The nightmare. Sectumsempra, in front of the Mirror of Erised, scars her for life (DIV-032, DIV-043) | |
-| B7 | | Burbage pleads with her (DIV-016). At Christmas Harry comes to the Manor to apologise; she decides to fight, and with his help gets her family out (DIV-049, DIV-052). Before the forest he tells her never to give up hope (DIV-022) | Challenges Voldemort alone. 🔒 Duels him at Harry's side, with her wand (DIV-006, DIV-023) |
+| B7 | | Burbage pleads with her (DIV-016). At Christmas Harry comes to the Manor to apologise; she decides to fight, and with his help gets her family out (DIV-049, DIV-052). At Shell Cottage she can't Apparate, and Harry dances her away (DIV-054). Before the forest he tells her never to give up hope (DIV-022) | Challenges Voldemort alone. 🔒 Duels him at Harry's side, with her wand (DIV-006, DIV-023) |
 
 ## Secrets
 
@@ -123,4 +127,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-028, Q-030–Q-032, Q-035–Q-038, Q-041–Q-044, Q-050–Q-052
+Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-028, Q-030–Q-032, Q-035–Q-038, Q-041–Q-044, Q-050–Q-052, Q-067–Q-069
