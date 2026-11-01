@@ -23,7 +23,7 @@ The dream is believing she can live outside the script, away from her family's a
 | B1 | The dream begins: she reads the tale before term and casts herself and the boy in it. On the train he refuses her. She's shocked anyone would tell her off, and the grudge begins (DIV-009, DIV-010) |
 | B1–B3 | His feats repair her opinion. If *Potter* can step outside the script, so can she (DIV-013) |
 | B3 | Her play-acting gets Buckbeak condemned, and she learns about consequences (DIV-017). 🔒 She saves him, defying her father's pettiness (DIV-003). At the lake her prince drives off a horde of demons, for her (DIV-018) |
-| B4 | Slipping into the dream: she accepts his invitation to the Yule Ball. As his Second Task hostage, she's elated (DIV-013). At the end of the year she refuses her father's order to cut ties, and he comes up with her cover (DIV-040) |
+| B4 | Slipping into the dream: she accepts his invitation to the Yule Ball. As his Second Task hostage, she's elated (DIV-013). After the Third Task she guards him in the hospital wing and will not be moved (DIV-058), then takes him into the Malfoy room and finds out she's the only cure for his nightmares (DIV-060, DIV-061). At the end of the year she refuses her father's order to cut ties, and he comes up with her cover (DIV-040) |
 | B5 | Dreaming: she keeps her edge but is simply happy. As far as Lucius is concerned she's keeping tabs on Potter, a strategy he came up with himself at the end of B4, with the Inquisitorial Squad as cover (DIV-013). She never really does the Squad's job: the badge is a supply of excuses to interact with him, and from April she takes him to Hogsmeade on Squad "errands" (Q-021, [the-pear-perfume](../scenes/b5/the-pear-perfume.md)). After Sirius dies she comforts Harry and promises to be there (DIV-014) |
 | B5→B6 | The death of faith: Marked, and Voldemort shatters her walls with ease. She believes her prince can't win. The dream was never real; back in the cage (DIV-015) |
 | B6 | The nightmare. The hollow weeks, then she breaks up with Harry when he offers the reopened Duelling Club (DIV-015, Q-031). Sectumsempra, in front of the Mirror of Erised, where she goes to see the Yule Ball (DIV-043). In the Hospital Wing she casts him as the Dark Lord's like ([after-sectumsempra](../scenes/b6/after-sectumsempra.md)) |
@@ -60,6 +60,8 @@ Fairy tales lead to novels, and novels lead to Muggle Studies, where she becomes
 Motif echoes to use at the moments that carry weight, not everywhere.
 
 - **The Yule Ball** is the dance at the end of the film.
+- **The sleep mask,** in her room in B4, is the enchanted sleep handed the other way round: he's the one who goes under, she's the one who watches ([the-malfoy-room](../scenes/b4/the-malfoy-room.md), DIV-061). Two months earlier it was her asleep at the bottom of the lake.
+- **Two rooms.** The dream has the Malfoy room, the nightmare has the Room of Requirement. In B6 she stops going to the first and lives in the second, and the first stays exactly as they left it (DIV-060).
 - **The Second Task** is the enchanted sleep, with Harry crossing danger to bring her back.
 - **The little basilisk** plays princess or dragon for laughs: Fleur casts Dracaena as the villainess and concedes to "a fierce dragon" ([the-little-basilisk](../scenes/b4/the-little-basilisk.md)).
 - **Sixteen:** she turns 16 on 5 June 1996 and is Marked that summer. The Mark is the spindle.

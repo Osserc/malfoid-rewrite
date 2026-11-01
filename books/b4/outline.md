@@ -33,13 +33,18 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 - On the eve of the Second Task, Dumbledore has a word with her. DIV-046
 - Harry goes down on a gillyweed extract Dracaena brewed. At the lake she claims him and kisses him in front of the school. DIV-038, DIV-039, [second-task](../../scenes/b4/second-task.md)
 - Fleur tests Harry's heart with her charm, then hands Dracaena a public win. DIV-037, DIV-038, [the-little-basilisk](../../scenes/b4/the-little-basilisk.md)
-- After the Third Task, in the hospital wing, Harry keeps Lucius's name from Fudge, with Dracaena there. DIV-047
+- In the graveyard, unseen, Lucius takes his daughter's ribbon back off Harry's wrist and Stuns Avery to open him a way out. DIV-057
+- The hospital wing: Sirius shoves her to the bedside, Dumbledore shelters her, and she guards Harry all night. "Sleep well, my prince." DIV-058, [the-hospital-wing](../../scenes/b4/the-hospital-wing.md)
+- After the Third Task, in the hospital wing, Harry keeps Lucius's name from Fudge, with Dracaena there. She defends him to the Minister's face, and it reaches her father. DIV-047, DIV-058, [the-missing-name](../../scenes/b4/the-missing-name.md)
+- The last nights of term: Harry's night terrors, her failed potion, the Malfoy room and her lap. He finds her hoard. DIV-059, DIV-060, DIV-061, [the-malfoy-room](../../scenes/b4/the-malfoy-room.md)
+- The train home: the winnings dressed as an investment, her idea (DIV-062); the second rift with Ron and Hermione (DIV-063); Lucius finds them asleep and declines to see it. [the-train-home](../../scenes/b4/the-train-home.md)
 - End of the year: Dumbledore, who noticed the missing name and welcomes it, tells Harry she's in a very tough spot, with her father a Death Eater. DIV-046, DIV-047
 - End of the year: Lucius orders Dracaena to cut ties with Harry. She refuses: Harry covered for him, so why can't he do it for Harry? He comes up with the "keeping tabs on Potter" strategy, in a scene the author has in mind. DIV-013, DIV-040, DIV-047, Q-022
+- Over the summer she writes to him, and Dobby carries the letters. DIV-065
 
 ## Acts
 
-_Open._ Built from `canon-delta.md` (create it from the template when work on this book starts).
+_Open._ To be built from [canon-delta.md](canon-delta.md), which is now in place.
 
 ## Chapters
 

@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Dracaena's father. A Death Eater, and a skilled Occlumens.
 **Canon baseline:** Lucius Malfoy. Anything not overridden follows canon.
-**Changes from canon:** DIV-013, DIV-020, DIV-030, DIV-031, DIV-037, DIV-040, DIV-047, DIV-052, DIV-053
+**Changes from canon:** DIV-013, DIV-020, DIV-030, DIV-031, DIV-037, DIV-040, DIV-047, DIV-052, DIV-053, DIV-057, DIV-060
 
 ## Core
 
@@ -32,6 +32,12 @@ A skilled Occlumens, out of the discipline the Malfoys instil (DIV-020). He can'
 ## Finding out *(settled)* · DIV-040
 
 Before the Yule Ball, Dracaena writes home twice: to him, that she'll be attending with Hogwarts' champion, without saying which of the two; to her mother, for the backless green dress. He questions Narcissa, who confirms his suspicions while choosing a dress to go with Harry. He's annoyed she's calmly matchmaking their daughter with the Dark Lord's sworn enemy, but reluctantly sees her point: Harry is a good prospect for Dracaena, and she has soured on the Death Eaters. She sends a more modest dress ([the-green-dress](../scenes/b4/the-green-dress.md)). Right after the Ball, Rita Skeeter prints that they went together.
+
+## The graveyard *(settled)* · DIV-057
+
+In the graveyard he does two things, and nobody sees either. A furtive *Accio*, cast as he runs, takes his daughter's ribbon off Harry's wrist. A well-placed Stunner on Avery opens the gap Harry gets out through. It isn't sympathy for Potter: it's his daughter's token tied round the arm Wormtail opened with a dagger. He keeps the ribbon in his pocket, recognises her knot in it, and tells no one — least of all his wife, his daughter or the Dark Lord.
+
+He has, in other words, already committed treason for the boy by the time Harry keeps his name from Fudge the same night (DIV-047). Neither of them knows what the other did. What it would cost him if Voldemort ever found out: Q-030. Whether Harry ever learns, and what becomes of the ribbon: Q-072.
 
 ## The spy strategy
 
@@ -61,7 +67,7 @@ Canon default.
 | B1 | | | |
 | B2 | | | |
 | B3 | | Has Buckbeak condemned, fuelled by Dracaena's play-acting (DIV-017) | |
-| B4 | | Learns she's going to the Ball with Potter; Narcissa takes Harry's side (DIV-040) | Orders her to cut ties; she refuses, citing Harry's silence about him (DIV-047), and he comes up with the spy strategy (DIV-013, DIV-040) |
+| B4 | | Learns she's going to the Ball with Potter; Narcissa takes Harry's side (DIV-040). In the graveyard he takes back her ribbon and Stuns Avery to open Harry a way out (DIV-057) | Finds them asleep together on the train and declines to see it ([the-train-home](../scenes/b4/the-train-home.md)). Orders her to cut ties; she refuses, citing Harry's silence about him (DIV-047), and he comes up with the spy strategy (DIV-013, DIV-040) |
 | B5 | Tells Voldemort his daughter is a spy (DIV-020) | | Arrested at the Department of Mysteries (canon) |
 | B6 | In Azkaban (canon) | | |
 | B7 | | Defects during the Manor raid, when his daughter turns (DIV-052) | At Hogwarts for the battle; fights Bellatrix with Narcissa (DIV-053) |
@@ -72,4 +78,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-001, Q-019, Q-022, Q-030, Q-032, Q-036
+Q-001, Q-019, Q-022, Q-030, Q-032, Q-036, Q-072

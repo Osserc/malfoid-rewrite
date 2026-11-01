@@ -59,6 +59,8 @@ What's Ron's role without the hostage spot? Does the Harry–Ron falling-out sti
 
 *Partly answered (draft):* the falling-out stays canon's, jealousy and all, and the hostage sharpens it instead of removing it. Canon's Ron resents Harry's glory; ours watches the whole school find out that the person Harry would miss most is Malfoy. His best friend has been lying to him for months, and lying about *her*. That's a better wedge than canon's, it costs nothing, and it drives the throughline rather than running beside it. Which of the two wounds leads, the glory or the secret, is open ([ron-weasley](../characters/ron-weasley.md)).
 
+*Partly answered:* a second rift opens at the end of the book and doesn't mend before the summer. Ron goes through Harry's trunk for the Map, finds neither Harry nor Malfoy on it, and puts it to him on the train; Harry leaves with her without answering (DIV-063, [the-train-home](../scenes/b4/the-train-home.md)). It runs into canon's B5 opening. How it mends is open.
+
 *Answered:* Fleur's sister. Harry still brings Gabrielle up along with his hostage (canon default), which sets up Fleur's part in B4 (DIV-038).
 
 Still open: how the reconciliation goes, and what Ron makes of the relationship once it's public.
@@ -119,7 +121,7 @@ What's the real grievance or truth, and where does it turn into Voldemort's ideo
 
 Narcissa is the conduit but would never shop herself. Options:
 
-- Dobby. This commits us on the house elves, and Harry freeing him at the end of B2 would cut off her supply.
+- Dobby. This commits us on the house elves, and Harry freeing him at the end of B2 would cut off her supply. *(leaning)* He's now carrying her letters to Privet Drive from summer 1995 anyway (DIV-065), which argues for using him here too, and makes the B2 cut-off a beat rather than a problem. Limits: Q-076.
 - A Squib: someone who moves in both worlds and whom purebloods never look at twice.
 - A bigger swing: Andromeda, Narcissa's disowned sister, married to a Muggle-born.
 
@@ -148,6 +150,8 @@ Who knows, Cho, and who catches the DA instead, are still open.
 The "keeping tabs on Potter" cover only holds if she hands over something. What does she give him, and does any of it help set the Department of Mysteries trap?
 
 *Partly answered:* the strategy is Lucius's own. He comes up with it at the end of B4, in a scene the author has in mind: he orders her to cut ties with Potter, she adamantly refuses (throwing Harry's silence about him back at him, DIV-047), and he resigns himself to protecting her from herself (DIV-040). In B5 he tells Voldemort he has planted his daughter as a spy (DIV-013, DIV-020).
+
+*Partly answered:* what sets the confrontation off. She defends Harry to Fudge's face in the hospital wing, in front of witnesses, and it gets back to her father (DIV-058). By then Lucius has her ribbon in his pocket from the graveyard (DIV-057) and has found the two of them asleep on the train, so the order to cut ties comes from a man who already knows he has lost. The scene is the carriage ride home, with Narcissa there.
 
 ### Q-023 · Her B6 attempts (DIV-011, DIV-015)
 
@@ -230,6 +234,8 @@ Voldemort raises every body in the Great Hall as an Inferius, on both sides, so 
 ### Q-035 · Supporting scenes for Harry's turn (DIV-018)
 
 At the lake, Harry's opinion of her turns because four things add up ([buckbeak-rescue](../scenes/b3/buckbeak-rescue.md)). That needs groundwork in B1–B3: moments where her sincerity shows and he dismisses it. So far: Potions (DIV-017), the lap-pillow smile, her Patronus study, her unguarded smiles at the Duelling Club (DIV-028). More are needed.
+
+*Partly answered:* the Duelling Club trophies (DIV-059). She has been hoarding his things since their second year, in plain sight of a boy who thinks she's collecting scalps. It only reads as sincerity in B4, when he sees where they ended up.
 
 ### Q-036 · The sheltering father (DIV-001, DIV-013, DIV-020)
 
@@ -323,6 +329,8 @@ Still open:
 ### Q-052 · Rita after the Second Task (DIV-038)
 
 In canon, Rita follows the Second Task with a Witch Weekly piece casting Hermione as a girl toying with Harry and Krum. Here the whole school has watched Dracaena claim Harry and kiss him at the lake, and Rita has already printed that they went to the Ball together (DIV-040). What does she print now, and does the Hermione–Krum angle survive?
+
+*Partly answered:* one of the pieces runs on Dracaena taking the place of Harry Potter's "most precious treasure" in the Second Task. Lucius reads it, and it's one of the things he runs through at King's Cross ([the-train-home](../scenes/b4/the-train-home.md)). Still open: the rest of her coverage, the Hermione–Krum angle, and what she makes of the night of the Third Task.
 
 ### Q-053 · The remedial Boggart (DIV-017)
 
@@ -425,7 +433,52 @@ Slytherins in the DA and at the battle ([house-unity](../threads/house-unity.md)
 
 Canon's trip has Harry and Ron interrogate Draco in the Slytherin common room. With Dracaena there it changes: she's a girl, she's been circling Harry for a year, and Crabbe and Goyle are her friends, not her minders. Whatever it becomes has to keep Harry learning that the Manor hides Dark things, because B7 relies on it (DIV-049, [malfoy-manor](../scenes/b7/malfoy-manor.md)).
 
+### Q-072 · Does Harry learn what Lucius did in the graveyard? (DIV-057)
+
+Lucius Summoned the ribbon off Harry's wrist and Stunned Avery to open him a way out, and told no one ([lucius-malfoy](../characters/lucius-malfoy.md)). Open:
+
+- **Does Harry ever find out,** and from whom? Lucius would never say it himself. Dracaena could, if she learned it. Narcissa could, if Lucius told her.
+- **The ribbon.** He keeps it. Does it come back to Harry or to his daughter, and when? It's the only physical proof either of them has.
+- **When.** The author expects this to clarify while writing the carriage ride home, straight after [the-train-home](../scenes/b4/the-train-home.md).
+- **The cost.** It folds into Q-030: in summer 1996 Voldemort reads his daughter's head. Treason in the graveyard is a far worse thing to find than a daughter who lied.
+
+### Q-073 · Planting the Duelling Club trophies (DIV-059)
+
+The hoard in B4 only lands if the custom and her first win are on the page years earlier. Open:
+
+- **The challenge.** Her forfeit, before the Christmas holidays of their second year, and the bout she wins. Does it get a scene or a paragraph?
+- **What he's won off her,** and whether we ever see his own trove before he admits to it.
+- **The banner.** Where a Gryffindor banner in a Slytherin's secret room came from. A trophy is the funniest answer; a Quidditch spoil is the other.
+
+### Q-075 · The night terrors after term ends (DIV-061, DIV-063, DIV-065)
+
+In her room Harry sleeps. At Privet Drive he's alone, cut off, and the one thing that worked is three hundred miles away. Open:
+
+- **What happens over the summer,** and what she does about it. The author has this worked out and is holding it for its own session; nothing is written down yet.
+- **The Order.** When they discover the correspondence (DIV-065), and how badly they take it. Sirius takes her side.
+- **Into B5.** Canon's opening rage keeps its cause and gains a target: the people protecting him tell him nothing, and the Death Eater's daughter writes every week.
+
+### Q-076 · Dobby as courier (DIV-065, DIV-050)
+
+Dobby carries her letters from summer 1995. Open, and mostly waiting on [problems/house-elves.md](../problems/house-elves.md):
+
+- **Can he?** The author's idea binds an elf to a house and a master. Whether a free elf bound to Harry can go to and from Malfoy Manor is a rule that session has to set.
+- **Her asking.** She has to ask a favour of the elf her family owned and mistreated. That's the same noblesse oblige that saved Buckbeak, and it deserves its few lines.
+- **The payoff.** If he has carried their letters since B4, his death at the Manor is her loss too, not only Harry's (DIV-050).
+
+### Q-077 · The First Task's dragons, and hers (DIV-027, DIV-001)
+
+B4 is the book with actual dragons in it, and we have never used that. She is named for a she-dragon, her Patronus will be one, Fleur concedes to "a fierce dragon" in February, and Lucius sees a dragon guarding its hoard in June ([sleeping-beauty](../threads/sleeping-beauty.md)). The First Task currently passes without her.
+
+- **Does she get a beat at the First Task?** Something small: her reaction to the Horntail, or to Harry facing it.
+- **Where the motif starts.** The inbox has her tagging along to see Norbert in B1 because she badly wants to see a baby dragon. If that's in, the First Task is its callback and the Patronus is its payoff.
+- **The risk.** The motif is already carried by her name, Fleur's line, the hoard and the Patronus. One more may be one too many. Echoes go where they carry weight, not everywhere.
+
 ## Answered
+
+### Q-074 · Does Harry take a stake in the shop? (DIV-062)
+
+*Answered:* no. "Investment" was only ever a cover to let the twins take the money without wounding their pride, and Harry never intends to collect. But they take him at his word and insist on repaying him, and he can't shake them off, so they settle on free products now and again. The shop stays entirely theirs. Written out in [the-train-home](../scenes/b4/the-train-home.md) (DIV-062).
 
 ### Q-062 · When does Harry come back? (DIV-048, DIV-023)
 

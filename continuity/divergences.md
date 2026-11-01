@@ -508,3 +508,107 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Home:** [characters/severus-snape.md](../characters/severus-snape.md)
 - **Ripples:** Q-043 · DIV-011, DIV-017 · [scenes/b3/potions-servant.md](../scenes/b3/potions-servant.md) · [setting/hogwarts.md](../setting/hogwarts.md)
 
+
+### DIV-057 · B4: Lucius intervenes in the graveyard
+
+- **Status:** settled
+- **Canon:** Lucius answers the summons to the graveyard and takes his place in the circle. He does nothing to help Harry escape.
+- **Ours:** He does two things, both unseen. A furtive *Accio* as he runs takes his daughter's ribbon off Harry's wrist, and a well-placed Stunner on Avery opens the gap Harry gets out through. It isn't sympathy for Potter: it's his daughter's token on the boy's bloodied arm. He keeps the ribbon, and says nothing to anyone.
+- **Why:** it mirrors DIV-047. On the same night, each of them covers for the other without knowing it. It also raises the stakes of the end-of-year confrontation: when she throws Harry's silence in his face, Lucius has already put his own neck out for the boy.
+- **Home:** [characters/lucius-malfoy.md](../characters/lucius-malfoy.md)
+- **Ripples:** Q-030, Q-072 · DIV-013, DIV-047 · [continuity/reveals.md](reveals.md) · [scenes/b4/the-train-home.md](../scenes/b4/the-train-home.md)
+
+### DIV-058 · B4: the hospital wing after the Third Task
+
+- **Status:** settled
+- **Canon:** Harry wakes in the hospital wing among the Weasleys, Hermione and Sirius in dog form. Fudge's row happens there, Dumbledore sends out the Order, and Harry takes a Sleeping Draught afterwards. Draco has no part in any of it.
+- **Ours:** Dracaena is in the room and does not leave it.
+  - **The order of the night.** Harry gives his account in Dumbledore's office, comes down to the hospital wing and sleeps. The row with Fudge comes after he wakes, not before he sleeps.
+  - **She hangs back.** While the others swarm him she stands alone, not daring to move, until Sirius bodily shoves her to the bedside.
+  - **The ribbon.** The first thing Harry says to her is an apology for losing it. She breaks, climbs onto the bed and shouts at him, and has to be prised off. Pomfrey tries to throw her out; Dumbledore overrules her — Miss Malfoy may need to be here more than Harry does — and Sirius growls Pomfrey down.
+  - **"My prince."** She says it in front of the whole room as he goes under. Harry is too far gone to react; Ron mocks it; nobody understands what it means (DIV-010).
+  - **The hoard.** She guards him all night. Nobody is allowed to move a chair closer, the dog excepted. She falls asleep on his chest, which is the only reason the others get near him.
+  - **Fudge.** She speaks up for Harry to the Minister's face, cold with fury, and defends his Parseltongue as a gift of the old lineages (DIV-008). Fudge patronises her. It is witnessed, and it reaches her father (Q-022).
+- **Why:** the first full statement of the hoard, and it puts her in the room to watch Harry keep her father's name back (DIV-047).
+- **Home:** [scenes/b4/the-hospital-wing.md](../scenes/b4/the-hospital-wing.md) · [scenes/b4/the-missing-name.md](../scenes/b4/the-missing-name.md) (the Fudge row)
+- **Ripples:** Q-009, Q-022 · DIV-008, DIV-038, DIV-046, DIV-047 · [continuity/reveals.md](reveals.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md) · [characters/ron-weasley.md](../characters/ron-weasley.md)
+
+### DIV-059 · The Duelling Club trophies, and the two hoards
+
+- **Status:** settled. Where it's planted is draft (Q-073).
+- **Canon:** nothing like it. Draco and Harry own nothing of each other's.
+- **Ours:** Their bouts acquire a forfeit: the loser gives the winner a trophy, something of their own. It starts as her challenge before the Christmas holidays of their second year, which she wins, taking his Gryffindor scarf. Both of them keep everything they win, and neither has ever mentioned it to the other.
+  - **Hers,** by B4, is a shrine in her secret room (DIV-060): a quill, a Chocolate Frog card with Dumbledore on it, a worn Seeker's glove and his scarf, on a stand under a Gryffindor banner. *(draft)* How she came by the banner is open.
+  - **His** is a smaller trove of her things in his dormitory. He admits to it when he finds hers.
+- **Why:** it turns years of feuding into a physical record, and makes her sincerity something she has been quietly accumulating since B2 — one more thing that should have told Harry, and didn't (Q-035).
+- **Home:** [threads/duelling-club.md](../threads/duelling-club.md)
+- **Ripples:** Q-035, Q-073 · DIV-028, DIV-060 · [scenes/b4/the-malfoy-room.md](../scenes/b4/the-malfoy-room.md)
+
+### DIV-060 · The Malfoy room
+
+- **Status:** settled. What Harry finds in B6 is draft.
+- **Canon:** the castle's hidden places are the Chamber of Secrets and the Room of Requirement. Nothing in it belongs to a family.
+- **Ours:** A small round chamber below the dungeons, two corridors from the Slytherin common room, reached by a stair that opens in a dead end. Nobody knows who built it. Brutus Malfoy found it while at school, about three centuries ago, charmed it shut behind a password and passed it down the family; Narcissa told Dracaena the password in B3. Lucius furnished it, to his taste rather than his wife's: canopy bed, a large mirror over the fireplace, a round sofa, a bathtub, and a green firelight she can change at a flick of her wand.
+  - **Not on the Map.** The room doesn't appear on the Marauder's Map, and neither does anyone inside it.
+  - **B3.** Harry sometimes looks for her at night, finds no Malfoy anywhere on the Map, and thinks nothing of it.
+  - **B4.** He learns where she goes. She refuses him the password: this is an emergency, not an invitation (DIV-061).
+  - **B5.** She gives him the password.
+  - **B6** She never goes back. The dream room stays exactly as they left it while she works in the Room of Requirement, so when Harry misses her on the Map, goes to the dead end and opens it, he finds it cold and dusty and untouched, with his scarf still on the stand. She didn't throw him away; she stopped coming.
+- **Why:** it gives them somewhere private that isn't the Room of Requirement, pays the Map off twice, and splits her two secret rooms along the line of the dream and the nightmare ([sleeping-beauty](../threads/sleeping-beauty.md)).
+- **Home:** [setting/hogwarts.md](../setting/hogwarts.md)
+- **Ripples:** Q-073 · DIV-059, DIV-061 · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md) · [scenes/b4/the-malfoy-room.md](../scenes/b4/the-malfoy-room.md) · [continuity/timeline.md](timeline.md)
+
+### DIV-061 · B4: Harry's night terrors, and who settles them
+
+- **Status:** settled
+- **Canon:** Harry sleeps on a Sleeping Draught after the Third Task and then goes home. What the graveyard does to him is mostly left offstage until B5.
+- **Ours:** Once he's discharged he can't sleep. He wakes the dormitory screaming, several times a night, for two nights, and the other boys' patience frays. On the third morning a folded paper snake finds its way into his bag with a time and a place in her handwriting.
+  - **The failed potion.** She has spent two days trying to find him one and got nowhere. He has never seen her fail at a potion before.
+  - **The one she won't brew.** She can make a Dreamless Sleep Potion in her sleep and refuses to: it's addictive, and Pomfrey rations it for a reason. What she's failing at is something better.
+  - **The lap pillow again.** With no potion to offer she offers her lap, as in B3, and reads while he sleeps. He has no nightmares. For the rest of term he sleeps in her room and goes back at dawn.
+  - **The green light.** The room's firelight reminds him of the Killing Curse that killed his parents and Cedric. She reads it off his face in the mirror and changes the light, without a word and without asking. He never notices it happen.
+  - **What she learns.** She set out to solve him with a potion and finds out she is the answer. She doesn't say so.
+- **Why:** it pays the lap-pillow scene off in a register nobody could mistake for a prank, gives her a first failure at the thing she's best at, and sets up the summer (Q-075).
+- **Home:** [threads/harry-dracaena.md](../threads/harry-dracaena.md)
+- **Ripples:** Q-075 · DIV-018, DIV-060, DIV-064 · [scenes/b3/lap-pillow.md](../scenes/b3/lap-pillow.md) · [scenes/b4/the-malfoy-room.md](../scenes/b4/the-malfoy-room.md)
+
+### DIV-062 · B4: the Triwizard winnings become an investment
+
+- **Status:** settled
+- **Canon:** on the train home Harry forces his thousand Galleons on Fred and George to be rid of them, and tells them to buy Ron dress robes.
+- **Ours:** he still hands over the gold, but dressed as an investment in the joke shop rather than a gift, so their pride survives taking it. The framing is Dracaena's, given to him privately. She thinks the gesture is stupid — magnanimous, but stupid — and would have picked a more profitable venture. He gives it to the twins away from Ron, and never says where the idea came from.
+  - **He never means to collect.** The word was a cover and nothing more. The twins take him at it, insist on repaying their investor, and will not be talked out of it, so in the end they settle on free products now and again. The shop is wholly theirs, and Harry gets his joke supplies for life (Q-074, answered).
+- **Why:** it keeps canon's beat and everything downstream of it, and quietly makes Weasleys' Wizard Wheezes something a Malfoy helped into existence, which no Weasley will ever know.
+- **Home:** [scenes/b4/the-train-home.md](../scenes/b4/the-train-home.md)
+- **Ripples:** Q-074 (answered) · DIV-063
+
+### DIV-063 · End of B4: the second rift with Ron and Hermione
+
+- **Status:** settled. How it mends is draft.
+- **Canon:** the autumn falling-out is long mended by the end of the book, and the three part at King's Cross on good terms.
+- **Ours:** a second break opens in the last days of term. With Harry sleeping out of the tower, Ron goes through his trunk for the Marauder's Map, finds neither Harry nor Malfoy anywhere on it, and puts it to him on the train. Harry goes cold at the rifling. Ron's case is that his best friend is sneaking off at night with a Death Eater's daughter, weeks after Voldemort came back. Dracaena arrives mid-row to fetch him; Harry leaves with her without answering, and she makes a point of taking his hand on the way out.
+  - **Afterwards.** Ron is sure she has him hexed. Hermione concedes they may have been too overprotective, and notices the thing that should worry them more: Dracaena didn't so much as acknowledge them.
+  - **Into B5.** It runs straight into canon's opening. Harry's summer fury at being left in the dark now has an injury from the year before underneath it.
+- **Why:** Q-010 wanted a second edge, and the hostage already sharpened the autumn quarrel. This gives B5's isolation something to sit on, and it's the reason the summer letters matter (DIV-065).
+- **Home:** [characters/ron-weasley.md](../characters/ron-weasley.md)
+- **Ripples:** Q-010, Q-075 · DIV-005, DIV-060, DIV-062, DIV-065
+
+### DIV-064 · Sloughsilk and the Lullasp
+
+- **Status:** draft
+- **Canon:** nothing like it.
+- **Ours:** the Lullasp is a snake said to straddle the waking and the dreaming realms. Its sloughed skin, sloughsilk, has peculiar magical properties, the useful one being that it takes growing charms extraordinarily well: a garment adapts to its wearer as they sleep and grows with them, so a set made for a newborn still fits at fifteen. A sloughsilk set for a new baby is a Black family tradition, which is how Narcissa came to have one made for Dracaena: pyjamas, a snake-headed hood and, unusually, custom snake slippers. Sirius had one as a child.
+- **Why:** a cute beat, a Black-family thread Harry can pull on with Sirius, and a reason for her to be caught out of her armour. Deliberately minor: it does nothing for sleep, because the night terrors are not solved by cloth (DIV-061).
+- **Home:** [setting/magic.md](../setting/magic.md)
+- **Ripples:** DIV-061 · [characters/narcissa-malfoy.md](../characters/narcissa-malfoy.md) · [scenes/b4/the-malfoy-room.md](../scenes/b4/the-malfoy-room.md)
+
+### DIV-065 · Summer 1995: she writes, and Dobby carries
+
+- **Status:** draft
+- **Canon:** Harry spends the summer before B5 cut off at Privet Drive. His friends write nothing of substance, on Dumbledore's orders, and his fury at it opens the book.
+- **Ours:** Dracaena writes to him all summer. Hedwig is far too visible and Harry's post is being watched, so the letters go by Dobby, who is free, at Hogwarts, and will do it for Harry. She has to ask a favour of the elf her family owned.
+  - **Canon's isolation stands, and gets worse.** The people who claim to be protecting him tell him nothing; the one person treating him like a person is a Death Eater's daughter. His rage in B5 keeps its cause and gains a target.
+  - **The Order finds out,** at some point, and is appalled: unvetted correspondence with Lucius Malfoy's daughter, every week, under their noses. Sirius takes her side.
+- **Why:** it sharpens B5's opening instead of defusing it, and gives Dobby something to do between B2 and B7 (DIV-050).
+- **Home:** [threads/harry-dracaena.md](../threads/harry-dracaena.md)
+- **Ripples:** Q-018, Q-075, Q-076 · DIV-050, DIV-061, DIV-063 · [problems/house-elves.md](../problems/house-elves.md)

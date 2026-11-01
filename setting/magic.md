@@ -66,6 +66,13 @@ From B7, Harry Apparates Dracaena by dancing with her. She can't Apparate ([appa
 - **A feat.** Chaining Apparitions on the beat, both of them, without a Splinch, is very hard. Ron and Hermione doubt many wizards alive could do it.
 - **Not resonance.** It's all in Harry's mind: he casts alone and leads. There's no shared wand and no link between them, so the stained soul never comes into it and it doesn't hurt her (see *Resonance* above).
 
+## Sloughsilk *(draft)* · DIV-064
+
+The Lullasp is a snake said to straddle the waking and the dreaming realms. Its sloughed skin, sloughsilk, has peculiar magical properties, the useful one being that it takes growing charms extraordinarily well: a sloughsilk garment adapts to its wearer as they sleep and grows with them, so a set made for a newborn still fits at fifteen.
+
+- **A Black tradition.** A sloughsilk set for a new baby is a Black family custom. Narcissa had one made for Dracaena — pyjamas, a snake-headed hood, and snake slippers, which are not traditional at all. Sirius had one as a child, which Harry can ask him about.
+- **It does nothing for sleep.** The dreaming-realm lore is where the creature's name comes from, not a property of the cloth. Harry's nightmares are not solved by what anyone is wearing (DIV-061).
+
 ## Legilimency and Occlumency *(settled)* · DIV-020
 
 - **Not mind reading.** Legilimency perceives thoughts, feelings and memories (canon). What it perceives can be shaped.

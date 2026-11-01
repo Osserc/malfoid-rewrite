@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's friend and housemate in Gryffindor. Second to Dracaena in Potions, and hates her for it.
 **Canon baseline:** Hermione Granger. Anything not overridden follows canon.
-**Changes from canon:** DIV-011, DIV-012, DIV-018, DIV-021, DIV-049
+**Changes from canon:** DIV-011, DIV-012, DIV-018, DIV-021, DIV-049, DIV-063
 
 ## Core
 
@@ -45,7 +45,7 @@ Canon default.
 | B1 | Outdone by Dracaena in the first Potions lesson (DIV-011) | The troll (canon) | |
 | B2 | | | |
 | B3 | Takes Muggle Studies | Drops it (DIV-012) | The lake: her idea to have Dracaena fly Buckbeak to Sirius (DIV-018) |
-| B4 | | | |
+| B4 | | | The second rift: she backs Ron's confrontation on the train, then concedes they were too overprotective — and notices Dracaena didn't acknowledge them at all (DIV-063) |
 | B5 | | | |
 | B6 | | Notices Harry's new tricks resemble Dracaena's technique (Q-042) | |
 | B7 | | Plans the Malfoy Manor raid with Harry and Dobby (DIV-049). Treats Dracaena with kid gloves ([apparate-dancing](../scenes/b7/apparate-dancing.md)). Invents the sealing spell that preserves Narcissa's medicine | |

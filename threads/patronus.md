@@ -4,6 +4,8 @@ status: draft
 
 # The Patronus
 
+Whether the dragon motif also wants a beat at the First Task: Q-077.
+
 Dracaena's Patronus, and how it mirrors Harry's. Hers tracks her faith in the dream: mist while she studies it for him, corporeal in the dream, gone in the nightmare, back when she wakes. His B3 Patronus runs on memories of her, and hers on memories of him.
 
 ## Shape of the arc

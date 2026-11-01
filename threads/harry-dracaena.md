@@ -36,6 +36,23 @@ He approves of them, and encourages them more than once. What he says each time 
 - **End of B5.** As Harry rages in his office over Sirius's death (canon), Dumbledore tells him to treasure the love he has left, and not only his friends'. Soon after, she comforts him (DIV-014, [after-sirius](../scenes/b5/after-sirius.md)).
 - **B6.** On the night of the cave, he says something cryptic about Sectumsempra (DIV-044, [dumbledores-counsel](../scenes/b6/dumbledores-counsel.md)).
 
+## The night terrors *(settled)* · DIV-061
+
+After the Third Task Harry can't sleep without a draught. He wakes the dormitory screaming for two nights, and on the third morning she sends him a folded paper snake with a time and a place.
+
+- **She tries a potion first,** and fails, which he has never seen her do. She can brew Dreamless Sleep in her sleep and refuses to: it's addictive, and Pomfrey rations it for a reason.
+- **So she offers her lap,** as in B3, and reads while he sleeps. He has no nightmares. For the rest of term he sleeps in her room and goes back at dawn ([the-malfoy-room](../scenes/b4/the-malfoy-room.md), DIV-060).
+- **The green light.** The room's firelight is the colour of the curse that killed his parents and Cedric. She reads it off his face in the mirror and changes it, without a word and without asking. Not asking is the kindness, and he never notices it happen.
+- **What she learns.** She set out to solve him with a potion and finds out she's the answer. She doesn't say so, and neither does the prose.
+- **The callback.** This is the lap pillow (DIV-018) repeated where neither of them can pretend it was a prank. Harry counted the first one as a joke until the lake; he can't do that with this one.
+- What happens to the night terrors once term ends: Q-075.
+
+## The summer letters *(draft)* · DIV-065
+
+Through the summer of 1995 she writes to him at Privet Drive. Hedwig is far too visible and his post is being watched, so Dobby carries them: free, at Hogwarts, and willing to do it for Harry. She has to ask a favour of the elf her family owned (Q-076).
+
+Canon's isolation stands and gets worse. The people who claim to be protecting him tell him nothing; the one person treating him like a person is a Death Eater's daughter, and his friends aren't writing because they were told not to — on top of the rift they parted on (DIV-063). The Order finds out eventually and is appalled. Sirius takes her side.
+
 ## Velvet gloves · DIV-054
 
 *(settled)* After the Manor, Harry isn't over Sectumsempra. He's afraid of hurting her, and handles her with velvet gloves: it shows in how gently he Apparates her ([apparate-dancing](../scenes/b7/apparate-dancing.md)).
@@ -63,9 +80,15 @@ He approves of them, and encourages them more than once. What he says each time 
 | B4 | 🔒 She is his Second Task hostage, and the dream begins (DIV-005, DIV-013). He goes down on her gillyweed extract (DIV-039). At the lake she claims him and kisses him in front of the school (DIV-038) | [second-task](../scenes/b4/second-task.md) |
 | B4 | Fleur tests his heart with her charm, then hands Dracaena a public win (DIV-037, DIV-038) | [the-little-basilisk](../scenes/b4/the-little-basilisk.md) |
 | B4 | Dumbledore has a word with her on the eve of the Second Task, and tells Harry at the end of the year that she's in a tough spot (DIV-046) | |
-| B4 | After the Third Task, Harry keeps Lucius's name from Fudge, and she sees it (DIV-047) | |
+| B4 | The hospital wing: Sirius shoves her to the bedside, the first thing Harry says is sorry for losing her ribbon, and she guards him all night. "Sleep well, my prince" (DIV-058) | [the-hospital-wing](../scenes/b4/the-hospital-wing.md) |
+| B4 | After the Third Task, Harry keeps Lucius's name from Fudge, and she sees it. She defends him to the Minister's face (DIV-047, DIV-058) | [the-missing-name](../scenes/b4/the-missing-name.md) |
+| B4 | Unseen by anyone: Lucius takes her ribbon back in the graveyard and Stuns Avery to open Harry a way out (DIV-057) | |
+| B4 | The night terrors. Her room, her failed potion, her lap, and the light she changes without a word (DIV-060, DIV-061). He finds her hoard (DIV-059) | [the-malfoy-room](../scenes/b4/the-malfoy-room.md) |
+| B4 | The train home: the winnings as her idea (DIV-062), the rift with Ron and Hermione (DIV-063), and Lucius finding them asleep (DIV-057) | [the-train-home](../scenes/b4/the-train-home.md) |
 | B4 | End of year: she refuses her father's order to cut ties, throwing Harry's silence back at him, and he comes up with her cover (DIV-013, DIV-040, DIV-047) | |
+| B4→B5 | She writes all summer; Dobby carries (DIV-065) | |
 | B5 | The dream: happy with him, under cover (DIV-013) | |
+| B5 | She gives him the password to her room (DIV-060) | |
 | B5 | Secret dates: from April she takes him to Hogsmeade on Inquisitorial Squad "errands", as her errand boy. He picks her perfume (DIV-013) | [the-pear-perfume](../scenes/b5/the-pear-perfume.md) |
 | B5 | After Sirius, Dumbledore tells Harry to treasure the love he has left (DIV-046). Then she comforts him and promises to be there (DIV-014) | [after-sirius](../scenes/b5/after-sirius.md) |
 | B5→B6 | Voldemort shatters her walls, and her faith dies (DIV-015) | |
@@ -100,6 +123,10 @@ He approves of them, and encourages them more than once. What he says each time 
 | B7 back together at the Manor (DIV-052) | What she said in the Hospital Wing, to be answered (Q-063) | B6 |
 | B7 she raises the bar mid-dance, and he meets it (DIV-054) | The second dance at the Yule Ball | B4, [yule-ball](../scenes/b4/yule-ball.md) |
 | B7 the velvet gloves come off (Q-069) | His guilt over Sectumsempra (DIV-032). The rough-and-tumble rivalry she misses (DIV-028) | B2 on; B6 |
+| B6 Harry sees their wedding in the Mirror (DIV-043) | Him picturing a future with her once already, unprompted, when things were good: the daydream in her room | B4, [the-malfoy-room](../scenes/b4/the-malfoy-room.md) |
+| B6 the empty room (DIV-060) | The room as theirs in B4–B5, and the password she gives him | B4–B5 |
+| B4 her hoard (DIV-059) | The Duelling Club trophy forfeit, and her winning his scarf (Q-073) | B2 |
+| B5 his rage at being left in the dark | The rift he parted on (DIV-063), against her letters getting through (DIV-065) | B4, B4→B5 |
 | B7 the limit bites (Q-068) | She can only get away with Harry (DIV-054) | B7, [apparate-dancing](../scenes/b7/apparate-dancing.md) |
 | B7 she challenges Voldemort | Her B6 despair, to be reversed (DIV-015). "Never give up hope" (DIV-022) | B6, B7 |
 | B7 he goes back for her (DIV-048) | The Manor, where he first drops the plan for her (DIV-049). Stopping for her on the way to the forest (DIV-022). Earlier signs that she's what he lives for, not only whom he loves | B7; earlier: ? |

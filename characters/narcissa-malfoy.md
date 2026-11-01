@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Dracaena's mother, her "mama" and her model of love. Soured on the Death Eaters, and Harry's ally inside the house.
 **Canon baseline:** Narcissa Malfoy, née Black. Anything not overridden follows canon.
-**Changes from canon:** DIV-010, DIV-030, DIV-031, DIV-040, DIV-052, DIV-053
+**Changes from canon:** DIV-010, DIV-030, DIV-031, DIV-040, DIV-052, DIV-053, DIV-060, DIV-064
 
 ## Core
 
@@ -31,6 +31,13 @@ status: draft
 
 *(settled)* Her souring makes her Harry's ally inside the house. She understands what it means to be in love, and Harry is hardly a bad match for a Malfoy: almost a pure-blood, with a pure-blood father. Rowling's own essay on the Malfoy family says they avoided marrying within the small pure-blood pool, and half-bloods turn up throughout their family tree. It first shows in B4. Before the Yule Ball she picks out a dress to go with Harry, confirms Lucius's suspicions and plays Harry's advocate, and Lucius reluctantly sees her point ([the-green-dress](../scenes/b4/the-green-dress.md), DIV-040). Where else it shows: Q-039.
 
+## What she passes down
+
+- **The Malfoy room.** She is the one who gives Dracaena the password, in B3, not Lucius. Full entry: [setting/hogwarts.md](../setting/hogwarts.md) (DIV-060).
+- **The sloughsilk.** A set of sloughsilk baby clothes is a Black family tradition, so she had one made for Dracaena, with snake slippers that are not traditional at all. Sirius had one too. Full entry: [setting/magic.md](../setting/magic.md) (DIV-064).
+
+Both are her side of the family and her idea, which is of a piece with the Muggle books (DIV-010): what Dracaena has that isn't her father's, she got from her mother.
+
 ## Voice
 
 _Open._
@@ -53,7 +60,7 @@ Canon default.
 |---|---|---|---|
 | B1 | Gets Dracaena her Muggle books (DIV-010) | | |
 | B2 | | | |
-| B3 | | | |
+| B3 | | Gives Dracaena the password to the Malfoy room (DIV-060) | |
 | B4 | | Plays Harry's advocate before the Ball (DIV-040) | |
 | B5 | | | |
 | B6 | | | |
@@ -65,4 +72,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-018, Q-019, Q-030, Q-032, Q-036, Q-039, Q-041, Q-044, Q-067
+Q-018, Q-019, Q-030, Q-032, Q-036, Q-039, Q-041, Q-044, Q-067, Q-072

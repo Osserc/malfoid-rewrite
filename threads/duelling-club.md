@@ -22,12 +22,23 @@ Through the clashes they come to know each other. They learn to read each other'
 
 When she wins she sometimes forgets to gloat. No sneer, just a bright, happy "Did you see that? I won!", and Harry finds it endearing enough that losing doesn't seem so bad. It stands out against her usual teasing and casual cruelty, towards Ron and Hermione too.
 
+## The trophies, and the two hoards *(settled)* · DIV-059
+
+At some point the bouts acquire a forfeit: the loser gives the winner a trophy, something of their own. It starts as her challenge, before the Christmas holidays of their second year, and she wins it, taking his Gryffindor scarf.
+
+- **Both of them keep everything they win,** and neither has ever mentioned it to the other.
+- **Hers,** by B4, is a shrine in the Malfoy room (DIV-060): a quill, a Chocolate Frog card with Dumbledore on it, a worn Seeker's glove and the scarf, on a stand under a Gryffindor banner. *(draft)* Where the banner came from is open.
+- **His** is a smaller trove of her things in his dormitory. He admits to it the night he finds hers ([the-malfoy-room](../scenes/b4/the-malfoy-room.md)).
+- **What it's for.** It turns years of feuding into a physical record, and it makes her sincerity something she has been accumulating in secret since B2 — one more thing that should have told Harry and didn't (Q-035).
+- *(draft)* **Planting it.** The custom and her first win need to be on the page in B2–B3 for the B4 reveal to land. Where: Q-073.
+
 ## By book
 
 | Book | Beat | Where |
 |---|---|---|
 | B1 | | |
 | B2 | Lockhart's session ends in disaster (canon). The petition; Flitwick takes over | |
+| B2 | The trophy forfeit starts, with her challenge before the Christmas holidays. She wins his Gryffindor scarf (DIV-059, Q-073) | |
 | B3 | A regular fixture. She leaves the lap-pillow scene with the skip in her step she has after beating him | [lap-pillow](../scenes/b3/lap-pillow.md) |
 | B4 | Stays open; Durmstrang and Beauxbatons students join. The Durmstrang challenger (DIV-029) | [durmstrang-challenger](../scenes/b4/durmstrang-challenger.md) |
 | B5 | Umbridge shuts it down, one of her first acts. They're both miffed | |
@@ -40,6 +51,7 @@ When she wins she sometimes forgets to gloat. No sneer, just a bright, happy "Di
 |---|---|---|
 | Resonance: the sync it takes (DIV-021) | Years of duelling, learning to read each other | B2 on |
 | B3 his turn at the lake | Her unguarded "I won!", one of the moments where her sincerity shows (Q-035) | B2–B3 |
+| B4 the hoard in her room (DIV-059) | The trophy forfeit, and her winning his scarf | B2 (Q-073) |
 
 ## Proposals (not yet agreed)
 
@@ -47,4 +59,4 @@ When she wins she sometimes forgets to gloat. No sneer, just a bright, happy "Di
 
 ## Open
 
-Q-028 (Flitwick and resonance)
+Q-028 (Flitwick and resonance) · Q-073 (planting the trophies)

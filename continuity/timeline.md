@@ -51,10 +51,14 @@ _Marauders era, the first war. Not yet worked out._
 - **1995-02-23**: the eve of the Second Task. Dumbledore has a word with Dracaena as he puts the hostages to sleep. DIV-046
 - **1995-02-24**: Second Task. Dracaena is Harry's hostage, and the dream begins. He goes down on her gillyweed extract; at the lake she claims him in front of the school. DIV-005, DIV-013, DIV-038, DIV-039
 - **The next three days**: Fleur's test, then her pantomime in the Great Hall. DIV-037, DIV-038
-- **1995-06-24**: Third Task. Afterwards, in the hospital wing, Harry keeps Lucius's name from Fudge, with Dracaena there. DIV-047
+- **1995-06-24**: Third Task. In the graveyard, unseen, Lucius Summons his daughter's ribbon off Harry's wrist and Stuns Avery to open him a way out. DIV-057
+- **1995-06-24, the same night**: the hospital wing. Sirius shoves Dracaena to the bedside; Dumbledore shelters her; she guards Harry all night. Harry keeps Lucius's name from Fudge, with her there, and she defends him to the Minister's face. DIV-047, DIV-058
+- **1995-06-27 (tentative)**: after two nights of screaming in the dormitory, Harry goes down to the Malfoy room. Her potion has failed; she offers her lap instead, and changes the green light without a word. He finds her hoard. He sleeps in her room for the rest of term. DIV-059, DIV-060, DIV-061
 - **End of B4 (June 1995)**: Dumbledore, who noticed the missing name and welcomes it, tells Harry she's in a very tough spot. DIV-046, DIV-047
+- **End of B4 (June 1995)**: the train home. The Triwizard winnings go to Fred and George dressed as an investment, on Dracaena's advice (DIV-062). Ron confronts Harry over the Map and the nights away; Harry leaves with her without answering (DIV-063). At King's Cross, Lucius finds them asleep in a locked compartment and declines to see it. DIV-057
 - **End of B4 (June 1995)**: Lucius orders Dracaena to cut ties with Potter. She refuses, throwing Harry's silence about him back at him, and he comes up with the "keeping tabs on Potter" strategy. DIV-013, DIV-040, DIV-047, Q-022
 - **Summer 1995**: Snape teaches Dracaena Occlumency, and sees her memories of Harry. DIV-020, DIV-031, Q-043
+- **Summer 1995**: Dracaena writes to Harry at Privet Drive all summer. Dobby carries the letters, past an Order that is watching his post. DIV-065, Q-075, Q-076
 
 ## B5 · 1995–96
 
