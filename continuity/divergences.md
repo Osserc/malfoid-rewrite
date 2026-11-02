@@ -156,7 +156,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **The prank:** she takes no part in the fake-Dementor prank at the Ravenclaw match. Crabbe and Goyle pull it on their own initiative, thinking she'll approve, and are confused when she greatly disapproves. Kicking him while he's down isn't her game ([lap-pillow](../scenes/b3/lap-pillow.md)).
   - **The Boggart:** with her wand arm in a sling, she sits out her own class's Boggart lesson. Harry never sees it: canon's lesson is Gryffindor's, and Slytherin isn't in the room. Lupin later goads her into a remedial lesson: she'd have faced a Boggart when Harry never has. She freezes in front of her father's disgust, alone with Lupin, and tells no one until Harry.
 - **Home:** [scenes/b3/potions-servant.md](../scenes/b3/potions-servant.md) (the lesson) · [scenes/b3/buckbeak-rescue.md](../scenes/b3/buckbeak-rescue.md) (the motive) · [threads/quidditch.md](../threads/quidditch.md) (the match, the prank) · [scenes/b3/remedial-boggart.md](../scenes/b3/remedial-boggart.md) (the Boggart)
-- **Ripples:** Q-026 (answered), Q-053 · DIV-056
+- **Ripples:** Q-026 (answered), Q-053 · DIV-056, DIV-069
 
 ### DIV-018 · B3 climax: the swarm, the confession, the flight to Sirius
 
@@ -657,3 +657,24 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Why:** without it, Quidditch is decided by whose father spends the most, which is a poor foundation for a rivalry and worse for the B3 final, where she has to lose fairly. This fixes it without regulating equipment, so canon's Firebolt subplot survives untouched.
 - **Home:** [setting/magic.md](../setting/magic.md)
 - **Ripples:** DIV-066, DIV-069 · [threads/quidditch.md](../threads/quidditch.md) · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md)
+
+### DIV-069 · B3: the Quidditch final, and the hand
+
+- **Status:** settled
+- **Canon:** Draco jeers at Hagrid over Buckbeak's sentence and Hermione slaps him. Days later Slytherin foul their way through the final, Gryffindor pile up points regardless, Harry outflies Draco to the Snitch, and Gryffindor take the Cup.
+- **Ours:** the same two scenes, turned to show Harry who she is, and to teach her that playing straight gets her what she wants.
+  - **The jeer.** She still says it, to keep up appearances with her house, and she's almost in tears as she does. She baits Hermione deliberately and doesn't flinch when the slap lands: she thinks she has it coming. Hermione sees only the jeer; **Harry sees her face**, and isn't sure what he saw. A faint alarm bell.
+  - **The clean player.** Slytherin foul their way through the final as in canon, and she is the only one who doesn't, and gets openly angry at her own team for it. Harry's second alarm bell, this one in front of a full stadium.
+  - **Closer than canon,** so the match has phases. While Slytherin lead by more than 30, Harry can't catch the Snitch without losing the Cup, so his whole job is to stop her ending it (DIV-066).
+  - **Her one move.** Once the lead flips, she can still win the Cup by catching the Snitch herself and capping Gryffindor's margin: losing the match on purpose to save the aggregate. Harry has to keep himself between her and it, which from the stands looks like neither of them doing anything, and she knows exactly what it is and can't break it. Her rage is at being contained, not at being confused.
+  - **The fake-out.** The margin comes within reach, Harry breaks for the Snitch, she goes with him — and her own Chasers score, which pushes the finish line back a goal and forces him to break off. She is saved by her team without their knowing it. He turns and gives her a smug look: *I could end this whenever I want.*
+  - **The real duel** is over in a moment. She sticks far closer this time, having seen his acceleration, and it isn't enough.
+  - **Why she loses.** Not stamina as such: the cost of her style. She flies the way she duels, technically — precise, corrected, controlled, and expensive — so the longer the match runs the less she has left. He flies on instinct and wastes nothing. On top of that his broom is wild where hers is exact (DIV-068), and the match is where he stops fighting it.
+  - **Nothing to blame.** A better broom wouldn't have helped her: a Firebolt is the wrong instrument for how she flies, and she's too good a technician to pretend otherwise (DIV-068). Lucius doesn't offer her one either, before or after — he celebrates achievement, he doesn't console failure.
+  - **Alone on the pitch.** Her team desert her. She sits there staring at her hands and cries: she played it straight, spent everything she had, and lost anyway.
+  - **The hand.** Harry, hauled off by his own side, looks back, sees her alone, and goes to her. He crouches and holds out a hand: he had a good time flying against her, and can they do it again? It mirrors the train, where she offered hers and he didn't take it (DIV-009). She wants to believe he's being snide and can't, and takes it.
+  - **The race.** He's off his broom and on it again, challenging her to a race, and she chases him. They both get detention.
+  - **The mask goes back on** the next morning, colder than ever, which confuses Harry badly. The same reflex as the Potions daydream (DIV-017).
+- **Why:** it answers Q-035 with the two strongest supporting scenes in B3, and it gives her the second half of her Buckbeak motive: the guilt makes her want to act, and this makes her believe acting straight will work (DIV-003, [buckbeak-rescue](../scenes/b3/buckbeak-rescue.md)).
+- **Home:** [scenes/b3/the-quidditch-final.md](../scenes/b3/the-quidditch-final.md) (the match and the hand) · [scenes/b3/the-slap.md](../scenes/b3/the-slap.md) (the jeer)
+- **Ripples:** Q-035, Q-078 (answered), Q-081, Q-082 · DIV-003, DIV-009, DIV-017, DIV-066, DIV-068 · [threads/quidditch.md](../threads/quidditch.md) · [threads/house-unity.md](../threads/house-unity.md) · [characters/hermione-granger.md](../characters/hermione-granger.md)

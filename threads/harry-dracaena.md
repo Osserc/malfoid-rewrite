@@ -70,6 +70,8 @@ Canon's isolation stands and gets worse. The people who claim to be protecting h
 | B2 on | Flitwick's Duelling Club: evenly matched, they learn to read each other and come to enjoy the fights (DIV-028) | [duelling-club](duelling-club.md) |
 | B2 on | They always watch each other's Quidditch matches, and mark each other on the pitch: with the Snitch cut down to 30, Seekers are each other's job (DIV-066) | [quidditch](quidditch.md) |
 | B3 | Potions: she makes him her servant and is strangely sweet under the barbs (DIV-017) | [potions-servant](../scenes/b3/potions-servant.md) |
+| B3 | The slap: he's close enough to see her face and isn't sure what he saw (DIV-069) | [the-slap](../scenes/b3/the-slap.md) |
+| B3 | The Quidditch final: she plays clean, loses fairly, and is left alone on the pitch. He goes back, crouches and offers the hand she offered on the train (DIV-009, DIV-069). They fly off together and both get detention. The mask is back on by morning, and he can't make sense of it (Q-082) | [the-quidditch-final](../scenes/b3/the-quidditch-final.md) |
 | B3 | She spies on his Patronus lessons and studies the charm for him. The lap-pillow scene, which becomes his Patronus memory (DIV-018) | [lap-pillow](../scenes/b3/lap-pillow.md) |
 | B3 | 🔒 She saves Buckbeak (DIV-003). At the lake she confesses the swarm is her fault, his Patronus saves them all with a first flicker of resonance, and she flies Buckbeak to Sirius (DIV-018). His opinion of her turns | [buckbeak-rescue](../scenes/b3/buckbeak-rescue.md) |
 | B4 | The World Cup: the veela don't touch him. He's in love before he knows it (DIV-037). She notices, and assumes it's Cho (DIV-041) | |

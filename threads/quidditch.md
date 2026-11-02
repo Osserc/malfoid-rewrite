@@ -48,7 +48,7 @@ The uneven two matter most to whoever loses them. She keeps coming back to the o
 |---|---|---|
 | B1 | Wood's rundown explains the game, ours included (Q-080). She isn't on a team yet; Harry is the youngest Seeker in a century (canon) | |
 | B2 | She makes the Slytherin team, and loses to Harry | |
-| B3 | She uses her injury to delay the match against him, to practise, because she wants to beat him fairly (DIV-017). Crabbe and Goyle pull the fake-Dementor prank at the Ravenclaw match on their own, and she disapproves (DIV-017). Her tsun excuse in the lap-pillow scene is their match. At the Ravenclaw match Harry notices Cho (canon), and Dracaena sees him do it: her evidence at the World Cup (DIV-041). Gryffindor take the Cup, and the final needs a margin, so Harry has to hold off catching (Q-078) | [lap-pillow](../scenes/b3/lap-pillow.md) |
+| B3 | The final is the thread's first payoff: she plays clean while her house fouls, duels him the length of the match, loses fairly, and is left alone on the pitch until he comes back and offers her his hand (DIV-069). Before it, she uses her injury to delay the match against him, to practise, because she wants to beat him fairly (DIV-017). Crabbe and Goyle pull the fake-Dementor prank at the Ravenclaw match on their own, and she disapproves (DIV-017). Her tsun excuse in the lap-pillow scene is their match. At the Ravenclaw match Harry notices Cho (canon), and Dracaena sees him do it: her evidence at the World Cup (DIV-041). Gryffindor take the Cup | [the-quidditch-final](../scenes/b3/the-quidditch-final.md) · [the-slap](../scenes/b3/the-slap.md) · [lap-pillow](../scenes/b3/lap-pillow.md) |
 | B4 | The World Cup: Krum ends a match he can't win, which under our rules is dignity, not vanity. She approves of the calculation; Harry is appalled that you'd end your own match while losing. No school season (canon: cancelled for the Tournament) | |
 | B5 | The first match: he steals it off her lead, she kisses him anyway, Montague pays for what he says about her, and Harry, George and Fred are banned for life (DIV-067). She plays the rest of the year angry, against Ginny, with Harry in the stands. Gryffindor win the final and Ron comes good; Slytherin take the Cup on aggregate | [the-pitch-kiss](../scenes/b5/the-pitch-kiss.md) |
 | B6 | She quits the team at the start of term, part of the death of faith (DIV-015). Canon Draco only skips the match against Gryffindor; ours never meets him on a pitch again. Harry is captain and winning, and it's worth nothing to him. After Sectumsempra he's out for the final one way or another, so Gryffindor take the Cup without him (Q-057) | |
@@ -58,7 +58,10 @@ The uneven two matter most to whoever loses them. She keeps coming back to the o
 
 | Payoff | Needs setting up | Planted in |
 |---|---|---|
-| B5 she's accused of throwing the match (DIV-067) | That she has never beaten him, and minds it less each year | B2, B3 |
+| B3 the hand on the pitch (DIV-069) | Her offered hand on the train, refused (DIV-009) | B1, [hogwarts-express](../scenes/b1/hogwarts-express.md) |
+| B3 she loses fairly, with nothing to blame (DIV-069) | Brooms as amplifiers: a better broom wouldn't have helped her (DIV-068) | B3 |
+| B3 her Buckbeak decision (DIV-003) | Proof that playing straight gets her what she wants | B3, the final |
+| B5 she's accused of throwing the match (DIV-067) | That she has never beaten him, and minds it less each year. Her house's first doubts at the B3 final (Q-081) | B2, B3 |
 | B5 Harry steals it off a lead (DIV-067) | The rules: the Snitch at 30, the burden, the closing move | B1, Wood's rundown (Q-080) |
 | B4 Krum ends a match he's losing | The closing move as ordinary play rather than vanity (DIV-066) | B1 (Q-080) |
 | B6 her quitting (DIV-015) | B5 taking the joy out of it for her (DIV-067) | B5 |
@@ -66,4 +69,4 @@ The uneven two matter most to whoever loses them. She keeps coming back to the o
 
 ## Open
 
-Q-078 (the B3 final) · Q-079 (Montague and the Vanishing Cabinet) · Q-080 (getting the rules on the page)
+Q-079 (Montague and the Vanishing Cabinet) · Q-080 (getting the rules on the page) · Q-081 (her house turning on her) · Q-082 (less abrasive, from B3 on)

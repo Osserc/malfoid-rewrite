@@ -20,6 +20,7 @@ Replaces the canon Time-Turner climax (DIV-002). It's her first real act against
 2. She realises her weeks of play-acting with the injury gave Lucius the fuel for the execution (DIV-017).
 3. *(settled)* Lucius wants the beast dead because no one crosses House Malfoy. She finds punishing a creature for her own mistake petty and beneath a Malfoy.
 4. *(settled)* Harry always stands by what he believes, and the thought of him beating her at that leaves her very upset.
+5. *(settled)* The Quidditch final taught her that playing straight works: she played it clean, lost, and got his hand and an afternoon of his company out of it — the one thing she wanted and couldn't take by force (DIV-069, [the-quidditch-final](the-quidditch-final.md)). The guilt makes her want to act; this makes her believe acting straight will get her somewhere.
 
 ## Beats
 

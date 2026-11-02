@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's friend and housemate in Gryffindor. Second to Dracaena in Potions, and hates her for it.
 **Canon baseline:** Hermione Granger. Anything not overridden follows canon.
-**Changes from canon:** DIV-011, DIV-012, DIV-018, DIV-021, DIV-049, DIV-063
+**Changes from canon:** DIV-011, DIV-012, DIV-018, DIV-021, DIV-049, DIV-063, DIV-069
 
 ## Core
 
@@ -44,7 +44,7 @@ Canon default.
 |---|---|---|---|
 | B1 | Outdone by Dracaena in the first Potions lesson (DIV-011) | The troll (canon) | |
 | B2 | | | |
-| B3 | Takes Muggle Studies | Drops it (DIV-012) | The lake: her idea to have Dracaena fly Buckbeak to Sirius (DIV-018) |
+| B3 | Takes Muggle Studies | Drops it (DIV-012). Slaps Dracaena over the jeer at Hagrid, and is right to: she sees the jeer and nothing else (DIV-069) | The lake: her idea to have Dracaena fly Buckbeak to Sirius (DIV-018) |
 | B4 | | | The second rift: she backs Ron's confrontation on the train, then concedes they were too overprotective — and notices Dracaena didn't acknowledge them at all (DIV-063) |
 | B5 | | | |
 | B6 | | Notices Harry's new tricks resemble Dracaena's technique (Q-042) | |

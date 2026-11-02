@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Dracaena's father. A Death Eater, and a skilled Occlumens.
 **Canon baseline:** Lucius Malfoy. Anything not overridden follows canon.
-**Changes from canon:** DIV-013, DIV-020, DIV-030, DIV-031, DIV-037, DIV-040, DIV-047, DIV-052, DIV-053, DIV-057, DIV-060, DIV-068
+**Changes from canon:** DIV-013, DIV-020, DIV-030, DIV-031, DIV-037, DIV-040, DIV-047, DIV-052, DIV-053, DIV-057, DIV-060, DIV-068, DIV-069
 
 ## Core
 
@@ -23,7 +23,7 @@ How his marriage works and what he knows about his daughter: Q-019 (the author h
 
 ## His daughter
 
-*(settled)* He isn't resentful about having a daughter rather than a son. He thinks a daughter is too precious and fragile, and should be somewhat sheltered. But he's up against two formidable opponents: his doting wife, and his beloved daughter, who almost always gets her way ([dracaena-malfoy](dracaena-malfoy.md)). When she wants to fly, he has to give in, and sneaks in his condition: no training without supervision. When she makes the Slytherin team on merit he celebrates by buying the whole side Nimbus 2001s, purely to show off, which is why people say she bought her place. He celebrates achievement and does not console failure (DIV-068). As the years pass his worries ease, because he sees how capable she is, but he stays very protective. He's strict. Her Boggart is him looking at her with disgust ([remedial-boggart](../scenes/b3/remedial-boggart.md)), but that's her fear, not what he feels. How sheltering her squares with the rest of his story: Q-036.
+*(settled)* He isn't resentful about having a daughter rather than a son. He thinks a daughter is too precious and fragile, and should be somewhat sheltered. But he's up against two formidable opponents: his doting wife, and his beloved daughter, who almost always gets her way ([dracaena-malfoy](dracaena-malfoy.md)). When she wants to fly, he has to give in, and sneaks in his condition: no training without supervision. When she makes the Slytherin team on merit he celebrates by buying the whole side Nimbus 2001s, purely to show off — which is why people say she bought her place, and why her housemates owe her something they'd rather forget (Q-081). He celebrates achievement and does not console failure: there is no new broom after she loses the B3 final, and she wouldn't want one (DIV-068, DIV-069). As the years pass his worries ease, because he sees how capable she is, but he stays very protective. He's strict. Her Boggart is him looking at her with disgust ([remedial-boggart](../scenes/b3/remedial-boggart.md)), but that's her fear, not what he feels. How sheltering her squares with the rest of his story: Q-036.
 
 ## Occlumency
 

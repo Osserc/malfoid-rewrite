@@ -237,6 +237,8 @@ At the lake, Harry's opinion of her turns because four things add up ([buckbeak-
 
 *Partly answered:* the Duelling Club trophies (DIV-059). She has been hoarding his things since their second year, in plain sight of a boy who thinks she's collecting scalps. It only reads as sincerity in B4, when he sees where they ended up.
 
+*And B3's two strongest, both from DIV-069:* the slap, where he's close enough to see her face and isn't sure what he saw ([the-slap](../scenes/b3/the-slap.md)), and the final, where she's the only Slytherin playing clean and says so to her own team ([the-quidditch-final](../scenes/b3/the-quidditch-final.md)). **Still open: B1 and B2 have nothing yet.** The turn needs groundwork earlier than the book it pays off in.
+
 ### Q-036 · The sheltering father (DIV-001, DIV-013, DIV-020)
 
 Lucius thinks a daughter should be somewhat sheltered ([lucius-malfoy](../characters/lucius-malfoy.md)). How does that square with:
@@ -468,10 +470,6 @@ B4 is the book with actual dragons in it, and we have never used that. She is na
 - **Where the motif starts.** The inbox has her tagging along to see Norbert in B1 because she badly wants to see a baby dragon. If that's in, the First Task is its callback and the Patronus is its payoff.
 - **The risk.** The motif is already carried by her name, Fleur's line, the hoard and the Patronus. One more may be one too many. Echoes go where they carry weight, not everywhere.
 
-### Q-078 · The B3 final under the new rules (DIV-066)
-
-Gryffindor take the Cup in B3, and the aggregate Cup means the final needs a margin, not just a win. So Harry's job for most of that match is to stop her ending it while his Chasers build the gap, and his decision is when the margin is finally enough. That's the first full Seeker's dilemma in the series and it wants staging. The author has an outline for the aftermath.
-
 ### Q-079 · Montague, the twins and the Vanishing Cabinet (DIV-067)
 
 Montague is the one Harry and George beat up after the first match. Canon also has the twins shove him into the Vanishing Cabinet later that year, which is how the cabinet ends up broken and useful in B6. The order still works (brawl → ban → cabinet → they leave), but it wants checking when B5 is planned, along with whether a second Montague incident is one too many.
@@ -483,7 +481,22 @@ Where the reader learns how the game works, without a rulebook.
 - **B4, the World Cup.** Krum ending a match he can't win demonstrates the closing move, and the delta already keeps the beat.
 - **B1's first match.** Harry catches the Snitch during Quirrell's jinx. Under the new rules it has to be catchable by then, so the match needs a score on it first. Check when B1 is planned.
 
+### Q-081 · Her house turns on her (DIV-069, DIV-067, DIV-015)
+
+The B3 final opens the first visible crack: she berates her own team for fouling, is willing to throw the match to deny Harry the Cup, and then takes his hand in front of them. B5 is the second and louder one, when they accuse her of throwing a match outright. B6 is the third, when she quits. Both accusations are false, and the second lands on ground the first prepared. Open:
+- How much of it is on the page, and where the common-room fallout goes.
+- Who in Slytherin doesn't join in → [house-unity](../threads/house-unity.md), Q-070.
+- Whether Lucius's brooms — given to the whole team to celebrate her making it on merit (DIV-068) — hold the resentment back or feed it, given people say she bought her place anyway.
+
+### Q-082 · Less abrasive, from B3 on (DIV-069, DIV-004)
+
+After the final and the Buckbeak night she wants to be less abrasive with Harry. *Less*, not kind: barbs are still the only reliable way she knows to get his attention outside dramatic moments. Where that shows between the end of B3 and the Yule Ball, and how it reads to Harry while she's also putting the mask back on after the final.
+
 ## Answered
+
+### Q-078 · The B3 final under the new rules (DIV-066, DIV-069)
+
+*Answered:* the margin makes the match. While Slytherin lead by more than 30 Harry can't catch the Snitch without losing the Cup, so he spends the first half stopping her ending it; once the lead flips she can still save the Cup by catching it herself and capping his margin, so he spends the second half keeping himself between her and it. A fake-out, broken off when her own Chasers push the line back, sets up a final duel that lasts seconds. → [the-quidditch-final](../scenes/b3/the-quidditch-final.md)
 
 ### Q-037 · Quidditch as a real rivalry (DIV-066, DIV-067)
 

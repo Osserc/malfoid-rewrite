@@ -24,7 +24,7 @@ The measure of the theme is who is standing in the Great Hall at the finish: not
 |---|---|---|
 | B1 | First ordinary Slytherins on the page | |
 | B2 | | |
-| B3 | | |
+| B3 | The final: she's the only Slytherin playing clean and says so to her own team, then takes Potter's hand in front of them. The first crack between her and her house (DIV-069, Q-081) | [the-quidditch-final](../scenes/b3/the-quidditch-final.md) |
 | B4 | | |
 | B5 | Some Slytherins join the DA; one is Dracaena's friend | [b5/outline](../books/b5/outline.md) |
 | B6 | | |

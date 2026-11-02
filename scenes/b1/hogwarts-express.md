@@ -18,12 +18,12 @@ The prince refuses the script. Her grudge starts here.
 
 1. She comes to see Harry Potter (canon default) and finds the nameless boy from Madam Malkin's. She has spent August reading the tale, and her prince turns out to be the Boy Who Lived.
 2. She's incredibly obnoxious to Ron.
-3. Harry refuses her (canon default).
+3. She offers her hand, and Harry doesn't take it (canon default). The gesture matters: it's the one he gives back on the pitch in B3 (DIV-069).
 4. She's shocked that anyone would tell her off like that. Her scorn grows, and so does the grudge: from now on she'll needle him like canon Draco and prove he's nothing special.
 
 ## Must keep
 
-The rejection over Ron, and her shock.
+The rejection over Ron, and her shock. **The offered hand has to be on the page**, because the B3 Quidditch final pays it back as the same gesture reversed (DIV-069).
 
 ## Open
 

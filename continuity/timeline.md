@@ -36,6 +36,8 @@ _Marauders era, the first war. Not yet worked out._
 - **1993-09**: The hippogriff lesson. She milks the injury for weeks: the match delay, the Potions servant. She sits out her class's Boggart lesson in her sling, and faces hers alone with Lupin once it comes off. DIV-017
 - **During B3**: Hermione drops Muggle Studies, and Dracaena calls it conceding defeat. DIV-012
 - **1994, during Harry's Patronus lessons**: she spies on them and studies the charm for him, getting only mist herself. The lap-pillow scene. DIV-018, DIV-027
+- **Spring 1994**, days before the final: the jeer at Hagrid, and the slap she baits and takes. DIV-069, [the-slap](../scenes/b3/the-slap.md)
+- **Spring 1994**, the Quidditch final: she plays clean while her house fouls, loses the long Seeker duel fairly, and is left alone on the pitch. Harry goes back for her and offers his hand; they fly off and earn detention. The mask is back on the next morning. DIV-066, DIV-068, DIV-069, [the-quidditch-final](../scenes/b3/the-quidditch-final.md)
 - **1994-06**, the night of Buckbeak's execution: her fake lead sends the Dementors to the lake. She frees Buckbeak, ends up at the lake, fails to cast a Patronus and confesses. Harry casts his, with a first flicker of resonance. She flies Buckbeak to Sirius, who escapes. Sequence provisional (Q-003). DIV-003, DIV-018
 
 ## B4 · 1994–95
