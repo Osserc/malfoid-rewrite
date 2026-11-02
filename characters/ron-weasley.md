@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's best friend and housemate in Gryffindor.
 **Canon baseline:** Ron Weasley. Anything not overridden follows canon.
-**Changes from canon:** DIV-051, DIV-062, DIV-063
+**Changes from canon:** DIV-051, DIV-062, DIV-063, DIV-067
 
 ## Core
 
@@ -53,8 +53,8 @@ Canon default.
 | B2 | | | |
 | B3 | | | |
 | B4 | | The falling-out: the glory, and the lie about Dracaena (Q-010) | The second rift: the trunk, the Map, and Harry walking out with her (DIV-063) |
-| B5 | | | |
-| B6 | | | |
+| B5 | Keeper, and mocked for it (canon) | The final against Ravenclaw: he comes good and Gryffindor win it | Slytherin still take the Cup on aggregate, off the matches Harry missed (DIV-067) |
+| B6 | | Comes into his own as a Keeper (canon) | Gryffindor take the Cup, with Harry out for the final (Q-057) |
 | B7 | | Leaves the tent (canon) | Comes back through the Deluminator, straight into the Malfoy Manor raid, and fights beside Harry (DIV-051). Sees Dracaena as a liability: she can't Apparate, and Harry would stay behind with her (DIV-054) |
 
 ## Secrets

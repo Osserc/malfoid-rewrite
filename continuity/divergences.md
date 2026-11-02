@@ -612,3 +612,48 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Why:** it sharpens B5's opening instead of defusing it, and gives Dobby something to do between B2 and B7 (DIV-050).
 - **Home:** [threads/harry-dracaena.md](../threads/harry-dracaena.md)
 - **Ripples:** Q-018, Q-075, Q-076 · DIV-050, DIV-061, DIV-063 · [problems/house-elves.md](../problems/house-elves.md)
+
+### DIV-066 · The Snitch carries the score
+
+- **Status:** settled
+- **Canon:** The Snitch is worth 150 points and ends the match. One catch decides almost every game, so the Seeker is the only player who matters and the other six play for pride. The Quidditch Cup goes on points scored across the season, and Quidditch feeds the House Cup.
+- **Ours:** The Snitch is worth 30, still ends the match, and **carries the score**: every point either side puts up weighs it down, so it begins the match untouchable and ends it catchable. The Seeker stops waiting on luck and starts deciding when the match ends, with an opponent trying to decide otherwise.
+  - **The burden is the combined score,** which makes every goal double-edged: scoring is how you come back, and scoring is what arms the other Seeker to end the match on you.
+  - **Nobody can sit on a lead,** because only goals bring the Snitch into reach.
+  - **The closing move.** Both Seekers want it when the margin is under 30; only the leader wants it when the margin is over. Catching it from behind is a concession, to stop the bleeding and save the aggregate.
+  - **What a Seeker does:** no bat, and no touching the Quaffle. Disruption is bluff, not force, and leaving your opposite number costs you the seconds she's unmarked, so the two of them glue themselves together without any rule saying so.
+  - **The numbers.** Goals stay at 10 and match totals stay modest, so 30 is three goals: a real swing, never a game in itself.
+  - **The Quidditch Cup** goes on aggregate, as in canon. **The House Cup** takes a flat prize per match won, never the match score, so the change doesn't touch it.
+  - **The deadlock.** A scoreless match never weighs the Snitch down and never ends, which is where the legendary months-long games came from.
+- **Why:** at 150 the Seeker is a lottery ticket. At 30 the job is a decision with an opponent attached, which is what the rivalry needs, and the other six players finally have a reason to exist: Chasers run the clock, not just the score.
+- **Home:** [threads/quidditch.md](../threads/quidditch.md)
+- **Ripples:** Q-037 (answered), Q-078, Q-079, Q-080 · DIV-067 · [books/b4/canon-delta.md](../books/b4/canon-delta.md) (Krum's catch) · [threads/duelling-club.md](../threads/duelling-club.md)
+
+### DIV-067 · B5: the pitch kiss, the brawl and the hollow Cup
+
+- **Status:** settled
+- **Canon:** Gryffindor beat Slytherin in the first match of the year. Draco taunts Harry about his dead mother; Harry and George attack him, Fred is held back by his teammates, and Umbridge bans all three for life. Gryffindor go on to win the Quidditch Cup without Harry, with Ron redeemed in the final and Ginny catching the Snitch in his place.
+- **Ours:** Dracaena would never insult Harry's mother, so the fight starts somewhere else: with her being happy.
+  - **The match.** Slytherin lead by less than 30 when Harry takes the Snitch off her and steals it. Under DIV-066 her one job with that lead was to stop him reaching it, and she didn't.
+  - **Why she lost.** Not a thrown match. She was flying *with* him instead of against him, matching him when she should have been blocking, because by now the duel is worth more to her than the result. She has never beaten him and stopped expecting to years ago.
+  - **The kiss.** She comes off the pitch elated, barely minding the loss and a little sorry it's over, and kisses him in front of a full stadium. The school has known since the Second Task (DIV-038); what it has never seen is the loser delighted that the winner won.
+  - **The accusation.** Her house reads it as throwing the match. It is false, and she cannot deny it, because the only honest answer is that she was enjoying herself too much to stop him.
+  - **Montague** says it where Harry can hear: she's gone blood-traitor, like the Weasleys, and worse. Naming them gives George his own reason to swing. Harry gets there first.
+  - **The ban.** Fred is held back and banned anyway, as in canon, for the extra outrage. Umbridge bans all three for life.
+  - **She goes unpunished.** Umbridge will not touch a Malfoy. Dracaena, still on her broom, cheers Harry on without once thinking how it will look, and that is what costs him the year.
+  - **What it costs her.** The accusation drags her back to measuring Quidditch her house's way. She plays the rest of the season angry, against Ginny in Harry's place, while Harry watches from the stands, having lost both the game and the thing he liked watching.
+  - **The Cup.** Gryffindor still beat Ravenclaw in the final and Ron still has the game that makes him, but the matches Harry missed cost them the aggregate and Slytherin take the Cup. She wins it without ever having beaten him, and it is worth nothing to her.
+- **Why:** it gives Umbridge her pretext without asking anyone to act out of character, it points Harry's B5 rage at something he is right about, and it costs both of them Quidditch in the same afternoon by opposite routes.
+- **Home:** [scenes/b5/the-pitch-kiss.md](../scenes/b5/the-pitch-kiss.md)
+- **Ripples:** Q-079 · DIV-013, DIV-015, DIV-066 · [threads/quidditch.md](../threads/quidditch.md) · [characters/ron-weasley.md](../characters/ron-weasley.md) · [books/b5/outline.md](../books/b5/outline.md) · [continuity/reveals.md](reveals.md)
+
+### DIV-068 · Brooms amplify the rider
+
+- **Status:** settled
+- **Canon:** Brooms are a ladder. A better broom is faster and better in every way, the Slytherin team's Nimbus 2001s are bought advantage, and a Firebolt outclasses everything on the pitch.
+- **Ours:** Power and obedience come together, so a broom transmits its rider rather than carrying them. Cheap brooms are forgiving, stable and slow; top brooms are responsive to the point of wildness and do exactly what they're asked, including what the rider didn't mean to ask. Money buys amplification, not performance, and the gap between two top brooms shows only at the very edge of what either can do.
+  - **Temperament decides fit.** A wild broom suits Harry, who flies the way he duels. It's the wrong instrument for Dracaena, who is precise and controlled, so a Firebolt would make her slower (DIV-069).
+  - **It explains canon.** Lucius buys seven top brooms and his team loses on older ones anyway, Dracaena included in B2.
+- **Why:** without it, Quidditch is decided by whose father spends the most, which is a poor foundation for a rivalry and worse for the B3 final, where she has to lose fairly. This fixes it without regulating equipment, so canon's Firebolt subplot survives untouched.
+- **Home:** [setting/magic.md](../setting/magic.md)
+- **Ripples:** DIV-066, DIV-069 · [threads/quidditch.md](../threads/quidditch.md) · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md)

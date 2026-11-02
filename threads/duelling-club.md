@@ -8,7 +8,7 @@ Flitwick's Duelling Club, where Harry and Dracaena fight for years and learn eac
 
 ## Shape of the arc
 
-*(settled)* DIV-028. After Lockhart's disastrous first session (canon), the students petition the teachers to keep the club going with a proper instructor, and Flitwick steps in. Harry and Dracaena face each other regularly and are evenly matched: sometimes he wins, sometimes she does. She's the better technical duellist. He's instinctive, and thrives in chaos and improvisation.
+*(settled)* DIV-028. After Lockhart's disastrous first session (canon), the students petition the teachers to keep the club going with a proper instructor, and Flitwick steps in. Harry and Dracaena face each other regularly and are evenly matched: sometimes he wins, sometimes she does. She's the better technical duellist. He's instinctive, and thrives in chaos and improvisation. The club is the even one of their three arenas: Quidditch is his and Potions is hers ([quidditch](quidditch.md)).
 
 *(draft)* They keep facing each other because Flitwick pairs them on purpose: iron sharpens iron. He was a duelling champion in his youth (canon), and he'd like Hogwarts to produce more. Two evenly matched duellists who push each other are exactly what he's looking for. His stake in them as a pair also makes him a natural source for the resonance hint (Q-028).
 

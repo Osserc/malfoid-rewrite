@@ -68,7 +68,7 @@ Canon's isolation stands and gets worse. The people who claim to be protecting h
 | B1 | First Potions lesson: Snape has her answer every question Harry can't (DIV-011, DIV-031) | [uncle-severus](../scenes/b1/uncle-severus.md) |
 | B1–B3 | His feats slowly repair her opinion of him (DIV-013) | |
 | B2 on | Flitwick's Duelling Club: evenly matched, they learn to read each other and come to enjoy the fights (DIV-028) | [duelling-club](duelling-club.md) |
-| B2 on | They always watch each other's Quidditch matches | [quidditch](quidditch.md) |
+| B2 on | They always watch each other's Quidditch matches, and mark each other on the pitch: with the Snitch cut down to 30, Seekers are each other's job (DIV-066) | [quidditch](quidditch.md) |
 | B3 | Potions: she makes him her servant and is strangely sweet under the barbs (DIV-017) | [potions-servant](../scenes/b3/potions-servant.md) |
 | B3 | She spies on his Patronus lessons and studies the charm for him. The lap-pillow scene, which becomes his Patronus memory (DIV-018) | [lap-pillow](../scenes/b3/lap-pillow.md) |
 | B3 | 🔒 She saves Buckbeak (DIV-003). At the lake she confesses the swarm is her fault, his Patronus saves them all with a first flicker of resonance, and she flies Buckbeak to Sirius (DIV-018). His opinion of her turns | [buckbeak-rescue](../scenes/b3/buckbeak-rescue.md) |
@@ -88,6 +88,7 @@ Canon's isolation stands and gets worse. The people who claim to be protecting h
 | B4 | End of year: she refuses her father's order to cut ties, throwing Harry's silence back at him, and he comes up with her cover (DIV-013, DIV-040, DIV-047) | |
 | B4→B5 | She writes all summer; Dobby carries (DIV-065) | |
 | B5 | The dream: happy with him, under cover (DIV-013) | |
+| B5 | The first match: he steals it off her lead and she kisses him on the pitch, barely minding the loss. Harry beats Montague for what he says about her and is banned for life; she cheers him on and goes unpunished (DIV-067) | [the-pitch-kiss](../scenes/b5/the-pitch-kiss.md) |
 | B5 | She gives him the password to her room (DIV-060) | |
 | B5 | Secret dates: from April she takes him to Hogsmeade on Inquisitorial Squad "errands", as her errand boy. He picks her perfume (DIV-013) | [the-pear-perfume](../scenes/b5/the-pear-perfume.md) |
 | B5 | After Sirius, Dumbledore tells Harry to treasure the love he has left (DIV-046). Then she comforts him and promises to be there (DIV-014) | [after-sirius](../scenes/b5/after-sirius.md) |

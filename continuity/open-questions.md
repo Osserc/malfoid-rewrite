@@ -247,12 +247,6 @@ Lucius thinks a daughter should be somewhat sheltered ([lucius-malfoy](../charac
 
 *Partly answered:* her tomboy side. He loses to his wife and daughter, settles for no training without supervision, and worries less as he sees how capable she is → [lucius-malfoy](../characters/lucius-malfoy.md). Why she's an only child: a curse meant for him hit Narcissa (DIV-030).
 
-### Q-037 · Quidditch as a real rivalry
-
-Quidditch has to be a real avenue for their rivalry, so Seeker duels have to be a thing, not a Snitch caught in the first few minutes. How do we rework the game (the Snitch, scoring, how Seekers contest it) so that it works? → [threads/quidditch.md](../threads/quidditch.md). Ripples to check:
-- **B4.** Canon cancels Quidditch for the Tournament.
-- **B5.** In canon, Draco's taunts after the Slytherin match lead Harry to attack him, and Umbridge bans Harry for life. With her in the dream (DIV-013), that can't stand as it is.
-
 ### Q-038 · Rita's article (DIV-029)
 
 Harry's fight with the Durmstrang challenger gives Rita Skeeter prime ammunition: a violent, tormented boy.
@@ -474,7 +468,26 @@ B4 is the book with actual dragons in it, and we have never used that. She is na
 - **Where the motif starts.** The inbox has her tagging along to see Norbert in B1 because she badly wants to see a baby dragon. If that's in, the First Task is its callback and the Patronus is its payoff.
 - **The risk.** The motif is already carried by her name, Fleur's line, the hoard and the Patronus. One more may be one too many. Echoes go where they carry weight, not everywhere.
 
+### Q-078 · The B3 final under the new rules (DIV-066)
+
+Gryffindor take the Cup in B3, and the aggregate Cup means the final needs a margin, not just a win. So Harry's job for most of that match is to stop her ending it while his Chasers build the gap, and his decision is when the margin is finally enough. That's the first full Seeker's dilemma in the series and it wants staging. The author has an outline for the aftermath.
+
+### Q-079 · Montague, the twins and the Vanishing Cabinet (DIV-067)
+
+Montague is the one Harry and George beat up after the first match. Canon also has the twins shove him into the Vanishing Cabinet later that year, which is how the cabinet ends up broken and useful in B6. The order still works (brawl → ban → cabinet → they leave), but it wants checking when B5 is planned, along with whether a second Montague incident is one too many.
+
+### Q-080 · Getting the rules on the page (DIV-066)
+
+Where the reader learns how the game works, without a rulebook.
+- **B1, Wood's rundown.** Canon already has him explain Quidditch to Harry, so it carries the burden, the 30 and the two Cups.
+- **B4, the World Cup.** Krum ending a match he can't win demonstrates the closing move, and the delta already keeps the beat.
+- **B1's first match.** Harry catches the Snitch during Quirrell's jinx. Under the new rules it has to be catchable by then, so the match needs a score on it first. Check when B1 is planned.
+
 ## Answered
+
+### Q-037 · Quidditch as a real rivalry (DIV-066, DIV-067)
+
+*Answered:* the Snitch is worth 30, ends the match, and gets heavier as the match is scored, so it starts untouchable and ends catchable. Seekers mark each other because leaving your opposite number loose loses you the Snitch, and the Cups are split: aggregate for the Quidditch Cup, a flat prize per win for the House Cup. The game is written out in [threads/quidditch.md](../threads/quidditch.md) (DIV-066); the B5 ripple is answered by [the-pitch-kiss](../scenes/b5/the-pitch-kiss.md) (DIV-067); B4 keeps canon's cancelled season.
 
 ### Q-074 · Does Harry take a stake in the shop? (DIV-062)
 

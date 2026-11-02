@@ -66,6 +66,18 @@ From B7, Harry Apparates Dracaena by dancing with her. She can't Apparate ([appa
 - **A feat.** Chaining Apparitions on the beat, both of them, without a Splinch, is very hard. Ron and Hermione doubt many wizards alive could do it.
 - **Not resonance.** It's all in Harry's mind: he casts alone and leads. There's no shared wand and no link between them, so the stained soul never comes into it and it doesn't hurt her (see *Resonance* above).
 
+## Brooms amplify the rider *(settled)* · DIV-068
+
+Canon treats brooms as a ladder: a better broom is faster and better at everything, and the best broom in the world is simply the best. Ours ties power to obedience, so a broom transmits its rider instead of carrying them.
+
+- **Cheap brooms are forgiving.** They're stable, placid and slow, and they quietly ignore half of what they're told, which is exactly what makes them safe to learn on.
+- **Top brooms are responsive to the point of wildness.** They do precisely what they're asked, including what the rider didn't mean to ask. Power and obedience arrive together, and there's no version that is fast and docile.
+- **So money buys amplification, not performance.** A great broom magnifies whatever the rider already is, in both directions. A rich mediocrity is worse off on a Firebolt than on a Cleansweep, and knows it.
+- **Temperament, not just skill.** A wild broom suits Harry, who flies the way he duels, on instinct and improvisation (DIV-028). It's the wrong instrument for Dracaena, who is precise and controlled. She could buy a Firebolt tomorrow and be slower on it than on her Nimbus, and she knows it.
+- **The gap at the ceiling is small.** A Firebolt and a Nimbus 2001 are both top racing brooms, and the Firebolt's margin only shows at the very edge of what either can do — a place almost nobody flies. Reaching that edge is the rider's doing.
+- **It explains canon.** Lucius buys seven top-of-the-line brooms and his team loses to Gryffindor on older ones anyway, repeatedly, Dracaena included (B2). Canon plays it as a joke about money not buying skill. We make it the rule, and the reader has watched it work twice before the B3 final.
+- **Why it matters.** Quidditch stops being decided by chequebooks without anyone having to regulate equipment, so canon's Firebolt subplot survives intact, and the B3 final is hers to lose (DIV-069).
+
 ## Sloughsilk *(draft)* · DIV-064
 
 The Lullasp is a snake said to straddle the waking and the dreaming realms. Its sloughed skin, sloughsilk, has peculiar magical properties, the useful one being that it takes growing charms extraordinarily well: a sloughsilk garment adapts to its wearer as they sleep and grows with them, so a set made for a newborn still fits at fifteen.

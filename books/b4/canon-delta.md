@@ -28,7 +28,7 @@ Not beats, but true all through the book:
 | 4 | The Burrow, then the walk to the Portkey with the Diggorys | keep | Cedric is introduced here and dies in June. Worth the weight | |
 | 5 | The World Cup campsite: Ministry wizards failing at Muggle clothes, Bagman, Crouch, Winky holding a seat | keep | | |
 | 6 | The Top Box: the veela dance, and Harry is as affected as every other male in the stadium | **alter** | The veela don't touch him. He's already in love and doesn't know it. Arthur and Lucius are unmoved too. Dracaena, in the box, sees it and works out that he loves someone — and assumes it's Cho | DIV-037, DIV-041, Q-050 |
-| 7 | Ireland win; Krum catches the Snitch anyway | keep | | |
+| 7 | Ireland win; Krum catches the Snitch anyway | keep | Our rules turn his choice from vanity into sense: with the match lost he ends it to stop the bleeding, and takes the Snitch off Lynch as the one contest still open to him. The scene teaches the reader the closing move. She approves of the calculation; Harry is appalled you'd end your own match while losing | DIV-066, Q-080 |
 | 8 | That night: Death Eaters torment the Muggle campsite family, the Dark Mark goes up, Winky is found with Harry's stolen wand and Crouch sacks her | keep | | |
 | 9 | Back at the Burrow; the Prophet's coverage; Rita Skeeter named for the first time | keep | | |
 

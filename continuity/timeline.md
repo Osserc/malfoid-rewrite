@@ -63,9 +63,11 @@ _Marauders era, the first war. Not yet worked out._
 ## B5 · 1995–96
 
 - **1995-09**: Umbridge shuts down the Duelling Club, one of her first acts. DIV-028
+- **1995-11**: the first match. Harry steals it off her lead, she kisses him on the pitch, Harry and George beat Montague for what he says about her, and Umbridge bans them and Fred for life. DIV-066, DIV-067, [the-pitch-kiss](../scenes/b5/the-pitch-kiss.md)
 - **1995–96**: Lucius meets Voldemort regularly, never at the Manor, and tells him he has planted his daughter as a spy. DIV-020
 - **From 1996-04**: the Inquisitorial Squad forms after Dumbledore's flight (canon). She uses its privileges to take Harry to Hogsmeade on "errands": their secret dates. He picks her pear perfume. DIV-013, [the-pear-perfume](../scenes/b5/the-pear-perfume.md)
 - **1996-06-05**: Dracaena turns 16.
+- **1996-06**: the Quidditch final, on the day of the Department of Mysteries (canon). Gryffindor win it and Ron comes good, but Slytherin take the Cup on aggregate. DIV-066, DIV-067
 - **1996-06**: Department of Mysteries. Sirius dies; Lucius is arrested (canon). In his office Dumbledore tells Harry to treasure the love he has left (DIV-046). Soon after, she comforts Harry and promises to be there for him. DIV-014
 - **Summer 1996**: She is Marked and meets Voldemort for the first time. He shatters her Occlumency with ease, and her faith dies. Lucius is in Azkaban (Q-030). DIV-015
 
@@ -76,6 +78,7 @@ _Marauders era, the first war. Not yet worked out._
 - **Late 1996-09** (tentative): Flitwick reopens the Duelling Club. Harry offers it as a date; she refuses, and their fight ends in the breakup. DIV-015, DIV-028, Q-031, [the-breakup](../scenes/b6/the-breakup.md)
 - **1996–97**: she can't cast a Patronus. DIV-027
 - **Spring 1997**: Sectumsempra, at night, in front of the Mirror of Erised, which breaks in the fight. Snape saves her too late to prevent the scars, which she bears for life, and buries the incident. DIV-032, DIV-043
+- **Spring 1997**: Gryffindor take the Quidditch Cup with Harry serving detention and her on no team. Two hollow Cups, one each. DIV-067, Q-057
 - **The same night**: Harry follows her to the Hospital Wing and attacks Crabbe and Goyle when they bar his way. In the days after he begs Snape, screams at him, and gets detention. Q-057
 - **Four days later**: Harry gets past Snape and visits her in the Hospital Wing. [after-sectumsempra](../scenes/b6/after-sectumsempra.md)
 - **The night of the cave**, end of term: on the walk to Hogsmeade, Dumbledore says something cryptic to Harry about her. DIV-044
