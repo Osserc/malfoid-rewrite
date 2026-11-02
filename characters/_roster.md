@@ -16,7 +16,7 @@ Everyone who appears, one line each. Characters with a full file are linked. "Ch
 | Severus Snape | "Uncle Severus": Dracaena's potions master since she was five. Brews Narcissa's medicine. Teaches Dracaena Occlumency, summer 1995. Buries Sectumsempra | DIV-020, DIV-024, DIV-030–032, DIV-043, DIV-056, Q-011, Q-041–Q-044, Q-057 | [severus-snape.md](severus-snape.md) |
 | Lily Potter | Snape sees her in the young Dracaena; never named on the page | DIV-031 | — |
 | Albus Dumbledore | Encourages Harry and Dracaena from B4 on. Knows about Sectumsempra through Snape, and talks to Harry about her. Shelters her in the hospital wing: she may need to be there more than Harry does | DIV-024, DIV-044, DIV-046, DIV-047, DIV-058, Q-011 | — |
-| Charity Burbage | Muggle Studies teacher; Dracaena's mentor | DIV-012, DIV-016 | — |
+| Charity Burbage | Muggle Studies teacher. Dracaena is her best student, not her protégée: the subject is a door, not a bond | DIV-012, DIV-016 | — |
 | Filius Flitwick | Takes over the Duelling Club in B2, and reopens it in B6 | DIV-028, Q-028 | — |
 | Poppy Pomfrey | First on the scene of Sectumsempra; Obliviated by Snape. Tries to throw Dracaena out of the hospital wing after the Third Task and is overruled | DIV-043, DIV-058 | — |
 | Dolores Umbridge | Shuts down the Duelling Club early in B5. Bans Harry, George and Fred from Quidditch for life after the first match, and won't touch the Malfoy who cheered the brawl on | DIV-028, DIV-067 | — |

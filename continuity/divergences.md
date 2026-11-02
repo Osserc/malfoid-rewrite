@@ -103,11 +103,13 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Home:** [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md)
 - **Ripples:** Q-023, Q-042 · DIV-031, DIV-045 · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md) · [scenes/b1/uncle-severus.md](../scenes/b1/uncle-severus.md)
 
-### DIV-012 · Muggle Studies: Burbage's star pupil
+### DIV-012 · Muggle Studies: Burbage's best student
 
 - **Status:** settled. Hermione dropping it is draft.
 - **Canon:** Draco never takes Muggle Studies. Hermione takes it in B3 and drops it.
-- **Ours:** Dracaena takes Muggle Studies and becomes Charity Burbage's star pupil. *(draft)* Hermione takes it in B3 and drops it, as in canon: she grew up among Muggles, and what's left is mostly wizards getting Muggles wrong. A timetable clash gives her the excuse. Dracaena frames it as Hermione conceding defeat.
+- **Ours:** Dracaena takes Muggle Studies and is Charity Burbage's best student. *(draft)* Hermione takes it in B3 and drops it, as in canon: she grew up among Muggles, and what's left is mostly wizards getting Muggles wrong. A timetable clash gives her the excuse. Dracaena frames it as Hermione conceding defeat.
+  - **The interest is cold.** Grudging respect for a worthy foe, not affection: Muggles have goods worth taking — the fairy tales first, then novels and their inventiveness in general — and she takes them. She never warms to Muggles themselves.
+  - **Burbage is a door, not a mentor.** "Best student" means she's invested in part of the curriculum and isn't an idiot. There's no bond, and no warmth to betray in B7 (DIV-016).
 - **Why:** the Muggle-born dropping the subject while the pure-blood heiress keeps it is a sharper irony than a shared rivalry, and it makes Dracaena Burbage's only star pupil for DIV-016.
 - **Home:** [threads/sleeping-beauty.md](../threads/sleeping-beauty.md) (Dracaena) · [characters/hermione-granger.md](../characters/hermione-granger.md) (Hermione dropping it)
 - **Ripples:** Q-002, Q-020 · DIV-016
@@ -140,7 +142,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 - **Status:** settled
 - **Canon:** At Malfoy Manor, Charity Burbage pleads with Snape before Voldemort kills her. Voldemort also mocks the family over their impure relatives.
-- **Ours:** She pleads with Dracaena too, her star pupil. The Death Eaters taunt Lucius and Narcissa over their daughter's Muggle Studies, deepening their humiliation.
+- **Ours:** She pleads with Dracaena too, her best student — the one she believes she reached, which she has no real grounds for (DIV-012). The Death Eaters taunt Lucius and Narcissa over their daughter's Muggle Studies, deepening their humiliation.
 - **Home:** [scenes/b7/charity-burbage.md](../scenes/b7/charity-burbage.md)
 - **Ripples:** Q-020
 

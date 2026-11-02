@@ -53,7 +53,18 @@ The break comes when Flitwick reopens the Duelling Club. Harry sets up a "date":
 
 ## The Muggle line
 
-Fairy tales lead to novels, and novels lead to Muggle Studies, where she becomes Charity Burbage's star pupil (DIV-012). *(draft)* Hermione takes it in B3 and drops it ([hermione-granger](../characters/hermione-granger.md)), and Dracaena frames it as conceding defeat. The jab doubles as cover: the pure-blood heiress keeps the subject the Muggle-born dropped, out of a real interest she can't admit. Her parents pay for it in B7 (DIV-016). When she starts, and how it gets out: Q-020.
+Fairy tales lead to novels, and novels lead to Muggle Studies, where she becomes Charity Burbage's best student (DIV-012). *(draft)* Hermione takes it in B3 and drops it ([hermione-granger](../characters/hermione-granger.md)), and Dracaena frames it as conceding defeat. The jab doubles as cover: the pure-blood heiress keeps the subject the Muggle-born dropped, out of a real interest she can't admit. Her parents pay for it in B7 (DIV-016). When she starts, and how it gets out: Q-020.
+
+**What the interest actually is** *(settled)*. Not affection. Grudging respect, of the kind owed a worthy foe. Muggles have goods worth taking, and she takes them:
+
+- **First the fairy tales**, which gave an eleven-year-old a whole private mythology for herself and Harry and never let her go.
+- **Then the novels**, and behind them Muggle inventiveness in general, which she can't deny and won't praise out loud.
+
+She never becomes fond of Muggles, and she goes on tutting at the ones who get real magic wrong. The contempt wears down because the respect grows, not because she warms to them.
+
+**Burbage is a door, not a mentor** *(settled)*. Dracaena is good at the subject because she isn't an idiot and is genuinely invested in part of the curriculum — that, and nothing warmer, is what "best student" means. Burbage happens to be the teacher standing in front of the only things she wants. There's no bond, and Dracaena would be embarrassed by the suggestion of one.
+
+That makes B7 worse rather than softer. Burbage pleads with the student she believes she reached, and she's wrong about what she reached. The debt is real — that woman stood at the door out of the script Dracaena was born into — but Dracaena never filed it as fondness, so the whole bill arrives at once, at her family's table ([charity-burbage](../scenes/b7/charity-burbage.md), DIV-016).
 
 ## Echoes
 
