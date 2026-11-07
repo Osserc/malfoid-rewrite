@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's rival and his tsundere love interest. 🔒 DIV-001
 **Canon baseline:** Draco Malfoy. Anything not overridden follows canon Draco, adjusted for the knock-on effects of her being a daughter (Q-001).
-**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–032, DIV-038–041, DIV-043, DIV-045–047, DIV-049, DIV-052, DIV-054, DIV-058–061, DIV-064, DIV-065
+**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–032, DIV-038–041, DIV-043, DIV-045–047, DIV-049, DIV-052, DIV-054, DIV-058–061, DIV-064, DIV-065, DIV-069–071
 
 ## Core
 
@@ -27,6 +27,27 @@ Gifted and brave, as befits wizard royalty (DIV-011):
 ## Heiress and tomboy
 
 *(settled)* A tomboy in spirit, at least: Quidditch, flying, duelling, dragons. But she's still a refined heiress, and the two have to live together in her. Like canon Draco she's spoiled and almost always gets her way, but here it comes off as cute rather than pathetic, all the more because she comes into her powers quickly (DIV-011). Lucius would rather shelter her, and rarely wins ([lucius-malfoy](lucius-malfoy.md)).
+
+## Taste · DIV-070
+
+*(settled)* Her taste is her moral channel. Things are wrong to her because they are **ugly** — squalid, beneath her, unbecoming of what she believes she is — and that one principle drives most of what she does and says.
+
+- **What it covers.** Slytherin's fouling disgusts her because it's sordid, not because it's unfair ([the-quidditch-final](../scenes/b3/the-quidditch-final.md)). Buckbeak's execution offends her because butchering a beast over a grudge does not befit nobility ([buckbeak-rescue](../scenes/b3/buckbeak-rescue.md)). Under real anger her insult is *inbred*, and *uncouth* is what she calls the move that beats her.
+- **It's an exit from the ideology that isn't a conversion.** She never decides blood purity is wrong. She accepts the premise and catches her own class failing it: the lines have thinned and the specimens at her own table are not impressive (DIV-008, DIV-035). Crabbe and Goyle are her standing private evidence — kept because they're useful and expected, and privately held in contempt.
+- **The same move as Muggle Studies.** Cold evaluation on merit rather than loyalty (DIV-012), turned on her own side instead of the other one. Two doors out, both running on her snobbery rather than against it.
+- **It is also her ceiling.** She loses the B3 final because winning wanted an improvisation she finds distasteful, and she says so at the lake, unprompted. Her taste is her compass and the thing that stops her — again in B5, where she loses to something her code doesn't price (DIV-067), and terribly in B6, when Harry grabs a spell he doesn't know and it nearly kills her (DIV-032, DIV-043).
+
+Open: Q-083.
+
+## The ugly side · DIV-071
+
+*(settled)* What she aims at Harry is a game. What she aims at anyone else is not, and the difference is visible from outside.
+
+- **At the B3 final** she turns on her own Beater with Harry a few feet away, and her face comes apart with it. He has seen her furious at him a hundred times; this is nothing like it. It's ugly, and it unsettles him. He does nothing with it — it joins everything else he can't place about her that year.
+- **Becoming *dere* doesn't remove it,** it only points it elsewhere. It's still there in B6 when she goes after Hermione to make Harry hate her, and it's why that relapse reads as her rather than as a plot requirement ([sleeping-beauty](../threads/sleeping-beauty.md)).
+- **The companion to DIV-029.** The feud with Harry is a private arrangement. Everyone else gets the real thing.
+
+Open: Q-084.
 
 ## Potions
 
@@ -68,6 +89,7 @@ Gifted and brave, as befits wizard royalty (DIV-011):
 
 - **When she feels exposed, she reaches for snobbery.** This first shows at Madam Malkin's: flustered at being charmed by a Muggle story, she sneers at Hagrid (DIV-009).
 - **She admires competence, daring and valour, and it comes out as contempt.** Her line is "if *Potter* of all people can…" (DIV-013).
+- **Her objections run through taste.** Wrong things are ugly things, which is how a bigot's snobbery becomes the way out of the bigotry, and also the ceiling she can't climb past (DIV-070).
 - **She does the right thing so Potter can't beat her at it** (Q-005, answered).
 - **She's not above subterfuge and pettiness when throwing darts at her target.** She milks the B3 injury for weeks (DIV-017).
 - **Her hoard.** Every trophy she has won off him at the Duelling Club since their second year, kept on a stand under a Gryffindor banner in a room nobody knows about (DIV-059, DIV-060). He has a smaller one of hers. Neither had ever mentioned it.
@@ -117,7 +139,7 @@ Her inner arc is the [Sleeping Beauty thread](../threads/sleeping-beauty.md).
 |---|---|---|---|
 | B1 | Wizard royalty, used to flattery | Called a princess, sincerely, by a nameless boy; reads the tale. Refused on the train (DIV-009, DIV-010) | Holds a grudge: she'll prove he's nothing special |
 | B2 | | His feats start to repair her opinion (DIV-013). The Duelling Club under Flitwick: evenly matched with Harry (DIV-028) | |
-| B3 | Milking the injury; her play-acting gets Buckbeak condemned (DIV-017). | The final: she plays clean, loses fairly and takes Harry's hand — proof that playing straight gets her what she wants (DIV-069). 🔒 Saves Buckbeak (DIV-003). Confesses the swarm at the lake; flies Buckbeak to Sirius (DIV-018) | Owes Harry; her prince drove off the demons for her |
+| B3 | Milking the injury; her play-acting gets Buckbeak condemned (DIV-017). | The final: she plays clean, loses fairly and takes Harry's hand — proof that playing straight gets her what she wants (DIV-069). Her house sees her enjoying herself with him and turns, and Harry sees what her anger looks like aimed at someone else (DIV-070, DIV-071, Q-081). 🔒 Saves Buckbeak (DIV-003). Confesses the swarm at the lake; flies Buckbeak to Sirius (DIV-018) | Owes Harry; her prince drove off the demons for her |
 | B4 | | 🔒 Accepts his invitation to the Yule Ball, the turning point (DIV-004, DIV-013). 🔒 His Second Task hostage (DIV-005); claims him in front of the school (DIV-038) | In the dream. Guards him in the hospital wing and defends him to Fudge (DIV-058); takes him into her room and finds out she's the cure for his nightmares (DIV-060, DIV-061). Refuses her father's order to cut ties, throwing Harry's silence about him back at him, and he comes up with the spy strategy (DIV-013, DIV-040, DIV-047) |
 | B5 | Learns Occlumency from Snape over the summer (DIV-020). Dreaming, under cover (DIV-013). Loses the first match to Harry and kisses him on the pitch; her house calls it throwing the game, and she plays the rest of the year angry (DIV-067) | Comforts him after Sirius and promises to be there (DIV-014) | Marked. Voldemort shatters her walls; faith dead (DIV-015) |
 | B6 | Back in the cage. The hollow weeks, then she breaks up with Harry when he offers the reopened Duelling Club (DIV-015) | The nightmare. Sectumsempra, in front of the Mirror of Erised, scars her for life (DIV-032, DIV-043) | |
@@ -129,4 +151,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-028, Q-030–Q-032, Q-035–Q-038, Q-041–Q-044, Q-050–Q-052, Q-067–Q-069, Q-072, Q-073, Q-075, Q-076
+Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-028, Q-030–Q-032, Q-035–Q-038, Q-041–Q-044, Q-050–Q-052, Q-067–Q-069, Q-072, Q-073, Q-075, Q-076, Q-081–Q-084

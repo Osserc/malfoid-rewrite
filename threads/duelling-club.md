@@ -26,7 +26,7 @@ When she wins she sometimes forgets to gloat. No sneer, just a bright, happy "Di
 
 At some point the bouts acquire a forfeit: the loser gives the winner a trophy, something of their own. It starts as her challenge, before the Christmas holidays of their second year, and she wins it, taking his Gryffindor scarf.
 
-- **Both of them keep everything they win,** and neither has ever mentioned it to the other.
+- **Both of them keep everything they win,** and neither has ever broached the subject with the other. She parades her spoils — the scarf, and at the B3 final one of his Seeker's gloves, worn on the pitch while he wears one of hers (DIV-069). What is never said out loud is what the things have come to mean, or where they end up.
 - **Hers,** by B4, is a shrine in the Malfoy room (DIV-060): a quill, a Chocolate Frog card with Dumbledore on it, a worn Seeker's glove and the scarf, on a stand under a Gryffindor banner. *(draft)* Where the banner came from is open.
 - **His** is a smaller trove of her things in his dormitory. He admits to it the night he finds hers ([the-malfoy-room](../scenes/b4/the-malfoy-room.md)).
 - **What it's for.** It turns years of feuding into a physical record, and it makes her sincerity something she has been accumulating in secret since B2 — one more thing that should have told Harry and didn't (Q-035).
@@ -40,6 +40,7 @@ At some point the bouts acquire a forfeit: the loser gives the winner a trophy, 
 | B2 | Lockhart's session ends in disaster (canon). The petition; Flitwick takes over | |
 | B2 | The trophy forfeit starts, with her challenge before the Christmas holidays. She wins his Gryffindor scarf (DIV-059, Q-073) | |
 | B3 | A regular fixture. She leaves the lap-pillow scene with the skip in her step she has after beating him | [lap-pillow](../scenes/b3/lap-pillow.md) |
+| B3 | The trophies go public at the Quidditch final: each turns up wearing one of the other's gloves, played as a joke by both and never mentioned again. Harry catches the Snitch wearing hers (DIV-059, DIV-069, Q-073) | [the-quidditch-final](../scenes/b3/the-quidditch-final.md) |
 | B4 | Stays open; Durmstrang and Beauxbatons students join. The Durmstrang challenger (DIV-029) | [durmstrang-challenger](../scenes/b4/durmstrang-challenger.md) |
 | B5 | Umbridge shuts it down, one of her first acts. They're both miffed | |
 | B6 | Flitwick reopens it. Harry offers it as a date; she refuses, and they break up (DIV-015). Their next duel is Sectumsempra (DIV-043) | [the-breakup](../scenes/b6/the-breakup.md) |
