@@ -39,7 +39,7 @@ Dracaena noticed him looking at her glove, and held out her hand for him to insp
 
 "A bit too big for my liking," she recited with a melodious voice she must have practiced a hundred times before, "But I wouldn't pass on the chance to beat you with your own stuff."
 
-He saw that she had to fasten it tightly to fit her slender hand, and suddenly, all his tension vanished, replace by pure whimsical joy.
+He saw that she had to fasten it tightly to fit her slender hand, and suddenly all his tension vanished, replace by pure whimsical joy.
 
 "Two can play this game, Malfoy."
 
@@ -105,15 +105,21 @@ ___________________________
 
 Despite the relentless fouling from Slytherin, Gryffindor managed to claw their way closer to the sixty points lead they required. The score was now ninety to forty for Gryffindor, and Harry was quickly running out of steam.
 
-Malfoy was a menace on the pitch: he had to constantly keep an eye on her, as the Snitch was now sufficiently slowed by the accumulated score for her to be able to spot it very quickly. They already clashed three more times, and each save from Harry was closer than the last. Dracaena was clearly upset that her job was to close the game as soon as possible with no regards for winning the actual match, but was she playing her part admirably, throwing herself behind the Snitch at every chance. And he had to admit that she was a sight to behold.
+Meanwhile Malfoy was a menace on the pitch: he had to constantly keep an eye on her, as the Snitch was now sufficiently slowed by the accumulated score for her to be able to spot it very quickly. They already clashed three more times, and each save from Harry was closer than the last. Dracaena was clearly upset that her job was to close the game as soon as possible with no regards for winning the actual match, but was she playing her part admirably, throwing herself behind the Snitch at every chance. And he had to admit that she was a sight to behold.
 
 Of all his opponents, Dracaena was by far the most technically gifted flier he had ever faced, completely different from how she was the previous year. The biggest change he could see was her form. A year ago she was cocky and undisciplined, blindly following the Snitch as it led her around the pitch; this time, she was *stalking* it. Instead of chasing at full speed, she held back a bit to account for its sneaky swerves and feints, and whenever it turned she was able to shorten their distance by cutting through the angle between where the Snitch was going and her current position.
 
 It was a more refined version of the same technique Harry had always used in his own encounters with the Snitch. But whereas Dracaena reacted, Harry predicted. He lost count of how many time Wood screamed at him to *please, be a normal Seeker* whenever he went off its trail only to then cut it off, but even the Gryffindor captain had to give up and let him play to his strengths. And his ability to somehow read the small twitches that the enchanted orb showed was the only thing keeping Gryffindor in the running, as Malfoy had been flinging herself at her prey relentlessly, only to be always greeted by Harry blocking her path after cutting a particularly brazen angle.
 
-Their last bout had been especially close. On the backfoot and unable to afford letting Dracaena out of his sight, he was almost tricked by her when she dove madly. It was only thanks to his keen eye that he noticed her leaning slightly towards her side, betraying her intention to change course at the last second, allowing him time to react when she inevitably swerved, in an attempt to shake him off.
+Harry could only marvel at how effortlessly Dracaena was steering her broom as if it were second nature. He always found the Nimbus series's flying charm to be a bit too opinionated for its own good. As long as you flew like a conventional high level player, the broom was excellent: it took care of all the little details while you could focus on scouting and dueling, like angling during a turn. For a cerebral player like Dracaena it was a match made in heave. He, however, always had to fight against it to pull off his own reckless stunts.
 
-She suddenly sprang upward and Harry caught sight of her smile, radiant and joyful. It was at that moment that her hair tie came off, and he did not realize that his hand shot off and grabbed it before it could fall to the ground. It was only after he cut her off yet again with a powerful ascent that he noticed the small emerald tie in his hand. He smiled to himself and tucked it safely away in his pocket, and he resumed his watch.
+*No wonder she wiped the floor with Diggory and Cho.*
+
+Meanwhile, his Firebolt was more than happy to let him do whatever he wanted without interfering, to the point he had to mind any stray thought from influencing it. Their last bout had been especially salient example. On the backfoot and unable to afford letting Dracaena out of his sight, he was almost tricked by her when she dove madly. Startled, his immediate thought of giving chase caused his broom to angle sharply downward, and it was only thanks to his keen eyes and trained reflexes that he noticed her leaning slightly towards her side, betraying her intention to change course at the last second, allowing him time to react accordingly when she inevitably swerved, in an attempt to shake him off.
+
+She suddenly sprang upward and Harry caught sight of her smile, radiant and joyful. It was at that moment that her hair tie came off, and he did not realize that his hand shot off and grabbed it before it could fall to the ground, his broom deftly turning just a little bit to allow him the extra reach he needed before readjusting is course. As if the broom read his mind and knew what he was trying to do. The old Nimbus would have probably ignored it.
+
+It was only after he cut her off yet again with a powerful ascent that he noticed the small emerald tie in his hand. He smiled to himself and tucked it safely away in his pocket, and he resumed his watch.
 
 ___________________________
 
@@ -143,11 +149,11 @@ Harry laughed at the insinuation, but his smile faded away as he saw Dracaena's 
 
 An "OUCH, THAT WAS DIRTY!" came from Jordan as he witnessed Bole colliding full force with Angelina and almost knocking her off her broom.
 
-Already at her breaking point, Dracaena finally snapped and sped towards her Beater, and started stabbing him with her finger, as Harry flew to Angelina's side to make sure she was alright.
+Already at her breaking point, Dracaena finally snapped and sped towards her Beater, and started stabbing him with her finger, as Harry flew to Angelina's side to make sure she was alright, as was treated to the close up sight of an incensed Dracaena Malfoy.
 
 "You inbred idiot troll! This is my match! Mine! You will not take it away from me!", Dracaena shrieked, as Bole stodd half confused and frightened of the tiny girl spitting insults at him.
 
-For once, Harry was happy he was not the target of her tirades, but his relief was short lived as he noticed just how much her anger was deforming her face. She had seen her upset, but this was completely different, as if she really wanted to just march up to the Slytherin Beater and strangle him with her bare hands. It was an ugly expression, even more spiteful that he thought possible. Finally she relented as Madam Hooch awarded a penalty to Gryffindor, blocked by Bletchley, and she followed Harry back in th sky.
+For once, Harry was happy he was not the target of her tirades, but his relief was short lived as he noticed just how much her anger was deforming her face. She had seen her upset, but this was completely different, as if she really wanted to just march up to the Slytherin Beater and strangle him with her bare hands. It was an ugly expression, even more spiteful that he thought possible. Finally she relented as Madam Hooch awarded a penalty to Gryffindor, blocked by Bletchley, and she followed Harry back in th sky. He didn't even realize neither of them had so much looked at the Snith to fly to their team mates.
 
 "Maybe your captain should have replaced with him an actual troll," he suggested, trying to defuse the situation, "You know, one of those guarding the Fat Lady. I saw one who seemed to understand English, the smaller one with the weird bowler hat."
 
@@ -181,17 +187,15 @@ But this time, neither he nor Dracaena paid him any mind, as they were both busy
 
 Leveraging his superior acceleration he gave chase, but Dracaena was hot on his heels thanks to the headstart her positioning gave her. She kept herself a little higher than him, ready to swoop down when the time was right. He saw her do it in her previous match, she was a master at turning the downward sweep into an impressive burst of speed to overcome her opponent. His Firebolt was too fast for that, but it certainly would have been enough to reach him and slow him down with her own body weight. And if she managed to send him off course, she might have even be able to catch the Snitch herself.
 
-Desperate, Harry tried the same trick he employed against Ravenclaw. He baited her dash raising a hand, and at the same time he gracefully slid off his side. With the corner of his eye Harry saw Dracaena angling slightly downward, gaining momentum. She must have anticipated his trick and acted accordingly, aiming to occupy the space below his broom, where his body would have been and foil his attempt at ending the game. He caught a glimpse of her triumphant grin and allowed himself a knowing smile.
+Desperate, Harry tried the same trick he employed against Ravenclaw. He baited her dash raising a hand, and at the same time he gracefully slid off his side. With the corner of his eye Harry saw Dracaena angling slightly downward, gaining momentum. She must have anticipated his trick and acted accordingly, aiming to occupy the space below his broom, where his body would have been and foil his attempt at ending the game. He caught a glimpse of her triumphant grin as she descended.
 
-*Good, she took the bait.*
+*Good, she took the bait,* he thought, and allowed himself a furtive smile.
 
 She braced, but the impact she expected never came.
 
 Instead of swinging helplessly like he did in the previous match, Harry used his right hand to interrupt his falling maneuver mid-movement, bent forward and flattened himself against the underside of his broom. Without a body to stop her advance, Dracaena could do nothing but watch in horror as she sped further downwards, away from her rival, who was now riding his broom upside down. Her frantic attempt at adjusting course were fruitless, and she could only watch helplessly as Harry was now flying upside down.
 
-It was the toughest acrobatics he ever pulled off, and he mentally thanked his mysterious benefator for the Firebolt, who seemed more than Happy to oblige his decision to ride it upside down. He was not sure he'd have been able to pull this off with his old Nimbus, that broom was too opinionated for its own good, and sometimes seemed to ignore his more outlandish instructions.
-
-Now free from his pursuer, he accelerated towards the snitch, reached out with the hand bearing the silver letter on it and...
+It was the toughest acrobatics he ever pulled off, and he mentally thanked his mysterious benefator for the Firebolt, who seemed more than Happy to oblige his decision to ride it upside down. Now free from his pursuer, he accelerated towards the snitch, reached out with the hand bearing the silver letter on it and...
 
 "POTTER CATCHES THE SNITCH! GRYFFINDOR WINS THE CUP! GRYFFINDOR WINS THE CUP! ONE HUNDRED AND FORTY TO FIFTY!"
 
@@ -235,15 +239,17 @@ He crouched before her, panting, and extended his hand to her, the one that wore
 
 She gave him a shocked look, and for a second she looked like she was somewhere else, eyes fixated on his hand.
 
-Judging from her lips twitching, he could see she was trying her best to come up with a jeer, a scowl, anything, to protect her wounded pride.
+She raised a skittish arm and made to accept his hand before retracting it in a rush, as if she were afraid she would have been stung.
 
-She opened her mouth, but no words left her once she saw Harry's smile.
+Judging from her lips twitching, he could see she was trying her best to come up with a jeer, a scowl, anything to protect her wounded pride.
+
+She opened her mouth, but no words left her once she raised her head and saw Harry's smile.
 
 There was neither pity nor sympathy in it.
 
 Just a delighted, happy, unrestrained smile.
 
-Heistantly, she reached for his hand with her oversized glove, and she yelped in surprise as he propped her up with strength she did not know he possessed. She was still clutching her Nimbus 2001.
+Slowly but decisively, she reached for his hand with her oversized glove, and she yelped in surprise as he propped her up with strength she did not know he possessed. She was still clutching her Nimbus 2001.
 
 "Come on, let's race! Last one beyond the lake is a flobberworm!"
 
@@ -299,6 +305,8 @@ The girl sat up too, and looked at him intensely, drinking in every word.
 
 "I didn't even know I could fly upside down," he continued, "I think I hurt myself when I gripped the handle," and he beckoned at his left arm.
 
+"That was reckless," she whispered, "I would never have done something like that. It's so... uncouth."
+
 Slowly, she reached out with her hand to give it a timid squeeze, and she let out a small giggle at his wince of pain. He just smiled in response, and a few more seconds of silence stretched between them. Then she spoke again.
 
 "You won't get away with it next time," she declared proudly, trying her best to sound threatening and failing miserably.
@@ -311,7 +319,7 @@ Dracaena's eyes went wide.
 
 "I don't know, I just... grabbed it. It would have been a pity if you lost it. You looked great flying with your hair like that," holding out his hand.
 
-They both blushed, averting their eyes. Then she started gathering her hair, offering her nape to him.
+They both blushed, averting their eyes. Then she started gathering her hair, and turned her back to him showing him a full view of her nape.
 
 "Can you tie it for-"
 
