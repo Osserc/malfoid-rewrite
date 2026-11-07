@@ -17,11 +17,12 @@ Canon's Snitch is worth 150 points, which makes the Seeker a lottery ticket and 
 - **The closing move.** Both Seekers want it when the margin is under 30; only the leader wants it when the margin is over. Catching it from behind is a concession: you end the match to stop the bleeding and save the aggregate.
 - **What a Seeker does.** No bat, and they may not touch the Quaffle. All a Seeker has is speed and nerve, so breaking up a play means being a terrifying object in someone's flight path — bluff, not force, which keeps it off the Beaters' ground.
 - **Marking needs no rule.** Leave your opposite number loose and she takes the Snitch. A swoop costs you the seconds she's unmarked, so the two of them glue themselves together. Early in a match that cost is affordable; late it isn't. Harry pays it because he's impatient and gallant; she almost never does.
-- **The numbers.** Goals stay at 10 and match totals stay modest, roughly 60–120, so the Snitch is three goals: a real swing, never a game in itself.
+- **The numbers.** Goals stay at 10 and ordinary match totals stay modest, roughly 60–120, so the Snitch is three goals: a real swing, never a game in itself. A decider runs longer and higher, because a side chasing a Cup margin has to keep attacking: the B3 final ends 140–50 (DIV-069).
 - **The Quidditch Cup** goes on aggregate, as in canon, which is what makes a Seeker's timing decide things: catch it now and win the match, or hold off while the Chasers build the margin the Cup needs.
 - **The House Cup** takes a flat prize for each match won, never the match score. Nothing above touches it, and B1's lost 150 points is still a whole season's Quidditch.
 - **The deadlock.** A scoreless match never weighs the Snitch down and never ends. That is where the legendary months-long games came from: nobody scored, so nobody could finish. Whimsy, not a plot point.
 - **The broom is not the player** (DIV-068). Power and obedience come together, so a great broom amplifies whatever the rider already is, in both directions. Money buys amplification, not performance, and the gap between two top brooms shows only at an edge almost nobody flies at.
+- **Assistance versus obedience.** A Nimbus manages the small corrections for you and declines what it reads as a mistake, which is what a cerebral flier wants. A Firebolt does nothing for you and refuses nothing, so it is a standing tax on attention and nothing is off the table. The better broom is the more tiring one (DIV-068).
 - **On the page.** Wood's rundown in B1 carries most of it, and Krum demonstrates the rest at the World Cup (Q-080).
 
 ## The three arenas *(settled)*
@@ -33,6 +34,8 @@ Canon's Snitch is worth 150 points, which makes the Seeker a lottery ticket and 
 | The Duelling Club | Even | Sometimes he wins, sometimes she does (DIV-028) |
 
 The uneven two matter most to whoever loses them. She keeps coming back to the one field where she can't win, because the contest itself is the point — which is exactly what gets her accused of throwing the B5 match (DIV-067).
+
+*(draft)* **Why Quidditch is the one she can't take.** Not raw ability, and not his broom. She is the better technician and she knows it. What beats her is that the winning move keeps turning out to be something she finds distasteful — reckless, undignified, *uncouth* (DIV-070). She loses the B3 final to an improvisation she would never have attempted, and B5's first match to enjoying herself too much to block him. The arena is his because of what she won't do, not what she can't.
 
 ## Shape of the arc
 
@@ -48,7 +51,7 @@ The uneven two matter most to whoever loses them. She keeps coming back to the o
 |---|---|---|
 | B1 | Wood's rundown explains the game, ours included (Q-080). She isn't on a team yet; Harry is the youngest Seeker in a century (canon) | |
 | B2 | She makes the Slytherin team, and loses to Harry | |
-| B3 | The final is the thread's first payoff: she plays clean while her house fouls, duels him the length of the match, loses fairly, and is left alone on the pitch until he comes back and offers her his hand (DIV-069). Before it, she uses her injury to delay the match against him, to practise, because she wants to beat him fairly (DIV-017). Crabbe and Goyle pull the fake-Dementor prank at the Ravenclaw match on their own, and she disapproves (DIV-017). Her tsun excuse in the lap-pillow scene is their match. At the Ravenclaw match Harry notices Cho (canon), and Dracaena sees him do it: her evidence at the World Cup (DIV-041). Gryffindor take the Cup | [the-quidditch-final](../scenes/b3/the-quidditch-final.md) · [the-slap](../scenes/b3/the-slap.md) · [lap-pillow](../scenes/b3/lap-pillow.md) |
+| B3 | The final is the thread's first payoff: she plays clean while her house fouls, duels him the length of the match, loses fairly, and is left alone on the pitch until he comes back and offers her his hand (DIV-069). Flint's fouling is a plan to hold Gryffindor under the Cup margin rather than win the match, which is what gives the Seekers their job. Her house turns on her over the course of it (Q-081), and Harry gets his one clear look at her real cruelty (DIV-071). Before it, she uses her injury to delay the match against him, to practise, because she wants to beat him fairly (DIV-017). Crabbe and Goyle pull the fake-Dementor prank at the Ravenclaw match on their own, and she disapproves (DIV-017). Her tsun excuse in the lap-pillow scene is their match. At the Ravenclaw match Harry notices Cho (canon), and Dracaena sees him do it: her evidence at the World Cup (DIV-041). Gryffindor take the Cup | [the-quidditch-final](../scenes/b3/the-quidditch-final.md) · [the-slap](../scenes/b3/the-slap.md) · [lap-pillow](../scenes/b3/lap-pillow.md) |
 | B4 | The World Cup: Krum ends a match he can't win, which under our rules is dignity, not vanity. She approves of the calculation; Harry is appalled that you'd end your own match while losing. No school season (canon: cancelled for the Tournament) | |
 | B5 | The first match: he steals it off her lead, she kisses him anyway, Montague pays for what he says about her, and Harry, George and Fred are banned for life (DIV-067). She plays the rest of the year angry, against Ginny, with Harry in the stands. Gryffindor win the final and Ron comes good; Slytherin take the Cup on aggregate | [the-pitch-kiss](../scenes/b5/the-pitch-kiss.md) |
 | B6 | She quits the team at the start of term, part of the death of faith (DIV-015). Canon Draco only skips the match against Gryffindor; ours never meets him on a pitch again. Harry is captain and winning, and it's worth nothing to him. After Sectumsempra he's out for the final one way or another, so Gryffindor take the Cup without him (Q-057) | |
@@ -59,7 +62,9 @@ The uneven two matter most to whoever loses them. She keeps coming back to the o
 | Payoff | Needs setting up | Planted in |
 |---|---|---|
 | B3 the hand on the pitch (DIV-069) | Her offered hand on the train, refused (DIV-009) | B1, [hogwarts-express](../scenes/b1/hogwarts-express.md) |
-| B3 she loses fairly, with nothing to blame (DIV-069) | Brooms as amplifiers: a better broom wouldn't have helped her (DIV-068) | B3 |
+| B3 she loses fairly, with nothing to blame (DIV-069) | Brooms as amplifiers, and the better broom costing Harry all match (DIV-068) | B3 |
+| B3 she loses to her own taste (DIV-069, DIV-070) | That her objections run through what's seemly, not what's fair | B3, the fouling and the slap |
+| B5 the accusation (DIV-067) | Her house watching her cheer for Gryffindor, abandon her post and take his hand at the B3 final (Q-081) | B3, the final |
 | B3 her Buckbeak decision (DIV-003) | Proof that playing straight gets her what she wants | B3, the final |
 | B5 she's accused of throwing the match (DIV-067) | That she has never beaten him, and minds it less each year. Her house's first doubts at the B3 final (Q-081) | B2, B3 |
 | B5 Harry steals it off a lead (DIV-067) | The rules: the Snitch at 30, the burden, the closing move | B1, Wood's rundown (Q-080) |

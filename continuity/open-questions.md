@@ -237,7 +237,9 @@ At the lake, Harry's opinion of her turns because four things add up ([buckbeak-
 
 *Partly answered:* the Duelling Club trophies (DIV-059). She has been hoarding his things since their second year, in plain sight of a boy who thinks she's collecting scalps. It only reads as sincerity in B4, when he sees where they ended up.
 
-*And B3's two strongest, both from DIV-069:* the slap, where he's close enough to see her face and isn't sure what he saw ([the-slap](../scenes/b3/the-slap.md)), and the final, where she's the only Slytherin playing clean and says so to her own team ([the-quidditch-final](../scenes/b3/the-quidditch-final.md)). **Still open: B1 and B2 have nothing yet.** The turn needs groundwork earlier than the book it pays off in.
+*And B3's two strongest, both from DIV-069:* the slap, where he's close enough to see her face and isn't sure what he saw ([the-slap](../scenes/b3/the-slap.md)), and the final ([the-quidditch-final](../scenes/b3/the-quidditch-final.md)). The final works by giving him two incompatible readings of the same thing: she tells him in private that she won't win dirty, and then in public screams at her own Beater about *her* match being stolen. The sincere half is the one only he heard, and he has every reason to discount it — which is exactly the shape this question wants. Same book, same day, he also sees how ugly her anger is when it isn't aimed at him (DIV-071), so what's accumulating isn't a soft picture of her.
+
+**Still open: B1 and B2 have nothing yet.** The turn needs groundwork earlier than the book it pays off in.
 
 ### Q-036 · The sheltering father (DIV-001, DIV-013, DIV-020)
 
@@ -443,7 +445,7 @@ Lucius Summoned the ribbon off Harry's wrist and Stunned Avery to open him a way
 The hoard in B4 only lands if the custom and her first win are on the page years earlier. Open:
 
 - **The challenge.** Her forfeit, before the Christmas holidays of their second year, and the bout she wins. Does it get a scene or a paragraph?
-- **What he's won off her,** and whether we ever see his own trove before he admits to it.
+- **What he's won off her,** and whether we ever see his own trove before he admits to it. *Partly answered:* one of her gloves, worn on his catching hand at the B3 final, opposite a Seeker's glove of his on hers (DIV-069). That puts the custom in front of the whole school without either of them explaining it, which is the planting this question asks for — and it leaves B4's room as the reveal of what the hoard *means* rather than that it exists.
 - **The banner.** Where a Gryffindor banner in a Slytherin's secret room came from. A trophy is the funniest answer; a Quidditch spoil is the other.
 
 ### Q-075 · The night terrors after term ends (DIV-061, DIV-063, DIV-065)
@@ -483,8 +485,12 @@ Where the reader learns how the game works, without a rulebook.
 
 ### Q-081 · Her house turns on her (DIV-069, DIV-067, DIV-015)
 
-The B3 final opens the first visible crack: she berates her own team for fouling, is willing to throw the match to deny Harry the Cup, and then takes his hand in front of them. B5 is the second and louder one, when they accuse her of throwing a match outright. B6 is the third, when she quits. Both accusations are false, and the second lands on ground the first prepared. Open:
-- How much of it is on the page, and where the common-room fallout goes.
+The B3 final opens the first visible crack. B5 is the second and louder one, when they accuse her of throwing a match outright. B6 is the third, when she quits. Both accusations are false, and the second lands on ground the first prepared.
+
+*What the final actually puts on the page* (DIV-069): she answers a jibe of Harry's with a Muggle cheer and the Slytherin stands stop cheering and scowl; she abandons her post at the most dangerous moment of the match to scream at her own Beater, calling him inbred in front of witnesses (DIV-070); and she ends the day taking Harry's hand on the pitch in front of everyone. Bole writes home about the insult, which gives the resentment a route out of the castle and into pureblood society — relevant to what Lucius hears (DIV-040).
+
+Open:
+- How much of the fallout is on the page, and where the common-room scene goes.
 - Who in Slytherin doesn't join in → [house-unity](../threads/house-unity.md), Q-070.
 - Whether Lucius's brooms — given to the whole team to celebrate her making it on merit (DIV-068) — hold the resentment back or feed it, given people say she bought her place anyway.
 
@@ -492,11 +498,30 @@ The B3 final opens the first visible crack: she berates her own team for fouling
 
 After the final and the Buckbeak night she wants to be less abrasive with Harry. *Less*, not kind: barbs are still the only reliable way she knows to get his attention outside dramatic moments. Where that shows between the end of B3 and the Yule Ball, and how it reads to Harry while she's also putting the mask back on after the final.
 
+### Q-083 · Where her critique of her own class goes (DIV-070, DIV-008)
+
+She accepts the pureblood premise and notices her own side failing it — thinned lines, unimpressive specimens, an insult like *inbred* reaching for her hand under pressure. B3 is where it first surfaces out loud. Open:
+
+- **Does anyone hear it as what it is?** Harry would miss it entirely; Hermione would not, if she ever heard it. Burbage might be the one person who could name it back to her (DIV-012, DIV-016).
+- **Crabbe and Goyle.** They are her standing evidence and also her retinue. How openly she holds them in contempt, and whether they ever notice.
+- **The road to B6–B7.** When she breaks with the cause it is out of fear and then love, not argument (DIV-015, DIV-052). Does this thread feed that, or stay a private irritation she never follows to its conclusion? The second is probably truer and sadder.
+- **Where it touches the themes.** DIV-008 says the ideologues have a point; this is the heiress agreeing with them and finding her own house unworthy of it → [core/themes.md](../core/themes.md).
+
+### Q-084 · Where else Harry sees the ugly side (DIV-071)
+
+The B3 final gives him one clear look at what her anger is like when it isn't a game. Open:
+
+- **Is once enough** to carry to the B6 relapse, or does it want a second sighting in B4–B5, where she is otherwise getting warmer?
+- **Who else is on the receiving end,** and whether Ron and Hermione ever get a version of it that Harry witnesses rather than hears about.
+- **Whether she knows.** She has never had to think about how she looks doing it, and someone telling her — Harry, eventually — is a scene with a lot in it.
+
 ## Answered
 
 ### Q-078 · The B3 final under the new rules (DIV-066, DIV-069)
 
-*Answered:* the margin makes the match. While Slytherin lead by more than 30 Harry can't catch the Snitch without losing the Cup, so he spends the first half stopping her ending it; once the lead flips she can still save the Cup by catching it herself and capping his margin, so he spends the second half keeping himself between her and it. A fake-out, broken off when her own Chasers push the line back, sets up a final duel that lasts seconds. → [the-quidditch-final](../scenes/b3/the-quidditch-final.md)
+*Answered:* the margin makes the match, and the phases belong to her. Gryffindor need to be 60 clear before Harry may take the Snitch, so his job never changes — stop her ending it — while hers inverts partway: she hunts freely while catching it would save the Cup, then has to mark him once Gryffindor reach the margin. Flint's fouling is the engine, a plan to hold the line down rather than win the match. A fake-out, broken off when her own Chasers push the line back, sets up a final duel that lasts seconds. Final score 140–50. → [the-quidditch-final](../scenes/b3/the-quidditch-final.md)
+
+*Superseded:* an earlier version gave the first half to Harry, with Slytherin ahead by more than 30 so that catching the Snitch would lose him the match. It was cut because his job is identical either way, and the reversal is worth more on the character it changes.
 
 ### Q-037 · Quidditch as a real rivalry (DIV-066, DIV-067)
 
