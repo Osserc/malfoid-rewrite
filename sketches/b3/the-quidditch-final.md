@@ -195,7 +195,7 @@ She braced, but the impact she expected never came.
 
 Instead of swinging helplessly like he did in the previous match, Harry used his right hand to interrupt his falling manoeuvre mid-movement, bent forward and flattened himself against the underside of his broom. Without a body to stop her advance, Dracaena could do nothing but watch in horror as she sped further downwards, away from her rival, who was now riding his broom upside down. Her frantic attempts at adjusting course were fruitless, and she could only watch helplessly as Harry was now flying upside down.
 
-It was the toughest acrobatics he ever pulled off, and he mentally thanked his mysterious benefactor for the Firebolt, who seemed more than happy to oblige his decision to ride it upside down. Now free from his pursuer, he accelerated towards the snitch, reached out with the hand bearing the silver letter on it and...
+It was the toughest acrobatics he ever pulled off, and he mentally thanked his mysterious benefactor for the Firebolt, who seemed more than happy to oblige his decision to ride it from the wrong side. Now free from his pursuer, he accelerated towards the snitch, reached out with the hand bearing the silver letter on it and...
 
 "POTTER CATCHES THE SNITCH! GRYFFINDOR WINS THE CUP! GRYFFINDOR WINS THE CUP! ONE HUNDRED AND FORTY TO FIFTY!"
 
@@ -233,7 +233,7 @@ ___________________________
 
 She looked up with a tear-streaked face.
 
-He crouched before her, panting, and extended his hand to her, the one that wore the glove with silver "D" on it.
+He crouched before her, panting, and extended his hand to her, the one that wore the glove with the silver "D" on it.
 
 "Let's go!"
 
@@ -303,7 +303,7 @@ He beamed at her, as if he was dying to talk about it.
 
 The girl sat up too, and looked at him intensely, drinking in every word.
 
-"I didn't even know I could fly upside down," he continued, "I think I hurt myself when I gripped the handle," and he nodded at his left arm.
+"I didn't even know I could fly upside down," he continued, "I think I hurt myself when I gripped the handle," and he nodded at his right arm.
 
 "That was reckless," she whispered, "I would never have done something like that. It's so... uncouth."
 
