@@ -29,6 +29,8 @@ _Open._ What making Draco a girl lets the story say that canon couldn't. See Q-0
 
 The dream is the belief that you can live outside the script you were born into. Harry is the one who lets Dracaena dream. The nightmare is the script reclaiming her: her family's allegiance, the Mark, Voldemort at her table. Its sharpest form is the death of faith between B5 and B6, when the dream turns out never to have been real (DIV-013, DIV-015). Carried by the Sleeping Beauty motif: see [threads/sleeping-beauty.md](../threads/sleeping-beauty.md).
 
+It gets a second case from outside her head, which Harry carries from B1: the Dessendres, a family who could actually build the dream and were destroyed by it (DIV-072). Harry and Dracaena have the same story and take opposite lessons from it — he sees what dwelling costs, she sees a technique that nearly worked. It also carries the warning aimed at Harry rather than her: the father who went into the painting to bring his wife out, for the best reason there is, and lost years to it anyway. See [setting/painted-life.md](../setting/painted-life.md).
+
 ## Pureblood ideology with a point (DIV-008)
 
 _Open._ See Q-016. Her Muggle reading pulls both ways: it wears down her contempt, and it shows her why purebloods fear being swallowed.

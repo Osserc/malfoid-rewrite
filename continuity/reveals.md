@@ -39,6 +39,8 @@ Cells give the book and the scene or chapter where each party learns the truth. 
 | Harry went back from King's Cross for her | B7, [kings-cross](../scenes/b7/kings-cross.md) | B7 (he chose it) | ? (Q-061) | ? (Q-061) | DIV-048, Q-061 |
 | The Manor raid was for a way to destroy Horcruxes | B7, [malfoy-manor](../scenes/b7/malfoy-manor.md) | B7 (his plan) | ? | Hermione, Ron, Dobby: B7. The Death Eaters: never; they think it was a rescue (DIV-049) | DIV-049 |
 | The Malfoys defected | B7, [malfoy-manor](../scenes/b7/malfoy-manor.md) | B7, the Manor | B7, the Manor | The Death Eaters: at once. The public: kept from it | DIV-052 |
+| What Clea's landscape is: real painted life, the last there is | B1, the painting | B1, the painting | Always | The castle: never — not the staff, not the other portraits | DIV-072, DIV-073, Q-087 |
+| Renoir went into the painting after Aline and lost years there | ? | ? (Q-085); he has to arrive at that lesson before B6 | Always; the old families kept the record | The public: never — the histories are about Aline | DIV-072, Q-085 |
 
 ## Feelings
 

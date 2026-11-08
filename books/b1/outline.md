@@ -25,6 +25,9 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 - Dracaena reads the Muggle books Narcissa gets her. DIV-010
 - On the train Harry refuses her over Ron; her grudge begins. DIV-009, [hogwarts-express](../../scenes/b1/hogwarts-express.md)
 - First Potions lesson: Snape has her answer the questions Harry can't, the Draught of Living Death among them. Hermione blurts out the third answer, loses points, and is outdone. Framed by Snape's flashback to the Manor, around 1985: mama's medicine and "uncle Severus". DIV-011, DIV-031, [uncle-severus](../../scenes/b1/uncle-severus.md)
+- At the Mirror, Dumbledore names the Dessendres as the famous case of wasting away in front of one. DIV-072, DIV-073, [painted-life](../../setting/painted-life.md)
+- Hermione tells the public version of the Dessendre story: the painted family, the mother who moved in, the fire. DIV-073
+- Harry and Hermione find Clea's landscape in a disused corridor. The creatures in it still expect a mistress who stopped coming a century ago, and refuse Harry's offer to visit because she's coming back. DIV-072, DIV-073, Q-087
 
 ## Acts
 

@@ -16,6 +16,10 @@ Design still open (Q-015): which radicals exist, how they combine, what incantat
 
 Time-Turners do not exist. Whether any other time magic exists: Q-004.
 
+## Painted life *(settled)* · DIV-072
+
+Canon's portraits are unchanged: echoes with manners, not people. The one exception is the extinct Dessendre line, whose ancestral gift made paintings that were genuinely alive. Written out in [painted-life](painted-life.md).
+
 ## Love as magic
 
 🔒 The payoff (DIV-006): in B7, love rebounds the Killing Curse.

@@ -4,7 +4,7 @@ status: draft
 
 # Harry × Dracaena
 
-The romance at the centre of the series. Her side of it runs through [the Sleeping Beauty thread](sleeping-beauty.md). When each of them realises or admits their feelings is tracked in [continuity/reveals.md](../continuity/reveals.md). Their Patronuses mirror each other: [patronus](patronus.md). Their rivalry plays out at the [Duelling Club](duelling-club.md) and in [Quidditch](quidditch.md).
+The romance at the centre of the series. The two of them as people are in [harry-potter](../characters/harry-potter.md) and [dracaena-malfoy](../characters/dracaena-malfoy.md); this thread is what happens between them. Her side of it runs through [the Sleeping Beauty thread](sleeping-beauty.md). When each of them realises or admits their feelings is tracked in [continuity/reveals.md](../continuity/reveals.md). Their Patronuses mirror each other: [patronus](patronus.md). Their rivalry plays out at the [Duelling Club](duelling-club.md) and in [Quidditch](quidditch.md).
 
 ## Shape of the arc
 

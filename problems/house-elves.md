@@ -25,4 +25,4 @@ _Open._
 
 ## Ripples
 
-DIV-050 (Dobby's bond with the Manor, his limits, his death) · Q-016 · Q-018 (Dobby is one option for fetching Dracaena's Muggle books) · Q-048 · DIV-035
+DIV-050 (Dobby's bond with the Manor, his limits, his death) · Q-016 · Q-018 (Dobby is one option for fetching Dracaena's Muggle books) · Q-048 · Q-091 (the B1 painted creatures refuse rescue, which is this problem in miniature) · DIV-035 · DIV-072

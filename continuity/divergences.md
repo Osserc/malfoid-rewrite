@@ -312,7 +312,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **Their game.** She sometimes uses them to guilt-trip him into doing her favours. He always kisses them when he sees them, hoping one day it'll make them disappear.
 - **Why:** the moment of anger has to cost them both something permanent, and the scars are what they get over together. Dark magic leaves lasting damage, as it does in canon (George's ear) and with Narcissa's curse (DIV-030).
 - **Home:** [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md)
-- **Ripples:** Q-024, Q-043, Q-044 · DIV-015, DIV-030, DIV-043 · [scenes/b6/sectumsempra.md](../scenes/b6/sectumsempra.md) · [scenes/b6/after-sectumsempra.md](../scenes/b6/after-sectumsempra.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
+- **Ripples:** Q-024, Q-043, Q-044, Q-090 · DIV-015, DIV-030, DIV-043, DIV-072, DIV-073 (the B1 plant: he was shown what can't be taken back and still wasn't careful) · [characters/harry-potter.md](../characters/harry-potter.md) · [scenes/b6/sectumsempra.md](../scenes/b6/sectumsempra.md) · [scenes/b6/after-sectumsempra.md](../scenes/b6/after-sectumsempra.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
 
 ### DIV-035 · A small, shrinking people
 
@@ -687,7 +687,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **The mask goes back on** the next morning, colder than ever, which confuses Harry badly. The same reflex as the Potions daydream (DIV-017).
 - **Why:** it answers Q-035 with the two strongest supporting scenes in B3, and it gives her the second half of her Buckbeak motive: the guilt makes her want to act, and this makes her believe acting straight will work (DIV-003, [buckbeak-rescue](../scenes/b3/buckbeak-rescue.md)).
 - **Home:** [scenes/b3/the-quidditch-final.md](../scenes/b3/the-quidditch-final.md) (the match and the hand) · [scenes/b3/the-slap.md](../scenes/b3/the-slap.md) (the jeer)
-- **Ripples:** Q-035, Q-078 (answered), Q-081, Q-082 · DIV-003, DIV-009, DIV-017, DIV-066, DIV-068 · [threads/quidditch.md](../threads/quidditch.md) · [threads/house-unity.md](../threads/house-unity.md) · [characters/hermione-granger.md](../characters/hermione-granger.md)
+- **Ripples:** Q-035, Q-078 (answered), Q-081, Q-082 · DIV-003, DIV-009, DIV-017, DIV-066, DIV-068 · [characters/harry-potter.md](../characters/harry-potter.md) (the person over the prize) · [threads/quidditch.md](../threads/quidditch.md) · [threads/house-unity.md](../threads/house-unity.md) · [characters/hermione-granger.md](../characters/hermione-granger.md)
 
 ### DIV-070 · Dracaena's objections are aesthetic
 
@@ -714,3 +714,34 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Why:** without it the softening across B3–B5 turns her into a sweetheart who was only ever pretending, which the style guide warns against, and the B6 relapse has nothing to stand on.
 - **Home:** [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md)
 - **Ripples:** Q-084 · DIV-029, DIV-069, DIV-070 · [core/style.md](../core/style.md) · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md)
+
+### DIV-072 · Painted life: the Dessendre gift
+
+- **Status:** settled
+- **Canon:** Wizarding paintings all move and talk, and nobody distinguishes between kinds. Portraits are furniture and occasionally useful.
+- **Ours:** canon's portraits are unchanged — echoes with manners, not people. Against them stands one exception: the Dessendres, an extinct French family whose ancestral gift made paintings that were actually alive. Theirs is the only real painted life there has ever been.
+  - **Fenced by its own nature.** Ancestral and blood-bound, so there is nothing to learn; not spellcasting, so radicals don't touch it (DIV-007); extinct for about a century before B1, so there is nobody to ask. A canvas is also trivially destroyed from outside, which is why almost none of it survived. Nobody hides from a war in a painted world because the people who could make one are dead.
+  - **The story.** The son died; the mother painted her family back and went in after them; it was killing her; the father went in after *her* and lost years to it. The end came from outside and had nothing to do with any of it — the manor burned, and the line ended there. How it went for the people inside stays vague on purpose, under two constraints: no creature turning on its maker, and the fire is an ordinary accident rather than a verdict (Q-086).
+  - **Renoir is Harry's parallel, and the more dangerous one.** Aline retreated into the dream, which is Dracaena. Renoir went in for the best reason there is, to bring someone he loved out, and the painting took him anyway. Harry daydreams too, but forward (DIV-043); Renoir is the warning that forward-facing and selfless is not enough on its own. B6 and B7 put Harry in his exact position, and Harry does what he could not: he doesn't follow her under, he gets her out (DIV-049, DIV-052).
+  - **Dracaena has the true version** and takes the opposite lesson from Harry's: not a warning, a failed experiment. A technique that nearly worked, used badly. *Why not paintings?* is a question the girl who answers everything with a method has genuinely asked (DIV-011).
+  - **One object.** Clea's landscape hangs unregarded at Hogwarts: her childhood pets, painted before any of the tragedy, still waiting for a mistress who simply grew up and stopped coming. It survives only because it was out of the house when the manor burned.
+  - **No Dessendre ever appears on the page**, in any book. History and one painting, not a cast.
+- **Why:** canon asserts the Mirror's lesson and never demonstrates it. This demonstrates it at the scale the series needs — not a boy who stared too long but a family who could actually build the dream and were destroyed anyway — and gives the escapism theme a case outside Dracaena's head that Harry carries from B1. It also feeds the decline (DIV-008, DIV-035): one more thing the wizarding world used to be able to do.
+- **Home:** [setting/painted-life.md](../setting/painted-life.md)
+- **Ripples:** Q-085, Q-086, Q-087, Q-088, Q-089 · DIV-008, DIV-011, DIV-043, DIV-073 · [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md) · [core/themes.md](../core/themes.md) · [setting/magic.md](../setting/magic.md)
+
+### DIV-073 · B1: the Dessendres at the Mirror
+
+- **Status:** settled (the beat); *(draft)* where marked
+- **Canon:** Dumbledore tells Harry that men have wasted away before the Mirror, not knowing whether what it showed was real or possible. The warning is an assertion, and Harry takes it on trust.
+- **Ours:** he gives it a name. Many have wasted away in front of this Mirror and things like it — the Dessendres were nearly ruined by it.
+  - **Why he reaches for a hundred-year-old French family.** Because it is the most famous case there is, and because it is what he thinks about. He is half telling on himself, to a boy who has just seen his dead parents, and it reads differently on a reread after B7.
+  - **Hermione delivers the public version**, with relish, out of a wizarding history she read before term. She is not wrong about any of it; she is only missing the end.
+  - **The painting.** They go and find Clea's landscape in a corridor nobody uses. The creatures in it talk about their mistress in the present tense, describe a routine, and have no idea how long ago it stopped.
+  - **The offer, and the refusal.** Harry offers to come back and visit them. They refuse — *mistress will come* — because accepting him would mean admitting she won't. He can do nothing for them, and what puts them beyond help is their own hope.
+  - **What Harry takes from it.** Two things. The reason he never again wants to live in a dream, demonstrated rather than asserted. And the harder one: magic like this reaches past the person who works it, and some things can't be taken back.
+  - **The flaw.** He is shown it at eleven and still isn't careful. It comes due at Sectumsempra — an unknown spell, cast in anger, permanent damage (DIV-032). Never joined up in the text; the reader does it or doesn't.
+  - **Dracaena is not there** *(draft)*. The compulsive returning to a picture belongs to B6, not to an eleven-year-old who has not been broken yet, so she has no part in the discovery. Her side of it arrives separately (Q-085).
+- **Why:** it turns a B1 one-liner into the spine of the escapism theme, and plants B5, B6 and B7 at once.
+- **Home:** [setting/painted-life.md](../setting/painted-life.md) · the scene file when B1 is planned
+- **Ripples:** Q-085, Q-087, Q-088, Q-089 · DIV-043, DIV-072 · [books/b1/outline.md](../books/b1/outline.md) · [continuity/reveals.md](reveals.md)

@@ -78,6 +78,7 @@ Motif echoes to use at the moments that carry weight, not everywhere.
 - **Sixteen:** she turns 16 on 5 June 1996 and is Marked that summer. The Mark is the spindle.
 - **The Draught of Living Death**, the tale's curse as a potion, bookends B1 (she knows it, he doesn't) and B6 (he beats her with the Prince's notes) (DIV-011).
 - **The Mirror of Erised** shows her the Yule Ball. The memory that gave her a Patronus is now a wish she can only watch (DIV-043, [patronus](patronus.md)). Harry, for a second, sees their wedding: he can still see a future, while she retreats to the past. The Mirror breaks in the fight: the vision is gone, and whoever wants it now has to work for it in the real world. Never spelled out. In the Hospital Wing she asks Harry why he couldn't let her have her sweet dream ([after-sectumsempra](../scenes/b6/after-sectumsempra.md)).
+- **The Dessendres.** The warning both of them heard in B1 and read differently (DIV-072). Hers was the family's version, and she took it as a technique that nearly worked. The Mirror is where that catches up with her: the one thing she can't fix with a method, and she can't stop going ([painted-life](../setting/painted-life.md)).
 - **The Prince.** She tells Harry princes are supposed to save their princesses. The spell that cut her came from the Half-Blood Prince's book.
 - **Her Patronus** tracks the dream: mist until the Yule Ball, corporeal in the dream, gone in the nightmare, back when she wakes ([patronus](patronus.md)).
 - **The final duel** is love breaking the curse (DIV-006).

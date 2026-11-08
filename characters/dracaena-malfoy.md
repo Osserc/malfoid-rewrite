@@ -59,6 +59,7 @@ Open: Q-084.
 - **B4, after the Third Task.** Her first failure. She spends two days trying to brew something for Harry's night terrors and gets nowhere, and won't fall back on Dreamless Sleep because it's addictive. The answer turns out not to be a potion (DIV-061).
 - **B6.** Harry beats her at the Draught of Living Death with the Prince's notes. That isn't because the Prince is better than his own older self. The sixth-year tricks are experimental and less elegant than what she was taught, but they work, and she has no drive left to one-up Harry: her priorities are elsewhere (DIV-015). She notices how much his new tricks resemble her technique, and so does Hermione (Q-042). In the same lesson she knows the Amortentia at a glance and doesn't raise her hand ([slughorns-first-lesson](../scenes/b6/slughorns-first-lesson.md), DIV-045).
 - **Her perfume.** She brews her own pear perfume, the one Harry picked for her in B5, adding a new note to every batch and daring him to name it. She still wears it in B6 ([the-pear-perfume](../scenes/b5/the-pear-perfume.md)).
+- **Why not paintings?** The same mindset pointed at someone else's art. She has the true Dessendre story and reads it as a failed experiment rather than a warning: a technique that nearly worked, used badly. It is why the Mirror ruins her in B6 — the one thing she can't approach with a method ([painted-life](../setting/painted-life.md), DIV-072, Q-085).
 - **Mama's medicine.** She takes over brewing it in Snape's stead in B7, at Shell Cottage, a tangible sign of how far she's come. Hermione's sealing spell lets her brew a whole batch ([narcissa-malfoy](narcissa-malfoy.md), Q-041).
 
 ## Occlumency
@@ -151,4 +152,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-028, Q-030–Q-032, Q-035–Q-038, Q-041–Q-044, Q-050–Q-052, Q-067–Q-069, Q-072, Q-073, Q-075, Q-076, Q-081–Q-084
+Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-028, Q-030–Q-032, Q-035–Q-038, Q-041–Q-044, Q-050–Q-052, Q-067–Q-069, Q-072, Q-073, Q-075, Q-076, Q-081–Q-086

@@ -515,6 +515,27 @@ The B3 final gives him one clear look at what her anger is like when it isn't a 
 - **Who else is on the receiving end,** and whether Ron and Hermione ever get a version of it that Harry witnesses rather than hears about.
 - **Whether she knows.** She has never had to think about how she looks doing it, and someone telling her — Harry, eventually — is a scene with a lot in it.
 
+### Q-085 · How Dracaena's version of the Dessendres reaches the page (DIV-072)
+
+She has the true story and reads it as a failed experiment rather than a warning, which is the whole point of the asymmetry — but there is no natural scene yet that gets her saying so. It can't be B1: she isn't part of the discovery (DIV-073). Candidates: the Muggle-books thread, where she is already tutting at people who get real magic wrong (DIV-010); a Potions beat, where *why not paintings?* sits next to her other methods; or anywhere in B4–B5 once they talk properly. It needs to land before B6, or her Mirror habit loses its backing.
+
+### Q-086 · What actually happened at the end of the Dessendres (DIV-072)
+
+Vague by choice. The outward facts are fixed: Aline went in, Renoir went in after her, the manor burned from an ordinary cause and took everything but Clea's landscape with it. What is left open is how it went for the people inside — the last years, who understood what, whether the fire found a family already finished. The constraints are negative: no creature turning on its maker, and the fire is never a verdict or anyone's choice. Open only in the sense that we have to keep choosing not to answer it.
+
+### Q-087 · Where Clea's landscape hangs, and the shape of the B1 discovery (DIV-072, DIV-073)
+
+A corridor nobody uses, and nobody in the castle knows what it is. Still to pin down: which corridor, how Harry and Hermione come to be there, and whether finding it is deliberate (they go looking after Hermione's telling) or accidental. Also whether the Mirror chapter carries the lot or the painting is a separate visit — the second is likely better, since the Mirror chapter is already full.
+
+### Q-089 · The B5 payoff at the veil (DIV-072)
+
+B5 is where this plant should pay: Harry wanting Sirius back is the same want that ruined the Dessendres, and he is the one person at the Ministry who has seen where it goes. Open: whether it surfaces as thought, as something he says, or only as the reason he doesn't do what canon's grief would have him do. Related: the B7 Resurrection Stone, where he lets them go, and the demotion of the Hallows (Q-011).
+
+### Q-091 · The corridor and the house-elves (DIV-072)
+
+Clea's pets are beings made by wizards, kept alive by the magic that made them, refusing the rescue a human offers them — the house-elf problem in miniature, landing in B1, before Hermione has met an elf. Does Hermione's reaction in that corridor connect forward to SPEW, and does the resonance strengthen the elf direction or muddy it? Belongs to the elf session ([problems/house-elves](../problems/house-elves.md), Q-016, Q-048).
+
+
 ## Answered
 
 ### Q-078 · The B3 final under the new rules (DIV-066, DIV-069)
@@ -562,6 +583,14 @@ Canon ages stay, so the sketch's young Snape advising Lucius is out. After schoo
 ### Q-005 · What makes Dracaena regret Buckbeak? (DIV-003)
 
 She realises her play-acting with the injury gave Lucius the fuel to have Buckbeak executed: a lesson in consequences (DIV-017). Lucius wants the beast dead because no one crosses House Malfoy. She finds punishing a creature for her own mistake petty and beneath a Malfoy, and can't stand the thought of Potter beating her at standing by his principles. → [scenes/b3/buckbeak-rescue.md](../scenes/b3/buckbeak-rescue.md)
+
+### Q-090 · Where Harry's irreversibility flaw is tracked (DIV-072, DIV-073, DIV-032)
+
+In his own character file, opened for it. It sits with the trait it belongs to: his instinct is one thing with two faces, and it wins him the B3 final and maims her in B6. → [characters/harry-potter.md](../characters/harry-potter.md)
+
+### Q-088 · Does Harry register that walking away is itself a cruelty? (DIV-072)
+
+He feels for them and offers the only thing he has — he'll come back and visit. They refuse: *mistress will come*. He can do nothing, and what puts them beyond help is their own hope, not the limits of what he can do. What he takes from it is a lesson in responsibility: magic like this reaches past the person who works it, and some things can't be taken back. He is shown it at eleven and still isn't careful, which is the flaw that comes due at Sectumsempra. → DIV-072, DIV-073, [setting/painted-life.md](../setting/painted-life.md), Q-090
 
 ### Q-006 · How does she know to bring Buckbeak to Sirius? (DIV-003)
 
