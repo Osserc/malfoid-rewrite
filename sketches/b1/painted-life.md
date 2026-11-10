@@ -21,7 +21,7 @@ Hermione did not notice at all how strained it looked as she continued, "I found
 
 "Oh, yeah, that..."
 
-He didn't have the heart to tell her the only reason he did that was to get her off his back for a while: ever since she came back from the Christmas break and he made the mistake of telling her about the Mirror of Erised and his nightmares she stuck to him liek glue, determined to make sure he was alright. She had always been a bit overprotective of him, going as far as letting him copy her own homework, but this was new, and decidedly unpleasant. It made him feel weak, as if he would have just fainted without her constant hovering around him.
+He didn't have the heart to tell her the only reason he did that was to get her off his back for a while: ever since she came back from the Christmas break and he made the mistake of telling her about the Mirror of Erised and his nightmares she stuck to him liek glue, determined to make sure he was alright. She had always been a bit overprotective of him, going as far as insisting she did his homework with her as a tutor to spot any errors before turning it in, but this was new, and decidedly unpleasant. It made him feel weak, as if he would have just fainted without her constant hovering around him.
 
 "The books say they are an ancient family who could create Painted Life!"
 
@@ -33,9 +33,9 @@ Harry saw Hermione's smile getting larger and larger as his mind started slowly 
 
 "Then... that means... they could... paint my parents back?"
 
-The girl's eyes sparkled as she struggled to contain her excitement, "I found out there's a Dessendre Painting here, at Hogwarts! Why don't we go ask them? I'm sure we'll find something out!"
+The girl's eyes sparkled as she struggled to contain her excitement, "I found out there's a Dessendre Painting here, at Hogwarts! Why don't we go ask its people? I'm sure we'll find something out!"
 
-She grabbed Harry's arm with both hands and started dragging him towards the door, before halting and turning around to scan the Common Room, looking for Ron. She found him on a corner, playing Wizard Chess with Neville, and called out to him.
+She grabbed Harry's arm with both hands and started dragging him towards the door, before halting and turning around to scan the Common Room, looking for Ron. She found him in a corner, playing Wizard Chess with Neville, and called out to him.
 
 "Ron! Wanna come with us?"
 
@@ -45,7 +45,7 @@ The red headed boy was so looking so intently at the board that he barely mutter
 
 "I think I'll pass on that, you guys have fun."
 
-Hermione made a face at him, annoyed at his dismissal, but soon regained her pep as she linked arms with Harry and marched both of them off the room.
+Hermione made a face at him, annoyed at his dismissal, but soon regained her pep as she linked arms with Harry and marched both of them out of the room.
 
 ______________________________________
 
@@ -63,19 +63,19 @@ Malfoy's eyes narrowed as she heard the name, and descended towards them.
 
 "And why, pray tell, are you interested in the Dessendre's magic?"
 
-"Well, becaus Du-", and small *ouch* escape Hermione's lips as Harry lightly stomped her foot to prevent from spilling their secret, "B-because we wanted to see the Painted People, they seem very interesting."
+"Well, becaus Du-", and small *ouch* escape Hermione's lips as Harry stomped her foot to prevent from spilling their secret, "B-because we wanted to see the Painted People, they seem very interesting."
 
 "And what would you know about that?"
 
-Hermione forgot for an instant who she was talking to, and started rattling out all she learned while reading about the Dessendres.
+Hermione forgot for an instant who she was talking to, and started rattling out all she learned while reading about the French wizard-artists.
 
-"The Dessendre's are an ancient line of wizards from France. Their ancestral magic made them able to craft entire worlds out of paint and populate it with beings that could act on their own, just like normal human beings. They produced countless Painted Worlds that unfortunately got destroyed when a fire ravaged their manor. Hogwarts has the only known Dessendre work left. The entire family perished in the accident, and so their magic was lost. Which is a real pity, I would have loved to talk with them..."
+"The Dessendre's are an ancient line of wizards from France. Their ancestral magic made them able to craft entire worlds out of paint and populate it with beings that could act on their own, just like normal human beings. They produced countless Painted Worlds that unfortunately were lost when a fire ravaged their manor. Hogwarts has the only known Dessendre work left. The entire family perished in the accident, and so their magic was lost. Which is a real pity, I would have loved to talk with them, they sound so interesting..."
 
 It was the wrong thing to say. Malfoy clutched her robes with barely contained fury, and was visibly struggling to avoid screaming at Hermione. After a few instants she seemed to calm down, enough to turn towards Harry and address him with her usual mocking tone, her mouth curved in an evil smile.
 
 "'Interesting', she says. See Potter, this is why I told you to choose your friends more carefully. These *mudbloods* have no respect for our traditions and our accomplishments, for them they are nothing but curios, to be poked and prodded for their entertainment, and then forgotten."
 
-Hermione went still at the word mudblood, but Harry's attention was too focused on the implications of Dracaena's words to fully process it.
+Hermione went still at the word mudblood, and Harry felt her nails dig into his flesh. He gave her a quick, worried look before turning his attention back to Dracaena, annoyed at her usual arrogance.
 
 "And are you gonna tell us about them, or are you just here to heckle us?"
 
@@ -85,9 +85,9 @@ She beckoned him forward as she passed him, inviting both of them to follow her.
 
 ______________________________________
 
-"First of all, Painted Life is anathema to regular paintings, they despise it. Which is why we're asking a different entity for directions."
+"First of all, Painted Life is anathema to regular paintings, they despise it. I believe it reminds them of their... condition. Which is why we're asking a different entity for directions."
 
-Dracaena gave Hermione a demeaning look, as if it were the simplest thing in the world, as she looked around.
+Dracaena gave Hermione a demeaning look, as if it were the simplest thing in the world and she couldn't even figure that out, as she looked around.
 
 Hermione was still clutching Harry as she retorted "The book did not mention anything like that."
 
@@ -129,7 +129,7 @@ Harry had to admit that he was not particularly impressed by the Painting, not t
 
 She was staring at the odd looking stone figure sitting among mountains, seemingly sleeping like the rest of the Canvas's denizens. He looked like a clay figure of a man, with long, spindly arm and legs, but with a huge misshapen pot for a torso, and no head.
 
-"Look Harry, if you look at him from above he has rocks in his chest! And look at the mountains, they look like they were crushed! Do you think he did it?", then her pitch rose as she pointed at it, "Wait, is he... grinding the rocks in there?!"
+"Look Harry, if you look at him from above he has rocks in his chest! And the mountains, they look like they were crushed! Do you think he did it?", then her pitch rose as she pointed at it, "Wait, is he... grinding the rocks in there?!"
 
 He was sufficiently big for any onlooker to gaze into his cavity, and you could see the huge boulders churn in their container. Now that he took a better look at it, it looked kind of like a huge concrete mixer on legs.
 
@@ -141,7 +141,7 @@ Still not seeing what was so interesting about it, Harry turned to Dracaena, ask
 
 Hermione could not help but snigger as she inspected the crumbling castle in the Canvas.
 
-Dracaena regarded him with a smug smile before answering, "A poor attempt, but I shall humor you. Granger was at least a bit right, the Dessendre could indeed create Painted World. What her books won't tell her, however, is what exactly happened to them."
+Dracaena regarded him with a smug smile before answering, "A poor attempt at flattery, but I shall humor you. Granger was at least a bit right, the Dessendre could indeed create Painted Worlds. What her books won't tell her, however, is what exactly happened to them."
 
 "So they didn't die in a fire?", asked Hermione.
 
@@ -153,23 +153,29 @@ She looked at Harry, who was now a bit more intrigued by the story, before conti
 
 "That is certainly possible, but no signs of a magical blaze was found at the time. The reason why they did not put out the flames was because they were *inside* the Painting, and they had been for years."
 
-Dracaena's voice darkened, and sighed heavily as she resumed her tale "It all started with the death of Verso, the son, and the disfigurement of her daughter Alicia, at the hands of a rival group. Aline, mad with grief, Painted her own little, happy world in a Canvas, and abandoned her remaining family. Renoir, her husband, joined her in an attempt to drag her out. He never got the chance to save her, as the fire destroyed the Canvas, with them inside."
+Dracaena's voice darkened, and sighed heavily as she resumed her tale "It all started with the death of Verso, the son. Aline, mad with grief, Painted her own little, happy world in a Canvas, and abandoned her remaining family. Renoir, her husband, joined her in an attempt to drag her out. He never got the chance to save her, as the fire destroyed the Canvas, with them inside, Alicia included," then, as Hermione regarded her quizzically at the sudden mention of the name, she added, "The youngest daughter. Did not have much passion for painting, but it seems like she joined her father's endeavor."
 
 Harry went pale, feeling a knot in his stomach. He remembered Dumbledore's warning: a magic similar to the Mirror had nearly destroyed the Dessendre. Was this what he would have become, had he kept looking for the mirror? Would he have forgotten to live, lost as he was in an imaginary world?
 
 "Her family. Verso. In the Canvas, was he... I mean, could he-", his voice was hoarse, and Hermione put a hand on his shoulder to comfort him.
 
-Dracaena's voice was strangely soft as she saw his sad eyes, "Yes and no, Potter. Aline was an exceptional witch, and she had a piece of Verso's soul to work with in the Canvas, so his Painted self was very much like him. This, the stories agree on. He was still, however, not the same person. He was a copy, an imitation, given memories not of his own and forced to live as the living ghost of man. Which was Renoir's argument at the time. He thought it unfair for Painted Verso. As well as unhealthy for Aline. Not even them could stay long in a Canvas."
+Dracaena's voice was strangely soft as she saw his sad eyes, "Yes and no, Potter. Aline was an exceptional witch, so his Painted self was very much like him. This, the stories agree on. He was still, however, not the same person. He was a copy, an imitation, given memories not of his own and forced to live as the living ghost of man. Which was Renoir's argument at the time. He thought it unfair for Painted Verso. As well as unhealthy for Aline. Not even them could stay long in a Canvas."
 
-A heavy silence fell between, as Harry thought about Aline's decision. Would he have done the same, in her place? If simply seeing the family that was taken from him made him stare into the Mirror for hours in the dead of night, would he have lived in a Painted World? With Painted parents? Forever? Hermione hugged him softly, eliciting a snort from Dracaena.
+"I think he was right. Renoir, I mean. Running away into the Canvas was not going to end up well for Aline," Hermione said.
 
-Trying to break the awkwardness, Dracaena added, in a low voice, "The only survivor of the Dessendre was Clea, who was away at the time, and whose Canvas you are admiring at the moment."
+Dracaena sounded a bit skeptical as she addressed her, "Really? I reckon she got what she wanted. She merely had to pay more attention."
+
+A heavy silence fell between, as Harry thought about Aline's decision and the girls' remarks. Would he have done the same, in her place? If simply seeing the family that was taken from him made him stare into the Mirror for hours in the dead of night, would he have lived in a Painted World? With Painted parents? Forever? And what about Dracaena's words? Was it really possible, to indulge in dreams responsibly?
+
+He thought back to how deeply the Mirror affected, and the more he recalled the holdit had on him, the more he agreed with Hermione. Sensing him tense up, the girl hugged him softly, eliciting a snort from Dracaena.
+
+Trying to break the awkwardness, Malfoy added, in a low voice, "The only survivor of the Dessendre was Clea, who was away at the time, and whose Canvas you are admiring at the moment."
 
 At the mention of Clea, the seemingly sleepy clay man stirred. A voice came from his chest, and it was akin to a rumbling of rocks falling from a peak.
 
 "Is... Mistress... here?"
 
-The three wizards startled, turning towards the Canvas. Hermione was the first to regain her senses and address the creature.
+The three wizards startled, turning towards the source of the voice. Hermione was the first to regain her senses and address the creature.
 
 "Hmm, excuse me sir, who is this 'mistress' you speak of? Is it Clea?"
 
@@ -185,15 +191,15 @@ As he turned to look at the floating building, Harry thought that the creature l
 
 "But I am not good at it. Not like Mistress was. And so I wait."
 
-"Since when is Clea...?", asked Hermione to Dracaena.
+"Since when has Clea...?", asked Hermione to Dracaena.
 
 The Slytherin girl shook her head, "The Dessendres perished over a hundred years ago. Clea died a couple of decades after, leaving no children."
 
-"So he's been all alone the whole time?"
+"So he's been waiting hopelessly the whole time?"
 
 Dracaena could do nothing but nod at Hermione's question. Suddenly, Harry felt angry. Angry at Clea, for leaving the clay man alone. And angry at himself, for even thinking about his Painted family.
 
-What would happen when he left them behind, growing up? Would they have remained forever trapped in their Canvas, mourning a son who was not theirs? And what if he died in there, without ever leaving himself?
+What would happen when he left them behind, growing up? Would they have remained forever trapped in their Canvas, mourning the departure son who was not theirs? And what if he died in there, without ever leaving the Painting?
 
 But most of all, he felt sad for the creature. He did nothing to deserve this. Much like him.
 
@@ -207,6 +213,8 @@ The rumble came yet again, carrying the creature's answer, "Mistress never gave 
 
 *That's it.*
 
+He had to do something, anything, for this rejected creation, waiting for a person who not only was never going to arrive, but that cast him away.
+
 "I could come here. I mean, I can't come into the Canvas. But... I could keep you company. You don't deserve to live like this. Nobody... nobody does."
 
 "No. Mistress will be back," said the creature, settling back down to gaze, in its own weird way, at the flying manor.
@@ -215,7 +223,7 @@ The rumble came yet again, carrying the creature's answer, "Mistress never gave 
 
 "Don't, Potter. There is nothing you can do for him."
 
-Harry snapped towards her, but his anger instantly subsided when he saw Dracaena's eyes. They looked... sad, and a bit lucid.
+Harry snapped towards her, but his anger instantly subsided when he saw Dracaena's eyes. They looked... sad, and a bit wet.
 
 *Is she...?*
 
@@ -223,4 +231,10 @@ But the moment passed. She sniffed and turned around, her usual sneering tone co
 
 "Consider the lesson over, Potter, Granger."
 
-As she walked away, Harry noticed her steps were a bit unsteady.
+As she walked away, Harry noticed she brought her hand to her face, as if to wipe away some tears.
+
+Harry gave one last look at the clay man, and sighed, before letting Hermione guide him back to the Gryffindor common room.
+
+He heard none of the kind words she had for him, about how noble it was he wanted to help but the creature really wasn't going to allow him to.
+
+But he was grateful for her presence.
