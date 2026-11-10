@@ -75,7 +75,7 @@ Angrier and more willing to hurt people than the original, with his Horcrux play
 
 He dreams as much as she does. The difference is direction, and it is the whole of why he survives the Mirror and she doesn't: he pictures a future with her, unprompted, in her room in B4, and the Mirror shows him their wedding in B6 while it shows her a dance that already happened. She retreats; he projects.
 
-The warning aimed at him is not Aline's but Renoir's — the man who went into the painting for the best reason there is and lost years anyway (DIV-072). Being forward-facing is not protection on its own. What saves him is that in B6 and B7 he refuses to go under with her and gets her out instead (DIV-049, DIV-052).
+The warning aimed at him is not Aline's but Renoir's — the man who went into the painting for the best reason there is and lost years anyway (DIV-072). Being forward-facing is not protection on its own. He is told that story at eleven, by her, in the corridor (DIV-073), which makes B6 a choice rather than an escape he stumbles into: he knows exactly what he is standing in. What saves him is that he refuses to go under with her and gets her out instead (DIV-049, DIV-052).
 
 ## Magic
 
@@ -108,7 +108,7 @@ Events are in [threads/harry-dracaena.md](../threads/harry-dracaena.md). This is
 
 | Book | Where he is |
 |---|---|
-| B1 | Awestruck, then stung, and sure the princess is cruel (DIV-009). Shown at the Mirror what wanting the dead back costs, and in a corridor what magic leaves behind (DIV-072, DIV-073) |
+| B1 | Awestruck, then stung, and sure the princess is cruel (DIV-009). Shown at the Mirror what wanting the dead back costs, and in a corridor what magic leaves behind — where he half wants her to be right about dreaming in measured doses, and a thing with no name settles it for him (DIV-072, DIV-073) |
 | B2 | The Duelling Club turns a feud into a game he enjoys and won't examine (DIV-028) |
 | B3 | Affection at the final, revelation at the lake (DIV-069, DIV-018). He re-evaluates her and can't make the mask fit |
 | B4 | In love before he knows it (DIV-037); learns it properly over the year. First time he pictures a future |

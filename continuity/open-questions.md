@@ -517,15 +517,17 @@ The B3 final gives him one clear look at what her anger is like when it isn't a 
 
 ### Q-085 · How Dracaena's version of the Dessendres reaches the page (DIV-072)
 
-She has the true story and reads it as a failed experiment rather than a warning, which is the whole point of the asymmetry — but there is no natural scene yet that gets her saying so. It can't be B1: she isn't part of the discovery (DIV-073). Candidates: the Muggle-books thread, where she is already tutting at people who get real magic wrong (DIV-010); a Potions beat, where *why not paintings?* sits next to her other methods; or anywhere in B4–B5 once they talk properly. It needs to land before B6, or her Mirror habit loses its backing.
+*Partly answered:* she says it in B1, in the corridor — Aline got what she was after and merely had to ration her time better (DIV-073). Cold, casual, about strangers, with nothing yet in her own life to escape from.
+
+Still open: **one line in B1 is a long carry to B6.** It wants a second sighting between B4 and B5, once they talk properly — the same judgement passed on something else entirely, so it reads as how she thinks rather than as a thing she once said. Candidates: the Muggle-books thread, where she already tuts at people who get real magic wrong (DIV-010); a Potions beat, where *why not paintings?* sits beside her other methods; or the Clea half of the story, which B1 doesn't tell — her verdict on Clea is her verdict on acting from outside to pull someone out of a dream, which is Harry's method, and either answer she gives is a scene.
 
 ### Q-086 · What actually happened at the end of the Dessendres (DIV-072)
 
 Vague by choice. The outward facts are fixed: Aline went in, Renoir went in after her, the manor burned from an ordinary cause and took everything but Clea's landscape with it. What is left open is how it went for the people inside — the last years, who understood what, whether the fire found a family already finished. The constraints are negative: no creature turning on its maker, and the fire is never a verdict or anyone's choice. Open only in the sense that we have to keep choosing not to answer it.
 
-### Q-087 · Where Clea's landscape hangs, and the shape of the B1 discovery (DIV-072, DIV-073)
+### Q-092 · Who tells Harry what Mudblood means, and when (DIV-074)
 
-A corridor nobody uses, and nobody in the castle knows what it is. Still to pin down: which corridor, how Harry and Hermione come to be there, and whether finding it is deliberate (they go looking after Hermione's telling) or accidental. Also whether the Mirror chapter carries the lot or the painting is a separate visit — the second is likely better, since the Mirror chapter is already full.
+The slur lands in B1 and passes in front of him because he hasn't got the word yet. He finds out afterwards and turns on her for it — which from her side is Potter rounding on her the day after the one afternoon she thought went well, for calling a spade a spade. Open: who tells him (Ron is canon's teacher for the word and conveniently wasn't in the corridor, which would make his opting out load-bearing and give Harry a borrowed, second-hand anger); how much later; whether it is its own scene or folded into an existing one; and whether Hermione is in the room for it, given that she deliberately said nothing.
 
 ### Q-089 · The B5 payoff at the veil (DIV-072)
 
@@ -537,6 +539,10 @@ Clea's pets are beings made by wizards, kept alive by the magic that made them, 
 
 
 ## Answered
+
+### Q-087 · Where Clea's landscape hangs, and the shape of the B1 discovery (DIV-072, DIV-073)
+
+*Answered:* the fifth-floor corridor leading to the prefects' bathroom — not hidden, not displayed, walked past daily by prefects who have never looked. The discovery is deliberate and guided: Hermione's research turns up the name, an hour of asking portraits fails because they despise painted life and won't say so, and Dracaena charms the location out of Sir Nicholas. It is its own chapter, not part of the Mirror chapter, which is already full. → DIV-073, [scenes/b1/painted-life.md](../scenes/b1/painted-life.md)
 
 ### Q-078 · The B3 final under the new rules (DIV-066, DIV-069)
 
@@ -590,7 +596,9 @@ In his own character file, opened for it. It sits with the trait it belongs to: 
 
 ### Q-088 · Does Harry register that walking away is itself a cruelty? (DIV-072)
 
-He feels for them and offers the only thing he has — he'll come back and visit. They refuse: *mistress will come*. He can do nothing, and what puts them beyond help is their own hope, not the limits of what he can do. What he takes from it is a lesson in responsibility: magic like this reaches past the person who works it, and some things can't be taken back. He is shown it at eleven and still isn't careful, which is the flaw that comes due at Sectumsempra. → DIV-072, DIV-073, [setting/painted-life.md](../setting/painted-life.md), Q-090
+He feels for them and offers the only thing he has — he'll come back and visit. They refuse: *mistress will come*. He can do nothing, and what puts them beyond help is their own hope, not the limits of what he can do. What he takes from it is a lesson in responsibility: magic like this reaches past the person who works it, and some things can't be taken back. He is shown it at eleven and still isn't careful, which is the flaw that comes due at Sectumsempra.
+
+*Sharpened:* he registers it about **Clea**, not about himself. He is furious at her for abandoning the creature, and then walks out of the corridor and does the same thing, and nobody points it out. → DIV-072, DIV-073, [setting/painted-life.md](../setting/painted-life.md), Q-090
 
 ### Q-006 · How does she know to bring Buckbeak to Sirius? (DIV-003)
 
