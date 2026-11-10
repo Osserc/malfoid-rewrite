@@ -21,7 +21,7 @@ Hermione did not notice at all how strained it looked as she continued, "I found
 
 "Oh, yeah, that..."
 
-He didn't have the heart to tell her the only reason he did that was to get her off his back for a while: ever since she came back from the Christmas break and he made the mistake of telling her about the Mirror of Erised and his nightmares she stuck to him liek glue, determined to make sure he was alright. She had always been a bit overprotective of him, going as far as insisting she did his homework with her as a tutor to spot any errors before turning it in, but this was new, and decidedly unpleasant. It made him feel weak, as if he would have just fainted without her constant hovering around him.
+He didn't have the heart to tell her the only reason he did that was to get her off his back for a while: ever since she came back from the Christmas break and he made the mistake of telling her about the Mirror of Erised and his nightmares she stuck to him liek glue, determined to make sure he was alright. She had always been a bit overprotective of him, going as far as insisting she did his homework with her as a tutor to spot any errors before handing it in, but this was new, and decidedly unpleasant. It made him feel weak, as if he would have just fainted without her constant hovering around him.
 
 "The books say they are an ancient family who could create Painted Life!"
 
@@ -153,21 +153,23 @@ She looked at Harry, who was now a bit more intrigued by the story, before conti
 
 "That is certainly possible, but no signs of a magical blaze was found at the time. The reason why they did not put out the flames was because they were *inside* the Painting, and they had been for years."
 
-Dracaena's voice darkened, and sighed heavily as she resumed her tale "It all started with the death of Verso, the son. Aline, mad with grief, Painted her own little, happy world in a Canvas, and abandoned her remaining family. Renoir, her husband, joined her in an attempt to drag her out. He never got the chance to save her, as the fire destroyed the Canvas, with them inside, Alicia included," then, as Hermione regarded her quizzically at the sudden mention of the name, she added, "The youngest daughter. Did not have much passion for painting, but it seems like she joined her father's endeavor."
+Dracaena's voice darkened, and sighed heavily as she resumed her tale "It all started with the death of Verso, the son. Aline, mad with grief, Painted her own little, happy world in a Canvas, and abandoned her remaining family. Renoir, her husband, joined her in an attempt to drag her out. He never got the chance to save her, as the fire destroyed the Canvas, with them inside, Alicia included," then, as Hermione regarded her quizzically at the sudden mention of the name, she added, "The youngest daughter. Did not have much passion for painting, but it seems she joined her father's endeavor."
 
 Harry went pale, feeling a knot in his stomach. He remembered Dumbledore's warning: a magic similar to the Mirror had nearly destroyed the Dessendre. Was this what he would have become, had he kept looking for the mirror? Would he have forgotten to live, lost as he was in an imaginary world?
 
 "Her family. Verso. In the Canvas, was he... I mean, could he-", his voice was hoarse, and Hermione put a hand on his shoulder to comfort him.
 
-Dracaena's voice was strangely soft as she saw his sad eyes, "Yes and no, Potter. Aline was an exceptional witch, so his Painted self was very much like him. This, the stories agree on. He was still, however, not the same person. He was a copy, an imitation, given memories not of his own and forced to live as the living ghost of man. Which was Renoir's argument at the time. He thought it unfair for Painted Verso. As well as unhealthy for Aline. Not even them could stay long in a Canvas."
+Dracaena's voice was strangely soft as she saw his sad eyes, "Yes and no, Potter. Aline was an exceptional witch, so his Painted self was very much like him. This, the stories agree on. He was still, however, not the same person. He was a copy, an imitation, given memories not of his own and forced to live as the living ghost of man. Which was Renoir's argument at the time. He thought it unfair for Painted Verso. As well as unhealthy for Aline. Not even them could stay long in a Canvas, I am told it affected their body quite badly, in the long run."
 
 "I think he was right. Renoir, I mean. Running away into the Canvas was not going to end up well for Aline," Hermione said.
 
-Dracaena sounded a bit skeptical as she addressed her, "Really? I reckon she got what she wanted. She merely had to pay more attention."
+Dracaena sounded a bit skeptical as she addressed her, "Really? I should think she got what she was after. She merely had to ration her time better."
 
 A heavy silence fell between, as Harry thought about Aline's decision and the girls' remarks. Would he have done the same, in her place? If simply seeing the family that was taken from him made him stare into the Mirror for hours in the dead of night, would he have lived in a Painted World? With Painted parents? Forever? And what about Dracaena's words? Was it really possible, to indulge in dreams responsibly?
 
-He thought back to how deeply the Mirror affected, and the more he recalled the holdit had on him, the more he agreed with Hermione. Sensing him tense up, the girl hugged him softly, eliciting a snort from Dracaena.
+He thought back to how deeply the Mirror affected, and the more he recalled the hold it had on him, the more he agreed with Hermione. And yet... maybe Dracaena had a point. Maybe it was fine to just let oneself dream. And his parent's smiles were so warm, in the Mirror...
+
+Sensing him tense up, the girl hugged him softly, eliciting a snort from Dracaena.
 
 Trying to break the awkwardness, Malfoy added, in a low voice, "The only survivor of the Dessendre was Clea, who was away at the time, and whose Canvas you are admiring at the moment."
 
@@ -195,11 +197,11 @@ As he turned to look at the floating building, Harry thought that the creature l
 
 The Slytherin girl shook her head, "The Dessendres perished over a hundred years ago. Clea died a couple of decades after, leaving no children."
 
-"So he's been waiting hopelessly the whole time?"
+"So he's been waiting all alone the whole time?"
 
 Dracaena could do nothing but nod at Hermione's question. Suddenly, Harry felt angry. Angry at Clea, for leaving the clay man alone. And angry at himself, for even thinking about his Painted family.
 
-What would happen when he left them behind, growing up? Would they have remained forever trapped in their Canvas, mourning the departure son who was not theirs? And what if he died in there, without ever leaving the Painting?
+What would happen when he left them behind, growing up? Would they have remained forever trapped in their Canvas, mourning the departed son who was not theirs? And what if he died in there, without ever leaving the Painting?
 
 But most of all, he felt sad for the creature. He did nothing to deserve this. Much like him.
 
@@ -223,7 +225,7 @@ He had to do something, anything, for this rejected creation, waiting for a pers
 
 "Don't, Potter. There is nothing you can do for him."
 
-Harry snapped towards her, but his anger instantly subsided when he saw Dracaena's eyes. They looked... sad, and a bit wet.
+Harry snapped towards her, but his anger instantly subsided when he saw Dracaena's eyes. They looked... sad, and a bit glassy.
 
 *Is she...?*
 
@@ -231,7 +233,7 @@ But the moment passed. She sniffed and turned around, her usual sneering tone co
 
 "Consider the lesson over, Potter, Granger."
 
-As she walked away, Harry noticed she brought her hand to her face, as if to wipe away some tears.
+As she walked away, Harry noticed her steps were a bit unsteady.
 
 Harry gave one last look at the clay man, and sighed, before letting Hermione guide him back to the Gryffindor common room.
 
