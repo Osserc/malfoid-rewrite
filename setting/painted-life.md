@@ -10,6 +10,7 @@ Canon's portraits are unchanged. What this file adds is the one exception to the
 
 - **Portraits.** Canon's, everywhere, unremarkable. An echo with manners: a likeness that moves, talks, keeps its subject's opinions and repeats them. It can hold a conversation and it is not a person. Nobody in the wizarding world thinks otherwise, and nobody finds this sad.
 - **Painted life.** The Dessendre gift. Paint a world, and the things inside it are alive — they want things, they remember, they can be wronged.
+- **The portraits know the difference** *(draft)*. They despise painted life and will not discuss it. A portrait that admits painted life exists is admitting what it is, so the subject is unbearable to them, and the one surviving canvas in the castle has gone unmentioned for a century because the paintings who pass it every day refuse to name it. Nobody has ever had to tell a portrait what it is; they know.
 
 Keeping both is the point. Harry gets Dumbledore's warning about dwelling on dreams in a castle papered with comforting almost-people, and the Dessendres are the full-strength version of the same lie. The portraits stop being furniture and become the theme's background.
 
@@ -22,6 +23,15 @@ Keeping both is the point. Harry gets Dumbledore's warning about dwelling on dre
 
 That is the whole fence, and it costs nothing, because it is the same shape as the lesson. The reason nobody hides from Voldemort in a painted world is not a rule anyone states. It is that the people who could make one are dead.
 
+## Being inside *(settled)*
+
+What it costs a living person to be in a painted world, and the three rules that follow from it.
+
+- **It wastes the body.** Living inside wears a person down by degrees. Slow enough that years are needed, certain enough that nobody survives a long stay. It is the cost Aline accepted and Renoir took on knowingly.
+- **The painted are not affected.** They are of the place; it is the living who don't belong. Clea's creatures have been in that corridor for a century without ageing.
+- **You can leave whenever you like.** This is the important one. A canvas is not a trap and there is no door to force. Aline stayed because she wanted to and Renoir stayed because she wouldn't come, and the painting had nothing to do with either decision. **The Dessendres are a story about choosing, not about being caught** — which is the same story as the main one, and why B6 works: Dracaena can walk out of the nightmare at any point and won't, and Harry can go under with her and doesn't.
+- **Unless you aren't skilled enough.** Getting out again is the painter's craft, and someone who hasn't got it can go in and be unable to come back. It is why Alicia never came out. This never surfaces in the text, and it is the quiet reason nobody treats a canvas as a bolt-hole even in theory.
+
 ## Frailty *(settled)*
 
 From the inside, a painted world is as real as ours. It has its own fire, which does what fire does there and no more. Nothing the painted people do threatens the canvas, and they could no more burn their way out of their universe than we could burn our way out of ours.
@@ -30,11 +40,21 @@ The vulnerability is entirely external. The canvas is an object in a room — pa
 
 ## The Dessendres *(settled)*
 
-A French wizarding family, roughly a century before B1. The names, for our use: **Aline** the mother, **Renoir** the father, **Verso** the son, **Clea** and **Maelle** the daughters.
+A French wizarding family, roughly a century before B1. The names, for our use: **Aline** the mother, **Renoir** the father, **Verso** the son, **Clea** the elder daughter and **Alicia** the younger.
 
-The son died. The mother painted her family back and went in after them, and living inside a painting kills you by degrees. Renoir went in after *her* — not to dream, but to bring her out — and lost years to it.
+**Verso died.** How is never stated and never asked, by us or by anyone in the story. Under the memory model below that is not an omission but the shape of the thing: nobody remembers how the boy died. They remember what his mother did about it.
+
+The mother painted her family back and went in after them. Renoir went in after *her* — not to dream, but to bring her out — and lost years to it.
+
+**Alicia went in too** *(settled)*. The younger daughter, no great painter, who followed her father in to help and could not get herself out again. She enters the story as a casualty clause and nobody tells stories about her, which is the point: the family's own account barely has room for her. She is the second body behind the Renoir warning — a child who went in for the best reason there is and died in there.
+
+**Clea stayed out** *(settled)*. The only one who never went in. She acted from outside instead, to force the issue and end her mother's dream, and when it didn't work she left them to it. What exactly she withheld or did is deliberately not specified and never will be; the recordable facts are that she chose, that she left, and that she was elsewhere when the manor burned.
 
 The end came from outside and had nothing to do with any of it. The manor caught fire. Nothing survived and the line ended there, and the only Dessendre painting left in the world is Clea's landscape, because it happened to be hanging in a school in Scotland.
+
+**Clea's regret** *(settled)*. She lived about two decades more, left no children, and died early for no stated reason. The fire took the question out of her hands before her choice could be proved right or wrong, so she never found out what it was worth — she only believed it was wrong, and had twenty years to believe it in. Keep the cause of death vague: regret is what a family story supplies in place of a cause, which is exactly what this is.
+
+**What Clea is for.** She is the only person in the whole backstory who takes Harry's approach — stay outside, act from outside, refuse to go under with them — and the story's verdict on her is that it failed, she regretted it, she died early, and she left a living thing in a corridor for a hundred years. That complicates Harry's eventual success instead of cheapening it. Whether the series ever lets a reader see it is open; nothing in B1 does, because on the page she is only "away at the time".
 
 Deliberately kept small. No Dessendre ever appears on the page, in any book. This is history and one object, not a cast.
 
@@ -48,13 +68,17 @@ Harry is the one with the strength to stay in the real world. He daydreams too, 
 
 What it sets up is the end of the romance. B6 and B7 put Harry in Renoir's exact position — the girl he loves is somewhere he cannot follow without going under with her — and he does the thing Renoir could not. He doesn't join her in the nightmare. He gets her out (DIV-049, DIV-052).
 
-**The split** *(draft)*. Hermione's version is about the woman who wouldn't come out. Renoir is the part the histories skip and the old families kept, so Dracaena has him and Harry doesn't. Harry gets the Aline lesson in B1 and has to arrive at the Renoir one himself — or get it from her. If that holds, Q-085 has to land before B6.
+**Both halves land in B1** *(settled)*. An earlier draft kept Renoir back — Harry would get Aline from Hermione and have to reach Renoir himself. Dracaena being in the corridor overtakes it: she tells the whole thing, Renoir's argument included, and she is the one who says a painted person is a copy given memories not his own. Harry hears the warning aimed at him at eleven, from her.
+
+That is better than withholding it. Knowing the warning and heeding it are different things, and B6 is stronger if Harry walks into Renoir's exact position having been told the story — so that not following her under is a choice rather than an escape he stumbles into. It also means the person who hands him the warning is the person it will be needed for.
 
 ## The public version *(settled)*
 
-What Hermione has, out of a wizarding history she read before term: a great family destroyed by grief. The mother who could not accept a death, the dream she painted to fix it, the years she spent inside it while it ate her, and the fire that took the rest. A tragedy with no villain in it.
+Thinner than the truth, and thinner than we first had it. What Hermione finds in the library is the *capability* and the *catastrophe*, with the human story missing entirely: an ancient French line whose ancestral magic made worlds with real people living in them, countless painted worlds lost when the manor burned, the one at Hogwarts the only survivor, the family dead and the gift gone with them. She is not wrong about any of it. She has no idea that anyone was inside.
 
-She tells it with relish, because it is a famous story and she knows it cold. She is not wrong about any of it.
+She tells it with relish, because it is a marvellous bit of magic and she knows what she read cold. The Dessendres are a footnote in a book about magic, not a story about people, and she is thrilled by them the way one is thrilled by an extinct animal — which is what sets Dracaena off (DIV-074).
+
+**How she comes to have it.** Harry gives her the name to get her off his back after the Mirror; she was already digging into magic like the Mirror on his behalf, finds the Dessendres by accident, and comes back with the name *and* a lead he never asked for. She thinks she is helping. She is, and he didn't want it.
 
 ## What stays vague *(settled)* · Q-086
 
@@ -65,11 +89,18 @@ How it actually ended for the people inside — what the last years were like, w
 
 ## Dracaena's reading *(settled)*
 
-She knows the true version, and she knows it the way the old families know things: not gossip, but library. A century's distance is exactly why she has it — the public forgot and her sort kept the record. A small live demonstration of DIV-008, and being right about this does not make them right about anything else.
+She knows the true version, and she knows it the way the old families know things: **it lives in memory, not in a library.** It is a story she was told growing up, because the Dessendres were their sort and families remember their own. The public forgot and the old houses kept it in their mouths.
+
+Three things follow, and all three are load-bearing:
+
+- **It is DIV-008's cleanest demonstration.** What her class has that Hermione cannot get is not better books but unbroken memory. Hermione can read everything in the castle and still not know anything, and that is simply true. It also aims her resentment at Hermione's *method* rather than her blood — which is not a defence of the slur, and is why the slur has an argument inside it (DIV-074).
+- **It licenses the vagueness.** A told story has gaps and gets things slightly wrong, and nobody can check it. Dracaena hedges — *this, the stories agree on*; *I am told* — and we never have to say where the account is thin. Q-086 stops being authorial reticence and becomes a property of the thing itself.
+- **It means her account is kind to Renoir.** The family version has him never getting the chance to save his wife, when in fact he had years of chances and she would not come. That is how a sympathetic retelling phrases a long failure, and nobody in the text corrects it.
 
 What matters is the lesson she takes, which is not the one Harry takes.
 
 - **A failed experiment, not a warning.** She does not hear a cautionary tale. She hears a technique that nearly worked and was used badly. The wanting was never the error. She is the girl who answers every problem with a method — a potion for mama, a potion for his nightmares — and *why not paintings?* is a question she has genuinely asked herself ([dracaena-malfoy](../characters/dracaena-malfoy.md)).
+- **The dosage, stated out loud** *(settled)*. Her verdict on Aline, in B1, to Hermione: she got what she was after, she merely had to ration her time better. It only works as a method because the wasting is established one speech earlier — the canvas eats you, so take it in measured doses and you may have the dream and your life both. Said coldly, at eleven, by a girl with nothing yet to escape from, about strangers. She is not longing; she is marking someone else's work. Five years later she cannot ration her own visits to a mirror, and nobody joins it up.
 - **What it sets up.** In B6 she ends up in front of the one object in the castle that offers her no method at all. Nothing to refine, nothing to improve, no craft in it — just watching. She cannot fix the Mirror and she cannot stop going (DIV-043, [sectumsempra](../scenes/b6/sectumsempra.md)).
 
 Same story as Harry's, opposite lesson. Her escapism is character, not a lecture she happened to miss.
@@ -81,12 +112,14 @@ When and how this reaches the page: Q-085.
 A painting at Hogwarts, hanging in a corridor nobody has any reason to use.
 
 - **Why it exists at all.** It was out of the house. Everything the family ever painted burned with the manor; this one was hanging in a corridor in Scotland, and so it is the last painted life in the world.
-- **What it is.** A landscape with creatures in it: Clea's childhood pets, painted when she was a girl, before any of the rest of it. The family gift showing early, in the most ordinary way imaginable.
+- **Where it hangs** *(settled)*. The fifth-floor corridor leading to the prefects' bathroom. Not hidden and not displayed. Prefects walk past it with their towels and have never once looked, and first-years have no reason to be there at all. It also means Harry passes it again in B4 on his way to the egg.
+- **What it is.** A landscape with creatures in it, painted when Clea was a girl, before any of the rest of it. The family gift showing early, in the most ordinary way imaginable.
+- **The one who speaks** *(settled)*. A headless clay figure with long spindly limbs and a great misshapen pot for a torso, grinding boulders to dust inside his own chest to build Clea a castle, which floats half-finished in the distance and is beyond his skill. She never gave him a name. He says she used to play with him when she was small, that she promised to come back, and that he thought if he were good, if he finished her castle, she would. That is the logic of a child trying to earn the right to be wanted, and it is why Harry in particular cannot walk away from him. Nothing in the text says so.
 - **What happened to them.** Nothing dramatic. She grew up and stopped coming. They were not lost in the tragedy and they were not abandoned in grief — she simply outgrew them, and the gift being what it is, they went on living.
 - **The beat.** They talk about her in the present tense. They describe a routine — she came every day — and have no idea how long ago that was. A century of nobody, and they are still expecting her this afternoon.
 - **The offer, and the refusal.** Harry offers them the only thing he has — he'll come back, he'll visit. They say no. *Mistress will come.* Taking him would mean admitting she isn't, so the thing that puts them out of reach is their own hope.
-- **They have no name.** Nobody in the castle has a word for what they are, so they are described and never labelled. Clea presumably called them something. Nobody alive knows it.
-- **Nobody knows what it is.** Not the staff, not the other portraits. It is better unregarded than protected, it dodges the question of why such a thing hangs in a school, and it means Harry, Hermione and Dracaena may be the only people in the castle who understand what they are looking at.
+- **They have no name.** Nobody in the castle has a word for what they are, so they are described and never labelled. Clea never named the one who speaks, and nobody alive knows what she called the rest.
+- **Who knows what it is** *(settled)*. The staff don't, and have no reason to care. The portraits do, and will not speak of it. The ghosts do, and will, if asked properly — which is how Harry and Hermione get nowhere for an hour and Dracaena gets an answer in two minutes. It stays unregarded not because the castle is ignorant but because nobody living has thought to ask, which is worse.
 
 The counterweight the thread needs. The mother who could not let go destroyed her family; the daughter who let go completely left this behind. Neither is free.
 
@@ -94,7 +127,8 @@ The counterweight the thread needs. The mother who could not let go destroyed he
 
 What the corridor is actually for. Not *don't dwell on dreams* — that one he gets from Aline. This is the other lesson, and it is about him.
 
-- **He can't fix it.** He feels for them, tries the one thing available, and it fails. The scene must not leave him an option he declines; it has to be a wall.
+- **He nearly agrees with her first** *(settled)*. Before the creature speaks, he hears both readings — Hermione for Renoir, Dracaena for the dose — and he wants Dracaena's to be true, because his parents' faces in the Mirror were warm. He does not settle it. The creature settles it. That matters twice: the corridor has to demonstrate what the Mirror only asserted, and in B6, when he finds her in front of a picture she can't leave, he should be a man who once nearly agreed with her.
+- **He can't fix it.** He feels for them, tries the one thing available, and it fails. The scene must not leave him an option he declines; it has to be a wall. Hermione's comfort on the walk back is part of the wall, not a softening of it: she tells him it was noble and that the creature wouldn't have let him, which is kind, correct and useless, and he doesn't hear a word of it.
 - **The refusal is the lesson.** What puts them beyond help is their own hope, not the limits of what he can do. He meets that again in B6, when the girl he loves turns down the help he offers because taking it would mean admitting the dream is over.
 - **Magic like this reaches past the person who works it.** Clea painted her pets as a child and did nothing wrong by anyone, and a century later there are living things in a corridor waiting for her. Power outruns intent, and outlives whoever used it.
 - **Some things can't be taken back.** The hardest part, and the part he fails.
@@ -111,8 +145,10 @@ He is shown all of this at eleven and still isn't careful, and it comes due at S
 
 ## Open
 
-- Q-085 · how Dracaena's version gets on the page
+- Q-085 · her reading needs a second sighting between B4 and B6 (the B1 statement is recorded above)
 - Q-086 · what actually happened at the end
-- Q-087 · where the painting hangs, and the shape of the B1 discovery
-- Q-088 · whether Harry registers that walking away is itself a cruelty
 - Q-089 · the B5 payoff at the veil
+- Q-091 · the corridor and the house-elves
+- Q-092 · who tells Harry what Mudblood means, and when
+
+*Answered:* Q-087 (where it hangs and the shape of the discovery), Q-088 (he registers it about Clea, not about himself).

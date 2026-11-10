@@ -25,9 +25,10 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 - Dracaena reads the Muggle books Narcissa gets her. DIV-010
 - On the train Harry refuses her over Ron; her grudge begins. DIV-009, [hogwarts-express](../../scenes/b1/hogwarts-express.md)
 - First Potions lesson: Snape has her answer the questions Harry can't, the Draught of Living Death among them. Hermione blurts out the third answer, loses points, and is outdone. Framed by Snape's flashback to the Manor, around 1985: mama's medicine and "uncle Severus". DIV-011, DIV-031, [uncle-severus](../../scenes/b1/uncle-severus.md)
-- At the Mirror, Dumbledore names the Dessendres as the famous case of wasting away in front of one. DIV-072, DIV-073, [painted-life](../../setting/painted-life.md)
-- Hermione tells the public version of the Dessendre story: the painted family, the mother who moved in, the fire. DIV-073
-- Harry and Hermione find Clea's landscape in a disused corridor. The creatures in it still expect a mistress who stopped coming a century ago, and refuse Harry's offer to visit because she's coming back. DIV-072, DIV-073, Q-087
+- At the Mirror, Dumbledore names the Dessendres as the case he thinks about, and half tells on himself doing it. DIV-072, DIV-073, [painted-life](../../setting/painted-life.md)
+- Hermione goes digging on Harry's behalf and comes back with the thin public version: a marvellous extinct magic, a fire, no people in it. DIV-073
+- The corridor. Dracaena guides them — the portraits won't talk, she charms the location out of Sir Nicholas, tells the true story, and calls Hermione a Mudblood on the way. Harry doesn't know what the word means. The creature in Clea's landscape refuses his offer to visit, because his mistress is coming back, and Dracaena is the one who tells him to stop. DIV-072, DIV-073, DIV-074, [painted-life](../../scenes/b1/painted-life.md)
+- *(open)* The aftermath: Harry finds out what Mudblood means and turns on her, the day after she thought they had got on. Q-092
 
 ## Acts
 

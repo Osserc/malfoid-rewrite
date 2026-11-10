@@ -52,7 +52,9 @@ The scene itself. It will be hard, and that's the point.
 
 The Prince's book is behind both of Harry's B6 wins over her: the Draught of Living Death (DIV-011) and this.
 
-*(draft)* Harry has the Dessendres in his head when he finds her at the Mirror, from B1 (DIV-072, DIV-073). He doesn't say it and shouldn't: it is the second time he comes across her standing at a picture she can't leave alone, and the first time was a corridor full of things waiting for someone who was never coming back.
+*(draft)* Harry has the Dessendres in his head when he finds her at the Mirror, from B1 (DIV-072, DIV-073). He doesn't say it and shouldn't: it is the second time he stands in front of someone who cannot leave a picture alone, and the first time was a corridor full of things waiting for someone who was never coming back.
+
+*(draft)* **She was there.** She told him the story, she told him Aline only had to ration her time better, and when he tried to help the thing in the frame it was her hand on his shoulder saying there was nothing he could do for it. All three come back on him here, and none of them gets said out loud.
 
 Sectumsempra is Snape's own invention (canon): his favourite pupil, scarred by his own spell in the hands of James Potter's son (Q-043).
 

@@ -6,14 +6,20 @@ status: draft
 
 **Role:** Harry's friend and housemate in Gryffindor. Second to Dracaena in Potions, and hates her for it.
 **Canon baseline:** Hermione Granger. Anything not overridden follows canon.
-**Changes from canon:** DIV-011, DIV-012, DIV-018, DIV-021, DIV-049, DIV-063, DIV-069
+**Changes from canon:** DIV-011, DIV-012, DIV-018, DIV-021, DIV-049, DIV-063, DIV-069, DIV-073, DIV-074
 
-## Core
+## Core *(draft)*
 
-- **Want:** _open_
-- **Need:** _open_
-- **Wound / fear:** _open_
-- **Lie she believes:** _open_
+- **Want:** to be needed. An awkward girl who has finally been handed a role she can play — the capable older sister who keeps everyone fed, safe and cheerful — and who plays it relentlessly and badly.
+- **Need:** to be wanted for herself rather than for her usefulness.
+- **Wound / fear:** that without the role there is no reason for anyone to keep her.
+- **Lie she believes:** that being useful and being loved are the same thing.
+
+**She is not a love interest and never becomes one, and there is no triangle.** Her grip on Harry is a sister's: he is scrawny, he is miserable, and she has decided both are hers to fix. It is affectionate and it is suffocating, and he resents it while being grateful for it.
+
+No divergence is needed for any of this — it is a reading of canon Hermione, and canon beats run on it. The Firebolt in B3 is this engine at full throttle: she would rather be right about his safety than liked, and it costs her the friendship for weeks.
+
+**How it shows in B1** *(settled)*. After he lets slip about the Mirror and the nightmares she attaches herself to him entirely — she will not let him copy her work, she makes him do it beside her so she can catch his mistakes, and she feeds him. He finds it unbearable because it makes him feel weak. When Dracaena calls her a Mudblood in front of him she says nothing about it afterwards, because the sister does not bring her own injuries to the boy she is looking after (DIV-074).
 
 ## Muggle Studies
 
@@ -35,14 +41,14 @@ Canon default.
 
 - Harry Potter: her friend. She can't resonate with him: friendship isn't enough (DIV-021).
 - [Ron Weasley](ron-weasley.md): canon default.
-- [Dracaena Malfoy](dracaena-malfoy.md): her rival from the first Potions lesson, where Dracaena shows her up (DIV-011). Taunts her for dropping Muggle Studies (DIV-012). From B4 she stops slurring her, for Harry's sake. In B6 she calls Hermione "Mudblood" again, plenty, to hurt her ([dracaena-malfoy](dracaena-malfoy.md)). *(settled)* In B7 Hermione treats her with kid gloves anyway. She's perceptive, and knows Dracaena wasn't herself in B6, and still isn't: from the Ball to the end of B5 she was not too hostile for a year and a half. At Shell Cottage, her sealing spell saves Narcissa's medicine, and Dracaena starts treating her as a person for good ([narcissa-malfoy](narcissa-malfoy.md)).
+- [Dracaena Malfoy](dracaena-malfoy.md): her rival from the first Potions lesson, where Dracaena shows her up (DIV-011). The first "Mudblood" is B1, in the Dessendre corridor, and she takes it in silence (DIV-074). Taunts her for dropping Muggle Studies (DIV-012). From B4 she stops slurring her, for Harry's sake. In B6 she calls Hermione "Mudblood" again, plenty, to hurt her ([dracaena-malfoy](dracaena-malfoy.md)). *(settled)* In B7 Hermione treats her with kid gloves anyway. She's perceptive, and knows Dracaena wasn't herself in B6, and still isn't: from the Ball to the end of B5 she was not too hostile for a year and a half. At Shell Cottage, her sealing spell saves Narcissa's medicine, and Dracaena starts treating her as a person for good ([narcissa-malfoy](narcissa-malfoy.md)).
 - Crookshanks: canon default.
 
 ## Arc by book
 
 | Book | Start | Turn | End |
 |---|---|---|---|
-| B1 | Outdone by Dracaena in the first Potions lesson (DIV-011) | The troll (canon) | |
+| B1 | Outdone by Dracaena in the first Potions lesson (DIV-011) | The troll (canon). After the Mirror she appoints herself Harry's keeper; her research turns up the Dessendres, and in the corridor she is called a Mudblood for the first time and says nothing (DIV-073, DIV-074) | |
 | B2 | | | |
 | B3 | Takes Muggle Studies | Drops it (DIV-012). Slaps Dracaena over the jeer at Hagrid, and is right to: she sees the jeer and nothing else (DIV-069) | The lake: her idea to have Dracaena fly Buckbeak to Sirius (DIV-018) |
 | B4 | | | The second rift: she backs Ron's confrontation on the train, then concedes they were too overprotective — and notices Dracaena didn't acknowledge them at all (DIV-063) |
