@@ -44,6 +44,16 @@ Canon default.
 - [Dracaena Malfoy](dracaena-malfoy.md): her rival from the first Potions lesson, where Dracaena shows her up (DIV-011). The first "Mudblood" is B1, in the Dessendre corridor, and she takes it in silence (DIV-074). Taunts her for dropping Muggle Studies (DIV-012). From B4 she stops slurring her, for Harry's sake. In B6 she calls Hermione "Mudblood" again, plenty, to hurt her ([dracaena-malfoy](dracaena-malfoy.md)). *(settled)* In B7 Hermione treats her with kid gloves anyway. She's perceptive, and knows Dracaena wasn't herself in B6, and still isn't: from the Ball to the end of B5 she was not too hostile for a year and a half. At Shell Cottage, her sealing spell saves Narcissa's medicine, and Dracaena starts treating her as a person for good ([narcissa-malfoy](narcissa-malfoy.md)).
 - Crookshanks: canon default.
 
+## The elves *(draft)* · DIV-075, DIV-077
+
+Hers is the win. The noble houses buried their own shame so completely that nobody alive knows there was anything to bury, and she is the one who digs it up — not from a document, from a hole in the evidence. Elves enter the record abruptly, fully formed, already in service, with no origin, no habitat, no young and no natural history. A species with no natural history is not a species. She finds the shape of the cover-up and never finds the deed.
+
+- **B4 is the collision.** S.P.E.W. runs into Winky dying and into the fact that everyone except her knows freeing an elf kills it (DIV-077). Her campaign stops being comic without a word of its argument changing.
+- **B5 is the research**, dragged out across the year and hung on the business she is already doing ([books/b5/outline.md](../books/b5/outline.md)).
+- **It is also DIV-008 inverted.** [painted-life](../setting/painted-life.md) gives the old houses unwritten memory the books don't have. This gives the Muggle-born the history the old houses lost, because they stopped looking at their own shame. Using the same device twice would make it a formula; using it in both directions makes it an argument.
+- **What she never gets is the remedy.** Harry has that, once, and no history. They never put it together ([house-elves](../setting/house-elves.md)).
+- **It pays off B1.** Clea's painted creatures refuse rescue because for them freeing is destroying and there is no remedy at all. The elves are the same shape with a door in it (Q-091, answered).
+
 ## Arc by book
 
 | Book | Start | Turn | End |
@@ -51,8 +61,8 @@ Canon default.
 | B1 | Outdone by Dracaena in the first Potions lesson (DIV-011) | The troll (canon). After the Mirror she appoints herself Harry's keeper; her research turns up the Dessendres, and in the corridor she is called a Mudblood for the first time and says nothing (DIV-073, DIV-074) | |
 | B2 | | | |
 | B3 | Takes Muggle Studies | Drops it (DIV-012). Slaps Dracaena over the jeer at Hagrid, and is right to: she sees the jeer and nothing else (DIV-069) | The lake: her idea to have Dracaena fly Buckbeak to Sirius (DIV-018) |
-| B4 | | | The second rift: she backs Ron's confrontation on the train, then concedes they were too overprotective — and notices Dracaena didn't acknowledge them at all (DIV-063) |
-| B5 | | | |
+| B4 | Founds S.P.E.W. (canon) | Winky dies and the hats turn out to be traps; she learns what freeing an elf does, and from whom is open (DIV-077, Q-093) | The second rift: she backs Ron's confrontation on the train, then concedes they were too overprotective — and notices Dracaena didn't acknowledge them at all (DIV-063) |
+| B5 | | Tracks down the elf conspiracy across the year: the hole in the record, never the deed (DIV-075) | The history, and no remedy |
 | B6 | | Notices Harry's new tricks resemble Dracaena's technique (Q-042) | |
 | B7 | | Plans the Malfoy Manor raid with Harry and Dobby (DIV-049). Treats Dracaena with kid gloves ([apparate-dancing](../scenes/b7/apparate-dancing.md)). Invents the sealing spell that preserves Narcissa's medicine | |
 
@@ -62,4 +72,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-002, Q-028, Q-042, Q-050–Q-052
+Q-002, Q-028, Q-042, Q-050–Q-052, Q-093, Q-094

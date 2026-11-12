@@ -72,7 +72,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Canon:** Pureblood supremacy is presented as plain bigotry, with no real argument behind it.
 - **Ours:** The pureblood ideologues have an actual point.
 - **Home:** [setting/society.md](../setting/society.md)
-- **Ripples:** Q-016 · DIV-035 · [problems/house-elves.md](../problems/house-elves.md) · [core/themes.md](../core/themes.md)
+- **Ripples:** Q-016 · DIV-035, DIV-075 · [problems/house-elves.md](../problems/house-elves.md) (resolved by DIV-075) · [core/themes.md](../core/themes.md)
 
 ### DIV-009 · The first meeting at Madam Malkin's
 
@@ -324,7 +324,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **The economy:** magic multiplies labour, the Ministry is sized to police the border with the Muggles, and the economy lives off the Muggle one.
 - **Why:** the canon problem needed an answer ([problems/scale.md](../problems/scale.md)). It gives DIV-008 hard numbers: wizarding Britain really is disappearing.
 - **Home:** [setting/society.md](../setting/society.md) (the population and the economy) · [setting/hogwarts.md](../setting/hogwarts.md) (the school's numbers)
-- **Ripples:** Q-016, Q-048 · DIV-008 · [core/themes.md](../core/themes.md) · [problems/house-elves.md](../problems/house-elves.md)
+- **Ripples:** Q-016, Q-048 · DIV-008, DIV-075 (elves index the decline and are not its engine) · [core/themes.md](../core/themes.md) · [problems/house-elves.md](../problems/house-elves.md)
 
 ### DIV-037 · The veela charm can't touch someone in love
 
@@ -442,16 +442,22 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Ours:** Harry and Hermione go in on purpose at Christmas, with Dobby, looking for something in the Manor's Dark collection that can destroy the locket. Harry has a second motive: to apologise to Dracaena and find out whether he's out of her life for good. Inside, he breaks from the plan to find her. The raid frees the prisoners and the Malfoys, and the Death Eaters believe that was its purpose, so they never think to alert Gringotts.
 - **Why:** B7 can't keep Dracaena offstage until the end (Q-013). The raid brings her back halfway through, and Harry dropping the plan for her rehearses King's Cross (DIV-048).
 - **Home:** [scenes/b7/malfoy-manor.md](../scenes/b7/malfoy-manor.md)
-- **Ripples:** Q-013, Q-063, Q-064, Q-065, Q-071 · DIV-048, DIV-050, DIV-051, DIV-052 · [continuity/reveals.md](reveals.md)
+- **Ripples:** Q-013, Q-063, Q-064, Q-065, Q-071 · DIV-048, DIV-050, DIV-051, DIV-052, DIV-075 · [continuity/reveals.md](reveals.md)
 
 ### DIV-050 · B7: Dobby dies of exhaustion
 
-- **Status:** settled. What elves are is open ([problems/house-elves.md](../problems/house-elves.md)).
+- **Status:** settled. What elves are: DIV-075.
 - **Canon:** Dobby Apparates everyone out of Malfoy Manor and dies on arrival at Shell Cottage, hit by Bellatrix's thrown knife.
 - **Ours:** He spends himself ferrying people out on his own Apparition, though he warned them he can't carry many: first the prisoners, then the Malfoys, his former masters, because Harry asked him to save "his family". Harry, last out, holds off Bellatrix and the others. Then Dobby has nothing left, and crumbles into dust.
-- **Why:** his death becomes a choice made out of love, not a stray knife.
+  - **He has been dying since B2.** Unhoused, he reverts by degrees towards the true shape of an elf, and the true shape needs a house to sustain, and he has not got one. The reversion *is* the dying, spread over five years and spent on Harry's errands. Harry asking him in B3 whether he has got taller is the first sign, and nobody — Dobby included — reads it as anything but freedom agreeing with him (DIV-075).
+  - **Kreacher knew.** Alone of everyone, he could see it, and said so repeatedly as an insult, and was ignored (DIV-078).
+  - **Why the Manor, and why repeatedly.** The residual claim still holds: he is still partly the Manor's spirit, which is the only reason his Apparition works there at all and works more than once. He spends his house to empty it, and the trip that takes him out for the last time is the one with no return.
+  - **The true form.** As the body crumbles, what has been surfacing for five years finally stands: a translucent figure taller than a man, fair-haired, with Malfoy grey eyes — the house wearing the family's likeness, because that is what it was made of. **The three it was made from see it** and nobody else does. Lucius sees an ancestor. Narcissa sees her own kindness. Dracaena sees her family's face on the servant she was gracious to. Harry, holding him, sees nothing and only feels the weight change, and learns what he was holding afterwards, from Lucius.
+  - **Narcissa offers to take him**, three seconds too late.
+  - **His death is real** — not a body discarded and remade, as Kreacher's would be — precisely because he was unhoused. There is nothing left to make him again. Freedom is what makes it final, and he chooses it anyway.
+- **Why:** his death becomes a choice made out of love, not a stray knife. The true form collapses the two halves of pureblood ideology into one image in front of the man who holds both: the thing he kicked wears his own blood's face.
 - **Home:** [scenes/b7/malfoy-manor.md](../scenes/b7/malfoy-manor.md)
-- **Ripples:** DIV-049, DIV-052 · [problems/house-elves.md](../problems/house-elves.md) · [scenes/b7/apparate-dancing.md](../scenes/b7/apparate-dancing.md) (his tomb)
+- **Ripples:** Q-097 · DIV-049, DIV-052, DIV-075, DIV-076, DIV-078 · [setting/house-elves.md](../setting/house-elves.md) · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md) · [characters/narcissa-malfoy.md](../characters/narcissa-malfoy.md) · [scenes/b7/apparate-dancing.md](../scenes/b7/apparate-dancing.md) (his tomb)
 
 ### DIV-051 · B7: the sword stays at Hogwarts, and Ron comes back at the Manor
 
@@ -608,12 +614,12 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 - **Status:** draft
 - **Canon:** Harry spends the summer before B5 cut off at Privet Drive. His friends write nothing of substance, on Dumbledore's orders, and his fury at it opens the book.
-- **Ours:** Dracaena writes to him all summer. Hedwig is far too visible and Harry's post is being watched, so the letters go by Dobby, who is free, at Hogwarts, and will do it for Harry. She has to ask a favour of the elf her family owned.
+- **Ours:** Dracaena writes to him all summer. Hedwig is far too visible and Harry's post is being watched, so the letters go by Dobby, who is free, lodging at the Burrow, and will do it for Harry (DIV-076). She has to ask a favour of the elf her family owned — and, as far as she knows, of something that should have died in B2 (Q-098).
   - **Canon's isolation stands, and gets worse.** The people who claim to be protecting him tell him nothing; the one person treating him like a person is a Death Eater's daughter. His rage in B5 keeps its cause and gains a target.
   - **The Order finds out,** at some point, and is appalled: unvetted correspondence with Lucius Malfoy's daughter, every week, under their noses. Sirius takes her side.
 - **Why:** it sharpens B5's opening instead of defusing it, and gives Dobby something to do between B2 and B7 (DIV-050).
 - **Home:** [threads/harry-dracaena.md](../threads/harry-dracaena.md)
-- **Ripples:** Q-018, Q-075, Q-076 · DIV-050, DIV-061, DIV-063 · [problems/house-elves.md](../problems/house-elves.md)
+- **Ripples:** Q-018, Q-075, Q-098 · Q-076 answered (DIV-075: he is anchored to Harry, and the Manor's claim on him is residual) · DIV-050, DIV-061, DIV-063, DIV-075, DIV-076 · [setting/house-elves.md](../setting/house-elves.md)
 
 ### DIV-066 · The Snitch carries the score
 
@@ -731,7 +737,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **No Dessendre ever appears on the page**, in any book. History and one painting, not a cast.
 - **Why:** canon asserts the Mirror's lesson and never demonstrates it. This demonstrates it at the scale the series needs — not a boy who stared too long but a family who could actually build the dream and were destroyed anyway — and gives the escapism theme a case outside Dracaena's head that Harry carries from B1. It also feeds the decline (DIV-008, DIV-035): one more thing the wizarding world used to be able to do.
 - **Home:** [setting/painted-life.md](../setting/painted-life.md)
-- **Ripples:** Q-085, Q-086, Q-089, Q-091 · Q-087 and Q-088 answered · DIV-008, DIV-011, DIV-043, DIV-073, DIV-074 · [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md) · [core/themes.md](../core/themes.md) · [setting/magic.md](../setting/magic.md)
+- **Ripples:** Q-085, Q-086, Q-089 · Q-087, Q-088, Q-091 answered · DIV-008, DIV-011, DIV-043, DIV-073, DIV-074, DIV-075 · [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md) · [core/themes.md](../core/themes.md) · [setting/magic.md](../setting/magic.md)
 
 ### DIV-073 · B1: the Dessendres, and the corridor
 
@@ -766,3 +772,67 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Why:** the slur stops being a label and becomes an argument, which is what DIV-008 needs, and Harry's ignorance lets it land on the reader without being resolved on the page. It also sets up B4, where he will not tolerate a second one (DIV-038), and B6, where she goes back to it on purpose to make him hate her (DIV-015).
 - **Home:** [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md) · [scenes/b1/painted-life.md](../scenes/b1/painted-life.md)
 - **Ripples:** Q-092 · DIV-008, DIV-015, DIV-038, DIV-073 · [characters/hermione-granger.md](../characters/hermione-granger.md) · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md)
+
+### DIV-075 · House-elves are houses, bound by a forgotten crime
+
+- **Status:** settled. The texture is draft.
+- **Canon:** House-elves are a sentient species in hereditary servitude, mostly content with it. Freeing one with clothes is a kindness. Hermione's campaign is played for comedy and the issue is never resolved.
+- **Ours:** a house-elf is not a magical creature. It is a house.
+  - **What they are.** Where one family line has lived in one house long enough, the house takes on the household's temperament and expresses it as a person — its upkeep, its warmth and its memory, walking about. An elf is a portrait of the family that made it, in character and in colouring. They do not reproduce and do not die in the ordinary way: a body can be destroyed and the house makes another.
+  - **One house, one elf,** however many bodies it walks about in. Bodies scale with the demesne, which is why a manor keeps one and a castle holding a thousand children keeps a hundred. So there are a few dozen in Britain, and they index the decline: fewer houses, thinner lines, fewer bodies (DIV-035).
+  - **Anchored, not confined.** Near-absolute power over the house and the things in it, including enlarging it if given material; no conjuring from nothing; always able to hear their own people call. Outside the demesne they weaken with distance.
+  - **The keeping.** Originally they kept the house and protected the people in it because that is what they were for and what they wanted. The people are *the household*, never masters.
+  - **The binding.** Long before Hogwarts, wizards bound them with dark magic so they could not refuse an order and could not leave. It took the obedience and never touched the will, which is the cruelty of it: the love is real, and is also a chain, and the elf cannot tell which is which. What is left of the will lives in the gaps between orders, at the price of self-punishment.
+  - **The degradation.** They were near-human once, tall and fair. The binding dwindled them to what everyone knows. A bound elf is cheap to run; the true shape needs a whole house to sustain.
+  - **The forgetting.** Both sides forgot, and the noble houses buried their shame so thoroughly that the cover-up was forgotten with the crime. Every account begins with elves already in service, as though they had always been furniture.
+  - **What everyone "knows":** a dismissed elf does away with itself. Not the mechanism — nobody has that — but the fact, as folk knowledge, and it is near enough true. A freed elf comes apart over weeks, *and wants to*, because dismissal is the thing you are made of telling you that you are not worth housing. The one remedy is to ask another household to take you, and the shame of asking is what keeps the whole institution standing. Nobody is ignorant here. They have simply never asked why.
+  - **Hogwarts.** Helga Hufflepuff brought her own bound elf and settled it into the castle to give it somewhere safe and warm, and it took root. That is the headstart, the hundred bodies, the nurturing character, and the cover story in miniature: a kindness laid over a crime by someone who meant well and never asked. The school is not a refuge and knows nothing.
+- **Why:** [problems/house-elves.md](../problems/house-elves.md). It makes the institution a forgotten atrocity rather than an endorsed norm, which is what DIV-008 needs — the purebloods are custodians of a crime they did not commit and have never examined. It keeps elves out of the economy (DIV-035). And it gives the series its clearest statement of Harry's own want: an elf is needed and used and never wanted.
+- **Home:** [setting/house-elves.md](../setting/house-elves.md)
+- **Ripples:** Q-093, Q-094, Q-095, Q-096, Q-097, Q-098 · Q-076 and Q-091 answered · DIV-008, DIV-035, DIV-049, DIV-050, DIV-065, DIV-072, DIV-076, DIV-077, DIV-078 · [setting/society.md](../setting/society.md) · [setting/hogwarts.md](../setting/hogwarts.md) · [continuity/reveals.md](reveals.md)
+
+### DIV-076 · B2: Dobby begs, and Harry keeps him
+
+- **Status:** settled
+- **Canon:** Harry tricks Lucius into freeing Dobby with a sock. Dobby is delighted, blasts Lucius down the corridor, and thrives as a free elf for the rest of the series.
+- **Ours:** canon's trick stands exactly. What changes is what freedom turns out to be.
+  - **Lucius knew.** Everyone knows a dismissed elf does away with itself (DIV-075). He throws the sock in a rage anyway, and spends five years deciding it did not matter.
+  - **Dobby starts to go,** and understands perfectly, and is cheerful about it, because it is proper.
+  - **Harry asks why he doesn't find someone else** — the question no wizard has ever thought to ask — and the answer is the shame: an elf does not beg.
+  - **He begs anyway,** and tells Harry what he wants: a great house full of a happy, kind family. The most humiliating sentence an elf can say, said to the first person who ever treated him as one.
+  - **Harry accepts and refuses the word:** not master, friend. He means it as decency, not as a theory, and does not know the condition is the entire point, or that he qualifies only because he has no house for the curse to grip.
+  - **No witnesses.** The only working remedy in a thousand years happens in an empty corridor and is never reported.
+  - **Afterwards:** the Burrow, as lodging and not a demesne — Harry gives him the house he wishes were his own. The Manor goes cold from this night and nobody connects the two.
+- **Why:** the remedy has to exist, be available to every elf alive, and never generalise. Shame is what stops it, which is character rather than mechanics, and it takes a boy with no house and no theory to get past it.
+- **Home:** [scenes/b2/the-sock.md](../scenes/b2/the-sock.md)
+- **Ripples:** Q-018, Q-098 · DIV-050, DIV-065, DIV-075, DIV-077 · [books/b2/outline.md](../books/b2/outline.md) · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md) · [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md)
+
+### DIV-077 · B4: Winky dies, and Dobby can't save her
+
+- **Status:** settled. Placement draft.
+- **Canon:** Crouch sacks Winky at the World Cup. Dobby brings her to Hogwarts, where she refuses wages, drinks, mourns and deteriorates, and she is still alive at the end of the series. S.P.E.W. is comic relief.
+- **Ours:** every canon beat stays on the page and only its meaning changes.
+  - **The sacking is a death sentence and Crouch knows it.** He is not disposing of a witness; he is telling his elf to go and kill herself, in front of people who find it unremarkable.
+  - **Her decline is dissolution.** Canon wrote the symptoms for us.
+  - **Dobby spends the year trying to be Harry** — castle, work, bed, wages — and fails, because none of it is a house, she will not beg, and he is barely an anchor himself.
+  - **She dies,** in the lull after the Second Task, with Dobby there.
+  - **S.P.E.W. stops being comic.** The hidden hats are traps; the elves refusing to clean Gryffindor Tower is self-preservation; and Dobby collects every hat himself because he is the only one immune, and thinks he is being kind to Hermione.
+- **Why:** it proves the B2 remedy doesn't generalise, three books before Dobby's death, using almost no new page time in the book that is already fullest. It also gives the reader the rule so that B7 is a recognition rather than an explanation.
+- **Home:** [scenes/b4/the-kitchens.md](../scenes/b4/the-kitchens.md)
+- **Ripples:** Q-093, Q-094 · DIV-050, DIV-075 · [books/b4/canon-delta.md](../books/b4/canon-delta.md) (beats 8, 14) · [characters/hermione-granger.md](../characters/hermione-granger.md)
+
+### DIV-078 · B7: Kreacher asks, Grimmauld dies, the Manor lives
+
+- **Status:** settled. The epilogue's detail is draft.
+- **Canon:** Kreacher is transformed by the trio treating him kindly once they learn about Regulus, and leads the Hogwarts elves into the battle. Harry lives at Grimmauld Place or elsewhere; the epilogue says nothing about either.
+- **Ours:** canon's warming stands in the autumn, and the arc goes past it. Kreacher is *already* Harry's through Sirius's will, which is the ordinary configuration — bound to Grimmauld, with Harry occupying the Black position — so being treated well cannot be the whole of it.
+  - **The feud.** Dobby follows Harry to Grimmauld and meets Kreacher. Kreacher is a house that has never been anything else looking at a thing with no house that is becoming something else, and his contempt is horror.
+  - **He can see Dobby is dying,** alone of everyone, and says so constantly as an insult. Nobody listens, because he is Kreacher. After Christmas, Harry remembers he was told.
+  - **Harry won't offer.** Having learned his regard is not free, he withholds it, which is its own cruelty.
+  - **So Kreacher asks:** to be dismissed from the house and taken by the person, knowing exactly what that did to Dobby. Harry has to throw the sock himself, on purpose, and be the only net. Dobby's was an accident; Kreacher's is the first ever made on purpose.
+  - **Grimmauld Place dies** when its spirit walks out, which is also Kreacher's verdict on the Blacks.
+  - **And he begins to run down,** for the same reason Dobby did: Harry still has no house.
+  - **The epilogue.** Harry and Dracaena live at **Malfoy Manor** — she would not abandon her ancestral house, Grimmauld is dead, and the Manor has stood empty of itself since Dobby. Having a house is what saves Kreacher: Dobby died of Harry's homelessness. Kreacher restores the Manor, a Black elf keeping a Malfoy house, which by his own snobbery is entirely proper since Narcissa was a Black, and spends forty years doting on Potter half-bloods. He is the only one who ever knew Dobby was dying, so the remembering falls to him.
+- **Why:** it fills the stretch of B7 that currently has nothing in it (Q-013, Q-065), gives Kreacher a sacrifice instead of a reward, and makes the epilogue load-bearing: Harry's own want — somewhere to belong — is literally what keeps an elf alive, and he can only give it once Dracaena brings a house.
+- **Home:** [scenes/b7/kreachers-asking.md](../scenes/b7/kreachers-asking.md)
+- **Ripples:** Q-095, Q-096, Q-097 · Q-013, Q-065 · DIV-050, DIV-052, DIV-075 · [books/b7/outline.md](../books/b7/outline.md) · [characters/harry-potter.md](../characters/harry-potter.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)

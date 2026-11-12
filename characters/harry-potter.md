@@ -85,6 +85,17 @@ The warning aimed at him is not Aline's but Renoir's — the man who went into t
 - **Flying.** A wild instrument suits him. He wins when he stops managing it (DIV-068).
 - **Sacrifice.** His death in the forest protects nobody (DIV-026).
 
+## The elves *(settled)* · DIV-075, DIV-076, DIV-078
+
+A house-elf is needed and used and never wanted, which is his want exactly. That is why he is the only person in a thousand years to answer it, and why he could never explain what he did.
+
+- **B2.** He catches what Lucius throws away, offers friendship instead of ownership, and has no idea that the condition is the whole point or that he qualifies only because he has no house for the curse to grip (DIV-076).
+- **He gives Dobby the Burrow** — the house he wishes were his own — and thinks nothing of it.
+- **It costs Dobby his life.** A person-anchored elf runs on one person and nothing else, and Harry had nothing else. Dobby dies of Harry's homelessness (DIV-050).
+- **So he won't offer it again.** In B7 he withholds from Kreacher out of fear of what his regard costs, which is its own cruelty, until Kreacher asks (DIV-078).
+- **And it resolves when he stops being homeless.** Kreacher survives the same choice because Dracaena brings a house. The thing Harry wanted his whole life turns out to be the thing that keeps an elf alive.
+- **He never learns the history.** He has the remedy and no theory; Hermione has the theory and no remedy.
+
 ## Voice
 
 _Open._
@@ -109,12 +120,12 @@ Events are in [threads/harry-dracaena.md](../threads/harry-dracaena.md). This is
 | Book | Where he is |
 |---|---|
 | B1 | Awestruck, then stung, and sure the princess is cruel (DIV-009). Shown at the Mirror what wanting the dead back costs, and in a corridor what magic leaves behind — where he half wants her to be right about dreaming in measured doses, and a thing with no name settles it for him (DIV-072, DIV-073) |
-| B2 | The Duelling Club turns a feud into a game he enjoys and won't examine (DIV-028) |
+| B2 | The Duelling Club turns a feud into a game he enjoys and won't examine (DIV-028). In a corridor he does the only decent thing anyone has ever done for an elf, by accident (DIV-076) |
 | B3 | Affection at the final, revelation at the lake (DIV-069, DIV-018). He re-evaluates her and can't make the mask fit |
 | B4 | In love before he knows it (DIV-037); learns it properly over the year. First time he pictures a future |
 | B5 | Rage, isolation, and the one person treating him like a person (DIV-065). Loses Quidditch for her and doesn't much care (DIV-067) |
 | B6 | Angry all year, heart not in Dumbledore's lessons. The reflex comes due (DIV-032) |
-| B7 | Drops the plan for her at the Manor (DIV-049); handles her with velvet gloves until she makes him stop (DIV-054); walks to the forest for Dumbledore's plan and comes back for her (DIV-022, DIV-048) |
+| B7 | Drops the plan for her at the Manor (DIV-049); handles her with velvet gloves until she makes him stop (DIV-054); walks to the forest for Dumbledore's plan and comes back for her (DIV-022, DIV-048). Learns what his regard costs when Dobby dies, and has to give it again anyway when Kreacher asks (DIV-050, DIV-078) |
 
 ## Secrets
 
@@ -122,4 +133,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-024, Q-029, Q-035, Q-038, Q-050, Q-057, Q-061, Q-063, Q-072, Q-075, Q-078, Q-080, Q-082, Q-085, Q-091
+Q-024, Q-029, Q-035, Q-038, Q-050, Q-057, Q-061, Q-063, Q-072, Q-075, Q-078, Q-080, Q-082, Q-085, Q-095, Q-096

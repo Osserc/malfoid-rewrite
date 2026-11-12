@@ -121,7 +121,7 @@ What's the real grievance or truth, and where does it turn into Voldemort's ideo
 
 Narcissa is the conduit but would never shop herself. Options:
 
-- Dobby. This commits us on the house elves, and Harry freeing him at the end of B2 would cut off her supply. *(leaning)* He's now carrying her letters to Privet Drive from summer 1995 anyway (DIV-065), which argues for using him here too, and makes the B2 cut-off a beat rather than a problem. Limits: Q-076.
+- Dobby. This commits us on the house elves, and Harry freeing him at the end of B2 would cut off her supply. *(leaning)* He's now carrying her letters to Privet Drive from summer 1995 anyway (DIV-065), which argues for using him here too, and makes the B2 cut-off a beat rather than a problem. *Now unblocked:* the elf rules are settled (DIV-075), he can do it, and the B2 cut-off is sharper than it was — as far as Dracaena and Narcissa know, Potter has just killed their supplier (DIV-076, Q-098).
 - A Squib: someone who moves in both worlds and whom purebloods never look at twice.
 - A bigger swing: Andromeda, Narcissa's disowned sister, married to a Muggle-born.
 
@@ -300,7 +300,9 @@ His favourite pupil falls for the son of his arch-enemy. In summer 1995 the Occl
 
 ### Q-048 · The way out of the decline (DIV-035)
 
-Wizarding Britain is shrinking, and Voldemort's war made it worse. After the war the story needs a resolution. The author has an idea, tied to how magic works and to why the blood supremacists are partly right while their solution is suicidal. House-elves may tie in ([problems/house-elves.md](../problems/house-elves.md)). Out of scope for now.
+Wizarding Britain is shrinking, and Voldemort's war made it worse. After the war the story needs a resolution. The author has an idea, tied to how magic works and to why the blood supremacists are partly right while their solution is suicidal. Out of scope for now.
+
+*Note from DIV-075:* elves index the decline rather than causing or curing it — fewer houses and thinner lines mean fewer elves and fewer bodies. If there is a tie, it runs through *households*, not through blood. Nothing committed.
 
 ### Q-050 · Does anyone notice at the World Cup? (DIV-037)
 
@@ -456,14 +458,6 @@ In her room Harry sleeps. At Privet Drive he's alone, cut off, and the one thing
 - **The Order.** When they discover the correspondence (DIV-065), and how badly they take it. Sirius takes her side.
 - **Into B5.** Canon's opening rage keeps its cause and gains a target: the people protecting him tell him nothing, and the Death Eater's daughter writes every week.
 
-### Q-076 · Dobby as courier (DIV-065, DIV-050)
-
-Dobby carries her letters from summer 1995. Open, and mostly waiting on [problems/house-elves.md](../problems/house-elves.md):
-
-- **Can he?** The author's idea binds an elf to a house and a master. Whether a free elf bound to Harry can go to and from Malfoy Manor is a rule that session has to set.
-- **Her asking.** She has to ask a favour of the elf her family owned and mistreated. That's the same noblesse oblige that saved Buckbeak, and it deserves its few lines.
-- **The payoff.** If he has carried their letters since B4, his death at the Manor is her loss too, not only Harry's (DIV-050).
-
 ### Q-077 · The First Task's dragons, and hers (DIV-027, DIV-001)
 
 B4 is the book with actual dragons in it, and we have never used that. She is named for a she-dragon, her Patronus will be one, Fleur concedes to "a fierce dragon" in February, and Lucius sees a dragon guarding its hoard in June ([sleeping-beauty](../threads/sleeping-beauty.md)). The First Task currently passes without her.
@@ -533,12 +527,55 @@ The slur lands in B1 and passes in front of him because he hasn't got the word y
 
 B5 is where this plant should pay: Harry wanting Sirius back is the same want that ruined the Dessendres, and he is the one person at the Ministry who has seen where it goes. Open: whether it surfaces as thought, as something he says, or only as the reason he doesn't do what canon's grief would have him do. Related: the B7 Resurrection Stone, where he lets them go, and the demotion of the Hallows (Q-011).
 
-### Q-091 · The corridor and the house-elves (DIV-072)
 
-Clea's pets are beings made by wizards, kept alive by the magic that made them, refusing the rescue a human offers them — the house-elf problem in miniature, landing in B1, before Hermione has met an elf. Does Hermione's reaction in that corridor connect forward to SPEW, and does the resonance strengthen the elf direction or muddy it? Belongs to the elf session ([problems/house-elves](../problems/house-elves.md), Q-016, Q-048).
+### Q-093 · S.P.E.W. after DIV-075, and who tells Hermione (DIV-077)
+
+Freeing an elf kills it, everyone knows it, and Hermione is campaigning to do it. Canon's props become traps: the hats hidden in Gryffindor Tower, the elves refusing to go in, Dobby collecting every one because he is the only one immune.
+
+- **Do the hats survive?** The author is inclined to drop the knitting. If they go, something else has to carry the same irony.
+- **Who tells her, and when.** The obvious candidate is Dracaena — flatly, cruelly and correctly — which puts DIV-008 on the page in one exchange: the ideologue has the fact and no shame, the Muggle-born has the ethics and no facts. Not settled; the author wants it discussed.
+- **What she does with it.** B4 is the collision; the research is B5 (DIV-075).
+
+### Q-094 · Winky's death: placement, and what she was carrying (DIV-077)
+
+She dies in B4, with Dobby there. Open:
+
+- **Exactly when.** The lull after the Second Task is the lean. Not early, because the fade is the demonstration; not the end of the book, which belongs to the graveyard.
+- **Her canon function.** In canon she is the witness who confirms that Crouch hid his son. Harry and Dumbledore get that from Moody's confession anyway, but B4 planning has to check what else she carried and re-home it.
+- **Does Hermione witness it?** It lands hardest on her, and it is the year of S.P.E.W. (Q-093).
+
+### Q-095 · Kreacher's asking: where it falls (DIV-078)
+
+The asking belongs in February–April 1998, the stretch of B7 that currently has nothing in it (Q-013, Q-065). Open: where exactly, whether Dracaena is present, and what Harry's refusal to offer costs him before he gives in. Also whether Harry ever registers that summoning Kreacher at all is using the curse he claims not to use.
+
+### Q-096 · The epilogue at the Manor (DIV-078)
+
+Harry and Dracaena live at Malfoy Manor and Kreacher restores it. Open:
+
+- **What Kreacher keeps of Dobby.** One object, one thing he will not explain to the children. He is the only one who ever knew Dobby was dying, so the remembering is his. Without it the ending reads as Dobby's death being paid back.
+- **Lucius and Narcissa's place in it.** The author wants omakes rather than page time; where they live, and how often they are there, is open.
+- **How much of it is on the page** versus left to the reader.
+
+### Q-097 · Does the Manor ever make another elf? (DIV-075, DIV-050)
+
+Ur-Dobby is spent and the Manor's own spirit is gone, which is why it takes in a Black elf instead. But the house stands, a line lives in it again, and the rule says houses make elves. If the Manor eventually makes one, it is Dobby again and he will not remember — which is either the most hopeful note in the series or the most horrifying. The author's call, and it may be better never answered on the page.
+
+### Q-098 · Dracaena and the elf who should be dead (DIV-076, DIV-065)
+
+She knows what dismissal does. So in B2 Potter did not steal her family's elf, he killed him — and by her own code that is both theft and cruelty, and under our rules she is right about the second.
+
+Then Dobby keeps turning up alive for years, and she is the only person in the world positioned to notice that this is impossible. Open: when she notices, what she makes of it, whether she ever asks him, and whether it is part of why she can bring herself to ask him a favour in summer 1995 (DIV-065). Her noblesse oblige towards him — he is her retinue, and a lady treasures her retinue — is settled ([dracaena-malfoy](../characters/dracaena-malfoy.md)).
 
 
 ## Answered
+
+### Q-076 · Dobby as courier (DIV-065, DIV-050, DIV-075)
+
+*Answered:* he can. A free elf is anchored, not confined — Dobby is anchored to Harry rather than to any building, and the Manor's claim on him is residual, not severed, so he can come and go. Distance weakens him, which is why his errands are small and why he is feeble everywhere except the Manor. Her asking still costs her: she is asking a favour of the elf her family owned, and of something that by everything she knows should have died in B2 (Q-098). The payoff stands — his death is her loss too. → DIV-075, [setting/house-elves.md](../setting/house-elves.md)
+
+### Q-091 · The corridor and the house-elves (DIV-072, DIV-075)
+
+*Answered:* deliberately linked, and the link is a contrast rather than an echo. Clea's painted creatures cannot be freed because freeing them is destroying them and there is no remedy at all. An elf cannot be freed either, but there the remedy exists and has to be *given* rather than taken away. Hermione meets the dead end at eleven and the door at fourteen, and gets the history at fifteen without ever getting the remedy. → DIV-075, [setting/house-elves.md](../setting/house-elves.md)
 
 ### Q-087 · Where Clea's landscape hangs, and the shape of the B1 discovery (DIV-072, DIV-073)
 

@@ -49,7 +49,7 @@ After the Third Task Harry can't sleep without a draught. He wakes the dormitory
 
 ## The summer letters *(draft)* · DIV-065
 
-Through the summer of 1995 she writes to him at Privet Drive. Hedwig is far too visible and his post is being watched, so Dobby carries them: free, at Hogwarts, and willing to do it for Harry. She has to ask a favour of the elf her family owned (Q-076).
+Through the summer of 1995 she writes to him at Privet Drive. Hedwig is far too visible and his post is being watched, so Dobby carries them: free, lodging at the Burrow, and willing to do it for Harry. He can, because a free elf is anchored and not confined (Q-076, answered; DIV-075). She has to ask a favour of the elf her family owned — and, by everything she knows, of something that should have died when Potter freed it three years ago (DIV-076, Q-098).
 
 Canon's isolation stands and gets worse. The people who claim to be protecting him tell him nothing; the one person treating him like a person is a Death Eater's daughter, and his friends aren't writing because they were told not to — on top of the rift they parted on (DIV-063). The Order finds out eventually and is appalled. Sirius takes her side.
 

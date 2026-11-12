@@ -137,7 +137,9 @@ What the corridor is actually for. Not *don't dwell on dreams* — that one he g
 
 He is shown all of this at eleven and still isn't careful, and it comes due at Sectumsempra. Written out in [characters/harry-potter.md](../characters/harry-potter.md) — *Instinct, and what it costs*, and *What can't be taken back*. Nothing in the text joins the corridor to that night.
 
-**Resonance with the elves** *(draft)*. Creatures made by wizards, kept alive by the magic that made them, refusing the rescue that's offered — that is the house-elf problem in miniature, arriving in B1, before Hermione has met one. Whether the two are deliberately linked is Q-091, and belongs to the elf session ([problems/house-elves](../problems/house-elves.md)).
+**Resonance with the elves** *(settled)* · Q-091, answered. Creatures made by wizards, kept alive by the magic that made them, refusing the rescue that's offered — the house-elf problem in miniature, arriving in B1 before Hermione has met one. **Deliberately linked, as a contrast.** Clea's creatures cannot be freed because freeing them is destroying them and there is no remedy at all. An elf cannot be freed either, but there the remedy exists and has to be given rather than taken away (DIV-075, [house-elves](house-elves.md)). Hermione meets the dead end at eleven, the door at fourteen, and the history at fifteen — and never the remedy.
+
+It also runs the other way round from this file's own argument. Here the old houses keep the true version in unwritten memory and the books have nothing; there the old houses have buried their own history and the Muggle-born digs it out. Using the same device twice would make it a formula; using it in both directions makes it an argument (DIV-008).
 
 ## What we never resolve *(settled)*
 
@@ -148,7 +150,6 @@ He is shown all of this at eleven and still isn't careful, and it comes due at S
 - Q-085 · her reading needs a second sighting between B4 and B6 (the B1 statement is recorded above)
 - Q-086 · what actually happened at the end
 - Q-089 · the B5 payoff at the veil
-- Q-091 · the corridor and the house-elves
 - Q-092 · who tells Harry what Mudblood means, and when
 
-*Answered:* Q-087 (where it hangs and the shape of the discovery), Q-088 (he registers it about Clea, not about himself).
+*Answered:* Q-087 (where it hangs and the shape of the discovery), Q-088 (he registers it about Clea, not about himself), Q-091 (the elves — linked, as a contrast, and inverted).

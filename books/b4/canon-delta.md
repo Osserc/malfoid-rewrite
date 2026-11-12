@@ -26,10 +26,10 @@ Not beats, but true all through the book:
 | 2 | Harry writes to Sirius about the scar | keep | | |
 | 3 | The Weasleys collect Harry by Floo, wreck the Dursleys' fireplace, and leave Dudley with a swollen tongue | keep | | |
 | 4 | The Burrow, then the walk to the Portkey with the Diggorys | keep | Cedric is introduced here and dies in June. Worth the weight | |
-| 5 | The World Cup campsite: Ministry wizards failing at Muggle clothes, Bagman, Crouch, Winky holding a seat | keep | | |
+| 5 | The World Cup campsite: Ministry wizards failing at Muggle clothes, Bagman, Crouch, Winky holding a seat | keep | Her terror of heights now reads as an elf a long way from her demesne and weakening with distance | DIV-075 |
 | 6 | The Top Box: the veela dance, and Harry is as affected as every other male in the stadium | **alter** | The veela don't touch him. He's already in love and doesn't know it. Arthur and Lucius are unmoved too. Dracaena, in the box, sees it and works out that he loves someone — and assumes it's Cho | DIV-037, DIV-041, Q-050 |
 | 7 | Ireland win; Krum catches the Snitch anyway | keep | Our rules turn his choice from vanity into sense: with the match lost he ends it to stop the bleeding, and takes the Snitch off Lynch as the one contest still open to him. The scene teaches the reader the closing move. She approves of the calculation; Harry is appalled you'd end your own match while losing | DIV-066, Q-080 |
-| 8 | That night: Death Eaters torment the Muggle campsite family, the Dark Mark goes up, Winky is found with Harry's stolen wand and Crouch sacks her | keep | | |
+| 8 | That night: Death Eaters torment the Muggle campsite family, the Dark Mark goes up, Winky is found with Harry's stolen wand and Crouch sacks her | keep | **Load-bearing.** The sacking is a death sentence and Crouch knows it, as everyone does. He is telling his elf to go and kill herself, in public, and nobody finds it remarkable | DIV-075, DIV-077 |
 | 9 | Back at the Burrow; the Prophet's coverage; Rita Skeeter named for the first time | keep | | |
 
 ## Autumn term
@@ -40,7 +40,7 @@ Not beats, but true all through the book:
 | 11 | Arrival: Moody is introduced, the Triwizard Tournament is announced with an age line, and Quidditch is cancelled for the year | keep | The cancelled season is why the Duelling Club is the only arena their rivalry has left this year | DIV-028 |
 | 12 | Moody demonstrates the three Unforgivable Curses on spiders. Neville is badly shaken | keep | **Load-bearing.** This is where Dracaena sees what the Killing Curse looks like. She uses it in June, to read the green light in her own room off Harry's face | DIV-061 |
 | 13 | Moody drills the class on resisting the Imperius Curse; Harry alone throws it off | keep | | |
-| 14 | Hermione founds S.P.E.W.; Dobby and Winky turn up working in the kitchens | keep | *(open)* Everything about elves waits on [problems/house-elves.md](../../problems/house-elves.md). Dobby being at Hogwarts and free matters later | DIV-065, Q-076 |
+| 14 | Hermione founds S.P.E.W.; Dobby and Winky turn up working in the kitchens | **keep, re-lit** | Every canon beat stays and only its meaning changes. Dobby is in the castle to save Winky, not because he works there — he lodges at the Burrow. He drags her up, gets her work, a bed, wages, and fails, because none of it is a house and she will not beg. The hats are traps; the elves refusing Gryffindor Tower is self-preservation; Dobby collects every one because he is the only one immune. She dies in the spring, with him there | DIV-075, DIV-076, DIV-077, Q-093, Q-094 |
 | 15 | Fred and George try to cross the age line and grow beards | keep | | |
 | 16 | Durmstrang and Beauxbatons arrive on 30 October: Karkaroff, Madame Maxime, Krum, Fleur | keep | | |
 | 17 | The Goblet names Cedric, Fleur and Krum, then Harry | keep | | |
@@ -65,7 +65,7 @@ Not beats, but true all through the book:
 | # | Canon beat | Verdict | Our version / notes | Refs |
 |---|---|---|---|---|
 | 28 | Cedric's hint sends Harry to the prefects' bath, where he works out the egg. Moaning Myrtle | keep | | |
-| 29 | Harry hunts for a way to breathe underwater and Dobby brings him gillyweed, having overheard Moody and McGonagall | **alter** | He goes down on a gillyweed extract Dracaena brewed for him. Where she gets the weed, and what replaces Dobby's errand, is open | DIV-039, Q-051 |
+| 29 | Harry hunts for a way to breathe underwater and Dobby brings him gillyweed, having overheard Moody and McGonagall | **alter** | He goes down on a gillyweed extract Dracaena brewed for him. Where she gets the weed, and what replaces Dobby's errand, is open. Dobby has his own business in the castle this year (beat 14) | DIV-039, Q-051 |
 | 30 | Second Task: the hostages are the people the champions would miss most, and Ron is Harry's | **alter** 🔒 | Dracaena is Harry's hostage. Ron's role without the spot: Q-010 | DIV-005, DIV-013 |
 | 31 | Harry takes Gabrielle up as well as his own hostage, and the judges reward him for it | keep | Required: it's what puts Fleur in his debt | DIV-038 |
 | 32 | Sirius in the cave above Hogsmeade: Crouch's history, and Bertha Jorkins missing | keep | | |
@@ -112,7 +112,8 @@ Beats with no canon equivalent.
 | The carriage ride home: Lucius orders her to cut ties, she refuses, and he invents the spy strategy | Straight after King's Cross | DIV-013, DIV-040, DIV-047, Q-022 |
 | Dumbledore tells Harry she is in a very tough spot, with her father a Death Eater | End of the year | DIV-046, DIV-047 |
 | Snape teaches her Occlumency, and sees her memories of Harry | Summer 1995 | DIV-020, DIV-031, Q-043 |
-| She writes to Harry at Privet Drive all summer; Dobby carries the letters | Summer 1995 | DIV-065, Q-075, Q-076 |
+| Winky dissolves across the year and dies in the spring, with Dobby there | After the Second Task, in the lull | DIV-077, Q-094, [the-kitchens](../../scenes/b4/the-kitchens.md) |
+| She writes to Harry at Privet Drive all summer; Dobby carries the letters | Summer 1995 | DIV-065, Q-075 |
 
 ## Open
 
@@ -122,4 +123,4 @@ Beats with no canon equivalent.
 - **Beat 29** — where she gets the gillyweed, and what becomes of Dobby's errand (Q-051).
 - **Beat 30** — Ron without the hostage spot (Q-010).
 - **Beat 33** — Rita's post-Task coverage (Q-052).
-- **Beat 14** — everything elvish waits on [problems/house-elves.md](../../problems/house-elves.md).
+- **Beat 14** — S.P.E.W.'s shape now that freeing is known to be lethal, whether the knitted hats survive, and who tells Hermione (Q-093). Winky's exact placement, and what her canon role as the witness to Crouch's secret was carrying (Q-094).

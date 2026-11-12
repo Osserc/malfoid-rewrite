@@ -7,7 +7,7 @@ Canon elements that break the plot or the ethics and have to be dealt with rathe
 | Problem | Kind | Status | Fix |
 |---|---|---|---|
 | [Time-Turners](time-turners.md) | Plot | resolved | DIV-002 |
-| [House-elves](house-elves.md) | Ethics | open | — |
+| [House-elves](house-elves.md) | Ethics | resolved | DIV-075 |
 | [Scale](scale.md) | Plot | resolved | DIV-035 |
 
 ## Candidates
