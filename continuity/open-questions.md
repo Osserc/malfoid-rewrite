@@ -539,6 +539,8 @@ Still open:
 - **Do the hats survive at all?** The author is inclined to drop the knitting. If they go, something else has to carry the irony, or nothing does.
 - **If they stay,** they are traps — but she is not the castle's household, so they may have done nothing whatever (Q-099), and nobody can tell her. Current lean: Dobby talks her out of them, and she only understands what she nearly did once Winky is dead.
 - **What the society becomes** once it has a body in it. Its destination is Q-100.
+- **Her one canon success is gone.** Dobby never takes wages from Dumbledore (DIV-077), so S.P.E.W. has no paid elf to point at and no institutional endorsement of any kind. Her only live data point is that Harry has an elf and pays for its board without knowing he is doing it, which is worse for her and better for the book. What she argues from instead is open.
+- **And Dracaena argues the other side of it,** in B4, for better masters rather than none, and is right about the year while Hermione is right about the century (DIV-077).
 
 ### Q-094 · Winky's death: placement, and what she was carrying (DIV-077)
 
@@ -546,7 +548,9 @@ She dies in B4, with Dobby there. Open:
 
 - **Exactly when.** The lull after the Second Task is the lean. Not early, because the fade is the demonstration; not the end of the book, which belongs to the graveyard.
 - **Her canon function.** In canon she is the witness who confirms that Crouch hid his son. Harry and Dumbledore get that from Moody's confession anyway, but B4 planning has to check what else she carried and re-home it.
-*Settled:* Harry, Ron, Hermione and Dobby are all present when she dies, and it is where Hermione's hatred of Crouch is born — permanent, personal, and not political. She extends him no sympathy through the back half of the book.
+- **Is there a grave?** What is left of a dissolved elf is dust (DIV-075). Whether the others bury it, and whether that makes the first elf grave in Britain three years before Dobby's, is open.
+
+*Settled:* Harry, Ron, Hermione, Dobby **and Dracaena** are all present when she dies. It is where Hermione's hatred of Crouch is born — permanent, personal, and not political; she extends him no sympathy through the back half of the book. And it is the only time any pureblood watches what dismissal actually does (DIV-077, Q-098).
 
 ### Q-096 · The epilogue at the Manor (DIV-078)
 
@@ -555,13 +559,17 @@ Harry and Dracaena live at Malfoy Manor and Kreacher restores it. Open:
 - **What Kreacher keeps of Dobby.** One object, one thing he will not explain to the children. He is the only one who ever knew Dobby was dying, so the remembering is his. Without it the ending reads as Dobby's death being paid back.
 - **Lucius and Narcissa's place in it,** and how often they are at the Manor.
 - **How much of it is on the page** versus left to the reader.
-- **Post-story material.** Anything past the epilogue is *what might happen*, not canon, and has no home in the repo. Directories for post-epilogue episodes can be added later; not a priority.
+- **Post-story material.** Anything past the epilogue is *what might happen*, not canon, and has no home in the repo. Directories for post-epilogue episodes can be added later; not a priority. *Author's lean, for whenever that happens:* Dracaena campaigns for Hermione's method behind closed doors, in the rooms Hermione cannot get into (Q-100).
 
 ### Q-098 · Dracaena and the elf who should be dead (DIV-076, DIV-065)
 
 She knows what dismissal does. So in B2 Potter did not steal her family's elf, he killed him — and by her own code that is both theft and cruelty, and under our rules she is right about the second.
 
-Then Dobby keeps turning up alive for years, and she is the only person in the world positioned to notice that this is impossible. Open: when she notices, what she makes of it, whether she ever asks him, and whether it is part of why she can bring herself to ask him a favour in summer 1995 (DIV-065). Her noblesse oblige towards him — he is her retinue, and a lady treasures her retinue — is settled ([dracaena-malfoy](../characters/dracaena-malfoy.md)).
+Then Dobby keeps turning up alive for years, and she is the only person in the world positioned to notice that this is impossible. Open: when she notices, what she makes of it, whether she ever asks him, and whether it is part of why she can bring herself to ask him a favour in summer 1995 (DIV-065).
+
+**The "better master" scene** *(settled, unplaced)* · DIV-077. In B4, in the weeks after the Second Task, she tells Harry that providing for his own elf is his responsibility and that he had better be a better master at it — noblesse oblige, and the only advice anyone gives all year that would keep an elf alive. He has never used the word in his life: not master, friend (DIV-076). And she is lecturing him about an elf she believes he killed, which she cannot raise without admitting she cared, so the real subject of the scene is the thing neither of them says. Open: where exactly it sits, whether Hermione is in the room for it, and how it stops short of the question.
+
+**Then she watches Winky die** ([the-kitchens](../scenes/b4/the-kitchens.md), DIV-077), which no pureblood ever does. The stories she was raised on say the elf goes away; it is a suicide over eight months. She makes no argument of it and does not change sides (Q-083), and it is still why she can end up backing Hermione's method quietly, decades later (Q-100). Her noblesse oblige towards him — he is her retinue, and a lady treasures her retinue — is settled ([dracaena-malfoy](../characters/dracaena-malfoy.md)).
 
 
 ### Q-099 · Who is Hogwarts's household? (DIV-075, DIV-077)
@@ -570,31 +578,39 @@ The castle's elf is bound like every other, which means somebody stands in the h
 
 - **It decides the hats.** If Hermione is not the household, her hats were never capable of freeing anyone, and her campaign was harmless and futile rather than lethal (Q-093). She can never find this out.
 - **It decides the battle.** Kreacher rouses the castle's elves in B7 (canon). If someone could simply have ordered them, why didn't they, and does anyone notice afterwards?
+- **Nothing in B4 commits us either way.** Dumbledore never employs Dobby and never takes Winky in — the castle's elf feeds them both of its own accord, in the gaps between orders, and the Headmaster is never told (DIV-077). So no scene on the page implies that anyone stands in the household's place, and the question stays genuinely open.
 - **It may decide Q-100,** since a household that has decided never to use what it holds is exactly what Hermione's method needs, and the school is the largest one in Britain.
 
 ### Q-100 · Hermione's method (DIV-078, DIV-075)
 
-**The big one.** A way for a bound elf to recover its natural state over time, inside a household that has decided never to use what it holds. Not freeing, which kills them.
+**The big one, and still open.** A way for a bound elf to recover its natural state over time, inside a household that has decided never to use what it holds. Not freeing, which kills them. No mechanism is settled; the author is thinking about it. What follows is what is fixed while that happens.
 
-What she has that nobody has ever had:
+**What she has that nobody has ever had**
 
 - **A hole in the archive** where the history should be (B5).
 - **A working anomaly she can study.** Dobby is a thousand-year-old oversight eating toast at the Burrow: a master with no house, which the original casters never imagined and made no provision for. **The curse has a bug, so it has seams, so it can be worked.** She sees the first symptom years early, when Dobby gets Mrs Black's portrait off a wall no elf should be able to touch ([kreacher-and-the-manor](../scenes/b7/kreacher-and-the-manor.md)).
 
-**Leading candidate (undesigned, for discussion): induce the glitch on purpose.**
+**Fixed points** *(settled)*
 
-She cannot break the curse and must not be able to. What she can do is reproduce Harry's accident deliberately and safely — rules-lawyering plus precision casting, which is exactly her register and needs no power.
+- **There is nothing to break.** The binding was cast once and what it sits on now is the elves; there is no seat of it, no artefact, nothing to find and destroy. The only instrument still standing is the house (DIV-075). Grimmauld Place is the seat of *Kreacher's* binding, in that sense and no other.
+- **It is a finesse job.** Precision, research, rules-lawyering. She is not powerful and the method must not need power: she finds the seam rather than beating the magic.
+- **It is not a repeat of what Harry did.** That was an accident that worked once because Dobby and Harry were the right two people at the right moment on the right seam, and **she is clever enough to see that it cannot be extended.** She takes the corridor as proof the thing has seams and then goes and finds a different one. Whatever she builds stands on its own mechanism.
+- **The cost is houses.** Whatever it turns out to be, performing it ends the house the elf is leaving. Grimmauld Place dies when Kreacher goes — mechanically, not sentimentally — and his consent is consent to end the house of Black (DIV-078).
 
-- **Release, then catch.** The elf is genuinely dismissed and genuinely dying for a moment, and the re-bind has to land inside that window. The template is Harry catching Dobby by accident in 1993; she is reverse-engineering the one thing that ever worked.
-- **Catch it to a person who has a house the elf is not bound to.** This is the seam. Dobby died because Harry had nothing behind him. Kreacher lives because by then Harry has the Manor — a house that sustains the body without owning the spirit. Anchored to a person, housed by a building with no claim on him, held fully by neither.
-- **Then recovery is the household's work, not hers.** She supplies the mechanism; decades of being treated as a person do the rest. Which keeps her clever rather than omnipotent.
-- **The cost is the house.** Performing it spends the house the elf is leaving: it is why Grimmauld Place dies, mechanically rather than sentimentally, and why Kreacher's consent is consent to end the house of Black.
+**Why the cost stays** *(settled)*
 
-**And that cost is the permanent dilemma.** The method works and cannot be used widely, because every elf saved costs an old house, and old houses are the only thing that ever made elves and are already disappearing (DIV-035). Scaling it finishes what the ancient wizards started. There is no version of this where she simply wins.
+It is the whole political payload, and it cuts both ways on purpose.
 
-Alternatives still live: rediscovering **transfer**, which the old magic could do and nobody now can — though that only moves an elf, it doesn't restore one; and whether the household's character is doing all the real work anyway, since an elf is made of what its household is.
+- **It cannot be scaled.** Old houses are the only thing that ever made elves, and they are already disappearing (DIV-035). Every elf saved costs one of the few left, so running the method widely finishes what the ancient wizards started. There is no version of this where she simply wins.
+- **It hands the purebloods live ammunition.** Dracaena's standing grievance is that Mudbloods respect nothing and will take an axe to what they have not troubled to understand — the grievance she first voices in the Dessendre corridor (DIV-074, [painted-life](../setting/painted-life.md)). And here is a Muggle-born whose life's work is dismantling the oldest houses in Britain, for the sake of house-elves of all things. They are bound to hate her more than they already do, and they have a point, and it is the best one they will ever get.
+- **And she is right anyway.** The book gives the objection its full weight and does not let it win. → [society](../setting/society.md), [hermione-granger](../characters/hermione-granger.md), [dracaena-malfoy](../characters/dracaena-malfoy.md)
 
-Open regardless: **whether she ever publishes**, which decides whether the ending is one elf or a beginning for all of them. And whether Harry ever realises she built it out of something he did at twelve without understanding it.
+**Still open**
+
+- **The mechanism.** Deliberately parked. *Ruled out:* inducing the glitch on purpose — release and catch inside the dying window, to a person holding a house the elf is not bound to — because that is a reproduction of Harry's accident, which does not extend. *Still live:* rediscovering **transfer**, which the old magic could do and nobody now can, though that only moves an elf and does not restore one; and whether the household's character is doing all the real work anyway, since an elf is made of what its household is.
+- **Whether she ever publishes,** which decides whether the ending is one elf or a beginning for all of them.
+- **Whether Harry ever realises** she built it out of something he did at twelve without understanding it.
+- **Dracaena's part, after the story** *(post-story, not canon)*: the author's lean is that she ends up campaigning for Hermione behind closed doors, in the rooms Hermione cannot get into. It is earned in B4 and nowhere else — she is the one pureblood in Britain who has stood in a kitchen and watched a dismissed elf kill itself, instead of being told it went away (DIV-077, Q-098). Q-096.
 
 ### Q-101 · Dracaena, the Chamber, and her dead elf (DIV-076, Q-098)
 
@@ -613,22 +629,19 @@ B2 may give her far more to do — the inbox has her witnessing Harry kill the b
 
 Depends on what she is actually doing in B2, which is unplanned.
 
+## Answered
+
 ### Q-102 · Do house-elves eat? (DIV-075, DIV-076, DIV-077)
 
-Raised and not settled. It decides whether the wages business means anything.
+*Answered: yes — and exactly one of them does.* A **housed** elf eats nothing and never has: the house maintains the body the way it maintains its own roof. That is also why no elf has ever been paid, since wages buy food and lodging and the house is both. An **unhoused** elf has no house behind it, so the body falls back on matter like anything else's. Every dismissed elf is briefly unhoused and none of them has ever cared; Dobby is the only elf in a thousand years who has had to feed himself and wanted to, so Harry's vault is not a convenience — it is the thing that feeds him.
 
-*Claude's proposal:* a **housed** elf needs nothing — the house sustains it, which is why nobody has ever paid one and why money would be meaningless to it. An **unhoused** elf has no house to draw on and has to get its sustenance from matter like anything else. So Dobby is the only elf in Britain with expenses, and Harry's vault is not a convenience, it is what keeps him fed.
+Two canon beats re-light at no cost. **Winky refuses money,** which is refusing food: taking it would be admitting she means to go on living. **And she only drinks** — butterbeer is not sustenance but oblivion, which is why it is the one thing she will accept from Dobby, and which turns his keeping her into forcing meals on someone who means to starve (DIV-077).
 
-If that holds, three canon beats re-light for free:
+A third beat goes the other way and is **cut**: canon has Dobby ask Dumbledore for wages. He does not, here. He has a person, which is all he ever wanted; the castle needs nothing from anybody and has no work to give; a Headmaster who employs freed elves makes Hogwarts a refuge in a small way, which the design cannot afford; and an independent income would dilute the one thing the Winky thread runs on, which is that Harry's vault is the only money in the system. He and Winky are the castle elf's guests, and Dumbledore does not know (DIV-077).
 
-- **Dobby asks Dumbledore for wages** because he genuinely needs them. Dumbledore, who does not know why, is glad to pay.
-- **Winky refuses them** because she does not need them *and* because taking them would be admitting she intends to go on living.
-- **She only drinks.** Butterbeer is not sustenance, it is oblivion, which is why it is the one thing she will accept from Dobby. Canon's detail becomes diagnostic, and his keeping her becomes forcing food on someone who means to starve.
+It also marks Dobby as the outcast and the glitch he is. As far back as he can remember he never ate anything; he was a spirit in a house, and spirits do not eat. Now he is hungry for the first time, with nobody alive who could tell him what the feeling is. His first meal is Molly's cooking at the Burrow in the summer of 1993 — not a house's output but a woman's work, by hand, for him — and he bawls his eyes out. Harry is in Diagon Alley that summer and misses it, so Dobby tells him instead, at length, and Harry cannot see why it matters.
 
-It should **not** slow the unravelling: food sustains the body, not the spirit, so Dobby can be well fed and still running out. Otherwise the answer is "feed him more."
-
-
-## Answered
+**The false dawn is the point.** Out of the yoke and fed for the first time, he feels better than he ever has, and everyone reads that as freedom agreeing with him. Then it thins — his powers go by degrees across four years while he eats perfectly well — because food sustains the body and nothing sustains the spirit. The last of them goes evacuating Malfoy Manor. Feeding him never buys him a day (DIV-050). → DIV-075, [setting/house-elves.md](../setting/house-elves.md)
 
 ### Q-097 · Does the Manor ever make another elf? (DIV-075, DIV-050)
 

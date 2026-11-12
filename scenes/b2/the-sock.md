@@ -45,7 +45,10 @@ Canon's trick stands, start to finish. What changes is what freedom turns out to
 ## Afterwards *(settled)*
 
 - **The Burrow.** Harry has nowhere to put him, so he gives him the house he wishes were his own, and thinks nothing of it. Molly has always wanted an elf and Dobby is treated well. It is lodging, not a demesne — he is anchored to Harry, not to the building (DIV-075).
-- **Harry's money is Dobby's.** Functionally complete access to the vault. He cannot walk into Gringotts, but the funds are there to call on, and Harry never gives it a second thought. It is how Winky gets kept in B4 (DIV-077), and it is how Harry finally pays the Weasleys back.
+- **He is hungry.** For the first time in his existence: the house that used to sustain him is gone, and an unhoused elf has to eat like anything else ([house-elves](../../setting/house-elves.md), Q-102). He has no idea what the feeling is, and there is nobody alive who could tell him.
+- **The first meal.** Molly's cooking, at the Burrow, in the summer of 1993. A house's output is one thing and a woman standing at a stove is another, and nobody has ever worked *for him* in his life. He bawls his eyes out. **Harry is not there** — he spends that summer in Privet Drive first and then Diagon Alley — so Dobby tells him about it afterwards, at length and at speed, and Harry cannot work out why it matters so much.
+- **The false dawn.** Out of the yoke and fed, he feels better than he has ever felt, and so does anyone who looks at him. It is the last good stretch he gets, and it is the reason nobody is alarmed by anything that follows (DIV-050).
+- **Harry's money is Dobby's.** Functionally complete access to the vault. It is what keeps him fed, which nobody including Harry ever frames that way. He cannot walk into Gringotts, but the funds are there to call on, and Harry never gives it a second thought. It is how Winky gets kept in B4 (DIV-077), and it is how Harry finally pays the Weasleys back.
 - **The absurd improvements.** The Weasleys will not take anything from Harry, so he does it sideways: a small room added on for himself that nobody asked for, the structure quietly shored up, repairs on transparently silly pretexts, all of it paid for out of his vault and built by Dobby. Molly cannot refuse a room for Harry. Dobby gets to be the architect he has always wanted to be — enlarging a house is the oldest thing an elf does — and it is the happiest he has been in centuries.
 - **And it is costing him.** Every one of those improvements comes out of a thing with no house to draw on. Harry's generosity and Harry's homelessness are killing him together, and neither of them knows it (DIV-050).
 - **Clothes do nothing now.** Unhoused, the curse has nothing to grip, so Harry could hand him a jumper every day of the week to no effect, and Dobby could walk away whenever he liked. He doesn't. That is what makes Harry a shelter and not an owner, and it means every day Dobby stays is chosen (DIV-075).
@@ -69,6 +72,7 @@ Then the elf keeps turning up alive, for years, and she is the only person in th
 - Dobby cries too, and only then asks.
 - "Not master — friend," said as decency, not as cleverness.
 - The joke about waiting a long time for a big family. It is never kept.
+- He has never eaten before. The first meal is Molly's cooking, he cries over it, and Harry misses it.
 - No witnesses.
 
 ## Open

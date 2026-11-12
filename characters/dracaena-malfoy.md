@@ -121,13 +121,25 @@ Then Dobby keeps turning up alive, for years, and she is the only person in the 
 
 **The B3 encounter** *(open)* · Q-101. She finds Dobby alive at the castle, and he tells her he is glad Harry freed him, because her father was a horrible master. A bound elf could not say that. She cannot take it there — accepting it means Potter was right and her father was the villain — so she walks off with the grievance intact and chews on it for months. It is the first half of the case against her father, and Buckbeak is the second.
 
+## Winky, and the better master *(settled)* · DIV-077, Q-098
+
+In B4 she tells Harry that providing for his own elf is his responsibility and that he had better be a better master at it. Noblesse oblige — a lady treasures her retinue — and the only advice anyone gives all year that would actually keep an elf alive. He has never used the word in his life: not master, friend (DIV-076). They are arguing about different things and neither of them notices.
+
+She is also lecturing him about an elf she believes he killed, and cannot say so without admitting she cared (Q-098).
+
+**Then she watches Winky die,** in the kitchens, with Harry, Ron, Hermione and Dobby ([the-kitchens](../scenes/b4/the-kitchens.md)). No pureblood ever does this. The stories her house passed down say a dismissed elf *goes away*; what she sees is a suicide carried out over eight months in a warm room, which is far worse than the thing she was told, and which nobody told her because nobody has ever watched.
+
+She makes no argument of it and changes no allegiance — when she breaks with her cause it is out of fear and then love, not conviction (Q-083). But it is the one piece of evidence against her class that she gathered herself, standing up, with her own eyes, and it is why she can end up where she does (Q-100).
+
 ## Hermione's work, later *(draft)* · Q-100
 
 The answer to all of this, when it finally comes, is a Muggle-born's, and it works by ending old houses.
 
 From where Dracaena was raised that is every grievance she has about Mudbloods handed to her with evidence: they respect nothing, and they will take an axe to what they never troubled to understand — the same objection she first makes in the Dessendre corridor, about someone else's dead being interesting (DIV-074). Her side will hate Hermione more than they already do, and for once they will have a real point: the oldest houses in Britain, pulled down for house-elves.
 
-The book lets them have the point and keeps the verdict. She is right, and it is worth it. *Author's lean, post-story and not canon:* Dracaena ends up campaigning for her behind closed doors, in the rooms Hermione cannot get into (Q-096).
+The book lets them have the point and keeps the verdict. She is right, and it is worth it.
+
+*Author's lean, post-story and not canon:* Dracaena ends up campaigning for her behind closed doors, in the rooms Hermione cannot get into (Q-096). It is earned in the Hogwarts kitchens in B4 and nowhere else. She is not persuaded by Hermione and never will be; she simply knows what the alternative looks like, because she stood in the room for it.
 
 ## Voice
 

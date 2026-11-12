@@ -34,6 +34,9 @@ Not a spell that frees an elf — freeing kills them, and she learns that in B4 
 - **Kreacher is the prototype**, at Malfoy Manor, after the war.
 - **It is not one click and not one scene.** It is her whole S.P.E.W. questline, undesigned (Q-100).
 - **She is not powerful and the method must not need power.** Precision, research and cleverness are what she has, and what she is up against is the oldest dark magic in Britain. She does not beat it. She finds the seam.
+- **There is nothing to break.** The binding was cast long ago and what it sits on now is the elves — no artefact, no seat, nothing to destroy. The only instrument still standing is the house, so Grimmauld Place is the seat of Kreacher's binding and of nothing wider (DIV-075).
+- **And it is not a repeat of the corridor.** Harry's accident worked once because he and Dobby were the right two people at the right moment on the right seam. Hermione is clever enough to see it cannot be extended, and does not try: she takes it as proof the magic has seams, and finds a different one (Q-100).
+- **The cost is houses, and it never goes away.** Whatever the method is, performing it ends the house the elf leaves — which is why Grimmauld dies mechanically rather than sentimentally. Old houses are the only thing that ever made elves and are already disappearing (DIV-035), so every elf saved costs one of the few left. Scaled, it finishes what the ancient wizards started. Scaled or not, it means the one person ever to do anything for the elves is a Muggle-born dismantling the oldest houses in Britain, which is the purebloods' best genuine grievance and does not make her wrong (Q-100).
 - **Kreacher's cost is consent.** Leaving Grimmauld means giving up the house of Black, the wall of heads, and everything he has ever been, on the word of a Muggle-born. That is his sacrifice, and it is the right one for him.
 
 ## Grimmauld Place dies *(settled)*
@@ -75,7 +78,8 @@ He leads the castle's elves up out of the kitchens (canon). Under our rules that
 
 - Kreacher is already Harry's, and that is the problem, not the solution.
 - Kreacher knows Dobby is dying, says so as an insult, and is ignored.
-- Hermione's method, not Harry's kindness, is what changes anything.
+- Hermione's method, not Harry's kindness, is what changes anything, and it is not a reproduction of what Harry did.
+- It costs the house. Grimmauld dies because of the method, not because of grief.
 - Grimmauld dies when he leaves it.
 - The Manor, because she would not leave her house.
 - Kreacher never finds out what Ur-Kreacher was.

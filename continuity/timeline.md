@@ -33,6 +33,8 @@ _Marauders era, the first war. Not yet worked out._
 - **1992-12**: Lockhart's Duelling Club ends in disaster (canon). Afterwards the students petition to keep it open, and Flitwick takes over. Harry and Dracaena become regular, evenly matched opponents. DIV-028
 - **1993-05/06**, end of term: the sock. Lucius discards it carelessly, knowing what that does, and Dobby catches it. Dobby begins to dissolve, begs Harry to keep him, and Harry accepts him as a friend rather than a master — the only time in a thousand years it has worked, witnessed by nobody. He goes to the Burrow, with Harry's vault behind him. Malfoy Manor begins to go cold. DIV-075, DIV-076
 
+- **Summer 1993**: Dobby eats for the first time in his existence — Molly's cooking, at the Burrow — and cries over it. Harry is in Diagon Alley and misses it, and hears about it afterwards. Out of the yoke and fed, Dobby feels better than he ever has: the false dawn. DIV-076, Q-102
+
 ## B3 · 1993–94
 
 - **From about 1993**: The post-war cohorts reach Hogwarts, and each Sorting runs a little longer than the last. DIV-035
@@ -56,7 +58,8 @@ _Marauders era, the first war. Not yet worked out._
 - **1995-02-23**: the eve of the Second Task. Dumbledore has a word with Dracaena as he puts the hostages to sleep. DIV-046
 - **1995-02-24**: Second Task. Dracaena is Harry's hostage, and the dream begins. He goes down on her gillyweed extract; at the lake she claims him in front of the school. DIV-005, DIV-013, DIV-038, DIV-039
 - **The next three days**: Fleur's test, then her pantomime in the Great Hall. DIV-037, DIV-038
-- **1995-03/04 (tentative)**: Winky dies in the Hogwarts kitchens in front of Harry, Ron, Hermione and Dobby, after a year of dissolution and of his failed attempts to anchor her. Hermione has disliked Crouch since the World Cup; here it settles into hatred for good. DIV-077, Q-094
+- **1994–95**: Dobby and Winky live in the Hogwarts kitchens as the castle elf's guests. Nobody employs them, there are no wages, and Dumbledore is never told. DIV-077, Q-099
+- **1995-03/04 (tentative)**: Dracaena tells Harry that providing for his own elf is his responsibility and he had better be a better master. Then Winky dies in the Hogwarts kitchens in front of Harry, Ron, Hermione, Dobby and Dracaena, after a year of dissolution and of his failed attempts to anchor her. Hermione has disliked Crouch since the World Cup; here it settles into hatred for good. Dracaena, who was told that dismissed elves go away, watches one kill itself. DIV-077, Q-094, Q-098
 - **1995-06-24**: Third Task. In the graveyard, unseen, Lucius Summons his daughter's ribbon off Harry's wrist and Stuns Avery to open him a way out. DIV-057
 - **1995-06-24, the same night**: the hospital wing. Sirius shoves Dracaena to the bedside; Dumbledore shelters her; she guards Harry all night. Harry keeps Lucius's name from Fudge, with her there, and she defends him to the Minister's face. DIV-047, DIV-058
 - **1995-06-27 (tentative)**: after two nights of screaming in the dormitory, Harry goes down to the Malfoy room. Her potion has failed; she offers her lap instead, and changes the green light without a word. He finds her hoard. He sleeps in her room for the rest of term. DIV-059, DIV-060, DIV-061

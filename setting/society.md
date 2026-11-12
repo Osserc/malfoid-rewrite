@@ -8,7 +8,7 @@ Canon by default. This file records where society works differently.
 
 ## Pureblood ideology 🔒 (principle) · DIV-008
 
-The ideologues have an actual point. What it is, and where it turns into Voldemort's ideology: Q-016. House-elves were the hardest test case, and are now answered: they are houses, bound by a crime nobody remembers committing, which makes the purebloods custodians of an atrocity rather than its authors (DIV-075, [house-elves](house-elves.md)).
+The ideologues have an actual point. What it is, and where it turns into Voldemort's ideology: Q-016. House-elves were the hardest test case, and are now answered: they are houses, bound by a crime nobody remembers committing, which makes the purebloods custodians of an atrocity rather than its authors (DIV-075, [house-elves](house-elves.md)). They also get their best genuine grievance out of the remedy: Hermione's method works by ending the house the elf leaves, so the only person who ever does anything for the elves is a Muggle-born dismantling the oldest houses in Britain, for creatures those houses made. It cannot be scaled without finishing what the ancient wizards started, and she is right anyway (Q-100).
 
 *(draft)* **Lead from DIV-035.** Wizarding Britain really is disappearing, and it really does live off the Muggles. The self-sufficient pure-blood estate, owing Muggles nothing, is a dream of independence. That gives Voldemort's promise to take it all back real credence, though his war, by killing so many, made the decline worse. The turn into his ideology is the blame: Muggle-borns are the only inflow slowing the decline, and the ideologues attack them.
 

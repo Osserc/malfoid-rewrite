@@ -40,7 +40,7 @@ Not beats, but true all through the book:
 | 11 | Arrival: Moody is introduced, the Triwizard Tournament is announced with an age line, and Quidditch is cancelled for the year | keep | The cancelled season is why the Duelling Club is the only arena their rivalry has left this year | DIV-028 |
 | 12 | Moody demonstrates the three Unforgivable Curses on spiders. Neville is badly shaken | keep | **Load-bearing.** This is where Dracaena sees what the Killing Curse looks like. She uses it in June, to read the green light in her own room off Harry's face | DIV-061 |
 | 13 | Moody drills the class on resisting the Imperius Curse; Harry alone throws it off | keep | | |
-| 14 | Hermione founds S.P.E.W.; Dobby and Winky turn up working in the kitchens | **keep, re-lit** | Dobby is in the castle to save Winky, not because he works there — he lodges at the Burrow. He finds her work and a bed and keeps her out of Harry's vault, since she takes no wages, and fails anyway, because none of it is a house and she will not beg. **Dobby takes wages because he needs them** — an unhoused elf is the only kind that has to eat — and Winky refusing hers is refusing food, which is why she only drinks (Q-102). Hermione learns what freeing does early, from Harry and then from Dobby himself. How much of S.P.E.W. survives, and whether the hats do, is open | DIV-075, DIV-076, DIV-077, Q-093, Q-099 |
+| 14 | Hermione founds S.P.E.W.; Dobby and Winky turn up working in the kitchens | **keep, re-lit** | Dobby is in the castle to save Winky, not because he works there — he lodges at the Burrow. He keeps her out of Harry's vault, since she takes no money, and fails anyway, because none of it is a house and she will not beg. **Nobody is employed and there are no wages:** canon's hire from Dumbledore is cut, the castle needs nothing from anybody, and the two of them are the castle elf's guests, which Dumbledore never learns. Winky refusing money is refusing food, which is why she only drinks (Q-102). Hermione learns what freeing does early, from Harry and then from Dobby himself. How much of S.P.E.W. survives, and whether the hats do, is open | DIV-075, DIV-076, DIV-077, Q-093, Q-099, Q-102 |
 | 15 | Fred and George try to cross the age line and grow beards | keep | | |
 | 16 | Durmstrang and Beauxbatons arrive on 30 October: Karkaroff, Madame Maxime, Krum, Fleur | keep | | |
 | 17 | The Goblet names Cedric, Fleur and Krum, then Harry | keep | | |
@@ -112,7 +112,8 @@ Beats with no canon equivalent.
 | The carriage ride home: Lucius orders her to cut ties, she refuses, and he invents the spy strategy | Straight after King's Cross | DIV-013, DIV-040, DIV-047, Q-022 |
 | Dumbledore tells Harry she is in a very tough spot, with her father a Death Eater | End of the year | DIV-046, DIV-047 |
 | Snape teaches her Occlumency, and sees her memories of Harry | Summer 1995 | DIV-020, DIV-031, Q-043 |
-| Winky dissolves across the year and dies in the lull, in front of Harry, Ron, Hermione and Dobby. Hermione's dislike of Crouch settles into hatred | After the Second Task | DIV-077, Q-094, [the-kitchens](../../scenes/b4/the-kitchens.md) |
+| Dracaena tells Harry that providing for his own elf is his responsibility and that he should be a better master. He has never used the word | Weeks after the Second Task | DIV-077, Q-098, [the-kitchens](../../scenes/b4/the-kitchens.md) |
+| Winky dissolves across the year and dies in the lull, in front of Harry, Ron, Hermione, Dobby and Dracaena. Hermione's dislike of Crouch settles into hatred, and Dracaena sees what the stories she was raised on call "going away" | After the Second Task | DIV-077, Q-094, Q-098, [the-kitchens](../../scenes/b4/the-kitchens.md) |
 | She writes to Harry at Privet Drive all summer; Dobby carries the letters | Summer 1995 | DIV-065, Q-075 |
 
 ## Open
@@ -123,4 +124,4 @@ Beats with no canon equivalent.
 - **Beat 29** — where she gets the gillyweed, and what becomes of Dobby's errand (Q-051).
 - **Beat 30** — Ron without the hostage spot (Q-010).
 - **Beat 33** — Rita's post-Task coverage (Q-052).
-- **Beat 14** — how much of S.P.E.W. survives and whether the knitted hats do (Q-093); who the castle's household is, and so whether the hats could ever have worked at all (Q-099). Winky's exact placement, and what her canon role as the witness to Crouch's secret was carrying (Q-094).
+- **Beat 14** — how much of S.P.E.W. survives and whether the knitted hats do (Q-093); who the castle's household is, and so whether the hats could ever have worked at all (Q-099). Winky's exact placement, whether there is a grave, and what her canon role as the witness to Crouch's secret was carrying (Q-094). Where the "better master" scene sits and whether Hermione is in the room for it (Q-098).

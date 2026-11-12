@@ -29,6 +29,15 @@ Their power is enormous and almost entirely local.
 - **They always know when the household calls.** Anywhere in the demesne, and at any distance, if the call comes from one of their own people.
 - **Anchored, not confined.** They can go out, and the further they go the weaker they get. Projecting beyond the house costs them. This is why elf errands in the wider world are small and brief, and why a travelling elf is a feeble thing compared to the same elf at home.
 
+## What sustains them *(settled)* · DIV-075, Q-102
+
+The house feeds the elf. **A housed elf eats nothing, and never has.**
+
+- **The body is real.** Flesh, not a ghost's semblance — and the house maintains it the way it maintains its own roof. Nothing goes in, and nothing is needed. The castle's elf has cooked for a thousand years and has never tasted anything it made.
+- **So no elf has ever been hungry, and no elf has ever been paid,** and those are the same fact. Wages buy food and lodging; the house is both. Money offered to a housed elf is a thing it has no use for, which is most of why the offer has never been made and why nobody has ever had to think about it. **It stays that way.** Nobody is ever employed, by anyone, including Dobby: canon's wage from Dumbledore is cut (DIV-077). The only elf in Britain who is kept costs money to keep, and the person paying has never once thought of it as paying.
+- **An unhoused elf has to eat.** With no house behind it, the body falls back on matter like anything else's. Every dismissed elf is unhoused for the few weeks it takes to come apart, and none of them has ever cared. Winky is unhoused for eight months and refuses. Dobby is unhoused for five years, and is the only elf in a thousand years who has had to feed himself and wanted to.
+- **Food sustains the body, not the spirit.** It keeps an unhoused elf from starving and does nothing whatever for the thing that is actually running out. Dobby can be the best-fed creature in Britain and still be dying on schedule (DIV-050).
+
 ## The keeping *(settled)* · DIV-075
 
 In their original form the relation had nothing to do with ownership. The elf **kept** the house and the people in it — upkeep and protection both — because that is what it was for and what it wanted. The people are **the household**, never masters.
@@ -43,6 +52,7 @@ A long time ago — before Hogwarts — wizards used dark magic to bind the elve
 - **What is left of the will lives in the gaps between orders.** An elf can do anything it was not told not to do, at the price of punishing itself for it. That is the whole of Dobby's conduct in B2, and the whole of the kindness any bound elf manages.
 - **They degraded.** Over centuries the binding dwindled them. They were once near-human, tall and fair; they are now the small, bulging, rag-wearing things everyone knows. A bound elf is a cheap thing to run. The true shape is expensive, and needs a whole house to sustain it.
 - **The house is what grips.** The chain has three links — elf, house, household — and the house holds it.
+- **There is nothing to break.** The binding was cast once, long ago, and what it sits on now is the elves. There is no seat of it: no artefact, no vault, no circle, nothing anyone could find and destroy. The only instrument still standing is the house itself — so when anyone speaks of the seat of an elf's binding they mean a *building*, and Grimmauld Place is the seat of Kreacher's in that sense and in no other. It is why force was never going to undo this, and why the answer, when it comes, has to be procedural (Q-100).
 - **The knowledge is gone.** Nobody now living knows how it was done, which means nobody knows how to undo it, and nobody knows that an elf could be *transferred* rather than freed. It was once possible to hand one on, still bound, to a new house.
 
 ### The exit, and the glitch *(settled)* · DIV-075
@@ -65,6 +75,7 @@ What everyone does know, as folk knowledge with no explanation attached: **a dis
 - **What actually happens.** Freed from the house, an elf has nothing to be. It comes apart — loses hold on existence over weeks, and goes.
 - **Why it looks like suicide.** It is near enough to one. A dismissed elf *wants* to go, because being dismissed is being told by the thing you are made of that you are not worth housing. And the one remedy — asking some other household to take you — is so shameful that an elf will choose dissolution over it, every time but one.
 - **So the wizards' version is cruel and roughly true.** Crouch dismissing Winky is not a man disposing of a witness. It is a man telling his elf to go and kill itself, in a society where that is a known and unremarkable thing to say.
+- **But knowing is not the same as having seen.** Nobody watches. The elf goes off and does it somewhere else, and what is left is dust, and so the version told in good houses — the one passed down to children — is simply that the elf *goes away*. Both accounts are current at once: the adults know what it means, the nursery version is soft, and the softness is load-bearing. It is part of what makes Crouch's dismissal of Winky shocking even to people who find the fact unremarkable: he said it out loud, in front of witnesses, and made everyone present look at it.
 - **And everybody is complicit.** They are not ignorant. They know what dismissal does. They have simply never once asked why.
 
 ## The two locks *(settled)* · DIV-075
@@ -82,6 +93,8 @@ That is the answer to the problem, and it is deliberately not a solution. Nothin
 
 The *beginning* of a real solution is Hermione's, late and partial and procedural: not a spell that frees an elf but a way for one to recover its natural state over time, in a household that has decided never to use what it holds. It is her S.P.E.W. questline and it is not designed yet (Q-100).
 
+What it is **not** is a repeat of the corridor. Harry's accident worked once, on one elf, because the two of them happened to be the right people in the right week standing on the right seam, and Hermione is clever enough to see that it cannot be extended. She takes the anomaly as proof that the magic has seams, and then goes and finds a different one.
+
 ## Dobby *(settled)*
 
 Full beats: [the-sock](../scenes/b2/the-sock.md) (B2) · [malfoy-manor](../scenes/b7/malfoy-manor.md) (his death).
@@ -92,6 +105,10 @@ Full beats: [the-sock](../scenes/b2/the-sock.md) (B2) · [malfoy-manor](../scene
 - **Lucius knew what the sock meant,** and discarded it anyway. Not malice and not temper: he takes a filthy Muggle sock off the diary and flings it aside as rubbish, and Dobby catches it. The agency is Dobby's and the indifference is Lucius's, and that is the whole indictment. His parting line to Harry — *I hope you know what you have just done, Mr Potter* — is the only warning anyone gives, and Harry can't read it ([the-sock](../scenes/b2/the-sock.md)).
 - **He is the only unhoused elf there has ever been**, anchored to a person instead of a building, and the configuration only works because Harry has no house for the curse to grip. Neither Privet Drive nor the Burrow is his: one he hates, one is borrowed.
 - **He lives at the Burrow** from B2 — lodging, not a demesne. He is weak everywhere.
+- **He is hungry, for the first time in his existence.** As far back as he can remember he never ate anything: he was a spirit in a house, and spirits do not eat. Unhoused, the body the binding gave him behaves like any other body and starts asking (Q-102). Nobody tells him what the feeling is, because nobody alive knows there is anything to tell.
+- **He never asks anyone for work or wages.** He has a person, which is the whole of what he has ever wanted, and being kept by Harry is not a humiliation to be worked off — it is the arrangement. Wanting to be independent of the one who feeds you is a wizard's instinct and he has no access to it (DIV-077).
+- **The first meal is Molly's cooking,** at the Burrow, in the summer of 1993. Not a house's output: a woman standing at a stove, working, by hand, for him. He is the first elf in a thousand years to be fed by somebody, and he bawls his eyes out. **Harry is not there** — he spends that summer in Diagon Alley — so Dobby tells him about it instead, at length and at speed, and Harry cannot work out why it matters so much.
+- **The false dawn.** Out of the yoke and fed for the first time, he feels better than he has ever felt, and anyone looking at him agrees. Then it thins: across the next four years his powers go by degrees while he eats perfectly well, and the last of them goes at Malfoy Manor. Feeding him never buys him a day (DIV-050).
 - **He has Harry's money.** Functionally complete access to the vault: not that he could walk into Gringotts, but the funds are his to call on and Harry never thinks about it twice. It is how he supports Winky, who will not take wages from anyone (DIV-077).
 - **And it is how Harry pays the Weasleys.** They will not accept anything from him, so he does it sideways and absurdly: a small room added on for himself that nobody asked for, the structure quietly shored up, a repair here and there, all of it on the most transparent pretexts and all of it paid for. Dobby is already lending Molly a hand; this lets him be the architect he has always wanted to be, which is the oldest thing in him — an elf's first power is enlarging the house it keeps.
 - **Which means Harry is spending him.** Every improvement comes out of a thing with no house to draw on. Harry's generosity and Harry's homelessness are killing him together, and neither of them knows it.
@@ -144,8 +161,8 @@ DIV-008 · DIV-035 · DIV-049 · DIV-050 · DIV-065 · DIV-072 (Q-091) · [socie
 
 ## Open
 
-Q-093 (S.P.E.W. now, and how early Hermione learns) · Q-094 (Winky's death) · Q-096 (the epilogue) · Q-099 (who is Hogwarts's household?) · **Q-100 (Hermione's method — the biggest one left)** · Q-101 (Dracaena, the Chamber and the dead elf) · Q-102 (do elves eat?)
+Q-093 (S.P.E.W. now, and how early Hermione learns) · Q-094 (Winky's death) · Q-096 (the epilogue) · Q-099 (who is Hogwarts's household?) · **Q-100 (Hermione's method — the biggest one left)** · Q-101 (Dracaena, the Chamber and the dead elf)
 
-*Answered by this file:* Q-076 (Dobby as courier), Q-091 (the corridor and the elves), Q-097 (no elf has been made since the binding; the Manor gets none).
+*Answered by this file:* Q-076 (Dobby as courier), Q-091 (the corridor and the elves), Q-097 (no elf has been made since the binding; the Manor gets none), Q-102 (the house feeds them; only the unhoused eat).
 
 *Retired:* Q-095 — Kreacher's asking, struck as underbaked. See Q-100.
