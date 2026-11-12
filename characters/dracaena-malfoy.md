@@ -121,6 +121,14 @@ Then Dobby keeps turning up alive, for years, and she is the only person in the 
 
 **The B3 encounter** *(open)* · Q-101. She finds Dobby alive at the castle, and he tells her he is glad Harry freed him, because her father was a horrible master. A bound elf could not say that. She cannot take it there — accepting it means Potter was right and her father was the villain — so she walks off with the grievance intact and chews on it for months. It is the first half of the case against her father, and Buckbeak is the second.
 
+## Hermione's work, later *(draft)* · Q-100
+
+The answer to all of this, when it finally comes, is a Muggle-born's, and it works by ending old houses.
+
+From where Dracaena was raised that is every grievance she has about Mudbloods handed to her with evidence: they respect nothing, and they will take an axe to what they never troubled to understand — the same objection she first makes in the Dessendre corridor, about someone else's dead being interesting (DIV-074). Her side will hate Hermione more than they already do, and for once they will have a real point: the oldest houses in Britain, pulled down for house-elves.
+
+The book lets them have the point and keeps the verdict. She is right, and it is worth it. *Author's lean, post-story and not canon:* Dracaena ends up campaigning for her behind closed doors, in the rooms Hermione cannot get into (Q-096).
+
 ## Voice
 
 _Open._ She tuts at Muggles who get real magic wrong.
