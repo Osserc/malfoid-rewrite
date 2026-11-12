@@ -3,7 +3,7 @@ status: draft
 book: 4
 placement: Autumn to late spring, across the book. Her death in the lull after the Second Task
 pov: Harry, or Hermione
-characters: [harry-potter, hermione-granger, dobby]
+characters: [harry-potter, hermione-granger, ron-weasley, dobby]
 threads: []
 divergences: [DIV-077, DIV-075]
 sketch:
@@ -29,29 +29,36 @@ Every canon beat above stays on the page. Only what it means changes.
 
 - **The sacking is a death sentence and Crouch knows it.** Not as mechanism — nobody has that — but as the thing everyone knows: a dismissed elf does away with itself (DIV-075). He is not disposing of a witness. He is telling her to go and kill herself, in front of witnesses, and nobody present thinks it remarkable.
 - **Her decline is dissolution.** The drinking, the shaking, the not being herself: she is coming apart, over months, and canon wrote the symptoms for us.
-- **Dobby is trying to save her,** all year. He drags her to the castle, gets her work, a bed, wages. None of it is a house and none of it is wanted.
+- **Dobby is trying to save her,** all year. He drags her to the castle, finds her work and a bed, and keeps her — out of Harry's vault, because she will not take wages from anyone and Dobby has Harry's money to spend (DIV-076). Harry never notices he is paying for a second elf.
 - **She refuses every anchor, including his.** Crouch told her she was not worth housing and she believed him; she will not beg, and she does not want to be saved. Dobby cannot be her anchor anyway — he is barely one himself.
-- **She dies.** In the lull after the Second Task, with Dobby there.
+- **She dies,** in the lull after the Second Task, **with Harry, Ron, Hermione and Dobby there.**
 
-## S.P.E.W. *(draft)* · Q-093
+## How Hermione finds out *(draft)* · Q-093
 
-Hermione's campaign stops being comedy without a word of argument changing.
+Early, and from Harry, not from an enemy.
 
-- **The hats are traps.** She is hiding freedom around Gryffindor Tower for elves to pick up by accident. Every elf in the castle knows exactly what that is.
-- **So the elves refuse to clean the tower.** Canon's beat, now self-preservation rather than offence.
-- **And Dobby clears the minefield nightly.** Canon has him collect and wear every hat, because he is the only one who will go in. He is also the only one immune: he is already out, and clothes mean nothing to him now. He thinks he is being kind to her, and he is, and he never tells her why it was needed.
-- **Hermione is right about everything except the remedy,** and the remedy is the only part that matters. She finds that out in B5 (DIV-075, Q-093).
+- **Harry mentions he owns an elf.** Said with a shrug, because to him it is a friendship and the word is somebody else's. She is appalled, and says so.
+- **Dobby turns up without being called.** He feels Harry thinking about him, and he is in a pinch with Winky anyway, and he comes. Better than Harry summoning him, which would prove her point for her. She gets her first-hand account of what an elf is from the elf, and it is nothing she was prepared for.
+- **So she learns what freeing does early in the year,** in time for it to ruin everything she is building, and from the person she least wants to hear it from, which is Harry.
+- **What she does with it** is the rest of her life's work (Q-100).
 
-Open: whether the hats survive in this form at all, and who finally tells her what freeing does — the obvious candidate is Dracaena, flatly and cruelly and correctly, which puts DIV-008 on the page in one exchange. Q-093.
+**The hats are undecided** and may not survive at all. If they stay, they are traps: freedom hidden around Gryffindor Tower for elves to pick up by accident, the castle's elves refusing to go in as self-preservation, and Dobby collecting every one because he is already out and immune. The wrinkle that saves her from having been a murderer is that **she is not the castle's household** — hats from a fourth-year may have done nothing whatever, and nobody can tell her, and she will never know (Q-099). Current lean: Dobby talks her out of them, and she only understands what she nearly did after Winky dies. Q-093.
+
+## Hermione and Crouch *(settled)*
+
+This is where she comes to hate Bartemius Crouch, deeply and permanently, and it is not a political objection. She has watched a man's discarded servant take eight months to stop existing, in front of her, because he told her she was not worth housing.
+
+It costs nothing and pays twice. Canon spends the back half of B4 on Crouch's unravelling and his son, and she is the only person in the castle who will not extend him an ounce of sympathy. And S.P.E.W. stops being a hobby on the day it acquires a body.
 
 ## Must keep
 
 - Crouch knows.
 - Dobby spends the year trying to be Harry, and fails.
+- Winky will not take wages; Harry's money keeps her, and Harry never knows.
 - She refuses, and the refusal is shame, not despair alone.
-- Dobby is present when she goes.
-- Dobby collecting the hats.
+- All four of them are there when she goes.
+- Hermione's hatred of Crouch starts here and never softens.
 
 ## Open
 
-Q-093 (S.P.E.W.'s shape now, and who tells Hermione) · Q-094 (exact placement of her death, and what her canon function as the witness to Crouch's secret carried — B4 planning has to re-home it)
+Q-093 (how much of S.P.E.W. survives, and whether the hats do) · Q-094 (exact placement of her death, and what her canon function as the witness to Crouch's secret carried — B4 planning has to re-home it) · Q-099 (who is the castle's household, and whether the hats could ever have worked) · Q-100 (what Hermione builds out of this)

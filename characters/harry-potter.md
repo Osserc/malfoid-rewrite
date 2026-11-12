@@ -91,9 +91,11 @@ A house-elf is needed and used and never wanted, which is his want exactly. That
 
 - **B2.** He catches what Lucius throws away, offers friendship instead of ownership, and has no idea that the condition is the whole point or that he qualifies only because he has no house for the curse to grip (DIV-076).
 - **He gives Dobby the Burrow** — the house he wishes were his own — and thinks nothing of it.
+- **And his vault.** Dobby has it, functionally without limit, and Harry never gives it a second thought: it keeps Winky all through B4 without Harry noticing he is paying for a second elf, and it is how he finally repays the Weasleys, who will not take anything from him. A small room added on for himself that nobody asked for, the structure quietly shored up, repairs on transparently silly pretexts. Molly cannot refuse a room for Harry.
+- **Every one of those kindnesses is spending him.** It all comes out of a thing with no house to draw on, and Dobby is delighted to do it, because enlarging a house is the oldest thing in him.
 - **It costs Dobby his life.** A person-anchored elf runs on one person and nothing else, and Harry had nothing else. Dobby dies of Harry's homelessness (DIV-050).
-- **So he won't offer it again.** In B7 he withholds from Kreacher out of fear of what his regard costs, which is its own cruelty, until Kreacher asks (DIV-078).
-- **And it resolves when he stops being homeless.** Kreacher survives the same choice because Dracaena brings a house. The thing Harry wanted his whole life turns out to be the thing that keeps an elf alive.
+- **He cannot do it twice.** Kreacher is already his, completely, through Sirius's will, and being kind to him changes nothing — which is why the answer there has to be Hermione's and not his (DIV-078).
+- **He also cannot undo it.** Clothes do nothing to an unhoused elf, so Harry could not free Dobby again if he tried, and Dobby could leave him any day and doesn't (DIV-075).
 - **He never learns the history.** He has the remedy and no theory; Hermione has the theory and no remedy.
 
 ## Voice
@@ -125,7 +127,7 @@ Events are in [threads/harry-dracaena.md](../threads/harry-dracaena.md). This is
 | B4 | In love before he knows it (DIV-037); learns it properly over the year. First time he pictures a future |
 | B5 | Rage, isolation, and the one person treating him like a person (DIV-065). Loses Quidditch for her and doesn't much care (DIV-067) |
 | B6 | Angry all year, heart not in Dumbledore's lessons. The reflex comes due (DIV-032) |
-| B7 | Drops the plan for her at the Manor (DIV-049); handles her with velvet gloves until she makes him stop (DIV-054); walks to the forest for Dumbledore's plan and comes back for her (DIV-022, DIV-048). Learns what his regard costs when Dobby dies, and has to give it again anyway when Kreacher asks (DIV-050, DIV-078) |
+| B7 | Drops the plan for her at the Manor (DIV-049); handles her with velvet gloves until she makes him stop (DIV-054); walks to the forest for Dumbledore's plan and comes back for her (DIV-022, DIV-048). Learns at Dobby's death what his own kindness had been costing (DIV-050) |
 
 ## Secrets
 
@@ -133,4 +135,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-024, Q-029, Q-035, Q-038, Q-050, Q-057, Q-061, Q-063, Q-072, Q-075, Q-078, Q-080, Q-082, Q-085, Q-095, Q-096
+Q-024, Q-029, Q-035, Q-038, Q-050, Q-057, Q-061, Q-063, Q-072, Q-075, Q-078, Q-080, Q-082, Q-085, Q-096

@@ -48,12 +48,13 @@ He has, in other words, already committed treason for the boy by the time Harry 
 
 ## The elf *(settled)* · DIV-076, DIV-050
 
-He knew what the sock meant. Everyone knows a dismissed elf does away with itself; nobody knows why, and nobody has ever asked (DIV-075). He threw it in a rage anyway, because the thing was only an elf, and then spent five years deciding it did not matter.
+He knew what the sock meant. Everyone knows a dismissed elf does away with itself; nobody knows why, and nobody has ever asked (DIV-075). He discarded it anyway — no temper, no aim, no malice, just a nobleman stripping a filthy Muggle sock off a book and flinging it aside as rubbish, which Dobby then catches. Carelessness, not cruelty, and that is the whole charge. Then he spent five years deciding it did not matter.
 
 - **What he actually did** was cut his own house's spirit loose. The Manor goes cold from that night and never recovers, and he blames the war when the war eventually turns up — five years late ([house-elves](../setting/house-elves.md)).
-- **At the Manor in B7** he sees what crumbles out of Dobby's body: a translucent figure taller than a man, fair-haired, with Malfoy grey eyes. Not an ancestor — the house wearing the family's likeness, because that is what it was made of — and he cannot tell the difference, which is the point. Both halves of what he believes collapse into one image.
+- **He does not attack Harry.** Brawling with a twelve-year-old is beneath him and he has never needed to. What he does instead is stop at the end of the corridor and tell him he hopes he knows what he has just done — the only warning anyone gives, and nobody in the scene can read it.
+- **At the Manor in B7** he sees what crumbles out of Dobby's body: a translucent figure taller than a man, fair-haired, with Malfoy grey eyes. Everyone present sees it and nobody knows what it means; he recognises *a Malfoy* and has no context whatever for why. Hermione supplies the context afterwards, which is its own humiliation.
 - **His apology** is therefore not for kicking a servant. It is for killing his line's house out of pique and living five years in the body of it without noticing (DIV-050).
-- **He is the one who explains it to Harry**, who held the thing and saw nothing. A Malfoy telling Harry Potter what he was carrying.
+- **He learns what it was from Hermione Granger**, who is the only person alive who can read the image, because she spent a year in the archives while his sort looked away (DIV-075).
 
 ## Voice
 

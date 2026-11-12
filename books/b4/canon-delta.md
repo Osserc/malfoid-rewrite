@@ -40,7 +40,7 @@ Not beats, but true all through the book:
 | 11 | Arrival: Moody is introduced, the Triwizard Tournament is announced with an age line, and Quidditch is cancelled for the year | keep | The cancelled season is why the Duelling Club is the only arena their rivalry has left this year | DIV-028 |
 | 12 | Moody demonstrates the three Unforgivable Curses on spiders. Neville is badly shaken | keep | **Load-bearing.** This is where Dracaena sees what the Killing Curse looks like. She uses it in June, to read the green light in her own room off Harry's face | DIV-061 |
 | 13 | Moody drills the class on resisting the Imperius Curse; Harry alone throws it off | keep | | |
-| 14 | Hermione founds S.P.E.W.; Dobby and Winky turn up working in the kitchens | **keep, re-lit** | Every canon beat stays and only its meaning changes. Dobby is in the castle to save Winky, not because he works there — he lodges at the Burrow. He drags her up, gets her work, a bed, wages, and fails, because none of it is a house and she will not beg. The hats are traps; the elves refusing Gryffindor Tower is self-preservation; Dobby collects every one because he is the only one immune. She dies in the spring, with him there | DIV-075, DIV-076, DIV-077, Q-093, Q-094 |
+| 14 | Hermione founds S.P.E.W.; Dobby and Winky turn up working in the kitchens | **keep, re-lit** | Dobby is in the castle to save Winky, not because he works there — he lodges at the Burrow. He finds her work and a bed and keeps her out of Harry's vault, since she takes no wages, and fails anyway, because none of it is a house and she will not beg. Hermione learns what freeing does early, from Harry and then from Dobby himself. How much of S.P.E.W. survives, and whether the hats do, is open | DIV-075, DIV-076, DIV-077, Q-093, Q-099 |
 | 15 | Fred and George try to cross the age line and grow beards | keep | | |
 | 16 | Durmstrang and Beauxbatons arrive on 30 October: Karkaroff, Madame Maxime, Krum, Fleur | keep | | |
 | 17 | The Goblet names Cedric, Fleur and Krum, then Harry | keep | | |
@@ -112,7 +112,7 @@ Beats with no canon equivalent.
 | The carriage ride home: Lucius orders her to cut ties, she refuses, and he invents the spy strategy | Straight after King's Cross | DIV-013, DIV-040, DIV-047, Q-022 |
 | Dumbledore tells Harry she is in a very tough spot, with her father a Death Eater | End of the year | DIV-046, DIV-047 |
 | Snape teaches her Occlumency, and sees her memories of Harry | Summer 1995 | DIV-020, DIV-031, Q-043 |
-| Winky dissolves across the year and dies in the spring, with Dobby there | After the Second Task, in the lull | DIV-077, Q-094, [the-kitchens](../../scenes/b4/the-kitchens.md) |
+| Winky dissolves across the year and dies in the lull, in front of Harry, Ron, Hermione and Dobby. Hermione's hatred of Crouch starts here | After the Second Task | DIV-077, Q-094, [the-kitchens](../../scenes/b4/the-kitchens.md) |
 | She writes to Harry at Privet Drive all summer; Dobby carries the letters | Summer 1995 | DIV-065, Q-075 |
 
 ## Open
@@ -123,4 +123,4 @@ Beats with no canon equivalent.
 - **Beat 29** — where she gets the gillyweed, and what becomes of Dobby's errand (Q-051).
 - **Beat 30** — Ron without the hostage spot (Q-010).
 - **Beat 33** — Rita's post-Task coverage (Q-052).
-- **Beat 14** — S.P.E.W.'s shape now that freeing is known to be lethal, whether the knitted hats survive, and who tells Hermione (Q-093). Winky's exact placement, and what her canon role as the witness to Crouch's secret was carrying (Q-094).
+- **Beat 14** — how much of S.P.E.W. survives and whether the knitted hats do (Q-093); who the castle's household is, and so whether the hats could ever have worked at all (Q-099). Winky's exact placement, and what her canon role as the witness to Crouch's secret was carrying (Q-094).

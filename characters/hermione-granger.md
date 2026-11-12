@@ -48,10 +48,14 @@ Canon default.
 
 Hers is the win. The noble houses buried their own shame so completely that nobody alive knows there was anything to bury, and she is the one who digs it up — not from a document, from a hole in the evidence. Elves enter the record abruptly, fully formed, already in service, with no origin, no habitat, no young and no natural history. A species with no natural history is not a species. She finds the shape of the cover-up and never finds the deed.
 
-- **B4 is the collision.** S.P.E.W. runs into Winky dying and into the fact that everyone except her knows freeing an elf kills it (DIV-077). Her campaign stops being comic without a word of its argument changing.
+- **B4 is the collision.** She learns early, and from Harry: he mentions he owns an elf, she is appalled, and Dobby turns up uncalled because he feels Harry thinking about him. Her first-hand account of elf life comes from the elf (DIV-077).
+- **Winky dies in front of her,** with Harry, Ron and Dobby there, and **this is where she comes to hate Bartemius Crouch** — permanently, personally, and not as a political objection. She has watched a man's discarded servant take eight months to stop existing because he told her she was not worth housing. She is the only person in the castle who extends him no sympathy through the back half of the book.
+- **The hats are undecided** (Q-093). If they stayed they were traps — but she is not the castle's household, so they may have done nothing at all, and nobody can tell her (Q-099).
 - **B5 is the research**, dragged out across the year and hung on the business she is already doing ([books/b5/outline.md](../books/b5/outline.md)).
 - **It is also DIV-008 inverted.** [painted-life](../setting/painted-life.md) gives the old houses unwritten memory the books don't have. This gives the Muggle-born the history the old houses lost, because they stopped looking at their own shame. Using the same device twice would make it a formula; using it in both directions makes it an argument.
-- **What she never gets is the remedy.** Harry has that, once, and no history. They never put it together ([house-elves](../setting/house-elves.md)).
+- **At Dobby's death she is the one who can read it.** Everyone present sees the true form; only she knows what it is, and she tells the Malfoys. It is the one moment her research changes anything for anyone (DIV-050).
+- **And then she builds the answer.** Not freeing, which kills them: a method for a bound elf to recover its natural state over time, in a household that has decided never to use what it holds. Slow, partial, procedural. She is not powerful and it must not need power — she finds the seam rather than beating the magic. Kreacher is the prototype, at Malfoy Manor, after the war. **Entirely undesigned: Q-100**, and it is her whole S.P.E.W. arc.
+- **What she never gets is Harry's remedy**, and he never gets her history. They never put the two together ([house-elves](../setting/house-elves.md)).
 - **It pays off B1.** Clea's painted creatures refuse rescue because for them freeing is destroying and there is no remedy at all. The elves are the same shape with a door in it (Q-091, answered).
 
 ## Arc by book
@@ -61,10 +65,10 @@ Hers is the win. The noble houses buried their own shame so completely that nobo
 | B1 | Outdone by Dracaena in the first Potions lesson (DIV-011) | The troll (canon). After the Mirror she appoints herself Harry's keeper; her research turns up the Dessendres, and in the corridor she is called a Mudblood for the first time and says nothing (DIV-073, DIV-074) | |
 | B2 | | | |
 | B3 | Takes Muggle Studies | Drops it (DIV-012). Slaps Dracaena over the jeer at Hagrid, and is right to: she sees the jeer and nothing else (DIV-069) | The lake: her idea to have Dracaena fly Buckbeak to Sirius (DIV-018) |
-| B4 | Founds S.P.E.W. (canon) | Winky dies and the hats turn out to be traps; she learns what freeing an elf does, and from whom is open (DIV-077, Q-093) | The second rift: she backs Ron's confrontation on the train, then concedes they were too overprotective — and notices Dracaena didn't acknowledge them at all (DIV-063) |
+| B4 | Founds S.P.E.W. (canon) | Learns early, from Harry and from Dobby, what freeing an elf does. Winky dies in front of her, and Crouch becomes the man she will never forgive (DIV-077) | The second rift: she backs Ron's confrontation on the train, then concedes they were too overprotective — and notices Dracaena didn't acknowledge them at all (DIV-063) |
 | B5 | | Tracks down the elf conspiracy across the year: the hole in the record, never the deed (DIV-075) | The history, and no remedy |
 | B6 | | Notices Harry's new tricks resemble Dracaena's technique (Q-042) | |
-| B7 | | Plans the Malfoy Manor raid with Harry and Dobby (DIV-049). Treats Dracaena with kid gloves ([apparate-dancing](../scenes/b7/apparate-dancing.md)). Invents the sealing spell that preserves Narcissa's medicine | |
+| B7 | | Plans the Malfoy Manor raid with Harry and Dobby (DIV-049). Reads Dobby's true form for the Malfoys when nobody else can (DIV-050). Treats Dracaena with kid gloves ([apparate-dancing](../scenes/b7/apparate-dancing.md)). Invents the sealing spell that preserves Narcissa's medicine | After the war, her method: Kreacher at the Manor (DIV-078, Q-100) |
 
 ## Secrets
 
@@ -72,4 +76,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-002, Q-028, Q-042, Q-050–Q-052, Q-093, Q-094
+Q-002, Q-028, Q-042, Q-050–Q-052, Q-093, Q-094, Q-099, Q-100

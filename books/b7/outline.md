@@ -24,9 +24,9 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 - Burbage pleads with Snape and with Dracaena before she's killed. DIV-016, [charity-burbage](../../scenes/b7/charity-burbage.md)
 - At Christmas, Harry and Hermione raid Malfoy Manor with Dobby, looking for a way to destroy the locket. Harry breaks off to apologise to Dracaena; she decides to fight and asks him to get her family out. DIV-049, DIV-052, [malfoy-manor](../../scenes/b7/malfoy-manor.md)
 - Ron comes back into the raid through the Deluminator. The sword stays at Hogwarts for Neville. DIV-051, [malfoy-manor](../../scenes/b7/malfoy-manor.md)
-- Dobby dies of exhaustion getting everyone out, Harry last. He has been unravelling since B2, and what crumbles out of him is the true shape of an elf, wearing Malfoy colouring. Only the three Malfoys see it. DIV-050, DIV-075, [malfoy-manor](../../scenes/b7/malfoy-manor.md)
-- In the spring, Kreacher asks Harry to take him as Dobby was taken, knowing what it did to Dobby. Grimmauld Place dies when he leaves it. DIV-078, [kreachers-asking](../../scenes/b7/kreachers-asking.md)
-- *(settled)* The epilogue: Harry and Dracaena live at Malfoy Manor, and Kreacher — who survives because Harry finally has a house — restores it. DIV-078, Q-096
+- Dobby dies of exhaustion getting everyone out, Harry last. He has been unravelling since B2, and what crumbles out of him is the true shape of an elf, wearing Malfoy colouring. Everyone sees it, nobody knows what it means, and Hermione explains it afterwards. DIV-050, DIV-075, [malfoy-manor](../../scenes/b7/malfoy-manor.md)
+- *(draft)* After the war, Hermione's method gets Kreacher out of Grimmauld Place, which dies when he leaves it. The mechanism is undesigned and is her whole S.P.E.W. arc. DIV-078, Q-100, [kreacher-and-the-manor](../../scenes/b7/kreacher-and-the-manor.md)
+- *(settled)* The epilogue: Harry and Dracaena live at Malfoy Manor, which will never make an elf of its own again, and Kreacher colonises it. DIV-078, Q-096, Q-097
 - Dracaena stays at Harry's side. Lucius and Narcissa defect, and are at Hogwarts for the battle. DIV-052
 - At the Battle of Hogwarts, Dracaena's Patronus drives off the Dementors for a while. DIV-027
 - Before the forest, Harry stops for Dracaena and tells her never to give up hope. DIV-022, [before-the-forest](../../scenes/b7/before-the-forest.md)

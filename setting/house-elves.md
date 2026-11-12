@@ -18,7 +18,8 @@ Where one family line has lived in one house long enough, the house takes on the
 - **They do not die in the ordinary way.** A body can be destroyed; the house makes another. The spirit is the house and persists as long as the house and the line do.
 - **One house, one elf.** A house may have many bodies walking about it, but there is only ever one of it. Bodies scale with the demesne: a manor supports one, a castle holding a thousand children supports a hundred.
 - **So there are very few.** Only old houses with unbroken lines have them, which is a few dozen in Britain, plus the castle's many. They are not and never could be an economic base ([society](society.md), DIV-035).
-- **And they are dwindling.** As houses empty and lines thin, elves lose bodies. Hogwarts has fewer than it had. Nobody has noticed, because nobody counts them.
+- **None has been made since the binding** *(settled)* · Q-097. Making a whole elf is the work of an unbroken line in one house over a span nobody has managed since, and the binding may have broken the capacity outright. Nobody knows, because nobody knows elves are made at all. Every elf alive is one of the originals.
+- **So they are dwindling and cannot be replaced.** As houses empty and lines thin, elves lose bodies and are never added to. Hogwarts has fewer than it had. Nobody has noticed, because nobody counts them.
 
 ## The demesne *(settled)* · DIV-075
 
@@ -41,7 +42,8 @@ A long time ago — before Hogwarts — wizards used dark magic to bind the elve
 - **It took the obedience and never touched the will.** This is the cruelty of it. The elf still wants to help, still loves its people, and now also cannot do otherwise. Everything that looks like devotion in a bound elf is real, and is also a chain, and the elf cannot tell which is which.
 - **What is left of the will lives in the gaps between orders.** An elf can do anything it was not told not to do, at the price of punishing itself for it. That is the whole of Dobby's conduct in B2, and the whole of the kindness any bound elf manages.
 - **They degraded.** Over centuries the binding dwindled them. They were once near-human, tall and fair; they are now the small, bulging, rag-wearing things everyone knows. A bound elf is a cheap thing to run. The true shape is expensive, and needs a whole house to sustain it.
-- **The knowledge is gone.** Nobody now living knows how it was done, which means nobody knows how to undo it, and nobody knows that an elf could be *transferred* rather than freed. It was once possible to hand one on, still bound, to a new house. It is not possible to free one and have it live.
+- **The house is what enforces it.** The chain has three links — elf, house, household — and the house is the one that grips. Take the house away and the curse has nothing to hold: **clothes given to an unhoused elf do nothing at all.** Harry cannot free Dobby a second time however he tries, and Dobby could walk away from him any day he liked. He doesn't. That makes Harry a shelter rather than an owner, and makes every day Dobby stays a choice he renews.
+- **The knowledge is gone.** Nobody now living knows how it was done, which means nobody knows how to undo it, and nobody knows that an elf could be *transferred* rather than freed. It was once possible to hand one on, still bound, to a new house. It is not possible to free a housed one and have it live.
 
 ## The forgetting, and what everyone "knows" *(settled)* · DIV-075
 
@@ -62,6 +64,8 @@ It happens once, in a corridor in B2, between a thing that has decided to beg ra
 
 That is the answer to the problem, and it is deliberately not a solution. Nothing is undone, nothing generalises, and nobody who could act on it ever understands what happened.
 
+The *beginning* of a real solution is Hermione's, late and partial and procedural: not a spell that frees an elf but a way for one to recover its natural state over time, in a household that has decided never to use what it holds. It is her S.P.E.W. questline and it is not designed yet (Q-100).
+
 ## Dobby *(settled)*
 
 Full beats: [the-sock](../scenes/b2/the-sock.md) (B2) · [malfoy-manor](../scenes/b7/malfoy-manor.md) (his death).
@@ -69,9 +73,12 @@ Full beats: [the-sock](../scenes/b2/the-sock.md) (B2) · [malfoy-manor](../scene
 - **Ur-Dobby is Malfoy Manor** and has been for as long as there have been Malfoys in it. Nobody knows this, him least of all. The Dobby anyone meets is one manifestation of it.
 - **He was a coward for centuries** — fearful, cringing, bound to be helpful. What he is now came from Narcissa: she married in, she had Dracaena, she was cursed and could have no more children, and the house took the shape of her wanting. His kindness is hers, and neither of them knows it. His dream of a great house full of a happy, kind family is her dream, worn by the house she lives in.
 - **He has a soft spot for Dracaena** and smuggles her sweets against Lucius's wishes — which he can do because no order ever forbade it.
-- **Lucius knew what the sock meant.** He threw it in temper, knowing. Then spent five years deciding it did not matter.
+- **Lucius knew what the sock meant,** and discarded it anyway. Not malice and not temper: he takes a filthy Muggle sock off the diary and flings it aside as rubbish, and Dobby catches it. The agency is Dobby's and the indifference is Lucius's, and that is the whole indictment. His parting line to Harry — *I hope you know what you have just done, Mr Potter* — is the only warning anyone gives, and Harry can't read it ([the-sock](../scenes/b2/the-sock.md)).
 - **He is the only unhoused elf there has ever been**, anchored to a person instead of a building, and the configuration only works because Harry has no house for the curse to grip. Neither Privet Drive nor the Burrow is his: one he hates, one is borrowed.
 - **He lives at the Burrow** from B2 — lodging, not a demesne. He is weak everywhere.
+- **He has Harry's money.** Functionally complete access to the vault: not that he could walk into Gringotts, but the funds are his to call on and Harry never thinks about it twice. It is how he supports Winky, who will not take wages from anyone (DIV-077).
+- **And it is how Harry pays the Weasleys.** They will not accept anything from him, so he does it sideways and absurdly: a small room added on for himself that nobody asked for, the structure quietly shored up, a repair here and there, all of it on the most transparent pretexts and all of it paid for. Dobby is already lending Molly a hand; this lets him be the architect he has always wanted to be, which is the oldest thing in him — an elf's first power is enlarging the house it keeps.
+- **Which means Harry is spending him.** Every improvement comes out of a thing with no house to draw on. Harry's generosity and Harry's homelessness are killing him together, and neither of them knows it.
 - **Except the Manor,** where the residual claim still holds: he is still something of a Malfoy geist, which is why his Apparition works there at all, and works repeatedly, until it doesn't.
 - **He unravels, slowly, for five years.** Freed of the house that shrank him, he reverts towards the true shape — and the true shape needs a house to sustain, and he has not got one. So the reversion *is* the dying. He grows taller by degrees across the books and everyone who notices assumes freedom agrees with him. Harry asks him in B3 whether he has got taller. That is the first sign he is dying, and the reader only learns it in B7.
 - **His death is real** because he is unhoused: there is no house to make him again, and the last of what he was made of goes with him ([malfoy-manor](../scenes/b7/malfoy-manor.md), DIV-050).
@@ -83,7 +90,7 @@ Lucius did not dismiss a servant in B2; he cut his house's spirit loose and did 
 - **It goes cold.** Upkeep, warmth, the sense of a house that is looked after: all of it slowly stops. It becomes a very large building that has to be heated and cleaned like any other.
 - **Nobody understands why**, and nobody connects it to an elf. Lucius blames the war when the war finally arrives. It started five years before it.
 - **Narcissa feels it most**, and cannot name it.
-- **The Manor dies properly when Dobby does**, at Christmas 1997. What stands afterwards is a house with nothing in it, which is what Kreacher walks into ([kreachers-asking](../scenes/b7/kreachers-asking.md), DIV-078).
+- **The Manor dies properly when Dobby does**, at Christmas 1997, and **it never makes another** — nothing has been made since the binding (Q-097, answered). Dobby is gone for good. What stands afterwards is a house with nothing in it, and what fills it is a foreign elf: Kreacher colonises the Manor ([kreacher-and-the-manor](../scenes/b7/kreacher-and-the-manor.md), DIV-078).
 
 ## Hogwarts *(settled)*
 
@@ -98,13 +105,15 @@ Lucius did not dismiss a servant in B2; he cut his house's spirit loose and did 
 
 ## Kreacher *(draft)*
 
-Full beats: [kreachers-asking](../scenes/b7/kreachers-asking.md) (DIV-078). Summary only here.
+Full beats: [kreacher-and-the-manor](../scenes/b7/kreacher-and-the-manor.md) (DIV-078). Summary only here.
 
 - **Ur-Kreacher is Grimmauld Place.** Distinguish the spirit from its manifestations: the lineage of bodies is not a lineage, it is one thing wearing out and being replaced.
 - **The heads on the wall are his own.** When a body gets too old, the Blacks order it beheaded; the house takes the body back and mounts a head. Whether a blade was ever actually involved is unclear even to the house — *Ur-Kreacher may have disappeared the bodies himself and set the heads on the plaques*, which is worse and is the preferred version.
 - **He mounted every one of them** and does not remember doing it, and dusts them daily, and is proud of the row, and looks forward to joining it.
 - **Memory lives in the house, not the body.** He inherits the Blacks' temperament, not their episodes. He does not know he was beheaded; he knows the house thought it was proper. This is the rule that keeps "not even he knows" true.
 - **He can see what no human can.** Kreacher is the only character in the series who knows Dobby is dying. He says so, repeatedly, as an insult, and everyone hears spite and ignores him, because he is Kreacher.
+- **He is already Harry's**, through Sirius's will, bound to Grimmauld in the ordinary way. So nothing about his ending can turn on being *given* to Harry; he has been Harry's all along, and that is exactly the problem (DIV-078).
+- **What gets him out is Hermione's**, not Harry's — a method rather than a kindness, and the beginning of an answer for every elf in Britain. Undesigned: Q-100.
 
 ## What this is for
 
@@ -119,6 +128,8 @@ DIV-008 · DIV-035 · DIV-049 · DIV-050 · DIV-065 · DIV-072 (Q-091) · [socie
 
 ## Open
 
-Q-093 (SPEW now, and who tells Hermione) · Q-094 (Winky's placement) · Q-095 (Kreacher's asking) · Q-096 (the epilogue) · Q-097 (does the Manor ever make another?) · Q-098 (Dracaena and the elf who should be dead)
+Q-093 (S.P.E.W. now, and how early Hermione learns) · Q-094 (Winky's death) · Q-096 (the epilogue) · Q-099 (who is Hogwarts's household?) · Q-100 (Hermione's fix) · Q-101 (Dracaena, the Chamber and the dead elf)
 
-*Answered by this file:* Q-076 (Dobby as courier), Q-091 (the corridor and the elves).
+*Answered by this file:* Q-076 (Dobby as courier), Q-091 (the corridor and the elves), Q-097 (no elf has been made since the binding; the Manor gets none).
+
+*Retired:* Q-095 — Kreacher's asking, struck as underbaked. See Q-100.

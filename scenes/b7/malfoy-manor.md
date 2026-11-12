@@ -38,8 +38,8 @@ So once they're inside, he breaks from the plan on purpose and heads for her roo
 7. Dobby's moment. Out of love for Harry, he gets over his fear of his former masters, along the lines of "Harry Potter asked Dobby to save his family!", meaning hers (wording to polish). DIV-050
 8. Harry holds off Bellatrix and the others and is the last out, with Dobby. Dracaena is second to last.
 9. Once Harry is out, Dobby has nothing left. He starts crumbling into dust, gets out something along the lines of "Did Dobby help his friend Harry Potter?", and is gone (wording to polish). DIV-050
-9b. **The true form.** As the body goes, what has been surfacing in him since B2 finally stands up: a translucent figure taller than a man, fair-haired, with Malfoy grey eyes. The house wearing the family's likeness, because that is what it was made of. Only the three Malfoys see it, and each sees something different. Harry, holding him, sees nothing and feels the weight change. DIV-050, DIV-075
-9c. **Narcissa offers to take him,** three seconds too late.
+9b. **The true form, in public.** As the body goes, what has been surfacing in him since B2 finally stands up: a translucent figure taller than a man, fair-haired, with Malfoy grey eyes. The house wearing the family's likeness, because that is what it was made of. **Everyone present sees it and nobody knows what it means.** Lucius recognises *a Malfoy* and has no context at all for why. Nothing is explained here. DIV-050, DIV-075
+9c. **Hermione explains it afterwards** — the only person alive who can, out of a year in the archives, and the one moment her research changes anything for anyone. DIV-075
 10. Dracaena stays at Harry's side from here on (DIV-052).
 11. *(draft)* The Malfoys come to some closure over Dobby, realising what they did to him. This may be what turns her parents for good: they decide to fight rather than run, as they had planned (DIV-052).
 
@@ -49,10 +49,11 @@ So once they're inside, he breaks from the plan on purpose and heads for her roo
 - **He has been dying for five years.** Unhoused since B2, he has been reverting towards an elf's true shape, and the true shape needs a house to sustain it. The reversion is the dying, and it has been spent on Harry's errands all along (DIV-075, DIV-076). The B3 "have you gotten taller?" is the first sign of it.
 - **Kreacher knew** and said so as an insult, and nobody listened (DIV-078).
 - **He spends his house to empty it.** The residual claim is the only reason his Apparition works here at all; the last trip out is the one with no return.
+- **And he was already nearly gone.** Five years of Harry's errands and the Weasleys' absurd improvements, paid for out of Harry's vault and built out of Dobby (DIV-076). The kindness is what wore him down.
 - **His death is real,** unlike Kreacher's would be: there is no house left to make him again. Freedom is what makes it final, and he chooses it anyway.
 - **The Malfoys too.** He saves the family that abused him, because Harry asked, and to Dobby they're Harry's family.
 - **Afterwards.** He leaves no body. Harry scatters his ashes and makes him a tomb anyway, on the cliff at Shell Cottage ([apparate-dancing](apparate-dancing.md)).
-- **The Manor's geist.** His bond with the Manor makes his magic stronger there: he's still something of a Malfoy spirit. What elves are: [house-elves](../../setting/house-elves.md), DIV-075. The Manor has been cold since Lucius cut him loose in B2, and dies properly tonight — which is what Kreacher walks into in the spring ([kreachers-asking](kreachers-asking.md), DIV-078).
+- **The Manor's geist.** His bond with the Manor makes his magic stronger there: he's still something of a Malfoy spirit. What elves are: [house-elves](../../setting/house-elves.md), DIV-075. The Manor has been cold since Lucius cut him loose in B2, and dies properly tonight — which is what Kreacher colonises after the war ([kreacher-and-the-manor](kreacher-and-the-manor.md), DIV-078).
 
 ## The cover *(settled)* · DIV-049
 
@@ -70,10 +71,11 @@ Snape never brings Harry the sword, so there's no doe in the Forest of Dean. The
 - "Harry Potter asked Dobby to save his family!"
 - Harry last out, Dracaena second to last.
 - Dobby crumbling into dust after asking whether he helped.
-- The true form, seen only by the three Malfoys, and Harry seeing nothing.
-- Narcissa's offer, too late.
+- The true form, seen by everyone and understood by no one in the moment.
+- Lucius recognising a Malfoy with no idea why.
+- Hermione, and only Hermione, able to say what it was.
 - Ron back through the Deluminator, fighting beside Harry.
 
 ## Open
 
-Q-063 (their meeting) · Q-064 (the raid's open points) · Q-065 (Godric's Hollow) · Q-028 (the resonance showcase) · Q-097 (does the Manor ever make another elf?)
+Q-063 (their meeting) · Q-064 (the raid's open points) · Q-065 (Godric's Hollow) · Q-028 (the resonance showcase). Q-097 answered: the Manor never makes another, and Dobby is gone for good

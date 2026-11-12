@@ -38,7 +38,7 @@ She does not know this and neither does anyone else. A house-elf is the house's 
 - **The soft spot for Dracaena.** Sweets smuggled against Lucius's wishes, which he can do because no order ever forbade it (the binding takes obedience, never the will — DIV-075).
 - **So she saves Harry without knowing it,** twice, and both times by making something and then letting it go: the elf who warns him in B2, and the daughter who goes back for him in B7.
 - **The Manor goes cold** after B2 and she feels it most and cannot name it ([house-elves](../setting/house-elves.md), DIV-076).
-- **At his death** she sees the true form — and offers to take him back, three seconds too late (DIV-050).
+- **At his death** she sees the true form, as everyone present does, and has no idea what she is looking at. She cannot offer to take him back: he is Harry's, and has been since B2 (DIV-050).
 
 ## What she passes down
 
@@ -73,7 +73,7 @@ Canon default.
 | B4 | | Plays Harry's advocate before the Ball (DIV-040) | |
 | B5 | | | |
 | B6 | | | |
-| B7 | | Defects with Lucius during the Manor raid, when her daughter turns (DIV-052). Sees Dobby's true form and offers too late (DIV-050). Recovers at Shell Cottage, where Dracaena brews her medicine | At Hogwarts for the battle, not in the forest: no lie (DIV-052). Fights her sister Bellatrix with Lucius (DIV-053) |
+| B7 | | Defects with Lucius during the Manor raid, when her daughter turns (DIV-052). Sees Dobby's true form without understanding it (DIV-050). Recovers at Shell Cottage, where Dracaena brews her medicine | At Hogwarts for the battle, not in the forest: no lie (DIV-052). Fights her sister Bellatrix with Lucius (DIV-053) |
 
 ## Secrets
 

@@ -31,9 +31,10 @@ It is used once, by accident, in a corridor in B2, by a thing that chose to beg 
 - **It keeps DIV-008 intact.** The purebloods are custodians of a forgotten atrocity they did not commit and have never examined — damning without making them monsters, and defensible in the way DIV-008 needs.
 - **It keeps DIV-035 intact.** One house, one elf, so there are a few dozen in Britain. They index the decline and could never be its engine.
 - **Hermione gets the history and no remedy; Harry has the remedy, once, and no history.** They never put it together, and the institution still stands at the end.
+- **The only real hope is Hermione's,** and it comes late: not freeing, which kills them, but a method for a bound elf to recover its natural state over time inside a household that has decided never to use what it holds. Slow, partial, procedural, and undesigned (Q-100). Kreacher at Malfoy Manor is the prototype (DIV-078).
 
 ## Ripples
 
 DIV-075 (what they are) · DIV-076 (B2) · DIV-077 (Winky) · DIV-078 (Kreacher) · DIV-050 (Dobby's death) · DIV-008 · DIV-035 · DIV-049 · DIV-065 · DIV-072
 
-Open: Q-093 · Q-094 · Q-095 · Q-096 · Q-097 · Q-098. Answered: Q-076, Q-091. Still out of scope: Q-048.
+Open: Q-093 · Q-094 · Q-096 · Q-098 · Q-099 · **Q-100 (Hermione's method — the biggest one left)** · Q-101. Answered: Q-076, Q-091, Q-097. Retired: Q-095. Still out of scope: Q-048.
