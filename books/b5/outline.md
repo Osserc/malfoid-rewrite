@@ -31,7 +31,8 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 - *(draft)* Some Slytherins join the DA, one of them a friend of Dracaena's. DIV-055, [house-unity](../../threads/house-unity.md)
 - After Sirius dies, Dumbledore tells Harry to treasure the love he has left, and not only his friends'. DIV-046
 - Hermione tracks the elf conspiracy across the year: elves enter the record already in service, with no origin, no habitat and no young, and she finds the shape of the cover-up without ever finding the deed. The history, and no remedy. DIV-075, [house-elves](../../setting/house-elves.md)
-- Dobby follows Harry to Grimmauld Place and meets Kreacher. The feud begins: Kreacher can see Dobby is dying and says so as an insult, and nobody listens. How it opens is open. DIV-078, [kreacher-and-the-manor](../../scenes/b7/kreacher-and-the-manor.md)
+- Harry asks Dobby about Mrs Black's portrait. Dobby does not think he can touch it, tries anyway out of habit, and finds he can — because he is a glitch and Grimmauld's defences are written against elves that belong somewhere. He has to wade through Ur-Kreacher to do it, it costs him days, and he gets the painting off the wall. Kreacher's first appearance is a scream of *TRESPASSER!*, which is correct. DIV-078, DIV-075, [kreacher-and-the-manor](../../scenes/b7/kreacher-and-the-manor.md)
+- The feud begins. Kreacher can see Dobby is dying and says so as an insult, and nobody listens. Hermione has her first hard datum that the curse has seams, years before she can use it. DIV-078, Q-100
 - After Sirius dies, she comforts Harry and promises to be there for him. DIV-014, [after-sirius](../../scenes/b5/after-sirius.md)
 - After the book: she is Marked, Voldemort shatters her walls, and her faith dies. DIV-015
 

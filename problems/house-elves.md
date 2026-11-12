@@ -37,4 +37,4 @@ It is used once, by accident, in a corridor in B2, by a thing that chose to beg 
 
 DIV-075 (what they are) · DIV-076 (B2) · DIV-077 (Winky) · DIV-078 (Kreacher) · DIV-050 (Dobby's death) · DIV-008 · DIV-035 · DIV-049 · DIV-065 · DIV-072
 
-Open: Q-093 · Q-094 · Q-096 · Q-098 · Q-099 · **Q-100 (Hermione's method — the biggest one left)** · Q-101. Answered: Q-076, Q-091, Q-097. Retired: Q-095. Still out of scope: Q-048.
+Open: Q-093 · Q-094 · Q-096 · Q-098 · Q-099 · **Q-100 (Hermione's method — the biggest one left)** · Q-101 · Q-102. Answered: Q-076, Q-091, Q-097. Retired: Q-095. Still out of scope: Q-048.

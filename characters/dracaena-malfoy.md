@@ -117,7 +117,9 @@ So Harry freeing him in B2 is, from where she stands, Potter killing her family'
 
 Then Dobby keeps turning up alive, for years, and she is the only person in the world positioned to notice that this is impossible. When she works it out and what she makes of it: Q-098. By summer 1995 she is asking a favour of something that should have died three years ago (DIV-065).
 
-**The B2 whiplash** *(open)* · Q-101. If she is in the Chamber of Secrets — the inbox has her watching Harry kill the basilisk — then the book hands her the best and worst thing Potter has ever done to her in the same week: she sees him kill a monster, and then learns he has carelessly killed her household's elf. It rhymes with B1, where one good afternoon was followed by him turning on her (Q-092), and it explains the state she is in when B3 opens.
+**The B2 whiplash** *(open)* · Q-101. If she is in the Chamber of Secrets — the inbox has her watching Harry kill the basilisk — then the book hands her the best and worst thing Potter has ever done to her in the same week: she sees him kill a monster, and then learns he has carelessly killed her household's elf. It is B1 inverted — there she reached for friendship and made things worse; here *he* does the damage, meaning well — and it explains the state she is in when B3 opens.
+
+**The B3 encounter** *(open)* · Q-101. She finds Dobby alive at the castle, and he tells her he is glad Harry freed him, because her father was a horrible master. A bound elf could not say that. She cannot take it there — accepting it means Potter was right and her father was the villain — so she walks off with the grievance intact and chews on it for months. It is the first half of the case against her father, and Buckbeak is the second.
 
 ## Voice
 

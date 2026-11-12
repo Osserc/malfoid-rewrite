@@ -27,7 +27,7 @@ An earlier draft had him ask to be severed from the house and re-anchored to Har
 
 ## The direction · DIV-078
 
-**The answer is Hermione's, and it is a method rather than a kindness.**
+**The answer is Hermione's, and it is a method rather than a kindness.** She has two things nobody else has ever had: a hole in the archive where the history should be, and **a working anomaly she can study** — Dobby, the partial bind, a thousand-year-old oversight eating toast at the Burrow. The curse has a bug, therefore it has seams, therefore it can be worked.
 
 Not a spell that frees an elf — freeing kills them, and she learns that in B4 ([the-kitchens](../b4/the-kitchens.md)). A way for a bound elf to **recover its natural state over time**, as a house-spirit, in a household that has decided never to use what it holds. Slow, partial, procedural, and the first real thing anyone has done about this in a thousand years.
 
@@ -46,7 +46,18 @@ Dobby and Kreacher meet at Grimmauld, earlier than canon's meeting and with far 
 
 - **Not about manners.** Kreacher is a house that has never been anything else, looking at a thing with no house that is becoming something else. Dobby is what Kreacher would be if Grimmauld ever let him go, and the contempt is horror.
 - **He can see Dobby is dying,** alone of everyone, and says so constantly as an insult. Nobody listens, because he is Kreacher. After Christmas, Harry remembers he was told.
-- **How it starts** is not settled. See *Open*.
+### How it starts *(settled)*: the portrait
+
+Harry asks Dobby whether anything can be done about Mrs Black's shrieking portrait, which is fixed to the wall by magic nobody in the Order has beaten.
+
+- **Dobby doesn't think he can.** He tries anyway, out of habit — reaching into the house the way he reaches into Malfoy Manor — and expects nothing, because this is not his house and he has no business in it.
+- **And he can, a little.** Not because of any claim: because he is a glitch. He is partially bound, anchored to a person and no demesne (DIV-075), so there is nothing about him for a house to recognise as foreign and nothing to push against. The curse never anticipated him, and Grimmauld's defences are written against elves that belong somewhere.
+- **He has to wade through Ur-Kreacher** to do it, which is deeply unpleasant: a century of Black cruelty as texture, pushing back at him the whole way. And Kreacher feels it from the inside — something is *in* him.
+- **It costs him a great deal,** and it takes him days to come right, and nobody connects that to anything.
+- **He gets the painting off the wall** before Ur-Kreacher, slow and rusty from a decade with nobody in the house, can throw him out.
+- **Kreacher's first appearance is a scream:** *TRESPASSER!* — which is exactly, correctly, what Dobby is.
+- **And it makes Kreacher's hatred earned.** Dobby has destroyed a fixture of the house of Black, which is the same thing Harry did to the Malfoys, from the other side. Kreacher is not merely being a snob.
+- **Hermione is in the room.** An elf doing a thing no elf can do is her first hard datum, years before she knows what to do with it (Q-100).
 
 ## The battle
 
@@ -74,6 +85,5 @@ He leads the castle's elves up out of the kitchens (canon). Under our rules that
 - **Q-100 · Hermione's method.** The big one. Nothing is designed.
 - **Q-096 · the ending's shape**, and what Kreacher keeps of Dobby.
 - **Q-099 · who is Hogwarts's household.**
-- **How the feud opens.** *Proposed, not adopted:* Harry asks Dobby to get rid of Mrs Black's shrieking portrait, which is nailed down by magic no one has beaten. Dobby reaches into the house, bumps into Ur-Kreacher, who is rusty and slow to throw him out, and gets the painting off the wall before he does. Kreacher's first appearance is him arriving at a scream — *TRESPASSER!* — which is, correctly, what Dobby is. To be evaluated: what gives Dobby any purchase on a house that isn't his, what it costs him, and whether destroying a Black fixture makes Kreacher's hatred earned rather than snobbish.
 - **Where the Regulus sequence sits** now that the ending moved past the war.
 - **Post-story material.** Anything after the epilogue — the Malfoys, the Manor, the hijinks — is *what might happen*, not canon, and has no home in the repo yet. Directories for post-epilogue episodes can come later; not now.

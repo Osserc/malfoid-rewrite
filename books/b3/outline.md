@@ -29,6 +29,7 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 - Her fake lead sends the Dementors to the lake. She can't cast the Patronus, and confesses; Harry re-evaluates her, and his Patronus saves everyone with a first flicker of resonance; Hermione's idea; Sirius recognises her. DIV-018, DIV-021
 - 🔒 No Time-Turner: the climax has to be rebuilt. DIV-002, Q-003
 - *(draft)* Hermione drops Muggle Studies, and Dracaena calls it conceding defeat. DIV-012
+- *(draft)* Dracaena finds Dobby alive at Hogwarts, which by everything she knows is impossible, and he tells her he is glad Harry freed him because her father was a horrible master. She cannot take it, and ruminates on it for months. It is the first half of the case against her father; Buckbeak is the second. Q-098, Q-101, DIV-076
 
 ## Acts
 

@@ -56,7 +56,7 @@ _Marauders era, the first war. Not yet worked out._
 - **1995-02-23**: the eve of the Second Task. Dumbledore has a word with Dracaena as he puts the hostages to sleep. DIV-046
 - **1995-02-24**: Second Task. Dracaena is Harry's hostage, and the dream begins. He goes down on her gillyweed extract; at the lake she claims him in front of the school. DIV-005, DIV-013, DIV-038, DIV-039
 - **The next three days**: Fleur's test, then her pantomime in the Great Hall. DIV-037, DIV-038
-- **1995-03/04 (tentative)**: Winky dies in the Hogwarts kitchens in front of Harry, Ron, Hermione and Dobby, after a year of dissolution and of his failed attempts to anchor her. Hermione's hatred of Crouch dates from here. DIV-077, Q-094
+- **1995-03/04 (tentative)**: Winky dies in the Hogwarts kitchens in front of Harry, Ron, Hermione and Dobby, after a year of dissolution and of his failed attempts to anchor her. Hermione has disliked Crouch since the World Cup; here it settles into hatred for good. DIV-077, Q-094
 - **1995-06-24**: Third Task. In the graveyard, unseen, Lucius Summons his daughter's ribbon off Harry's wrist and Stuns Avery to open him a way out. DIV-057
 - **1995-06-24, the same night**: the hospital wing. Sirius shoves Dracaena to the bedside; Dumbledore shelters her; she guards Harry all night. Harry keeps Lucius's name from Fudge, with her there, and she defends him to the Minister's face. DIV-047, DIV-058
 - **1995-06-27 (tentative)**: after two nights of screaming in the dormitory, Harry goes down to the Malfoy room. Her potion has failed; she offers her lap instead, and changes the green light without a word. He finds her hoard. He sleeps in her room for the rest of term. DIV-059, DIV-060, DIV-061

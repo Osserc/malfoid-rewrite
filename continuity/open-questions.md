@@ -4,6 +4,8 @@ Undecided points and ripples from decisions already made. IDs are permanent. Whe
 
 **Retired, never reuse:** Q-045, Q-046, Q-047, Q-049, Q-054 — all moot with the trio split (reverted 2026-10-27). The one live item carried on as Q-071. The entries are in the git history.
 
+**Retired, never reuse:** Q-095 — Kreacher asking to be re-anchored to Harry, struck as underbaked. What replaced it is Q-100.
+
 ## Open
 
 ### Q-001 · What does being a daughter change for Dracaena? (DIV-001)
@@ -530,7 +532,7 @@ B5 is where this plant should pay: Harry wanting Sirius back is the same want th
 
 ### Q-093 · How much of S.P.E.W. survives (DIV-077)
 
-*Settled:* she finds out early in B4, and from Harry rather than from an enemy — he mentions he owns an elf, she is appalled, and Dobby turns up uncalled because he feels Harry thinking about him. Her first-hand account comes from the elf.
+*Settled:* she finds out early in B4, and from Harry rather than from an enemy — he says he *has* an elf, never *owns*, she is appalled, and Dobby turns up uncalled because he feels **Harry** is in a pinch, Hermione having hounded him into one. Her first-hand account comes from the elf.
 
 Still open:
 
@@ -572,27 +574,59 @@ The castle's elf is bound like every other, which means somebody stands in the h
 
 ### Q-100 · Hermione's method (DIV-078, DIV-075)
 
-**The big one, and entirely undesigned.** A way for a bound elf to recover its natural state over time, as a house-spirit, in a household that has decided never to use what it holds. Not freeing, which kills them. Not one spell and not one scene: her whole S.P.E.W. questline, from the body in the B4 kitchens to Kreacher at the Manor after the war.
+**The big one.** A way for a bound elf to recover its natural state over time, inside a household that has decided never to use what it holds. Not freeing, which kills them.
 
-Constraints the author has set:
+What she has that nobody has ever had:
 
-- **She is not powerful,** and the method must not need power. Precision, research and cleverness are what she has, against the oldest dark magic in Britain. She finds the seam; she does not beat it.
-- **It is slow and partial.** Recovery over years, not a cure.
-- **It does not generalise easily either** — it needs a household willing to hold something and never use it, which is rarer than it sounds.
-- **Kreacher is the prototype,** and his cost is consent: giving up the house of Black on a Muggle-born's word.
+- **A hole in the archive** where the history should be (B5).
+- **A working anomaly she can study.** Dobby is a thousand-year-old oversight eating toast at the Burrow: a master with no house, which the original casters never imagined and made no provision for. **The curse has a bug, so it has seams, so it can be worked.** She sees the first symptom years early, when Dobby gets Mrs Black's portrait off a wall no elf should be able to touch ([kreacher-and-the-manor](../scenes/b7/kreacher-and-the-manor.md)).
 
-Leads not yet weighed: rediscovering *transfer*, which the old magic could do and nobody now can (DIV-075); whether the household's character changing is doing the real work, since an elf is made of what the household is; and whether any of it is ever published, which decides whether the ending is one elf or a beginning for all of them.
+**Leading candidate (undesigned, for discussion): induce the glitch on purpose.**
+
+She cannot break the curse and must not be able to. What she can do is reproduce Harry's accident deliberately and safely — rules-lawyering plus precision casting, which is exactly her register and needs no power.
+
+- **Release, then catch.** The elf is genuinely dismissed and genuinely dying for a moment, and the re-bind has to land inside that window. The template is Harry catching Dobby by accident in 1993; she is reverse-engineering the one thing that ever worked.
+- **Catch it to a person who has a house the elf is not bound to.** This is the seam. Dobby died because Harry had nothing behind him. Kreacher lives because by then Harry has the Manor — a house that sustains the body without owning the spirit. Anchored to a person, housed by a building with no claim on him, held fully by neither.
+- **Then recovery is the household's work, not hers.** She supplies the mechanism; decades of being treated as a person do the rest. Which keeps her clever rather than omnipotent.
+- **The cost is the house.** Performing it spends the house the elf is leaving: it is why Grimmauld Place dies, mechanically rather than sentimentally, and why Kreacher's consent is consent to end the house of Black.
+
+**And that cost is the permanent dilemma.** The method works and cannot be used widely, because every elf saved costs an old house, and old houses are the only thing that ever made elves and are already disappearing (DIV-035). Scaling it finishes what the ancient wizards started. There is no version of this where she simply wins.
+
+Alternatives still live: rediscovering **transfer**, which the old magic could do and nobody now can — though that only moves an elf, it doesn't restore one; and whether the household's character is doing all the real work anyway, since an elf is made of what its household is.
+
+Open regardless: **whether she ever publishes**, which decides whether the ending is one elf or a beginning for all of them. And whether Harry ever realises she built it out of something he did at twelve without understanding it.
 
 ### Q-101 · Dracaena, the Chamber, and her dead elf (DIV-076, Q-098)
 
-B2 may give her far more to do — the inbox has her witnessing Harry kill the basilisk, which would be a killshot for her heart. Put the two together and the book hands her the best and worst thing Potter has ever done to her, in the same week: she watches him kill a monster, and then learns he has carelessly killed her household's elf.
+B2 may give her far more to do — the inbox has her witnessing Harry kill the basilisk, which would be a killshot for her heart. Put the two together and the book hands her the best and the worst thing Potter has ever done to her in the same week: she watches him kill a monster, and then learns he has carelessly killed her household's elf.
 
-- **The order matters.** Admiration first, then the elf, reverses her violently and explains the state she is in when B3 opens — milking an injury, getting a hippogriff condemned, and then regretting it (DIV-003, Q-005).
-- **It rhymes with B1,** where one afternoon she thought went well was followed by Potter turning on her (Q-092). Twice now he has given her something and taken it away in the same week.
-- **The B3 confrontation.** She has it out with him, and Dobby walks in alive, and nothing is resolved: to Harry the elf is free and happy, to her he is three months dead and standing there. The gap never closes, and she cannot ask without admitting she cared (Q-098).
-- **Does she ask Dobby directly?** He cannot explain either, because he does not know what he is. The only answer available to him is that Harry Potter is his friend, which is the worst possible thing to say to her.
+- **It is B1 inverted, and that is the point.** B1 is her reaching for friendship, believing she has won, and discovering she has made it worse. B2 runs the same shape the other way: *Harry* is the one who does the damage, without meaning to and without knowing it. The series' two early turns mirror each other and neither of them is anyone's fault.
+- **The order matters.** Admiration first, then the elf. It reverses her violently and explains the state B3 opens in — milking an injury, getting a hippogriff condemned, and then regretting it (DIV-003, DIV-017, Q-005).
+- **She liked Dobby,** in her own way: he was her retinue and a lady treasures her retinue, and he smuggled her sweets against her father's wishes ([dracaena-malfoy](../characters/dracaena-malfoy.md), [narcissa-malfoy](../characters/narcissa-malfoy.md)). So this is a loss, not just an insult.
+
+**The B3 encounter** *(direction, not written)*. She sees Dobby alive at Hogwarts, which by everything she knows is impossible (Q-098), and confronts Harry or Dobby or both.
+
+- **Dobby tells her he is glad Harry freed him, because her father was a horrible master.** A bound elf could not say that; the sentence itself is evidence of something she has no category for.
+- **She cannot accept it there.** Taking it would mean Potter was right and her father was the villain. She walks away with the grievance intact and ruminates on it for months.
+- **It is the second piece of the same case.** B3 already turns her against her father over Buckbeak — a creature in her care destroyed by him. Dobby is the first piece, planted a year earlier, and the two together are what she is actually weighing. Where exactly it lands in B3, and whether it is its own scene, is open.
+- **Nothing resolves.** To Harry the elf is free and happy; to her he is a year dead and standing in the corridor. The gap never closes, and she cannot ask about it without admitting she cared.
 
 Depends on what she is actually doing in B2, which is unplanned.
+
+### Q-102 · Do house-elves eat? (DIV-075, DIV-076, DIV-077)
+
+Raised and not settled. It decides whether the wages business means anything.
+
+*Claude's proposal:* a **housed** elf needs nothing — the house sustains it, which is why nobody has ever paid one and why money would be meaningless to it. An **unhoused** elf has no house to draw on and has to get its sustenance from matter like anything else. So Dobby is the only elf in Britain with expenses, and Harry's vault is not a convenience, it is what keeps him fed.
+
+If that holds, three canon beats re-light for free:
+
+- **Dobby asks Dumbledore for wages** because he genuinely needs them. Dumbledore, who does not know why, is glad to pay.
+- **Winky refuses them** because she does not need them *and* because taking them would be admitting she intends to go on living.
+- **She only drinks.** Butterbeer is not sustenance, it is oblivion, which is why it is the one thing she will accept from Dobby. Canon's detail becomes diagnostic, and his keeping her becomes forcing food on someone who means to starve.
+
+It should **not** slow the unravelling: food sustains the body, not the spirit, so Dobby can be well fed and still running out. Otherwise the answer is "feed him more."
+
 
 ## Answered
 

@@ -37,8 +37,9 @@ Every canon beat above stays on the page. Only what it means changes.
 
 Early, and from Harry, not from an enemy.
 
-- **Harry mentions he owns an elf.** Said with a shrug, because to him it is a friendship and the word is somebody else's. She is appalled, and says so.
-- **Dobby turns up without being called.** He feels Harry thinking about him, and he is in a pinch with Winky anyway, and he comes. Better than Harry summoning him, which would prove her point for her. She gets her first-hand account of what an elf is from the elf, and it is nothing she was prepared for.
+- **Harry says he has an elf.** *Has*, never *owns* — he would not use the other word and does not think in it, which is exactly why Hermione's horror lands on the fact rather than on him. She is appalled, and says so, at length.
+- **Dobby turns up without being called.** Not because he needs anything: he feels that **Harry** is in a pinch, because Hermione is hounding him, and an elf always knows when its people are calling even when they haven't (DIV-075). Better than Harry summoning him, which would have proved her point for her.
+- **So she gets it first-hand, from the elf.** It is nothing she was prepared for.
 - **So she learns what freeing does early in the year,** in time for it to ruin everything she is building, and from the person she least wants to hear it from, which is Harry.
 - **What she does with it** is the rest of her life's work (Q-100).
 
@@ -46,7 +47,7 @@ Early, and from Harry, not from an enemy.
 
 ## Hermione and Crouch *(settled)*
 
-This is where she comes to hate Bartemius Crouch, deeply and permanently, and it is not a political objection. She has watched a man's discarded servant take eight months to stop existing, in front of her, because he told her she was not worth housing.
+She has disliked Crouch since the World Cup, when he sacked Winky in front of her (canon). **This is where it settles into hatred for good,** and it stops being a political objection. She has watched a man's discarded servant take eight months to stop existing, in front of her, because he told her she was not worth housing.
 
 It costs nothing and pays twice. Canon spends the back half of B4 on Crouch's unravelling and his son, and she is the only person in the castle who will not extend him an ounce of sympathy. And S.P.E.W. stops being a hobby on the day it acquires a body.
 
@@ -57,7 +58,7 @@ It costs nothing and pays twice. Canon spends the back half of B4 on Crouch's un
 - Winky will not take wages; Harry's money keeps her, and Harry never knows.
 - She refuses, and the refusal is shame, not despair alone.
 - All four of them are there when she goes.
-- Hermione's hatred of Crouch starts here and never softens.
+- Hermione's dislike of Crouch settles into hatred here, and never softens.
 
 ## Open
 

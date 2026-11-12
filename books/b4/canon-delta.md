@@ -112,7 +112,7 @@ Beats with no canon equivalent.
 | The carriage ride home: Lucius orders her to cut ties, she refuses, and he invents the spy strategy | Straight after King's Cross | DIV-013, DIV-040, DIV-047, Q-022 |
 | Dumbledore tells Harry she is in a very tough spot, with her father a Death Eater | End of the year | DIV-046, DIV-047 |
 | Snape teaches her Occlumency, and sees her memories of Harry | Summer 1995 | DIV-020, DIV-031, Q-043 |
-| Winky dissolves across the year and dies in the lull, in front of Harry, Ron, Hermione and Dobby. Hermione's hatred of Crouch starts here | After the Second Task | DIV-077, Q-094, [the-kitchens](../../scenes/b4/the-kitchens.md) |
+| Winky dissolves across the year and dies in the lull, in front of Harry, Ron, Hermione and Dobby. Hermione's dislike of Crouch settles into hatred | After the Second Task | DIV-077, Q-094, [the-kitchens](../../scenes/b4/the-kitchens.md) |
 | She writes to Harry at Privet Drive all summer; Dobby carries the letters | Summer 1995 | DIV-065, Q-075 |
 
 ## Open

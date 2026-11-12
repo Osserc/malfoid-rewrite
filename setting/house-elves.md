@@ -42,8 +42,19 @@ A long time ago — before Hogwarts — wizards used dark magic to bind the elve
 - **It took the obedience and never touched the will.** This is the cruelty of it. The elf still wants to help, still loves its people, and now also cannot do otherwise. Everything that looks like devotion in a bound elf is real, and is also a chain, and the elf cannot tell which is which.
 - **What is left of the will lives in the gaps between orders.** An elf can do anything it was not told not to do, at the price of punishing itself for it. That is the whole of Dobby's conduct in B2, and the whole of the kindness any bound elf manages.
 - **They degraded.** Over centuries the binding dwindled them. They were once near-human, tall and fair; they are now the small, bulging, rag-wearing things everyone knows. A bound elf is a cheap thing to run. The true shape is expensive, and needs a whole house to sustain it.
-- **The house is what enforces it.** The chain has three links — elf, house, household — and the house is the one that grips. Take the house away and the curse has nothing to hold: **clothes given to an unhoused elf do nothing at all.** Harry cannot free Dobby a second time however he tries, and Dobby could walk away from him any day he liked. He doesn't. That makes Harry a shelter rather than an owner, and makes every day Dobby stays a choice he renews.
-- **The knowledge is gone.** Nobody now living knows how it was done, which means nobody knows how to undo it, and nobody knows that an elf could be *transferred* rather than freed. It was once possible to hand one on, still bound, to a new house. It is not possible to free a housed one and have it live.
+- **The house is what grips.** The chain has three links — elf, house, household — and the house holds it.
+- **The knowledge is gone.** Nobody now living knows how it was done, which means nobody knows how to undo it, and nobody knows that an elf could be *transferred* rather than freed. It was once possible to hand one on, still bound, to a new house.
+
+### The exit, and the glitch *(settled)* · DIV-075
+
+**A dismissed elf can live.** It needs a new household to take it — normally a witch or wizard with a house, which re-anchors the elf and binds it properly again. That is not a secret and not forbidden; it is simply never done (see *The two locks*). It may have happened a handful of times in a thousand years, and nothing records it, because both parties are disgraced by it: the elf begged, and the family admitted it could not make its own. Which is another reason Hermione finds nothing.
+
+**Harry is not that.** He is a master with **no house**, which the curse has no provision for, because nobody casting it imagined such a thing. So the hold catches, and catches wrong.
+
+- **A partial bind.** Dobby is anchored to a person and to no demesne. He has an owner and no house to draw on, which is why he is feeble everywhere, why he can lodge at the Burrow without belonging to it, and why the Manor's claim on him never quite lapsed.
+- **It is killing him, slowly.** A proper bind would have held him indefinitely, small and cheap and alive. The partial one lets him revert towards his true shape, and the true shape needs a house he has not got. The five-year unravelling is the gap between those two facts (DIV-050).
+- **Clothes do nothing to him now.** Dismissal works through the house, and there is no house. Harry could not free him a second time if he tried, and Dobby could walk away any day he chose. He doesn't, which makes Harry a shelter rather than an owner and makes every day Dobby stays a choice he renews.
+- **It is a bug, not a loophole.** An oversight by the original casters, a thousand years old, sitting in the Burrow eating toast. **And a bug means the thing has seams** — which is the first real evidence anyone has ever had that this magic can be worked at all, and the ground Hermione's method is built on (Q-100).
 
 ## The forgetting, and what everyone "knows" *(settled)* · DIV-075
 
@@ -56,13 +67,18 @@ What everyone does know, as folk knowledge with no explanation attached: **a dis
 - **So the wizards' version is cruel and roughly true.** Crouch dismissing Winky is not a man disposing of a witness. It is a man telling his elf to go and kill itself, in a society where that is a known and unremarkable thing to say.
 - **And everybody is complicit.** They are not ignorant. They know what dismissal does. They have simply never once asked why.
 
-## Shame is what keeps the institution standing *(settled)* · DIV-075
+## The two locks *(settled)* · DIV-075
 
-The way out exists and is available to every elf in Britain. It is: *ask someone else to have you.* It requires an elf to debase itself past bearing, and a wizard to accept the asking without taking the ownership. Neither has ever happened.
+The way out exists and is available to every elf in Britain, and nobody takes it, because there are two locks on it and both have to come off.
 
-It happens once, in a corridor in B2, between a thing that has decided to beg rather than die and a twelve-year-old with no house of his own ([the-sock](../scenes/b2/the-sock.md), DIV-076).
+1. **A dismissed elf does not want to live.** Being dismissed is the thing you are made of telling you that you are not worth housing, and the elf agrees with it. This is the real lock. Winky never gets past it.
+2. **And it would not ask even if it did.** An elf does not beg. The shame of asking a strange household to take a cast-off is past bearing, and the household would refuse anyway.
 
-That is the answer to the problem, and it is deliberately not a solution. Nothing is undone, nothing generalises, and nobody who could act on it ever understands what happened.
+What takes the first lock off is not hope offered but **grief witnessed**: somebody minding that you are going. Nobody has ever minded. The second comes off on its own once the first does, because an elf with something to live for will debase itself for it.
+
+It happens once, in a corridor in B2 ([the-sock](../scenes/b2/the-sock.md), DIV-076), and what does it is a twelve-year-old crying.
+
+That is the answer to the problem, and it is deliberately not a solution. Nothing is undone, nothing generalises, and nobody who could act on it ever understands what happened — except that it leaves a working anomaly in plain sight for anyone clever enough to study it.
 
 The *beginning* of a real solution is Hermione's, late and partial and procedural: not a spell that frees an elf but a way for one to recover its natural state over time, in a household that has decided never to use what it holds. It is her S.P.E.W. questline and it is not designed yet (Q-100).
 
@@ -128,7 +144,7 @@ DIV-008 · DIV-035 · DIV-049 · DIV-050 · DIV-065 · DIV-072 (Q-091) · [socie
 
 ## Open
 
-Q-093 (S.P.E.W. now, and how early Hermione learns) · Q-094 (Winky's death) · Q-096 (the epilogue) · Q-099 (who is Hogwarts's household?) · Q-100 (Hermione's fix) · Q-101 (Dracaena, the Chamber and the dead elf)
+Q-093 (S.P.E.W. now, and how early Hermione learns) · Q-094 (Winky's death) · Q-096 (the epilogue) · Q-099 (who is Hogwarts's household?) · **Q-100 (Hermione's method — the biggest one left)** · Q-101 (Dracaena, the Chamber and the dead elf) · Q-102 (do elves eat?)
 
 *Answered by this file:* Q-076 (Dobby as courier), Q-091 (the corridor and the elves), Q-097 (no elf has been made since the binding; the Manor gets none).
 
