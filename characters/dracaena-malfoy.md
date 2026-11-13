@@ -109,6 +109,40 @@ Open: Q-084.
 
 Open: how the balance shifts in B6–B7, and what keeps her a person rather than a trope.
 
+## Dobby *(settled)* · DIV-076, Q-098
+
+She was good to him, and not out of kindness. He is her retinue, and a lady treasures her retinue — the same noblesse oblige that saves Buckbeak (Q-005). Not friendship, and she would be offended by the suggestion.
+
+So Harry freeing him in B2 is, from where she stands, Potter killing her family's elf out of a Gryffindor's idea of a good deed, and taking a dependent from the family that owed him protection. Everyone knows what dismissal does (DIV-075). Under our rules she is right about the cruelty and wrong about nothing except the outcome.
+
+Then Dobby keeps turning up alive, for years, and she is the only person in the world positioned to notice that this is impossible. When she works it out and what she makes of it: Q-098. By summer 1995 she is asking a favour of something that should have died three years ago (DIV-065).
+
+**The B2 whiplash** *(open)* · Q-101. If she is in the Chamber of Secrets — the inbox has her watching Harry kill the basilisk — then the book hands her the best and worst thing Potter has ever done to her in the same week: she sees him kill a monster, and then learns he has carelessly killed her household's elf. It is B1 inverted — there she reached for friendship and made things worse; here *he* does the damage, meaning well — and it explains the state she is in when B3 opens.
+
+**The B3 encounter** *(open)* · Q-101. She finds Dobby alive at the castle, and he tells her he is glad Harry freed him, because her father was a horrible master. A bound elf could not say that. She cannot take it there — accepting it means Potter was right and her father was the villain — so she walks off with the grievance intact and chews on it for months. It is the first half of the case against her father, and Buckbeak is the second.
+
+## Winky, and the better master *(settled)* · DIV-077, Q-098
+
+In B4 she tells Harry that providing for his own elf is his responsibility and that he had better be a better master at it. Noblesse oblige — a lady treasures her retinue — and the only advice anyone gives all year that would actually keep an elf alive. He has never used the word in his life: not master, friend (DIV-076). They are arguing about different things and neither of them notices.
+
+She is also lecturing him about an elf she believes he killed, and cannot say so without admitting she cared (Q-098).
+
+**Then she watches Winky die,** in the kitchens, with Harry, Ron, Hermione and Dobby ([the-kitchens](../scenes/b4/the-kitchens.md)). No pureblood ever does this. The stories her house passed down say a dismissed elf *goes away*; what she sees is a suicide carried out over eight months in a warm room, which is far worse than the thing she was told, and which nobody told her because nobody has ever watched.
+
+**And she stays for the burial,** which no Malfoy has ever done. Dobby asks Harry for it and Harry digs; what goes in is dust; it is the first elf grave in Britain, a thousand years after the binding (DIV-075, DIV-077).
+
+She makes no argument of it and changes no allegiance — when she breaks with her cause it is out of fear and then love, not conviction (Q-083). But it is the one piece of evidence against her class that she gathered herself, standing up, with her own eyes, and it is why she can end up where she does (Q-100).
+
+## Hermione's work, later *(draft)* · Q-100
+
+The answer to all of this, when it finally comes, is a Muggle-born's, and it works by ending old houses.
+
+From where Dracaena was raised that is every grievance she has about Mudbloods handed to her with evidence: they respect nothing, and they will take an axe to what they never troubled to understand — the same objection she first makes in the Dessendre corridor, about someone else's dead being interesting (DIV-074). Her side will hate Hermione more than they already do, and for once they will have a real point: the oldest houses in Britain, pulled down for house-elves.
+
+The book lets them have the point and keeps the verdict. She is right, and it is worth it.
+
+*Author's lean, post-story and not canon:* Dracaena ends up campaigning for her behind closed doors, in the rooms Hermione cannot get into (Q-096). It is earned in the Hogwarts kitchens in B4 and nowhere else. She is not persuaded by Hermione and never will be; she simply knows what the alternative looks like, because she stood in the room for it.
+
 ## Voice
 
 _Open._ She tuts at Muggles who get real magic wrong.
@@ -145,7 +179,7 @@ Her inner arc is the [Sleeping Beauty thread](../threads/sleeping-beauty.md).
 | Book | Start | Turn | End |
 |---|---|---|---|
 | B1 | Wizard royalty, used to flattery | Called a princess, sincerely, by a nameless boy; reads the tale. Refused on the train (DIV-009, DIV-010). In the Dessendre corridor she is useful, expert and moved, and calls Hermione a Mudblood in the same hour (DIV-073, DIV-074) | Holds a grudge: she'll prove he's nothing special. Punished for the one afternoon she thought went well (Q-092) |
-| B2 | | His feats start to repair her opinion (DIV-013). The Duelling Club under Flitwick: evenly matched with Harry (DIV-028) | |
+| B2 | | His feats start to repair her opinion (DIV-013). The Duelling Club under Flitwick: evenly matched with Harry (DIV-028) | Potter takes her family's elf and, as far as she knows, kills him — possibly in the same week she watches him kill a basilisk (DIV-076, Q-098, Q-101) |
 | B3 | Milking the injury; her play-acting gets Buckbeak condemned (DIV-017). | The final: she plays clean, loses fairly and takes Harry's hand — proof that playing straight gets her what she wants (DIV-069). Her house sees her enjoying herself with him and turns, and Harry sees what her anger looks like aimed at someone else (DIV-070, DIV-071, Q-081). 🔒 Saves Buckbeak (DIV-003). Confesses the swarm at the lake; flies Buckbeak to Sirius (DIV-018) | Owes Harry; her prince drove off the demons for her |
 | B4 | | 🔒 Accepts his invitation to the Yule Ball, the turning point (DIV-004, DIV-013). 🔒 His Second Task hostage (DIV-005); claims him in front of the school (DIV-038) | In the dream. Guards him in the hospital wing and defends him to Fudge (DIV-058); takes him into her room and finds out she's the cure for his nightmares (DIV-060, DIV-061). Refuses her father's order to cut ties, throwing Harry's silence about him back at him, and he comes up with the spy strategy (DIV-013, DIV-040, DIV-047) |
 | B5 | Learns Occlumency from Snape over the summer (DIV-020). Dreaming, under cover (DIV-013). Loses the first match to Harry and kisses him on the pitch; her house calls it throwing the game, and she plays the rest of the year angry (DIV-067) | Comforts him after Sirius and promises to be there (DIV-014) | Marked. Voldemort shatters her walls; faith dead (DIV-015) |
@@ -158,4 +192,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-028, Q-030–Q-032, Q-035–Q-038, Q-041–Q-044, Q-050–Q-052, Q-067–Q-069, Q-072, Q-073, Q-075, Q-076, Q-081–Q-086
+Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-028, Q-030–Q-032, Q-035–Q-038, Q-041–Q-044, Q-050–Q-052, Q-067–Q-069, Q-072, Q-073, Q-075, Q-081–Q-086, Q-096, Q-098, Q-101

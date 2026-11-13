@@ -31,6 +31,15 @@ status: draft
 
 *(settled)* Her souring makes her Harry's ally inside the house. She understands what it means to be in love, and Harry is hardly a bad match for a Malfoy: almost a pure-blood, with a pure-blood father. Rowling's own essay on the Malfoy family says they avoided marrying within the small pure-blood pool, and half-bloods turn up throughout their family tree. It first shows in B4. Before the Yule Ball she picks out a dress to go with Harry, confirms Lucius's suspicions and plays Harry's advocate, and Lucius reluctantly sees her point ([the-green-dress](../scenes/b4/the-green-dress.md), DIV-040). Where else it shows: Q-039.
 
+## Dobby is hers *(settled)* · DIV-075, DIV-050
+
+She does not know this and neither does anyone else. A house-elf is the house's character wearing a body, and Malfoy Manor had been producing a frightened, cringing, bound thing for centuries. What changed it was her: she married in, she had Dracaena, she was cursed and could have no more children, and the house took the shape of her wanting. Dobby's kindness is hers. His dream of a great house full of a happy, kind family is her dream, worn by the building she lives in.
+
+- **The soft spot for Dracaena.** Sweets smuggled against Lucius's wishes, which he can do because no order ever forbade it (the binding takes obedience, never the will — DIV-075).
+- **So she saves Harry without knowing it,** twice, and both times by making something and then letting it go: the elf who warns him in B2, and the daughter who goes back for him in B7.
+- **The Manor goes cold** after B2 and she feels it most and cannot name it ([house-elves](../setting/house-elves.md), DIV-076).
+- **At his death** she sees the true form, as everyone present does, and has no idea what she is looking at. She cannot offer to take him back: he is Harry's, and has been since B2 (DIV-050).
+
 ## What she passes down
 
 - **The Malfoy room.** She is the one who gives Dracaena the password, in B3, not Lucius. Full entry: [setting/hogwarts.md](../setting/hogwarts.md) (DIV-060).
@@ -64,7 +73,7 @@ Canon default.
 | B4 | | Plays Harry's advocate before the Ball (DIV-040) | |
 | B5 | | | |
 | B6 | | | |
-| B7 | | Defects with Lucius during the Manor raid, when her daughter turns (DIV-052). Recovers at Shell Cottage, where Dracaena brews her medicine | At Hogwarts for the battle, not in the forest: no lie (DIV-052). Fights her sister Bellatrix with Lucius (DIV-053) |
+| B7 | | Defects with Lucius during the Manor raid, when her daughter turns (DIV-052). Sees Dobby's true form without understanding it (DIV-050). Recovers at Shell Cottage, where Dracaena brews her medicine | At Hogwarts for the battle, not in the forest: no lie (DIV-052). Fights her sister Bellatrix with Lucius (DIV-053) |
 
 ## Secrets
 
@@ -72,4 +81,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-018, Q-019, Q-030, Q-032, Q-036, Q-039, Q-041, Q-044, Q-067, Q-072
+Q-018, Q-019, Q-030, Q-032, Q-036, Q-039, Q-041, Q-044, Q-067, Q-072, Q-096, Q-097

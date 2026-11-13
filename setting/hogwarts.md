@@ -26,6 +26,17 @@ A small round chamber below the dungeons, two corridors from the Slytherin commo
 - **Across the books.** B3: Harry sometimes looks for her at night, finds no Malfoy anywhere on the Map, and thinks nothing of it. B4: he learns where she goes, and she refuses him the password ([the-malfoy-room](../scenes/b4/the-malfoy-room.md)). B5: she gives it to him. B6 *(draft)*: she never goes back. The room stays exactly as they left it while she works in the Room of Requirement, so when Harry misses her on the Map and lets himself in, he finds it cold and dusty and untouched, with his scarf still on the stand. She didn't throw him away; she stopped coming.
 - **Two rooms.** The dream has this one, the nightmare has the Room of Requirement ([sleeping-beauty](../threads/sleeping-beauty.md)).
 
+## The castle's elves *(settled)* · DIV-075
+
+Helga Hufflepuff brought her own bound elf and settled it into the castle, to give it somewhere safe and warm to work, and it took root. The full rules: [house-elves](house-elves.md).
+
+- **One elf, a hundred bodies.** Bodies scale with the demesne, and a thousand years in the largest inhabited building in magical Britain is an enormous one. The school has fewer than it had, because the school is smaller than it was (DIV-035). Nobody counts them.
+- **Why it feeds people.** The castle's elf keeps children warm and fed and is never seen doing it, because it was made in a house that did that.
+- **Not a refuge.** Hogwarts takes in no freed elves and knows nothing the rest of the world doesn't. Dobby and Winky are in the kitchens in B4 as refugees, not beneficiaries, and canon never names a single elf native to the castle — the only two with names came from somewhere else (DIV-077).
+- **They are the castle elf's guests, not the school's.** It takes in two destitute creatures and feeds them because feeding whoever turns up is what it was made to do, and because no order has ever forbidden it — an elf acting in the gaps between orders, at its own small scale (DIV-075). **No wizard decides anything.** Canon's hire is cut: nobody is employed, there are no wages, and there is no work to give them, because the castle has needed nothing from anybody for a thousand years.
+- **Dumbledore does not know,** or never mentions it. He is not omniscient, there is nothing here that would reach him, and him never being told keeps the school's non-involvement total — and leaves open whether the Headmaster stands in the household's place at all (Q-099).
+- **The cover story.** The school remembers Hufflepuff's kindness and nothing else: the kindest of the four took a cursed thing and moved it somewhere nicer. Every elf story Hermione digs through has that shape.
+
 ## Classes
 
 Canon's timetable, which already puts Gryffindor and Slytherin in the same Potions room. The one thing we add is Snape's seating: he puts Harry next to Dracaena, and it backfires on him (DIV-056, [severus-snape](../characters/severus-snape.md)).

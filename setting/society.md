@@ -8,7 +8,7 @@ Canon by default. This file records where society works differently.
 
 ## Pureblood ideology 🔒 (principle) · DIV-008
 
-The ideologues have an actual point. What it is, and where it turns into Voldemort's ideology: Q-016. House-elves are the hardest test case: [problems/house-elves.md](../problems/house-elves.md).
+The ideologues have an actual point. What it is, and where it turns into Voldemort's ideology: Q-016. House-elves were the hardest test case, and are now answered: they are houses, bound by a crime nobody remembers committing, which makes the purebloods custodians of an atrocity rather than its authors (DIV-075, [house-elves](house-elves.md)). They also get their best genuine grievance out of the remedy: Hermione's method works by ending the house the elf leaves, so the only person who ever does anything for the elves is a Muggle-born dismantling the oldest houses in Britain, for creatures those houses made. It cannot be scaled without finishing what the ancient wizards started, and she is right anyway (Q-100).
 
 *(draft)* **Lead from DIV-035.** Wizarding Britain really is disappearing, and it really does live off the Muggles. The self-sufficient pure-blood estate, owing Muggles nothing, is a dream of independence. That gives Voldemort's promise to take it all back real credence, though his war, by killing so many, made the decline worse. The turn into his ideology is the blame: Muggle-borns are the only inflow slowing the decline, and the ideologues attack them.
 
@@ -28,7 +28,7 @@ Wizarding Britain is small and shrinking. The figures are illustrative: somethin
 - **Magic multiplies labour.** Cooking, cleaning, building, repairs and transport take a wand or Apparition, so a few thousand witches and wizards can run what would take a much larger Muggle town. Most of the economy is crafts, services and government.
 - **The Ministry is sized for the Muggles.** Obliviators, Muggle Liaison, Misuse of Muggle Artefacts, Accidental Magic Reversal: most departments police the border with tens of millions of Muggles, not ten thousand wizards. That's why the bureaucracy looks oversized.
 - **It lives off the Muggle economy.** Food can't be conjured (Gamp's Law, B7). Bread, meat, cloth and paper come from Muggles, bought with Muggle money that Gringotts gets by quietly selling gold. Exports, such as brooms, potions and wands sold abroad, make up the rest.
-- **Not the elves.** House-elf labour doesn't quietly make the economy work. That would make pure-blood society indefensible and undercut DIV-008. Their fate: [problems/house-elves.md](../problems/house-elves.md).
+- **Not the elves.** House-elf labour doesn't quietly make the economy work. That would make pure-blood society indefensible and undercut DIV-008. It also can't: one old house keeps one elf, so there are a few dozen in Britain, and they shrink as the houses empty. Elves index the decline; they were never its engine (DIV-075, [house-elves](house-elves.md)).
 - **The way out** of the decline, after the war: Q-048.
 
 ## Gender, inheritance and marriage

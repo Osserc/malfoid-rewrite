@@ -49,7 +49,7 @@ After the Third Task Harry can't sleep without a draught. He wakes the dormitory
 
 ## The summer letters *(draft)* · DIV-065
 
-Through the summer of 1995 she writes to him at Privet Drive. Hedwig is far too visible and his post is being watched, so Dobby carries them: free, at Hogwarts, and willing to do it for Harry. She has to ask a favour of the elf her family owned (Q-076).
+Through the summer of 1995 she writes to him at Privet Drive. Hedwig is far too visible and his post is being watched, so Dobby carries them: free, lodging at the Burrow, and willing to do it for Harry. He can, because a free elf is anchored and not confined (Q-076, answered; DIV-075). She has to ask a favour of the elf her family owned — and, by everything she knows, of something that should have died when Potter freed it three years ago (DIV-076, Q-098).
 
 Canon's isolation stands and gets worse. The people who claim to be protecting him tell him nothing; the one person treating him like a person is a Death Eater's daughter, and his friends aren't writing because they were told not to — on top of the rift they parted on (DIV-063). The Order finds out eventually and is appalled. Sirius takes her side.
 
@@ -82,6 +82,7 @@ Canon's isolation stands and gets worse. The people who claim to be protecting h
 | B4 | 🔒 She is his Second Task hostage, and the dream begins (DIV-005, DIV-013). He goes down on her gillyweed extract (DIV-039). At the lake she claims him and kisses him in front of the school (DIV-038) | [second-task](../scenes/b4/second-task.md) |
 | B4 | Fleur tests his heart with her charm, then hands Dracaena a public win (DIV-037, DIV-038) | [the-little-basilisk](../scenes/b4/the-little-basilisk.md) |
 | B4 | Dumbledore has a word with her on the eve of the Second Task, and tells Harry at the end of the year that she's in a tough spot (DIV-046) | |
+| B4 | After the Second Task: she tells him providing for his own elf is his responsibility and he should be a better master — a word he has never used — then stands in the kitchens with Ron and Hermione and watches Winky die (DIV-077, Q-098) | [the-kitchens](../scenes/b4/the-kitchens.md) |
 | B4 | The hospital wing: Sirius shoves her to the bedside, the first thing Harry says is sorry for losing her ribbon, and she guards him all night. "Sleep well, my prince" (DIV-058) | [the-hospital-wing](../scenes/b4/the-hospital-wing.md) |
 | B4 | After the Third Task, Harry keeps Lucius's name from Fudge, and she sees it. She defends him to the Minister's face (DIV-047, DIV-058) | [the-missing-name](../scenes/b4/the-missing-name.md) |
 | B4 | Unseen by anyone: Lucius takes her ribbon back in the graveyard and Stuns Avery to open Harry a way out (DIV-057) | |

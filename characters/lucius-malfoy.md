@@ -46,6 +46,16 @@ He has, in other words, already committed treason for the boy by the time Harry 
 - In B5 he tells Voldemort he has planted his daughter as a spy on Potter (DIV-020). He meets Voldemort regularly, but never at the Manor before B6.
 - He's in Azkaban from June 1996 (canon default). That summer Voldemort sees in Dracaena's head that she was never a spy (DIV-015). What that costs Lucius: Q-030.
 
+## The elf *(settled)* · DIV-076, DIV-050
+
+He knew what the sock meant. Everyone knows a dismissed elf does away with itself; nobody knows why, and nobody has ever asked (DIV-075). He discarded it anyway — no temper, no aim, no malice, just a nobleman stripping a filthy Muggle sock off a book and flinging it aside as rubbish, which Dobby then catches. Carelessness, not cruelty, and that is the whole charge. Then he spent five years deciding it did not matter.
+
+- **What he actually did** was cut his own house's spirit loose. The Manor goes cold from that night and never recovers, and he blames the war when the war eventually turns up — five years late ([house-elves](../setting/house-elves.md)).
+- **He does not attack Harry.** Brawling with a twelve-year-old is beneath him and he has never needed to. What he does instead is stop at the end of the corridor and tell him he hopes he knows what he has just done — the only warning anyone gives, and nobody in the scene can read it.
+- **At the Manor in B7** he sees what crumbles out of Dobby's body: a translucent figure taller than a man, fair-haired, with Malfoy grey eyes. Everyone present sees it and nobody knows what it means; he recognises *a Malfoy* and has no context whatever for why. Hermione supplies the context afterwards, which is its own humiliation.
+- **His apology** is therefore not for kicking a servant. It is for killing his line's house out of pique and living five years in the body of it without noticing (DIV-050).
+- **He learns what it was from Hermione Granger**, who is the only person alive who can read the image, because she spent a year in the archives while his sort looked away (DIV-075).
+
 ## Voice
 
 _Open._
@@ -65,12 +75,12 @@ Canon default.
 | Book | Start | Turn | End |
 |---|---|---|---|
 | B1 | | | |
-| B2 | | | |
+| B2 | | Harry tricks him into freeing Dobby; he knows what that means and does it anyway (DIV-076) | The Manor begins to go cold, and he never connects the two |
 | B3 | | Has Buckbeak condemned, fuelled by Dracaena's play-acting (DIV-017) | |
 | B4 | | Learns she's going to the Ball with Potter; Narcissa takes Harry's side (DIV-040). In the graveyard he takes back her ribbon and Stuns Avery to open Harry a way out (DIV-057) | Finds them asleep together on the train and declines to see it ([the-train-home](../scenes/b4/the-train-home.md)). Orders her to cut ties; she refuses, citing Harry's silence about him (DIV-047), and he comes up with the spy strategy (DIV-013, DIV-040) |
 | B5 | Tells Voldemort his daughter is a spy (DIV-020) | | Arrested at the Department of Mysteries (canon) |
 | B6 | In Azkaban (canon) | | |
-| B7 | | Defects during the Manor raid, when his daughter turns (DIV-052) | At Hogwarts for the battle; fights Bellatrix with Narcissa (DIV-053) |
+| B7 | | Defects during the Manor raid, when his daughter turns (DIV-052). Sees Dobby's true form and asks his forgiveness (DIV-050) | At Hogwarts for the battle; fights Bellatrix with Narcissa (DIV-053) |
 
 ## Secrets
 
@@ -78,4 +88,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-001, Q-019, Q-022, Q-030, Q-032, Q-036, Q-072
+Q-001, Q-019, Q-022, Q-030, Q-032, Q-036, Q-072, Q-096

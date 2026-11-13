@@ -85,6 +85,21 @@ The warning aimed at him is not Aline's but Renoir's — the man who went into t
 - **Flying.** A wild instrument suits him. He wins when he stops managing it (DIV-068).
 - **Sacrifice.** His death in the forest protects nobody (DIV-026).
 
+## The elves *(settled)* · DIV-075, DIV-076, DIV-078
+
+A house-elf is needed and used and never wanted, which is his want exactly. That is why he is the only person in a thousand years to answer it, and why he could never explain what he did.
+
+- **B2.** He catches what Lucius throws away, offers friendship instead of ownership, and has no idea that the condition is the whole point or that he qualifies only because he has no house for the curse to grip (DIV-076). He does not talk Dobby round, either: Dobby changes his own mind, because Harry has accidentally given him something to hope for.
+- **He never once thinks he has freed anybody,** and he is right not to. Freedom is not what an elf wants and not what Dobby was asking for (DIV-075). What Harry offers is a person to belong to, which is the only thing on the table.
+- **He gives Dobby the Burrow** — the house he wishes were his own — and thinks nothing of it.
+- **And his vault.** Dobby has it, functionally without limit, and Harry never gives it a second thought: it keeps Winky all through B4 without Harry noticing he is paying for a second elf, and it is how he finally repays the Weasleys, who will not take anything from him. A small room added on for himself that nobody asked for, the structure quietly shored up, repairs on transparently silly pretexts. Molly cannot refuse a room for Harry.
+- **And it is what feeds him.** Dobby has never eaten in his life and is suddenly hungry, because an unhoused elf has no house to draw on (Q-102). The vault is his board, and neither of them ever puts it that way.
+- **Every one of those kindnesses is spending him.** It all comes out of a thing with no house to draw on, and Dobby is delighted to do it, because enlarging a house is the oldest thing in him.
+- **It costs Dobby his life.** A person-anchored elf runs on one person and nothing else, and Harry had nothing else. Dobby dies of Harry's homelessness (DIV-050).
+- **He cannot do it twice.** Kreacher is already his, completely, through Sirius's will, and being kind to him changes nothing — which is why the answer there has to be Hermione's and not his (DIV-078).
+- **He also cannot undo it.** Clothes do nothing to an unhoused elf, so Harry could not free Dobby again if he tried, and Dobby could leave him any day and doesn't (DIV-075).
+- **He never learns the history.** He has the remedy and no theory; Hermione has the theory and no remedy.
+
 ## Voice
 
 _Open._
@@ -109,12 +124,12 @@ Events are in [threads/harry-dracaena.md](../threads/harry-dracaena.md). This is
 | Book | Where he is |
 |---|---|
 | B1 | Awestruck, then stung, and sure the princess is cruel (DIV-009). Shown at the Mirror what wanting the dead back costs, and in a corridor what magic leaves behind — where he half wants her to be right about dreaming in measured doses, and a thing with no name settles it for him (DIV-072, DIV-073) |
-| B2 | The Duelling Club turns a feud into a game he enjoys and won't examine (DIV-028) |
+| B2 | The Duelling Club turns a feud into a game he enjoys and won't examine (DIV-028). In a corridor he does the only decent thing anyone has ever done for an elf, by accident (DIV-076) |
 | B3 | Affection at the final, revelation at the lake (DIV-069, DIV-018). He re-evaluates her and can't make the mask fit |
 | B4 | In love before he knows it (DIV-037); learns it properly over the year. First time he pictures a future |
 | B5 | Rage, isolation, and the one person treating him like a person (DIV-065). Loses Quidditch for her and doesn't much care (DIV-067) |
 | B6 | Angry all year, heart not in Dumbledore's lessons. The reflex comes due (DIV-032) |
-| B7 | Drops the plan for her at the Manor (DIV-049); handles her with velvet gloves until she makes him stop (DIV-054); walks to the forest for Dumbledore's plan and comes back for her (DIV-022, DIV-048) |
+| B7 | Drops the plan for her at the Manor (DIV-049); handles her with velvet gloves until she makes him stop (DIV-054); walks to the forest for Dumbledore's plan and comes back for her (DIV-022, DIV-048). Learns at Dobby's death what his own kindness had been costing (DIV-050) |
 
 ## Secrets
 
@@ -122,4 +137,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-024, Q-029, Q-035, Q-038, Q-050, Q-057, Q-061, Q-063, Q-072, Q-075, Q-078, Q-080, Q-082, Q-085, Q-091
+Q-024, Q-029, Q-035, Q-038, Q-050, Q-057, Q-061, Q-063, Q-072, Q-075, Q-078, Q-080, Q-082, Q-085, Q-096

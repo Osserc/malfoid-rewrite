@@ -44,6 +44,27 @@ Canon default.
 - [Dracaena Malfoy](dracaena-malfoy.md): her rival from the first Potions lesson, where Dracaena shows her up (DIV-011). The first "Mudblood" is B1, in the Dessendre corridor, and she takes it in silence (DIV-074). Taunts her for dropping Muggle Studies (DIV-012). From B4 she stops slurring her, for Harry's sake. In B6 she calls Hermione "Mudblood" again, plenty, to hurt her ([dracaena-malfoy](dracaena-malfoy.md)). *(settled)* In B7 Hermione treats her with kid gloves anyway. She's perceptive, and knows Dracaena wasn't herself in B6, and still isn't: from the Ball to the end of B5 she was not too hostile for a year and a half. At Shell Cottage, her sealing spell saves Narcissa's medicine, and Dracaena starts treating her as a person for good ([narcissa-malfoy](narcissa-malfoy.md)).
 - Crookshanks: canon default.
 
+## The elves *(draft)* · DIV-075, DIV-077
+
+Hers is the win. The noble houses buried their own shame so completely that nobody alive knows there was anything to bury, and she is the one who digs it up — not from a document, from a hole in the evidence. Elves enter the record abruptly, fully formed, already in service, with no origin, no habitat, no young and no natural history. A species with no natural history is not a species. She finds the shape of the cover-up and never finds the deed.
+
+- **B4 is the collision.** She learns early, and from Harry: he says he *has* an elf — never *owns*, a word he does not think in, which is why her horror lands on the fact rather than on him — she is appalled, and Dobby turns up uncalled because he feels Harry thinking about him. Her first-hand account of elf life comes from the elf (DIV-077).
+- **Winky dies in front of her,** with Harry, Ron, Dobby **and Dracaena** there. She has disliked Crouch since the World Cup; **here it settles into hatred for good**, personal rather than political. She has watched a man's discarded servant take eight months to stop existing because he told her she was not worth housing, and she is the only person in the castle who extends him no sympathy through the back half of the book.
+- **Dracaena is in the room,** which matters later. She is the one pureblood who ever watches what dismissal actually does, and decades on she is the only one who will quietly back Hermione's method, because of this and nothing else (DIV-077, Q-100). In the same weeks they argue it out from opposite chairs: Dracaena for better masters, Hermione for none, each right about a different timescale and neither able to act on the other's.
+- **She has no paid elf to point at.** Dobby never takes wages from Dumbledore, nobody is employed and no institution endorses anything (DIV-077), so S.P.E.W.'s only datum is that Harry pays an elf's board without knowing he does it. What she argues from instead is open (Q-093).
+- **The hats are undecided** (Q-093). If they stayed they were traps — but she is not the castle's household, so they may have done nothing at all, and nobody can tell her (Q-099).
+- **B5 is the research**, dragged out across the year and hung on the business she is already doing ([books/b5/outline.md](../books/b5/outline.md)).
+- **It is also DIV-008 inverted.** [painted-life](../setting/painted-life.md) gives the old houses unwritten memory the books don't have. This gives the Muggle-born the history the old houses lost, because they stopped looking at their own shame. Using the same device twice would make it a formula; using it in both directions makes it an argument.
+- **At Dobby's death she is the one who can read it.** Everyone present sees the true form; only she knows what it is, and she tells the Malfoys. It is the one moment her research changes anything for anyone (DIV-050).
+- **B5 gives her the anomaly as well as the hole.** She watches Dobby take Mrs Black's portrait off a wall no elf should be able to touch, because he is a thousand-year-old oversight nobody designed for. The curse has a bug, so it has seams (Q-100).
+- **And then she builds the answer.** Not freeing, which kills them: a method for a bound elf to recover its natural state over time, in a household that has decided never to use what it holds. Slow, partial, procedural. She is not powerful and it must not need power — she finds the seam rather than beating the magic. Kreacher is the prototype, at Malfoy Manor, after the war. **Entirely undesigned: Q-100**, and it is her whole S.P.E.W. arc.
+- **There was no procedure in the corridor to copy.** What happened to Dobby was an elf changing his mind, not a technique anyone performed (DIV-075, DIV-076), so all she gets from it is proof that the magic has seams and no hint of how to open one. It makes her work harder, not easier (Q-100).
+- **And she is campaigning for the wrong thing, and cannot know it.** Elves do not want liberty — an elf is a spirit of the hearth and wants a family worth nursing (DIV-075). S.P.E.W.'s name is a category error made by someone whose instincts are entirely right, and what she eventually builds is not an emancipation. Nobody ever tells her, because nobody alive knows.
+- **And it costs houses.** Performing it ends the house the elf is leaving — Grimmauld Place dies because of the method, not because of grief. Old houses are the only thing that ever made elves and are already disappearing (DIV-035), so every elf saved costs one of the few left and the method cannot be scaled without finishing what the ancient wizards started. She knows, and does it anyway.
+- **Which hands her enemies their best real grievance.** From the other side of the room, the Muggle-born's life's work is dismantling the oldest houses in Britain, for house-elves of all things. It is exactly what the purebloods always said Mudbloods would do, they hate her the more for it, and she is still right. The book gives the objection its full weight and does not let it win (Q-100, [society](../setting/society.md)).
+- **What she never gets is Harry's remedy**, and he never gets her history. They never put the two together ([house-elves](../setting/house-elves.md)).
+- **It pays off B1.** Clea's painted creatures refuse rescue because for them freeing is destroying and there is no remedy at all. The elves are the same shape with a door in it (Q-091, answered).
+
 ## Arc by book
 
 | Book | Start | Turn | End |
@@ -51,10 +72,10 @@ Canon default.
 | B1 | Outdone by Dracaena in the first Potions lesson (DIV-011) | The troll (canon). After the Mirror she appoints herself Harry's keeper; her research turns up the Dessendres, and in the corridor she is called a Mudblood for the first time and says nothing (DIV-073, DIV-074) | |
 | B2 | | | |
 | B3 | Takes Muggle Studies | Drops it (DIV-012). Slaps Dracaena over the jeer at Hagrid, and is right to: she sees the jeer and nothing else (DIV-069) | The lake: her idea to have Dracaena fly Buckbeak to Sirius (DIV-018) |
-| B4 | | | The second rift: she backs Ron's confrontation on the train, then concedes they were too overprotective — and notices Dracaena didn't acknowledge them at all (DIV-063) |
-| B5 | | | |
+| B4 | Founds S.P.E.W. (canon) | Learns early, from Harry and from Dobby, what freeing an elf does. Winky dies in front of her, with Dracaena there, and her dislike of Crouch settles into hatred (DIV-077) | The second rift: she backs Ron's confrontation on the train, then concedes they were too overprotective — and notices Dracaena didn't acknowledge them at all (DIV-063) |
+| B5 | | Tracks down the elf conspiracy across the year: the hole in the record, never the deed (DIV-075) | The history, and no remedy |
 | B6 | | Notices Harry's new tricks resemble Dracaena's technique (Q-042) | |
-| B7 | | Plans the Malfoy Manor raid with Harry and Dobby (DIV-049). Treats Dracaena with kid gloves ([apparate-dancing](../scenes/b7/apparate-dancing.md)). Invents the sealing spell that preserves Narcissa's medicine | |
+| B7 | | Plans the Malfoy Manor raid with Harry and Dobby (DIV-049). Reads Dobby's true form for the Malfoys when nobody else can (DIV-050). Treats Dracaena with kid gloves ([apparate-dancing](../scenes/b7/apparate-dancing.md)). Invents the sealing spell that preserves Narcissa's medicine | After the war, her method: Kreacher at the Manor (DIV-078, Q-100) |
 
 ## Secrets
 
@@ -62,4 +83,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-002, Q-028, Q-042, Q-050–Q-052
+Q-002, Q-028, Q-042, Q-050–Q-052, Q-093, Q-094, Q-099, Q-100
