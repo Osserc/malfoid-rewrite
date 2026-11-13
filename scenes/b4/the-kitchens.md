@@ -49,6 +49,33 @@ Early, and from Harry, not from an enemy.
 
 **The hats are undecided** and may not survive at all. If they stay, they are traps: freedom hidden around Gryffindor Tower for elves to pick up by accident, the castle's elves refusing to go in as self-preservation, and Dobby collecting every one because he is already out and immune. The wrinkle that saves her from having been a murderer is that **she is not the castle's household** — hats from a fourth-year may have done nothing whatever, and nobody can tell her, and she will never know (Q-099). Current lean: Dobby talks her out of them, and she only understands what she nearly did after Winky dies. Q-093.
 
+## Why it takes her eight months *(settled)* · DIV-075
+
+The reader watched Dobby start to go in under a minute, so this is the first question they will have, and the answer is the whole horror of the thing.
+
+**Dissolution runs at the rate the elf lets go, and nothing else is counting.** Dobby went fast because he had wanted to go for decades and had never been allowed to; the sock opened a door he was already standing at. **Winky does not release. She erodes.** She does not want to live either, but she has not finished *wanting* — her master back, the verdict overturned, to be worth housing — and every one of those is a hand still holding on. So she comes apart slowly, over eight months, conscious of it the whole time.
+
+**Which inverts what the reader thinks they learned.** The quick death is the merciful one and almost nobody gets it. What Crouch ordered at the World Cup was not what nearly happened in the corridor; it was this.
+
+**Why nobody's grief saves her** *(draft)* · Q-093. The remedy in B2 ran on grief witnessed — somebody minding that you are going (DIV-075) — and Winky spends eight months among people who mind. It has to fail, and the reasons should be visible on the page.
+
+- **Dobby minding is not it.** He is another cast-off, and a cast-off objecting to Crouch's verdict confirms it rather than overturning it. The grief that could reach her would have to come from the side that did the dismissing.
+- **Hermione minds about elves** *(Claude's proposal, not settled)*. She does not mind about *Winky*, not for most of the year — Winky is a cause, and being a cause is not being wanted, and Winky can tell the difference. It costs nothing on the page and gives Hermione the wound she carries into B5: she minded enormously and never once asked Winky a question about herself.
+- **And by the time anyone minds personally, the window has gone.** Harry caught Dobby in the first minute of it. Nobody catches anything in month seven.
+
+## The grave *(settled)* · DIV-077
+
+**Dobby asks Harry to bury her,** and Harry does.
+
+- **An elf asking for something is the extraordinary part.** He is not asking for himself and does not frame it as a favour; he simply thinks Winky should be honoured, and has decided it, and says so.
+- **He has been working on his own mortality since the corridor,** quietly, without knowing it is already under way. He nearly went himself, he has now watched someone go properly, and he has concluded that this is what ought to happen when an elf dies — which is him arranging his own funeral two books early and not knowing it (DIV-050).
+- **It is the first elf grave in Britain.** A thousand years and not one, because housed elves do not die and nobody has ever minded the ones that did. The nearest thing to an elf memorial in the country is the row of heads on the stairs at Grimmauld Place (DIV-075).
+- **What is left of her is dust,** as it will be of him. They bury that.
+- **And a Malfoy is standing there for it,** which has never happened either.
+- **It is why Dobby gets a tomb in B7.** Nobody asks that time. Harry simply knows to, and the knowing is Dobby's own doing ([malfoy-manor](../b7/malfoy-manor.md), DIV-050).
+
+Open: where she is buried, who digs, and what, if anything, the marker says (Q-094).
+
 ## Dracaena, and the better master *(settled)* · DIV-077, Q-098
 
 She is in the room when Winky goes, and it is where her class's account of elves stops working for her.
@@ -68,7 +95,7 @@ She is in the room when Winky goes, and it is where her class's account of elves
 - **It is why she can end up on Hermione's side.** Not friendship and not agreement: she is the one pureblood in Britain who stood in the room, which is what makes her the only one who could ever back the method quietly, long after the war (Q-100, Q-096 — post-story, not canon).
 - **And she is in a room with Ron and Hermione, not fighting,** very likely for the first time.
 
-**What is left of Winky** is dust. Whether the four of them bury it, and whether that makes the first elf grave in Britain three years before Dobby's, is open (Q-094).
+And she is there for the burial, which is a thing no Malfoy has ever done (*The grave*, above).
 
 ## Hermione and Crouch *(settled)*
 
@@ -83,6 +110,8 @@ It costs nothing and pays twice. Canon spends the back half of B4 on Crouch's un
 - Winky will not take money; Harry's vault keeps her, and Harry never knows.
 - Nobody is employed. No wages, no Dumbledore, no work — they are the castle elf's guests.
 - Dracaena is there when Winky dies, and she tells Harry to be a better master first.
+- Winky takes eight months because she does not release; Dobby went in minutes because he did. The slow one is the ordinary one.
+- Dobby asks Harry to bury her, and that is why Dobby gets a grave in B7.
 - She refuses, and the refusal is shame, not despair alone.
 - She refuses food as well as money. Butterbeer is oblivion, not sustenance.
 - All of them are there when she goes, Dracaena included.

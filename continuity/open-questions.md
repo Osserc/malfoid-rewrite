@@ -539,6 +539,7 @@ Still open:
 - **Do the hats survive at all?** The author is inclined to drop the knitting. If they go, something else has to carry the irony, or nothing does.
 - **If they stay,** they are traps — but she is not the castle's household, so they may have done nothing whatever (Q-099), and nobody can tell her. Current lean: Dobby talks her out of them, and she only understands what she nearly did once Winky is dead.
 - **What the society becomes** once it has a body in it. Its destination is Q-100.
+- **Why her minding doesn't save Winky** *(open)*. The B2 remedy runs on grief witnessed (DIV-075), and Winky spends eight months among people who mind, so the failure has to be legible on the page. Dobby minding is not it — a cast-off objecting to Crouch's verdict confirms it. *Claude's proposal, not settled:* Hermione minds about elves and not about Winky, because Winky is a cause, and being a cause is not being wanted, and Winky can tell. It costs nothing and gives Hermione the wound she carries into B5 — she minded enormously and never once asked Winky a question about herself. → [the-kitchens](../scenes/b4/the-kitchens.md)
 - **Her one canon success is gone.** Dobby never takes wages from Dumbledore (DIV-077), so S.P.E.W. has no paid elf to point at and no institutional endorsement of any kind. Her only live data point is that Harry has an elf and pays for its board without knowing he is doing it, which is worse for her and better for the book. What she argues from instead is open.
 - **And Dracaena argues the other side of it,** in B4, for better masters rather than none, and is right about the year while Hermione is right about the century (DIV-077).
 
@@ -548,7 +549,7 @@ She dies in B4, with Dobby there. Open:
 
 - **Exactly when.** The lull after the Second Task is the lean. Not early, because the fade is the demonstration; not the end of the book, which belongs to the graveyard.
 - **Her canon function.** In canon she is the witness who confirms that Crouch hid his son. Harry and Dumbledore get that from Moody's confession anyway, but B4 planning has to check what else she carried and re-home it.
-- **Is there a grave?** What is left of a dissolved elf is dust (DIV-075). Whether the others bury it, and whether that makes the first elf grave in Britain three years before Dobby's, is open.
+- **The grave** *(settled)*. Yes. **Dobby asks Harry for it** — an elf asking for something, which is the extraordinary part — because he thinks Winky should be honoured, having been working through his own mortality since the corridor without knowing it is already under way. **It is the first elf grave in Britain** (DIV-075), and it is why Harry knows to bury Dobby in B7 without being asked (DIV-050). Still open: where she is buried, who digs, and what, if anything, the marker says.
 
 *Settled:* Harry, Ron, Hermione, Dobby **and Dracaena** are all present when she dies. It is where Hermione's hatred of Crouch is born — permanent, personal, and not political; she extends him no sympathy through the back half of the book. And it is the only time any pureblood watches what dismissal actually does (DIV-077, Q-098).
 

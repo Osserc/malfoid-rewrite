@@ -42,6 +42,14 @@ Canon's trick stands, start to finish. What changes is what freedom turns out to
 13. **The half-joke.** Afterwards, Harry points out that Dobby is going to be waiting a very long time for the big happy family, seeing as he is twelve. It is a joke, and it is a promise, and it is the only thing in the scene either of them says lightly. **He never delivers it.** Kreacher gets it instead (DIV-078).
 14. **Nobody sees any of it.** No adult, no portrait, no witness. The only working remedy in a thousand years happens in an empty corridor and is never reported.
 
+## Why he goes so fast *(settled)* · DIV-075
+
+Readers will ask it the moment they meet Winky, so it is worth having straight. **Dissolution runs at the rate the elf lets go, and nothing else is counting.**
+
+Dobby had wanted to go for decades and been unable to do anything about it, because a bound elf cannot leave and cannot refuse. The sock does not kill him. It opens a door he has been standing at for a very long time, and he goes through it at once.
+
+So this is not a rescue from an accident. **It is talking someone off a ledge,** and it works because of what the person on the ledge has been waiting to hear, which is that anyone minds. Winky, who does not want to live either but has not finished wanting things, takes eight months to erode instead — the ordinary way, and far worse ([the-kitchens](../b4/the-kitchens.md), DIV-077). The reader gets the merciful version first and only learns in B4 what Lucius actually did here.
+
 ## Afterwards *(settled)*
 
 - **The Burrow.** Harry has nowhere to put him, so he gives him the house he wishes were his own, and thinks nothing of it. Molly has always wanted an elf and Dobby is treated well. It is lodging, not a demesne — he is anchored to Harry, not to the building (DIV-075).
@@ -73,6 +81,7 @@ Then the elf keeps turning up alive, for years, and she is the only person in th
 - "Not master — friend," said as decency, not as cleverness.
 - The joke about waiting a long time for a big family. It is never kept.
 - He has never eaten before. The first meal is Molly's cooking, he cries over it, and Harry misses it.
+- He goes fast because he had already decided, years ago. Winky is the ordinary rate.
 - No witnesses.
 
 ## Open

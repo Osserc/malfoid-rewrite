@@ -129,6 +129,8 @@ She is also lecturing him about an elf she believes he killed, and cannot say so
 
 **Then she watches Winky die,** in the kitchens, with Harry, Ron, Hermione and Dobby ([the-kitchens](../scenes/b4/the-kitchens.md)). No pureblood ever does this. The stories her house passed down say a dismissed elf *goes away*; what she sees is a suicide carried out over eight months in a warm room, which is far worse than the thing she was told, and which nobody told her because nobody has ever watched.
 
+**And she stays for the burial,** which no Malfoy has ever done. Dobby asks Harry for it and Harry digs; what goes in is dust; it is the first elf grave in Britain, a thousand years after the binding (DIV-075, DIV-077).
+
 She makes no argument of it and changes no allegiance — when she breaks with her cause it is out of fear and then love, not conviction (Q-083). But it is the one piece of evidence against her class that she gathered herself, standing up, with her own eyes, and it is why she can end up where she does (Q-100).
 
 ## Hermione's work, later *(draft)* · Q-100

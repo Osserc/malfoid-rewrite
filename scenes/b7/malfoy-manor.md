@@ -53,6 +53,7 @@ So once they're inside, he breaks from the plan on purpose and heads for her roo
 - **His death is real,** unlike Kreacher's would be: there is no house left to make him again. Freedom is what makes it final, and he chooses it anyway.
 - **The Malfoys too.** He saves the family that abused him, because Harry asked, and to Dobby they're Harry's family.
 - **Afterwards.** He leaves no body. Harry scatters his ashes and makes him a tomb anyway, on the cliff at Shell Cottage ([apparate-dancing](apparate-dancing.md)).
+- **And he knows to because of Winky.** Three years earlier Dobby asked him to give her a grave — the first an elf ever had — because he thought she should be honoured, and had no idea he was describing his own death (DIV-077, [the-kitchens](../b4/the-kitchens.md)). Nobody asks this time.
 - **The Manor's geist.** His bond with the Manor makes his magic stronger there: he's still something of a Malfoy spirit. What elves are: [house-elves](../../setting/house-elves.md), DIV-075. The Manor has been cold since Lucius cut him loose in B2, and dies properly tonight — which is what Kreacher colonises after the war ([kreacher-and-the-manor](kreacher-and-the-manor.md), DIV-078).
 
 ## The cover *(settled)* · DIV-049

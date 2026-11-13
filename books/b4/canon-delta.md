@@ -114,6 +114,7 @@ Beats with no canon equivalent.
 | Snape teaches her Occlumency, and sees her memories of Harry | Summer 1995 | DIV-020, DIV-031, Q-043 |
 | Dracaena tells Harry that providing for his own elf is his responsibility and that he should be a better master. He has never used the word | Weeks after the Second Task | DIV-077, Q-098, [the-kitchens](../../scenes/b4/the-kitchens.md) |
 | Winky dissolves across the year and dies in the lull, in front of Harry, Ron, Hermione, Dobby and Dracaena. Hermione's dislike of Crouch settles into hatred, and Dracaena sees what the stories she was raised on call "going away" | After the Second Task | DIV-077, Q-094, Q-098, [the-kitchens](../../scenes/b4/the-kitchens.md) |
+| Dobby asks Harry to bury Winky, and Harry does: the first elf grave in Britain, and the reason Dobby gets a tomb in B7 | Straight after her death | DIV-050, DIV-075, DIV-077, Q-094 |
 | She writes to Harry at Privet Drive all summer; Dobby carries the letters | Summer 1995 | DIV-065, Q-075 |
 
 ## Open
@@ -124,4 +125,4 @@ Beats with no canon equivalent.
 - **Beat 29** — where she gets the gillyweed, and what becomes of Dobby's errand (Q-051).
 - **Beat 30** — Ron without the hostage spot (Q-010).
 - **Beat 33** — Rita's post-Task coverage (Q-052).
-- **Beat 14** — how much of S.P.E.W. survives and whether the knitted hats do (Q-093); who the castle's household is, and so whether the hats could ever have worked at all (Q-099). Winky's exact placement, whether there is a grave, and what her canon role as the witness to Crouch's secret was carrying (Q-094). Where the "better master" scene sits and whether Hermione is in the room for it (Q-098).
+- **Beat 14** — how much of S.P.E.W. survives and whether the knitted hats do (Q-093); who the castle's household is, and so whether the hats could ever have worked at all (Q-099). Winky's exact placement, where she is buried and what the marker says, and what her canon role as the witness to Crouch's secret was carrying (Q-094). Why nobody's grief saves her, Hermione's included (Q-093). Where the "better master" scene sits and whether Hermione is in the room for it (Q-098).
