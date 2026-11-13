@@ -57,11 +57,11 @@ The reader watched Dobby start to go in under a minute, so this is the first que
 
 **Which inverts what the reader thinks they learned.** The quick death is the merciful one and almost nobody gets it. What Crouch ordered at the World Cup was not what nearly happened in the corridor; it was this.
 
-**Why nobody's grief saves her** *(draft)* · Q-093. The remedy in B2 ran on grief witnessed — somebody minding that you are going (DIV-075) — and Winky spends eight months among people who mind. It has to fail, and the reasons should be visible on the page.
+**Saving her was never in the cards** *(settled)* · DIV-075. Nothing failed here, and nothing should be written as though it had. What happened in the B2 corridor was not a mechanism firing — it was **Dobby changing his mind**, because he was suddenly given something to hope for. Winky has nothing to hope for. What she wanted was Crouch, and Crouch is the one who dismissed her, so there is no offer anybody can make her and no argument anybody can put.
 
-- **Dobby minding is not it.** He is another cast-off, and a cast-off objecting to Crouch's verdict confirms it rather than overturning it. The grief that could reach her would have to come from the side that did the dismissing.
-- **Hermione minds about elves** *(Claude's proposal, not settled)*. She does not mind about *Winky*, not for most of the year — Winky is a cause, and being a cause is not being wanted, and Winky can tell the difference. It costs nothing on the page and gives Hermione the wound she carries into B5: she minded enormously and never once asked Winky a question about herself.
-- **And by the time anyone minds personally, the window has gone.** Harry caught Dobby in the first minute of it. Nobody catches anything in month seven.
+- **So there is no key anyone fails to turn.** Not Dobby, not Hermione, not Harry. They are not doing it wrong; there is no it.
+- **Dobby cannot see that,** and spends the year refusing to. He thinks what happened to him is a thing that can happen to her, because he has no idea what happened to him.
+- **It is also what makes Hermione's work hard.** The one success in a thousand years contains no procedure. She will not get the answer from the corridor, and the book should not hand her one here (Q-100).
 
 ## The grave *(settled)* · DIV-077
 
@@ -71,10 +71,11 @@ The reader watched Dobby start to go in under a minute, so this is the first que
 - **He has been working on his own mortality since the corridor,** quietly, without knowing it is already under way. He nearly went himself, he has now watched someone go properly, and he has concluded that this is what ought to happen when an elf dies — which is him arranging his own funeral two books early and not knowing it (DIV-050).
 - **It is the first elf grave in Britain.** A thousand years and not one, because housed elves do not die and nobody has ever minded the ones that did. The nearest thing to an elf memorial in the country is the row of heads on the stairs at Grimmauld Place (DIV-075).
 - **What is left of her is dust,** as it will be of him. They bury that.
+- **The marker is her name and nothing else** *(settled)*. There is nothing honest to add. Dobby barely knew her; she never recovered from what Crouch did; and she was never free and never wanted to be. *Winky* is the whole of it, and a name on a stone is more than any elf before her got.
 - **And a Malfoy is standing there for it,** which has never happened either.
 - **It is why Dobby gets a tomb in B7.** Nobody asks that time. Harry simply knows to, and the knowing is Dobby's own doing ([malfoy-manor](../b7/malfoy-manor.md), DIV-050).
 
-Open: where she is buried, who digs, and what, if anything, the marker says (Q-094).
+Open: where she is buried and who digs (Q-094).
 
 ## Dracaena, and the better master *(settled)* · DIV-077, Q-098
 
@@ -112,6 +113,8 @@ It costs nothing and pays twice. Canon spends the back half of B4 on Crouch's un
 - Dracaena is there when Winky dies, and she tells Harry to be a better master first.
 - Winky takes eight months because she does not release; Dobby went in minutes because he did. The slow one is the ordinary one.
 - Dobby asks Harry to bury her, and that is why Dobby gets a grave in B7.
+- Her stone says *Winky*, and nothing else.
+- Nobody fails to save her. There was never a way to.
 - She refuses, and the refusal is shame, not despair alone.
 - She refuses food as well as money. Butterbeer is oblivion, not sustenance.
 - All of them are there when she goes, Dracaena included.

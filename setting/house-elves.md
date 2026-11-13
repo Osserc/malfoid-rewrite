@@ -44,6 +44,12 @@ In their original form the relation had nothing to do with ownership. The elf **
 
 Our terms: *the household*, *keeping*, *its people*. On the page an elf says **family**. "Masters" is the vocabulary of the binding, and every elf alive uses it, which is the point.
 
+**And freedom is not what they want.** It is not a value they hold and never was.
+
+An elf is a spirit of the hearth. It exists to keep a house and the people in it, and that is not a job it was handed — it is what it is made of, true before the binding and true after. Liberty as an end is a wizard's idea, and about as meaningful to an elf as it would be to a fireplace. What an elf wants is **a family worth nursing**.
+
+So when an elf asks to be freed it is not asking for liberty. **It is asking to stop.** Dobby wants to be freed because being freed kills him, and that is the whole of why he wants it; *freedom* is simply the only word available — to him, to Harry, and later to Hermione — and it is wrong in all three mouths. His desire is to be happy, and the liberty is a side effect he never gives a second thought. It is also why S.P.E.W. is named for the wrong thing, and why the answer Hermione eventually builds is not a liberation (Q-100).
+
 ## The binding *(settled)* · DIV-075
 
 A long time ago — before Hogwarts — wizards used dark magic to bind the elves: so that they could not refuse an order, and could not leave. The keeping became service. The household became masters.
@@ -57,7 +63,7 @@ A long time ago — before Hogwarts — wizards used dark magic to bind the elve
 
 ### The exit, and the glitch *(settled)* · DIV-075
 
-**A dismissed elf can live.** It needs a new household to take it — normally a witch or wizard with a house, which re-anchors the elf and binds it properly again. That is not a secret and not forbidden; it is simply never done (see *The two locks*). It may have happened a handful of times in a thousand years, and nothing records it, because both parties are disgraced by it: the elf begged, and the family admitted it could not make its own. Which is another reason Hermione finds nothing.
+**A dismissed elf can live.** It needs a new household to take it — normally a witch or wizard with a house, which re-anchors the elf and binds it properly again. That is not a secret and not forbidden; it is simply never done (see *Why nobody takes it*). It may have happened a handful of times in a thousand years, and nothing records it, because both parties are disgraced by it: the elf begged, and the family admitted it could not make its own. Which is another reason Hermione finds nothing.
 
 **Harry is not that.** He is a master with **no house**, which the curse has no provision for, because nobody casting it imagined such a thing. So the hold catches, and catches wrong.
 
@@ -82,22 +88,24 @@ What everyone does know, as folk knowledge with no explanation attached: **a dis
 - **But knowing is not the same as having seen.** Nobody watches. The elf goes off and does it somewhere else, and what is left is dust, and so the version told in good houses — the one passed down to children — is simply that the elf *goes away*. Both accounts are current at once: the adults know what it means, the nursery version is soft, and the softness is load-bearing. It is part of what makes Crouch's dismissal of Winky shocking even to people who find the fact unremarkable: he said it out loud, in front of witnesses, and made everyone present look at it.
 - **And everybody is complicit.** They are not ignorant. They know what dismissal does. They have simply never once asked why.
 
-## The two locks *(settled)* · DIV-075
+## Why nobody takes it *(settled)* · DIV-075
 
-The way out exists and is available to every elf in Britain, and nobody takes it, because there are two locks on it and both have to come off.
+The way out exists, is available to every elf in Britain, and nobody takes it. Two things keep it shut, and both are character rather than magic.
 
-1. **A dismissed elf does not want to live.** Being dismissed is the thing you are made of telling you that you are not worth housing, and the elf agrees with it. This is the real lock. Winky never gets past it.
+1. **A dismissed elf does not want to live.** Being dismissed is the thing you are made of telling you that you are not worth housing, and the elf agrees with it. This is the real one. Winky never gets past it.
 2. **And it would not ask even if it did.** An elf does not beg. The shame of asking a strange household to take a cast-off is past bearing, and the household would refuse anyway.
 
-What takes the first lock off is not hope offered but **grief witnessed**: somebody minding that you are going. Nobody has ever minded. The second comes off on its own once the first does, because an elf with something to live for will debase itself for it.
+**There is no key to this, and we are not to invent one.** Nothing opens it reliably, because what would have to change is an elf's mind. It has happened once, in a corridor in B2 ([the-sock](../scenes/b2/the-sock.md), DIV-076), and what happened there is simply that **Dobby changed his mind.**
 
-It happens once, in a corridor in B2 ([the-sock](../scenes/b2/the-sock.md), DIV-076), and what does it is a twelve-year-old crying.
+He had decided he was finished, and he meant it. Then a boy cried over him and offered him something, and he looked again and found he was not quite done — because for the first time there was a version of the thing he actually wants that might really happen. So he gave living another go. That is the whole of it. It is not a technique, nothing about it generalises, and anybody watching would have learned nothing.
 
-That is the answer to the problem, and it is deliberately not a solution. Nothing is undone, nothing generalises, and nobody who could act on it ever understands what happened — except that it leaves a working anomaly in plain sight for anyone clever enough to study it.
+**Which is why Winky could never have been saved.** Not a mechanism failing on her: she has nothing left to hope for. What she wanted was Crouch, and Crouch is the one who dismissed her, so there is no offer anyone could make and no argument anyone could put. Saving her was never in the cards, and Dobby spends a year refusing to see it ([the-kitchens](../scenes/b4/the-kitchens.md), DIV-077).
 
-The *beginning* of a real solution is Hermione's, late and partial and procedural: not a spell that frees an elf but a way for one to recover its natural state over time, in a household that has decided never to use what it holds. It is her S.P.E.W. questline and it is not designed yet (Q-100).
+**And it makes Hermione's job much harder.** There is no procedure in that corridor to copy. What she is left with is one elf who is alive and should not be, which tells her the magic has seams — and tells her nothing whatever about how to open one (Q-100).
 
-What it is **not** is a repeat of the corridor. Harry's accident worked once, on one elf, because the two of them happened to be the right people in the right week standing on the right seam, and Hermione is clever enough to see that it cannot be extended. She takes the anomaly as proof that the magic has seams, and then goes and finds a different one.
+So it is the answer to the problem and deliberately not a solution. Nothing is undone, nothing generalises, and nobody who could act on it ever understands what happened.
+
+The *beginning* of a real solution is Hermione's, late and partial and procedural: not a spell that frees an elf — freeing is the thing that kills them, and liberty was never what they wanted anyway — but a way for one to recover its natural state over time, in a household that has decided never to use what it holds. It is her S.P.E.W. questline and it is not designed yet (Q-100).
 
 ## Dobby *(settled)*
 

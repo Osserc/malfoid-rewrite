@@ -89,7 +89,8 @@ The warning aimed at him is not Aline's but Renoir's — the man who went into t
 
 A house-elf is needed and used and never wanted, which is his want exactly. That is why he is the only person in a thousand years to answer it, and why he could never explain what he did.
 
-- **B2.** He catches what Lucius throws away, offers friendship instead of ownership, and has no idea that the condition is the whole point or that he qualifies only because he has no house for the curse to grip (DIV-076).
+- **B2.** He catches what Lucius throws away, offers friendship instead of ownership, and has no idea that the condition is the whole point or that he qualifies only because he has no house for the curse to grip (DIV-076). He does not talk Dobby round, either: Dobby changes his own mind, because Harry has accidentally given him something to hope for.
+- **He never once thinks he has freed anybody,** and he is right not to. Freedom is not what an elf wants and not what Dobby was asking for (DIV-075). What Harry offers is a person to belong to, which is the only thing on the table.
 - **He gives Dobby the Burrow** — the house he wishes were his own — and thinks nothing of it.
 - **And his vault.** Dobby has it, functionally without limit, and Harry never gives it a second thought: it keeps Winky all through B4 without Harry noticing he is paying for a second elf, and it is how he finally repays the Weasleys, who will not take anything from him. A small room added on for himself that nobody asked for, the structure quietly shored up, repairs on transparently silly pretexts. Molly cannot refuse a room for Harry.
 - **And it is what feeds him.** Dobby has never eaten in his life and is suddenly hungry, because an unhoused elf has no house to draw on (Q-102). The vault is his board, and neither of them ever puts it that way.

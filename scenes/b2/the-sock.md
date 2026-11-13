@@ -32,15 +32,15 @@ Canon's trick stands, start to finish. What changes is what freedom turns out to
 3. **He knows what he has done, and he does not attack Harry.** Our Lucius does not brawl with a twelve-year-old; it is beneath him, and he has never needed to. What he does instead is stop at the end of the corridor and say something like *I hope you know what you have just done, Mr Potter*, and leave. Everyone knows a dismissed elf does away with itself (DIV-075). Harry has no idea what he has just been told, and neither has the reader, and both can come back to it.
 4. Canon has Dobby blast Lucius down the corridor. **Cut** — there is no attack to answer, and nothing for him to defend.
 5. **Dobby starts to go.** Not at once and not dramatically: he thins. Harry has no idea what he is seeing. Dobby, joyful a minute ago, understands perfectly and is not distressed by it.
-6. Harry asks what's wrong. Dobby tells him, plainly and without self-pity, what happens to a dismissed elf. It is what they do. It is proper. **He is not asking for anything** — he already wants to go, and has done for a long time, which is most of why he was never a proper elf in the first place.
+6. Harry asks what's wrong. Dobby tells him, plainly and without self-pity, what happens to a dismissed elf. It is what they do. It is proper. **He is not asking for anything** — he already wants to go, and has done for a long time. A hearth-spirit kept by a household it cannot love has nothing to be, and he has been that for longer than he can account for ([house-elves](../../setting/house-elves.md)).
 7. **Harry understands the enormity of what he has done,** all at once: he meant to save him and he has killed him, and there is nothing to undo it with.
 8. **Harry cries.** This is the hinge of the entire design. Not an argument, not an offer, not a clever idea — a boy crying over an elf.
-9. **Nobody has ever minded that Dobby was going.** It stops him. And in stopping he remembers the thing he has wanted for longer than he can account for: a great house, full of a happy, kind family. He does not know it is Narcissa's (DIV-075, [narcissa-malfoy](../../characters/narcissa-malfoy.md)); he has never known where it came from.
-10. **He starts crying too,** and with something to live for the second lock comes off on its own. He asks whether he can be Harry's elf.
+9. **Dobby changes his mind.** That is all that happens here, and it must not be written as a mechanism unlocking. He had decided he was finished and he meant it; he looks again, and finds he is not quite done. What he finds is the thing he has wanted for longer than he can account for — a great house, full of a happy, kind family — and, for the first time, somebody in front of him who might make a version of it real. He does not know the dream is Narcissa's (DIV-075, [narcissa-malfoy](../../characters/narcissa-malfoy.md)); he has never known where it came from.
+10. **He starts crying too,** and decides to give living another go. He asks whether he can be Harry's elf — the shame of asking loses to wanting something. **He is not asking for freedom and never was.** Freedom is what he wanted ten minutes ago, because it kills him; what he wants now is a family to keep ([house-elves](../../setting/house-elves.md)).
 11. **Harry accepts, and refuses the word.** Not master: friend. He means it as decency and not as a theory, and does not know the condition is the entire point, or that he qualifies at all only because he hasn't a house for the curse to take hold of.
 12. The hold catches — wrong, partially, in a way the curse has no provision for (DIV-075). Dobby stays.
 13. **The half-joke.** Afterwards, Harry points out that Dobby is going to be waiting a very long time for the big happy family, seeing as he is twelve. It is a joke, and it is a promise, and it is the only thing in the scene either of them says lightly. **He never delivers it.** Kreacher gets it instead (DIV-078).
-14. **Nobody sees any of it.** No adult, no portrait, no witness. The only working remedy in a thousand years happens in an empty corridor and is never reported.
+14. **Nobody sees any of it.** No adult, no portrait, no witness. The only time in a thousand years it has ever worked happens in an empty corridor and is never reported — and there was no method in it to report (Q-100).
 
 ## Why he goes so fast *(settled)* · DIV-075
 
@@ -76,7 +76,7 @@ Then the elf keeps turning up alive, for years, and she is the only person in th
 - Dobby catches it himself. Canon's blasting is cut.
 - "I hope you know what you have just done, Mr Potter."
 - **Dobby wants to go, and is calm about it.** He is not begging and not bargaining.
-- **Harry cries, and that is what changes it.** Being grieved for, not being offered anything.
+- **Harry cries, and Dobby changes his mind.** Not a lock opening, not a rule firing: he finds he is not quite done, because there is suddenly something to hope for.
 - Dobby cries too, and only then asks.
 - "Not master — friend," said as decency, not as cleverness.
 - The joke about waiting a long time for a big family. It is never kept.
