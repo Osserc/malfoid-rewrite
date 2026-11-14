@@ -683,21 +683,17 @@ Still open:
 - **Whether McGonagall notices he was never on the wall.** She would. Whether she says so, in this book or a later one, is a scene we have not written.
 - Harry must not see it either way.
 
+## Answered
+
 ### Q-107 · If the dates are interior, how does the reader get them? (DIV-079)
 
-*Settled by the author:* McGonagall never says a battle honour aloud. She names the place and the date **to herself** as she casts, which is what the italics are doing.
+*Answered: wrong question.* The dates were never the seeding device, and nothing needs fixing.
 
-That is better — it makes the dates the reader's private property rather than a tic the castle has learned to ignore — but it costs us the seeding mechanism. The series runs on Harry's POV, and he cannot hear her think. As written, the B4–B6 plan ("the dates continue, and the reader assembles them") has no delivery.
+- **The dates are interior and stay interior.** They are an insight into her, delivered in her POV, which we have rarely. She never says one aloud.
+- **The seeding is the remarks** — casual, obscure, faintly unhinged asides dropped into ordinary teaching, funny on the surface and unanswerable underneath, which nobody dares follow up. They run from B1 to B7 in Harry's POV and need nothing of hers. Written out in [characters/minerva-mcgonagall.md](../characters/minerva-mcgonagall.md).
+- **The two meet** when a name she has thrown away as a joke comes back later as a battle honour, with a date on it.
 
-Options:
-
-- **A murmur, not a thought.** She says it under her breath, barely, the way people do when they are concentrating. Italics still carry it, the castle still reads it as a tic, and the assembly across the books works exactly as planned. Smallest change; keeps everything.
-- **Strict interior, and we buy POV.** The dates only reach the reader where we are in her head — the siege already gives us one opening, since the scene takes her POV at the top. Then B4–B6 cannot seed the dates at all, and the *tic* has to come out of DIV-079: nobody has ever heard one. The reader gets three or four dates across seven books instead of a running count.
-- **Lip-read.** Someone watching her cast sees her mouth move with no sound. Creepier than either, needs a watcher in the right place, and probably belongs as one beat rather than the system.
-
-Recommendation: the murmur, unless the privacy is the point — in which case strict interior, and we rewrite what B4–B6 are seeding.
-
-## Answered
+The murmur, the lip-read and the strict-interior rewrite are all struck; none of them was needed.
 
 ### Q-102 · Do house-elves eat? (DIV-075, DIV-076, DIV-077)
 

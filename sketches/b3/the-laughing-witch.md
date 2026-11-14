@@ -45,7 +45,7 @@ The tiny Charms professor was doing his best to keep up with the witch flying lo
 
 "I can't believe this. First Black, now a horde of Dementors! You were right, we never should have allowed it!"
 
-McGonagall did not speak, but gave him a curt nod. She had been extremely vocal with her displeasure at the Ministry's decision to station an entire garrison of the dreadful creatures around the castle at the start of term, and had made no secret of her disapproval of Dumbledore's acquiescence. It took all of her restraint to not blast them all to ash when they swarmed the Quidditch Pitch earlier in the year, and it was only out of concern for Harry Potter, caught in the middle, that she stood down. Only Lee Jordan must have noticed how tightly she gripped the wooden railings of the stadium, and how she left scorching marks where her hands had been despite the torrential downpour. But the boy had the good sense to keep his mouth shut.
+McGonagall did not speak, but gave him a curt nod. She had been extremely vocal with her displeasure at the Ministry's decision to station an entire garrison of the dreadful creatures around the castle at the start of term, and had made no secret of her disapproval of Dumbledore's acquiescence. It took all of her restraint to not blast them all to ash when they swarmed the Quidditch Pitch earlier in the year, and it was only out of concern for an entire stadium worth of children, caught in the middle, that she stood down. Only Lee Jordan must have noticed how tightly she gripped the wooden railings of the stadium, and how she left scorching marks where her hands had been despite the torrential downpour. But the boy had the good sense to keep his mouth shut.
 
 But now... now she had a case.
 

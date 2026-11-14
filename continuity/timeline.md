@@ -10,7 +10,8 @@ _Marauders era, the first war. Not yet worked out._
 - **c. 990s**: Helga Hufflepuff brings her own bound elf into the castle, meaning it kindly. It has kept Hogwarts ever since. DIV-075
 - **1689**: The Statute of Secrecy is signed (canon). The long decline of the magical population begins. DIV-035
 - **c. 1970–1981**: The first war. Wizarding births dip, and every pupil at Hogwarts during the series is born in it. DIV-035
-- **c. 1970–1981**: Minerva McGonagall serves as the Ministry's special-operations asset, leading raids on Death Eater houses and gatherings with squads of Aurors. Her signature spell is Lustrum, and the other side calls her Hellfire. DIV-079, DIV-080
+- **1950s–1960s**: the Ministry, having had Minerva McGonagall for two years and then lost her to Hogwarts (canon), never takes her off its books. It calls her in for work abroad across two decades. This is where the foreign-sounding "incidents" in her remarks come from, and it means 1970 is not a recruitment. DIV-079
+- **c. 1970–1981**: she serves as the Ministry's special-operations asset, leading raids on Death Eater houses and gatherings with squads of Aurors. Her signature spell is Lustrum, and the other side calls her Hellfire. DIV-079, DIV-080
 - **1978-04-04**: Ambleside. One of her operations, and one of the memories she casts her Patronus from. DIV-079
 - **1980-09-17**: Dunfermline. Another. DIV-079
 - **Late in the war, 1981 the best fit**: the raid on Strix palace, which she led. It destroys the Strix household and kills Basil Thynne. Arvilla Strix and her small son Balthier survive — under Lustrum's rule, a verdict rather than luck. DIV-079, DIV-082
@@ -50,7 +51,9 @@ _Marauders era, the first war. Not yet worked out._
 - **Spring 1994**, days before the final: the jeer at Hagrid, and the slap she baits and takes. DIV-069, [the-slap](../scenes/b3/the-slap.md)
 - **Spring 1994**, the Quidditch final: she plays clean while her house fouls, loses the long Seeker duel fairly, and is left alone on the pitch. Harry goes back for her and offers his hand; they fly off and earn detention. The mask is back on the next morning. DIV-066, DIV-068, DIV-069, [the-quidditch-final](../scenes/b3/the-quidditch-final.md)
 - **1993-09**: the Dementor garrison is stationed around the castle over McGonagall's objection. DIV-079, DIV-081
-- **Winter 1993–94**: the Dementors swarm the Quidditch match. McGonagall stands down because Harry is in the middle of it, and leaves scorch marks on the railing. Afterwards she commissions the Lustrum enhancer from Flitwick. DIV-079, DIV-080
+- **September 1993**: McGonagall has Flitwick make her the Lustrum enhancer, pre-emptively, as the garrison arrives. She wears it. The castle sees a necklace. DIV-079, DIV-080
+- **November 1993**: the Dementors swarm the Quidditch match. Two months into carrying the enhancer, she can destroy the garrison from the stands and would take fourteen children with it, so she doesn't; she leaves scorch marks on the railing. DIV-079, DIV-080
+- **December 1993**: at the Three Broomsticks she gives the enhancer to Flitwick to hold, because she does not trust herself with it. Hermione overhears; it is the same table at which Harry learns about Sirius. DIV-079, DIV-080
 - **1994-06**, the night of Buckbeak's execution: her fake lead sends the Dementors to the lake. She frees Buckbeak, ends up at the lake, fails to cast a Patronus and confesses. Harry casts his, with a first flicker of resonance. Sequence provisional (Q-003). DIV-003, DIV-018
 - **1994-06, the same night**: Harry's Patronus has maimed the swarm, and the horde storms the castle. The staff hold the walls; McGonagall breaks the siege with Lustrum and laughs doing it. Fudge loses prisoner, hippogriff and garrison in one night. Dracaena flies Buckbeak to Sirius over the cinders afterwards, and he escapes. DIV-079, DIV-080, DIV-081, DIV-003
 

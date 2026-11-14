@@ -14,7 +14,7 @@ B3 is the Patronus book, and it now has **three casters on three different fuels
 
 - **Harry**, who cannot find a happy memory strong enough, and whose charm finally runs on the lap pillow — a memory he had written off as a prank.
 - **Dracaena**, who studies it for him and gets mist (below).
-- **McGonagall**, whose memories are her raids, and who names each one to herself as she casts: a place and a date, like a battle honour. *Ambleside, 4th April 1978.* *Dunfermline, 17th September 1980.* She never says them aloud, so the castle has never heard one. How the reader works out what the dates are: Q-107.
+- **McGonagall**, whose memories are her raids, and who names each one to herself as she casts: a place and a date, like a battle honour. *Ambleside, 4th April 1978.* *Dunfermline, 17th September 1980.* She never says them aloud, so the castle has never heard one. These are interior and rare — the public face of the same history is *the remarks*, and the two meet when a name she has thrown away as a joke comes back with a date on it ([her file](../characters/minerva-mcgonagall.md)).
 
 The lesson that falls out of it, and that Harry needs: **the memory does not have to be nice, it has to be true.** Which is exactly what unlocks the lap pillow at the lake.
 
@@ -31,7 +31,7 @@ Her charm works because the joy was real. The penance is not for the killing; it
 | Book | Beat | Where |
 |---|---|---|
 | B3 | She spies on Harry's secret Patronus lessons and studies the charm in the library, wanting him to succeed. She tries it herself, as a test, and gets mist. The lap-pillow scene becomes his memory, though he won't count it as happy until the lake | [lap-pillow](../scenes/b3/lap-pillow.md) |
-| B3 | The staff ring the castle with Patronuses to hold the siege off the walls, and McGonagall's tabby joins them off a battle honour the reader is the only one to hear (Q-107). **Snape does not cast** — what he does instead, and who notices: Q-106. DIV-079, DIV-081 | [the-laughing-witch](../scenes/b3/the-laughing-witch.md) |
+| B3 | The staff ring the castle with Patronuses to hold the siege off the walls, and McGonagall's tabby joins them off a battle honour the reader is the only one to hear. **Snape does not cast** — what he does instead, and who notices: Q-106. DIV-079, DIV-081 | [the-laughing-witch](../scenes/b3/the-laughing-witch.md) |
 | B3 | At the lake she tries and fails. Harry's Patronus, powered by the lap-pillow memory, drives off the swarm, with a first flicker of resonance (DIV-018). She resolves to master the charm | [buckbeak-rescue](../scenes/b3/buckbeak-rescue.md) |
 | B4 | *(draft)* At the First Task she projects herself a little onto the dragon Harry flies around, before she knows what her Patronus is | |
 | B4 | Still only mist, until the Yule Ball. That memory gives her a corporeal Patronus (DIV-004) | [yule-ball](../scenes/b4/yule-ball.md) |
