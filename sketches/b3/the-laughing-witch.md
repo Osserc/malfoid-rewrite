@@ -157,4 +157,4 @@ The castle did not forget McGonagall's exploit the previous night, despite the a
 
 Some students tried to gather some of the remains, but soon learned that no one could touch the piles of dust without suffering severe burns, and the entire grounds were cordoned off pending a magical decontamination to be carried out during the summer. This only increased the interest in Professor McGonagall, and sparked a myriad of theories to explain it. On her part, the teacher refused to acknowledge her actions at all, much to the frustration of the students, as McGonagall started threatening to hand out detentions to whoever mentioned "this outlandish notion" of her flying around cackling while destroying Dementors with magical fire.
 
-From that night onward, however, "the flying witch" took its place as one of Hogwarts' legends.
+From that night onward, however, "the Laughing Witch" took its place as one of Hogwarts' legends.
