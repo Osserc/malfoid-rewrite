@@ -1,5 +1,5 @@
 ---
-status:
+status: raw
 scene:
 written: 2026-11-13
 used_in:
@@ -43,7 +43,7 @@ ________________________________
 
 The tiny Charms professor was doing his best to keep up with the witch flying low beside him, his squeaking voice betrying his nervousness at the sudden emergency.
 
-"I can't believe this. First Black, now a horde of Dementors! Dumbledore was right, we never should have allowed it!"
+"I can't believe this. First Black, now a horde of Dementors! You were right, we never should have allowed it!"
 
 McGonagall did not speak, but gave him a curt nod. She had been extremely vocal with her displeasure at the Ministry's decision to station an entire garrison of the dreadful creatures around the castle at the start of term, and made no secret of her disapproval of Dumbledore's acquiescence. It took all of her restraint to not blast them all to all when they swarmed the Quidditch Pitch earlier in the year, and it was only out of concern for Harry Potter, caught in the middle, that she stood down. Only Lee Jordan must have noticed how tightly she gripped the wooden railings of the stadium, and how she left scorching marks where her hands were despite the torrential downpour. But the boy had the good sense to keep his mouth shut.
 
@@ -53,7 +53,7 @@ But now... now she had a case.
 
 "Oh, of course, here it is," answered Flitwick with a jerk of his wand, and a small, brass vial on a golden chain flew towards McGonagall's neck, clasping itself around it.
 
-As they neared the main gate, they spotted the other professors already standing guard, their Patronuses watchfully guarding any entrance to the castle proper from the black frenzied mass sieging it. A *Dunfermline, 17th September 1980*, and her little tabby cat Patronus joined its brethren. The shrieks had gotten so strong that they drowned the voices that greeted the two arrivals, at least until Flitwick cast a sound-deafening charm to allow them to converse.
+As they neared the main gate, they spotted the other professors already standing guard, their Patronuses watchfully guarding any entrance to the castle proper from the black frenzied mass sieging it. A *Dunfermline, 17th September 1980*, and her little tabby cat Patronus joined its brethren. The shrieks had grown so strong that they drowned the voices that greeted the two arrivals, at least until Flitwick cast a sound-deafening charm to allow them to converse.
 
 "Minerva, we are barely holding them back!"
 
@@ -69,7 +69,7 @@ ________________________________
 
 It was the most pathetic display Daphne Greengrass had seen in her fourteen years of life.
 
-Thynne, a boy two years her senior, a pureblood no loss, barely holding it together as his mudblood slag, Laurel, who was gently caressing his hair while his head leaned against her neck. Thynne's hand went white from how hard he was clutching at the railings of the tower, as the white-golden flames lit the night sky. It was unbecoming of his lineage, and it was even more infuriating that he did not seem to mind to be seen in that state. Turning her head towards the now blazing firmament, Daphne had to admit that McGonagall's spell was indeed impressive.
+Thynne, a boy two years her senior, a pureblood no less, barely holding it together as his mudblood slag, Laurel, who was gently caressing his hair while his head leaned against her neck. Thynne's hand went white from how hard he was clutching at the railings of the tower, as the white-golden flames lit the night sky. It was unbecoming of his lineage, and it was even more infuriating that he did not seem to mind to be seen in that state. Turning her head towards the now blazing firmament, Daphne had to admit that McGonagall's spell was indeed impressive.
 
 She heard the hushed whispers of her parents and their friends about Minerva McGonagall's exploits during the war, the very same that earned her the nickname "Hellfire" from her enemies. As McGonagall soared to the sky to face the gathered Dementors, surrounded by a shimmering silver mist summoned by professor Flitwick, she thundered "Lustra nefas!", and a little shiny orb left her neck, speeding toward the creatures before erupting into a small sun. The entire student body could hear the faint sizzling sound that the flames let out, but it was still drowned by the cries of anguish of the Dementors now sent hurtling toward the ground, aflame. Oddly enough though, the fire did not spread. As the Dementors scurried away desperate to distance themselves from the blaze, the grass and the trees did not catch fire.
 
@@ -87,7 +87,7 @@ ________________________________
 
 "Filius, what in the blazes was that?!"
 
-The battle, if it could be called that, lasted only a matter of minutes. Flitwick could only smile weakly as he eyes professor Sprout, who was beside herself with both worry and awe at what her coworker had just done. If anyone told her that one day, she would have witnessed the strict and curt transfiguration professor fly on a broom while laughing maniacally as she casted fireballs at fleeing Dementors, she would have recommended her to head to Madam Pomfrey. Or directly to St. Mungo's for a more thorough examination of whatever delusion they were under.
+The battle, if it could be called that, lasted only a matter of minutes. Flitwick could only smile weakly as he eyes professor Sprout, who was beside herself with both worry and awe at what her colleague had just done. If anyone told her that one day, she would have witnessed the strict and curt transfiguration professor fly on a broom while laughing maniacally as she casted fireballs at fleeing Dementors, she would have recommended her to head to Madam Pomfrey. Or directly to St. Mungo's for a more thorough examination of whatever delusion they were under.
 
 "That, Pomona, was Minerva 'Hellfire' McGonagall," said the tiny man, laconically.
 
@@ -101,7 +101,7 @@ Sprout was about to say something, but she was interrupted by the woman of the h
 
 Professor Sprout was once again interrupted as the Minister of Magic himself stomped towards the gathered professors.
 
-"McGonagall! That was an unauthorized use of the Lustrum incantation, as well as wanton destruction of Ministry property!", the rotun man screamed, red in the face, flanked by the executioner, Macnair. The man was eyeing McGonagall with a fearful look in his eyes.
+"McGonagall! That was an unauthorized use of the Lustrum incantation, as well as wanton destruction of Ministry property!", the rotund man screamed, red in the face, flanked by the executioner, Macnair. The man was eyeing McGonagall with a fearful look in his eyes.
 
 With a seraphic smile and a serene voice, McGonagall addressed him first.
 
@@ -113,11 +113,11 @@ The huge man went red in the face yet struggled to stammer a retort at the teach
 
 With a single fluid motion, McGonagall grabbed Fudge's collar, and her calm demeanor vanished, replaced by a much more stern and angered expression.
 
-"The Dementors, which you and your goon brought here, were trying to force their way into the castle and get at my students, which they have been dying to do all year!"
+"The Dementors, which you and your goon brought here, were trying to force their way into the castle and get at my students, something they have been dying to do all year!"
 
 Then she pushed him aside with a disgusted sneer, as she started walking away.
 
-"I will hear your inane mutterings tomorrow. For now, I am need of medical assistance."
+"I will hear your inane mutterings tomorrow. For now, I am in need of medical assistance."
 
 Fudge, still incensed, could do nothing but stomp his feet and shout empty threats about "hearings" and "violations" and "procedures" and how "outrageous" her behavior was.
 
@@ -139,7 +139,7 @@ Her boyfriend laughed softly at her fussing over him.
 
 "Balty-"
 
-"I want you to meet mom," Balthier cut her off, "I'm done hiding."
+"I want you to meet Mum," Balthier cut her off, "I'm done hiding."
 
 Nola gasped in surprise. She had tried for the better part of their relationship to get him to tell her they were seeing each other, only to be met with evasion. She knew why, of course. She was a Muggleborn, and Balthier a pureblood. His mother would never have approved of him dating a *mudblood*. And she did understand his reasons, she was his only family left and he was afraid of disappointing her. So she learned to keep her mouth shut.
 
