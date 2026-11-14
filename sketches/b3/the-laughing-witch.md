@@ -143,7 +143,7 @@ Her boyfriend laughed softly at her fussing over him.
 
 Nola gasped in surprise. She had tried for the better part of their relationship to get him to tell his mother about them, only to be met with evasion. She knew why, of course. She was a Muggle-born, and Balthier a pureblood. His mother would never have approved of him dating a *Mudblood*. And she did understand his reasons, his mother was his only family left and he was afraid of disappointing her. So she learned to keep her mouth shut.
 
-"Listen, I don't need your mother's approval. Forget about it, I don't want you to risk losing your mother."
+"Listen, I don't need your mother's approval. Forget about it, I don't want you to risk losing her."
 
 "I cannot keep carrying this... shadow with me whenever I'm with you. It's time I burned it away," then, with a sly smile, he added, "But be sure to wear your best dress. It might help."
 
