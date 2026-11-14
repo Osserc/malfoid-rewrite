@@ -13,7 +13,9 @@ _Marauders era, the first war. Not yet worked out._
 - **c. 1970–1981**: Minerva McGonagall serves as the Ministry's special-operations asset, leading raids on Death Eater houses and gatherings with squads of Aurors. Her signature spell is Lustrum, and the other side calls her Hellfire. DIV-079, DIV-080
 - **1978-04-04**: Ambleside. One of her operations, and one of the memories she casts her Patronus from. DIV-079
 - **1980-09-17**: Dunfermline. Another. DIV-079
-- **Late in the war (date open)**: the raid on Strix palace, which she led. It destroys the Strix household and kills Basil Thynne. Arvilla Strix and her infant son Balthier survive — under Lustrum's rule, a verdict rather than luck. **Constraint:** Balthier is born c. 1978, so the raid must be late enough for him to carry a memory of it at all; what he has is an image (golden fire, a witch flying slowly over the ruins), not a narrative, which is what a memory from that age looks like. DIV-079, DIV-082
+- **Late in the war, 1981 the best fit**: the raid on Strix palace, which she led. It destroys the Strix household and kills Basil Thynne. Arvilla Strix and her small son Balthier survive — under Lustrum's rule, a verdict rather than luck. DIV-079, DIV-082
+  - **The age arithmetic.** Balthier starts Hogwarts in 1989, so he is born between September 1977 and August 1978. Put the raid in 1981 and he is three: the earliest age anyone retains anything, and then only as fragments. There is room, but not much, so the raid wants to be late in the war rather than early.
+  - **What he carries is two things.** The image is his — fire, a figure moving slowly above the ruins, a laugh — and it is an image, not a story. The **name** is his mother's: Arvilla told him, or let him overhear it. He has known who she is since before he was old enough to decide what to do about it, and he has sat in her classroom for five years. DIV-082
 
 ## 1980–1991
 
