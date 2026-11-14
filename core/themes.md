@@ -35,6 +35,8 @@ It gets a second case from outside her head, which Harry carries from B1: the De
 
 _Open._ See Q-016. Her Muggle reading pulls both ways: it wears down her contempt, and it shows her why purebloods fear being swallowed.
 
+*(draft)* **The atrocity on our side of the ledger.** DIV-079, DIV-080. The Ministry has a weapon that exterminates Dementors and keeps the Dementors anyway, because they are useful — and it used that same unauditable judgement-weapon on the homes of its political enemies, with a verdict nobody could appeal. The other side gets a grievance that is documented rather than invented, and the castle itself tells the story, as a legend. See [problems/azkaban.md](../problems/azkaban.md) and Q-016.
+
 *(draft)* **The ruins.** In the vein of FromSoftware's games, wizarding Britain lives in the ruins of a once-thriving world: a castle built for a thousand that holds a third of that, and a people shrinking since the Statute of Secrecy (DIV-035). That gives Voldemort's promise to take it back real credence, except that his war killed so many it made the decline worse. The resolution after the war is the author's idea (Q-048).
 
 ## Unity across the Houses *(draft)* · DIV-055

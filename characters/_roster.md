@@ -17,10 +17,10 @@ Everyone who appears, one line each. Characters with a full file are linked. "Ch
 | Lily Potter | Snape sees her in the young Dracaena; never named on the page | DIV-031 | — |
 | Albus Dumbledore | Encourages Harry and Dracaena from B4 on. Knows about Sectumsempra through Snape, and talks to Harry about her. Shelters her in the hospital wing: she may need to be there more than Harry does | DIV-024, DIV-044, DIV-046, DIV-047, DIV-058, Q-011 | — |
 | Charity Burbage | Muggle Studies teacher. Dracaena is her best student, not her protégée: the subject is a door, not a bond | DIV-012, DIV-016 | — |
-| Filius Flitwick | Takes over the Duelling Club in B2, and reopens it in B6 | DIV-028, Q-028 | — |
+| Filius Flitwick | Takes over the Duelling Club in B2, and reopens it in B6. Makes McGonagall's Lustrum enhancer and covers her at the B3 siege; the one person in the castle who knows exactly what she is | DIV-028, DIV-079, DIV-081, Q-028 | — |
 | Poppy Pomfrey | First on the scene of Sectumsempra; Obliviated by Snape. Tries to throw Dracaena out of the hospital wing after the Third Task and is overruled | DIV-043, DIV-058 | — |
 | Dolores Umbridge | Shuts down the Duelling Club early in B5. Bans Harry, George and Fred from Quidditch for life after the first match, and won't touch the Malfoy who cheered the brawl on | DIV-028, DIV-067 | — |
-| Cornelius Fudge | Harry keeps Lucius's name from him after the Third Task. Dracaena defends Harry to his face, and he patronises her; word of it reaches Lucius | DIV-047, DIV-058, Q-022 | — |
+| Cornelius Fudge | Authorised the B3 Dementor garrison and loses the prisoner, the hippogriff and the garrison in one night; answers with a hearing, and mourns the "precious manpower". Harry keeps Lucius's name from him after the Third Task. Dracaena defends Harry to his face, and he patronises her; word of it reaches Lucius | DIV-047, DIV-058, DIV-081, Q-003, Q-022 | — |
 | Rita Skeeter | Prints that Harry and Dracaena went to the Ball together. Paints Harry as violent and tormented after the Durmstrang duel | DIV-029, DIV-040, Q-038, Q-052 | — |
 | A Durmstrang student | Takes an interest in Dracaena; Harry beats him at the Duelling Club | DIV-029, Q-038 | — |
 | Fleur Delacour | Beauxbatons champion. Tests Harry's heart with her charm, then plays matchmaker | DIV-037, DIV-038 | [fleur-delacour.md](fleur-delacour.md) |
@@ -28,7 +28,15 @@ Everyone who appears, one line each. Characters with a full file are linked. "Ch
 | Cho Chang | A rival only in Dracaena's head: Harry never asks her to the Ball | DIV-041, Q-008, Q-021 | — |
 | Arthur Weasley | Unmoved by the veela at the World Cup | DIV-037 | — |
 | A Death Eater still at large | Tries to curse Lucius in the early 1980s and hits Narcissa | DIV-030, Q-039 | — |
-| Pansy Parkinson | Dracaena's friend, or Rita's source. Candidate for the friend who joins the DA | Q-038, DIV-055, Q-070 | — |
+| Pansy Parkinson | *(settled)* Dracaena's real friend. Joins the DA, and refuses the B7 evacuation — the inversion of canon, where she calls for Harry to be handed over | DIV-055, DIV-082, Q-070 | — |
+| Daphne Greengrass | *(settled)* Not one of ours: the snake in the grass, and the candidate for Rita's source. A POV at the B3 siege, where she is vile about the two people feeling things beside her | DIV-055, DIV-082, Q-038 | — |
+| Balthier Thynne | Fifth-year Slytherin in B3. One of two survivors of his family; his father died in McGonagall's raid on Strix palace and he remembers only the golden fire and the flying witch. Wrecked by the Dementors all year; tells Harry not to be ashamed of fainting. Stops hiding Nola after the siege. In the DA in B5, and comes back for the battle | DIV-055, DIV-079, DIV-082 | — |
+| Nola Laurel | Balthier's girlfriend, fifth-year Slytherin, Muggle-born, no connection to Voldemort. Taller than he is. In the DA in B5, and comes back for the battle | DIV-055, DIV-082 | — |
+| Arvilla Strix | Balthier's mother. Pureblood heiress, not of the Sacred Twenty-Eight; the only other survivor of her house | DIV-079, DIV-082 | — |
+| Basil Thynne | Balthier's father, dead. A half-blood social climber who married into the Strix family and attached himself to Voldemort for the standing. Killed in McGonagall's raid | DIV-079, DIV-082 | — |
+| Walden Macnair | Canon's executioner, at the castle for Buckbeak. Afraid of McGonagall, and with reason. Candidate for the Ministry's Dementor liaison | DIV-081, Q-105 | — |
+| Pomona Sprout | No fighter, and does more at the B3 siege than could be asked of her | DIV-081 | — |
+| Lee Jordan | Sitting beside McGonagall when the Dementors swarm the match. Sees the scorch marks on the railing and has the sense to say nothing | DIV-079 | — |
 | The Slytherins who stay | A handful seeded from B1 as ordinary people, not bullies. Some join the DA; some refuse the evacuation and fight. One of them is Dracaena's friend (Pansy, or Daphne Greengrass) | DIV-055, Q-070 | — |
 | Vincent Crabbe | Pulls the B3 fake-Dementor prank with Goyle, on their own; she disapproves. Guards her in the Hospital Wing for Snape in B6, without knowing why. Harry attacks him trying to get in; self-defence clears him | DIV-017, DIV-043, Q-057 | — |
 | Gregory Goyle | Pulls the B3 fake-Dementor prank with Crabbe, on their own; she disapproves. Guards her in the Hospital Wing for Snape in B6, without knowing why. Harry attacks him trying to get in; self-defence clears him | DIV-017, DIV-043, Q-057 | — |
@@ -44,7 +52,7 @@ Everyone who appears, one line each. Characters with a full file are linked. "Ch
 | Kreacher | Grimmauld Place itself. The heads on the wall are his own former bodies, which he mounted and does not remember mounting. Already Harry's through Sirius's will, which is the problem. Sent for help after Sectumsempra, he fetches Pomfrey and lets out that Harry did it. Feuds with Dobby and is the only one who can see he is dying; nobody listens. After the war Hermione's method gets him out, Grimmauld dies, and he colonises Malfoy Manor | DIV-043, DIV-075, DIV-078, Q-044, Q-096, Q-099, Q-100 | — |
 | Hagrid | | DIV-009, DIV-069 | — |
 | Neville Longbottom | Harry's housemate. Taunted by Voldemort when Dracaena steps in; kills Nagini (canon). Holds the line around the final duel and rallies the DA | DIV-023, DIV-025, Q-032 | — |
-| Minerva McGonagall | Covers Dracaena in the final sequence. In B6, wants to know why Harry went berserk | DIV-023, Q-057 | — |
+| Minerva McGonagall | "Hellfire": the Ministry's special-operations asset in the first war, who led raids with Lustrum and is a battle junkie hiding it. Her Patronus runs on her raids, named by place and date. Breaks the B3 siege and denies it afterwards. Covers Dracaena in the final sequence. In B6, wants to know why Harry went berserk | DIV-023, DIV-079, DIV-080, DIV-081, Q-057, Q-103–Q-106 | [minerva-mcgonagall.md](minerva-mcgonagall.md) |
 | Horace Slughorn | Covers Dracaena in the final sequence. The Slytherins who stayed fight alongside him | DIV-023, DIV-055 | — |
 | Kingsley Shacklebolt | Covers Dracaena in the final sequence | DIV-023 | — |
 | Lord Voldemort | | DIV-006, DIV-015, DIV-020, DIV-021, DIV-023–026, Q-011, Q-033 | — |

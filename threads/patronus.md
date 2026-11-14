@@ -8,6 +8,18 @@ Whether the dragon motif also wants a beat at the First Task: Q-077.
 
 Dracaena's Patronus, and how it mirrors Harry's. Hers tracks her faith in the dream: mist while she studies it for him, corporeal in the dream, gone in the nightmare, back when she wakes. His B3 Patronus runs on memories of her, and hers on memories of him.
 
+## McGonagall's, and what B3 is really about *(settled)* · DIV-079
+
+B3 is the Patronus book, and it now has **three casters on three different fuels**:
+
+- **Harry**, who cannot find a happy memory strong enough, and whose charm finally runs on the lap pillow — a memory he had written off as a prank.
+- **Dracaena**, who studies it for him and gets mist (below).
+- **McGonagall**, whose memories are her raids, and who names each one aloud as she casts: a place and a date, like a battle honour. *Ambleside, 4th April 1978.* *Dunfermline, 17th September 1980.* To the castle it is a tic. Across the books the reader works out what the dates are.
+
+The lesson that falls out of it, and that Harry needs: **the memory does not have to be nice, it has to be true.** Which is exactly what unlocks the lap pillow at the lake.
+
+Her charm works because the joy was real. The penance is not for the killing; it is for having loved it ([her file](../characters/minerva-mcgonagall.md)).
+
 ## Shape of the arc
 
 *(settled)* DIV-027. She first studies the charm for Harry's sake and can't cast it, not even at the lake, where he saves everyone with a memory of her. She resolves to master it, but gets only mist until the Yule Ball gives her a memory strong enough. After the death of faith she can't cast one at all. At the Battle of Hogwarts it comes back.
@@ -19,6 +31,7 @@ Dracaena's Patronus, and how it mirrors Harry's. Hers tracks her faith in the dr
 | Book | Beat | Where |
 |---|---|---|
 | B3 | She spies on Harry's secret Patronus lessons and studies the charm in the library, wanting him to succeed. She tries it herself, as a test, and gets mist. The lap-pillow scene becomes his memory, though he won't count it as happy until the lake | [lap-pillow](../scenes/b3/lap-pillow.md) |
+| B3 | The staff ring the castle with Patronuses to hold the siege off the walls, and McGonagall's tabby joins them off a battle honour. Whether Snape casts, and what anyone sees: Q-106. DIV-079, DIV-081 | [the-laughing-witch](../scenes/b3/the-laughing-witch.md) |
 | B3 | At the lake she tries and fails. Harry's Patronus, powered by the lap-pillow memory, drives off the swarm, with a first flicker of resonance (DIV-018). She resolves to master the charm | [buckbeak-rescue](../scenes/b3/buckbeak-rescue.md) |
 | B4 | *(draft)* At the First Task she projects herself a little onto the dragon Harry flies around, before she knows what her Patronus is | |
 | B4 | Still only mist, until the Yule Ball. That memory gives her a corporeal Patronus (DIV-004) | [yule-ball](../scenes/b4/yule-ball.md) |
@@ -45,4 +58,4 @@ Dracaena's Patronus, and how it mirrors Harry's. Hers tracks her faith in the dr
 
 ## Open
 
-Q-013 (her presence in B7)
+Q-013 (her presence in B7) · Q-106 (the siege and Snape's doe)

@@ -243,7 +243,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Canon:** After killing Nagini, Neville disappears into the general fighting. When Harry and Voldemort face off in the Great Hall, everyone falls silent to watch, and nothing threatens the duel.
 - **Ours:** Voldemort can't get past the resonance, so he turns the battlefield against them. With the Elder Wand at full power he raises every body in the Great Hall as an Inferius, friend and foe alike: he sees only bodies, and any will do. He calls back the Dementors Dracaena drove off earlier (DIV-027) and sets the whole horde on the duellists, who are locked on him and can't defend themselves. Neville stands against it with his own wand and the sword of Gryffindor, which burns through the Inferi, and keeps fighting as his injuries mount. Surrounded and down on one knee, he hears Godric Gryffindor tell him to stand his ground as Gryffindor's heir. He gets up and rallies the DA, who raise walls of flame against the Inferi, and together they shield Harry and Dracaena long enough for them to win. On the way he sees Bellatrix and lets her go, because he's needed to protect his friends: he too chooses love and justice over vengeance. He survives.
 - **Home:** [scenes/b7/final-duel.md](../scenes/b7/final-duel.md)
-- **Ripples:** Q-011, Q-032, Q-033 · DIV-023, DIV-026, DIV-027, DIV-055
+- **Ripples:** Q-011, Q-032, Q-033, Q-103 (whether McGonagall's Lustrum can touch the Inferi, which decides whether Neville's job is still necessary) · DIV-023, DIV-026, DIV-027, DIV-055, DIV-080
 
 ### DIV-026 · Harry's sacrifice protects no one
 
@@ -503,7 +503,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Canon:** The DA takes no Slytherins, and the rule is stated outright at the first meeting. Before the battle, a Slytherin calls for Harry to be handed over and the whole House is marched out of the castle. Slughorn comes back at the head of reinforcements, but no Slytherin pupil is shown fighting.
 - **Ours:** Some Slytherins are in the DA, and some stay for the battle and fight alongside Slughorn. They carry the unity theme.
   - **Seeded early.** Across B1–B6, some Slytherins behave like ordinary people rather than bullies, so their turn at the end isn't a surprise. Canon's Slytherins are a wall of sneers; a handful of them being unremarkable costs nothing and pays off twice.
-  - **One of Dracaena's own.** A friend of hers is among them: Pansy Parkinson or Daphne Greengrass (Q-070).
+  - **One of Dracaena's own.** *(settled)* **Pansy Parkinson.** She is the real friend and one of the Slytherins who turns — a direct inversion of canon, where Pansy is the one who calls for Harry to be handed over. **Daphne Greengrass is the snake in the grass instead**, and is therefore the candidate for Rita's source (Q-038, DIV-082).
   - **The evacuation.** When McGonagall clears the House out, some refuse to go.
 - **Why:** cross-House unity works better as a subplot than as a structural change, and canon already supplies the device. The DA argues the theme without touching the trio, the dormitories or the timetable, and it lands in the book where it matters, next to Neville's stand (DIV-025).
 - **Home:** [threads/house-unity.md](../threads/house-unity.md)
@@ -865,3 +865,63 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Superseded:** an earlier draft had Kreacher ask to be severed from the house and re-anchored to Harry as Dobby was. Struck as underbaked (Q-095, retired).
 - **Home:** [scenes/b7/kreacher-and-the-manor.md](../scenes/b7/kreacher-and-the-manor.md)
 - **Ripples:** Q-096, Q-099, Q-100 · Q-013, Q-065, Q-097 · DIV-050, DIV-052, DIV-075, DIV-077 · [books/b7/outline.md](../books/b7/outline.md) · [characters/hermione-granger.md](../characters/hermione-granger.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
+
+### DIV-079 · Minerva "Hellfire" McGonagall
+
+- **Status:** settled
+- **Canon:** A member of the Order of the Phoenix in both wars, and briefly at the Ministry before she taught. The books give her no combat record before the Battle of Hogwarts, and nothing about her is unsettling.
+- **Ours:** in the first war she was the Ministry's special-operations asset, not a spy. She led raids on Death Eater houses and gatherings with squads of Aurors, using her signature spell Lustrum (DIV-080), and the other side called her **Hellfire**.
+  - **The garb and the scars.** Singed battle dress she has never repaired and burns she has never had treated, because Lustrum always takes its price out of the caster. She calls it penance.
+  - **What she actually is.** A battle junkie who hides it almost perfectly. Her Patronus runs on her raids, and she names each one aloud as she casts — a place and a date, like a battle honour. Across the books the reader assembles what the dates are.
+  - **The penance is not for the killing.** It is for having loved it. The charm works because the joy was real.
+  - **Discipline as a cage.** It is why she is the strictest teacher in the castle. When the cage opens in B3 she laughs, and the whole school hears it. Afterwards she denies the night flatly and threatens detention to anyone who raises it, which only feeds the legend.
+  - **Strix palace.** Late in the first war she led the raid that destroyed the Strix household and killed Basil Thynne. Arvilla Strix and her infant son survived, which under Lustrum's rule was a verdict rather than luck (DIV-082).
+- **Why:** it gives the series' most reliable adult a real war behind her, makes the Patronus charm say something uncomfortable about what counts as a happy memory, and puts a person on the staff who can argue the Azkaban question from experience ([problems/azkaban.md](../problems/azkaban.md)).
+- **Home:** [characters/minerva-mcgonagall.md](../characters/minerva-mcgonagall.md)
+- **Ripples:** Q-103, Q-104, Q-105, Q-106 · DIV-080, DIV-081, DIV-082 · [threads/patronus.md](../threads/patronus.md) · [continuity/timeline.md](timeline.md)
+
+### DIV-080 · Dementors can be killed, and Lustrum is how
+
+- **Status:** settled. Q-103 is explicitly **not** settled.
+- **Canon:** nothing destroys a Dementor. A Patronus drives them off, and that is the limit. They guard Azkaban as a fact of nature, and the heroes never address it.
+- **Ours:** they can be destroyed, and the Ministry knows it.
+  - **Lustrum**, a cousin of Fiendfyre. Where Fiendfyre destroys everything, Lustrum burns what a person owes, in proportion, and leaves grass, trees and stone untouched. Incantation *Lustra nefas*.
+  - **Dementors are almost nothing but account,** so they burn like tinder, and their remains scald anything that touches them for months.
+  - **It always burns the caster too.** Intrinsic, not a choice. What sets the price: Q-104.
+  - **Not a duelling spell.** Slow, wide, telegraphed, and capable of incapacitating the caster. Useless against anyone who can move or shield, which is why the war record is raids rather than duels, and why it does not trivialise B7.
+  - **Nobody knows what it is.** Not in the library; Hermione can find nothing. The Ministry regulates the incantation.
+  - **The enhancer.** A custom, extremely expensive charmed trinket from Flitwick is what turns one casting into the small sun over Hogwarts. Without it the spell kills a handful at a time.
+  - **The policy.** The Ministry keeps the Dementors because they are useful. McGonagall is a loud and unpopular proponent of exterminating them.
+- **Why:** it converts Azkaban from scenery into a choice somebody is making, and gives the pureblood side a documented grievance that is not a lie told by losers (DIV-008, Q-016).
+- **Home:** [setting/magic.md](../setting/magic.md) (the spell and the creatures) · [problems/azkaban.md](../problems/azkaban.md) (the policy)
+- **Ripples:** Q-016, Q-103, Q-104, Q-105 · DIV-025, DIV-027, DIV-079, DIV-081 · [core/themes.md](../core/themes.md)
+
+### DIV-081 · B3: the Dementors storm Hogwarts
+
+- **Status:** settled (the event). Draft: where it sits in the night, which waits on Q-003.
+- **Canon:** the Dementors converge on the lake, are driven off by Harry's Patronus, and that is the end of them. The night finishes with the Time-Turner rescue and Sirius's escape from the tower.
+- **Ours:** Harry's Patronus does not merely drive the swarm off, it **maims** it. Wounded and starving, the horde turns on the nearest thousand souls and tries to force its way into the castle.
+  - **The staff hold the walls** with their Patronuses. McGonagall transfigures her battle garb onto herself in front of the school, goes up with Flitwick covering her, and breaks the siege with Lustrum and the vial.
+  - **It is short.** Minutes. She is having a field day, not fighting a battle.
+  - **Harry and Dracaena have no POV on it.** The spectacle belongs to Balthier and Daphne at a tower window, so it cannot displace the book's real ending.
+  - **The aftermath is the cover.** An empty sky, survivors that will not come near the castle, and grounds of cinders nobody may touch. Dracaena flies Buckbeak out over it to reach Sirius (DIV-018) — her first sight of what a war leaves on the ground.
+  - **Fudge** loses the prisoner, the hippogriff and his garrison in one night and answers with a hearing. He laments the "precious manpower", which is a confession.
+  - **The legend.** The school never gets an explanation, and the night becomes one of Hogwarts's stories.
+- **Why:** it makes Harry's Patronus an event with consequences rather than a rescue, pays off a garrison that has hung over the whole book, and solves the climax's logistics problem — the chaos Dracaena caused is what lets her finish the job (Q-003, Q-025).
+- **Home:** [scenes/b3/the-laughing-witch.md](../scenes/b3/the-laughing-witch.md)
+- **Ripples:** Q-003, Q-025, Q-105, Q-106 · DIV-018, DIV-079, DIV-080, DIV-082 · [books/b3/outline.md](../books/b3/outline.md)
+
+### DIV-082 · The Thynnes, and Nola Laurel
+
+- **Status:** draft
+- **Canon:** original characters. Daphne Greengrass is a canon name with no characterisation; Pansy Parkinson is in Draco's circle and calls for Harry to be handed over in B7.
+- **Ours:** a Slytherin couple, two years above Harry, who recur quietly from B3 and carry the house-unity thread alongside Pansy.
+  - **Balthier Thynne.** Fifth year in B3. One of two survivors of his family. Badly affected by the Dementors all year; he still sees the fire. He envies Harry for having it easier, which is wrong of him and he does not know it. Takes Harry aside earlier in the year to tell him he has nothing to be ashamed of for fainting, and is mostly talking to himself.
+  - **Nola Laurel.** His girlfriend, fifth year, **Muggle-born and in Slytherin**, no connection to Voldemort. Taller than he is. The House's ideology is a lie it tells about itself: the Hat sorts on ambition.
+  - **Arvilla Strix.** His mother. A pureblood heiress, not of the Sacred Twenty-Eight, and the only other survivor of her house. Balthier has hidden Nola from her.
+  - **Basil Thynne.** His father, dead. A half-blood social climber who married into the Strix family and attached himself to Voldemort for the standing. Killed in McGonagall's raid (DIV-079).
+  - **The night changes him.** Watching the fire that killed his father used on something that deserves it, he decides to stop hiding, and asks Nola home to meet his mother.
+  - **Where they go.** Seventh years in B5, so they are in the DA; they have left school by B7 and come back of their own accord for the battle (DIV-055).
+- **Why:** canon's Slytherins are a wall of sneers. These two are ordinary people with a bad history, on the page from B3, so the end is not a conversion. They also give the Strix raid a face in the castle.
+- **Home:** [threads/house-unity.md](../threads/house-unity.md)
+- **Ripples:** Q-038, Q-070 (part answered) · DIV-008, DIV-055, DIV-079, DIV-081 · [characters/_roster.md](../characters/_roster.md)

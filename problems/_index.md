@@ -9,6 +9,7 @@ Canon elements that break the plot or the ethics and have to be dealt with rathe
 | [Time-Turners](time-turners.md) | Plot | resolved | DIV-002 |
 | [House-elves](house-elves.md) | Ethics | resolved | DIV-075 |
 | [Scale](scale.md) | Plot | resolved | DIV-035 |
+| [Azkaban and the Dementors](azkaban.md) | Ethics | open | Mechanics: DIV-080. Policy: open |
 
 ## Candidates
 

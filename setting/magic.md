@@ -20,6 +20,28 @@ Time-Turners do not exist. Whether any other time magic exists: Q-004.
 
 Canon's portraits are unchanged: echoes with manners, not people. The one exception is the extinct Dessendre line, whose ancestral gift made paintings that were genuinely alive. Written out in [painted-life](painted-life.md).
 
+## Dementors, and Lustrum *(settled)* · DIV-080
+
+Canon gives no way to destroy a Dementor: a Patronus drives them off and that is the limit. Ours can be killed.
+
+### Lustrum
+
+A cousin of Fiendfyre. Where Fiendfyre destroys everything, **Lustrum burns what a person owes.** The incantation is *Lustra nefas* — "purify the sacrilege". McGonagall's signature spell in the first war, and the reason the other side called her Hellfire ([her file](../characters/minerva-mcgonagall.md)).
+
+- **It judges, and it is proportional.** It weighs an account and burns in proportion to it. A man with a great deal to answer for goes up as ash; someone with little is singed. Grass, trees and stone are untouched — the fire does not spread and nothing ordinary catches.
+- **Dementors are almost nothing but account,** which is why they go up like tinder, and why a powerful enough casting melts them to cinders. Their remains burn anything that touches them for a long time afterwards.
+- **It always burns the caster, too.** The fire weighs whoever casts it and takes its price out of them on the spot. There is no way to cast it clean. That is the catch, and it is intrinsic — McGonagall's contribution is only that she stopped resenting it and called it penance.
+- **It is not a duelling spell.** Slow, wide, telegraphed, and it can backfire badly enough to incapacitate the caster. Against a wizard who can move or shield it is close to useless. It is something you drop on a position — which is why her war record is raids on houses and gatherings rather than duels.
+- **Nobody knows what it is.** Extremely rare, and not in the library: Hermione can find nothing on it. The Ministry regulates the incantation, which is how Fudge can call its use unauthorised.
+- **The enhancer.** The small sun over the castle in B3 is not the spell alone. It takes a charmed trinket, custom-made and extremely expensive, which McGonagall commissioned from Flitwick earlier that year. Without it the spell kills a handful at a time.
+- **What sets the price:** Q-104. **Whether it touches things that are spells rather than selves** — Horcruxes, Inferi — is explicitly **not settled**: Q-103.
+
+### The Dementors
+
+- **They can be destroyed,** and the Ministry knows it. It keeps them anyway, because they are useful ([azkaban](../problems/azkaban.md)).
+- **They can be hurt.** A strong enough Patronus does real damage, and a wounded Dementor is a starving one. That is what turns Harry's Patronus at the lake into a siege (DIV-081).
+- **Whether some defected to Voldemort in the first war:** Q-105.
+
 ## Love as magic
 
 🔒 The payoff (DIV-006): in B7, love rebounds the Killing Curse.

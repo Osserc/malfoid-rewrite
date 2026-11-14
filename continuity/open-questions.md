@@ -29,6 +29,11 @@ Canon's night depends on the Time-Turner, so most of it has to be reworked until
 
 These have to fit alongside her fake lead, Buckbeak's freeing, Harry's Patronus, her confession and her talk with Sirius.
 
+*Now also:* **where Fudge, Macnair, Dumbledore and Snape are through the night,** given the siege (DIV-081). Fudge is on the grounds for the execution and retreats into the castle with Macnair after siccing the Dementors at the lake.
+- Recommendation on the table (Claude): they hear the siege perfectly well and do not come. Fudge will not recall the garrison he authorised and will not let Dumbledore leave while Black is unaccounted for, so Dumbledore is detained in his own office rather than absent. That makes McGonagall's sortie insubordination, which is what the hearing is actually about, and it means she takes Fudge by the collar because he was *there*.
+- Rejected (Claude): an enchantment that keeps them from hearing it. It reads as furniture, and it hands Dumbledore an alibi that dissolves the whole charge of his acquiescence.
+- **Parked by the author** until the shape of Sirius's freeing is settled; the pieces above are the current state.
+
 *Partly answered:* the memory behind Harry's Patronus is the lap-pillow scene, and at the lake it all adds up and he re-evaluates her (DIV-018). Canon's Harry drives off the swarm sure he can, having seen himself do it. Ours has the first flicker of resonance instead (Q-028).
 
 ### Q-004 · The Time Room in B5 (DIV-002)
@@ -110,6 +115,8 @@ Which radicals exist, how they combine, what incantations add, how nonverbal and
 Fixed point: Apparition takes no wand ([magic](../setting/magic.md), DIV-054).
 
 ### Q-016 · What is the pureblood point? (DIV-008)
+
+*Lead (settled facts, B3):* the Ministry has a weapon that exterminates Dementors (DIV-080) and keeps the Dementors anyway because they are useful, and it used that same unauditable judgement-weapon on the homes of its political enemies, with a verdict nobody could appeal (DIV-079). The other side gets a documented atrocity that is not a lie told by losers — the castle tells the story itself, as a legend. See [problems/azkaban.md](../problems/azkaban.md).
 
 What's the real grievance or truth, and where does it turn into Voldemort's ideology? Where do the Malfoys stand?
 
@@ -254,6 +261,8 @@ Lucius thinks a daughter should be somewhat sheltered ([lucius-malfoy](../charac
 *Partly answered:* her tomboy side. He loses to his wife and daughter, settles for no training without supervision, and worries less as he sees how capable she is → [lucius-malfoy](../characters/lucius-malfoy.md). Why she's an only child: a curse meant for him hit Narcissa (DIV-030).
 
 ### Q-038 · Rita's article (DIV-029)
+
+*Narrowed:* Pansy is now settled as Dracaena's real friend and one of the Slytherins who turns (DIV-055), so she is not the leak. **Daphne Greengrass** is the candidate instead: same year, dislikes her, and already established as someone who watches her (DIV-082).
 
 Harry's fight with the Durmstrang challenger gives Rita Skeeter prime ammunition: a violent, tormented boy.
 
@@ -425,8 +434,10 @@ After the Manor, Harry handles her with velvet gloves until she confronts him ab
 ### Q-070 · Which Slytherins, and how do they get there? (DIV-055)
 
 Slytherins in the DA and at the battle ([house-unity](../threads/house-unity.md)). Open:
-- **Dracaena's friend.** Pansy Parkinson or Daphne Greengrass? Pansy is already pulling double duty as a candidate for Rita's source (Q-038), and canon gives her the call to hand Harry over, so using her means choosing which Pansy we want. Greengrass is a blank slate with a canon name.
+- ~~**Dracaena's friend.**~~ *Answered:* **Pansy** is the friend and one of the Slytherins who turns — the inversion of canon. **Daphne is the snake in the grass**, and takes over as the candidate for Rita's source (Q-038). DIV-055, DIV-082
 - **How many,** and which of them get seeded in which books. A handful, named and recurring, beats a crowd.
+  - *Now partly filled:* Balthier Thynne and Nola Laurel, from B3 (DIV-082).
+  - **The spread is the problem.** Balthier and Nola are fifth years in B3, so they are in the DA in B5 and have left school by B7 — they come back for the battle as adults. Pansy and Daphne are Dracaena's year, so they *are* in the castle for the evacuation. That leaves the whole thread sitting in two cohorts. A couple of younger ones, Ginny's year or below, cost nothing to seed now and a great deal to invent later.
 - **Getting in.** Canon's DA bars Slytherins outright, and the reason is distrust, not spite. Who vouches for them, and who objects?
 - **Dracaena and the Squad.** Not a problem: in B5 she's dreaming and barely does the job, least of all anything that would land Harry in real trouble (Q-021). A friend of hers in the DA is safe from her. Still worth deciding whether she knows, and what she does with knowing.
 - **The evacuation.** Who refuses to leave, and whether they go to Slughorn or stay hidden in the castle.
@@ -631,6 +642,43 @@ B2 may give her far more to do — the inbox has her witnessing Harry kill the b
 - **Nothing resolves.** To Harry the elf is free and happy; to her he is a year dead and standing in the corridor. The gap never closes, and she cannot ask about it without admitting she cared.
 
 Depends on what she is actually doing in B2, which is unplanned.
+
+### Q-103 · Does Lustrum touch things that are spells rather than selves? (DIV-080, DIV-025)
+
+**Explicitly not settled** — the author's hold. The proposal on the table is that Lustrum weighs a self and its account, so a Horcrux (a splinter of soul running a spell, at most an echo) and an Inferius (a corpse running a spell) are both invisible to it.
+
+What the proposal buys:
+- The B7 Horcrux hunt is untouched, and nobody can simply hand Minerva the locket.
+- Harry, carrying a Horcrux until the forest, can stand next to the fire.
+- **DIV-025 survives intact.** Voldemort's two battlefield weapons split: the Dementors are the thing Minerva can answer, the Inferi are the thing only Neville's sword and the DA's flames can. They are doing complementary jobs and neither covers for the other.
+
+The author's objection: it may bite us, given what is planned for how magic and love work together in general. To workshop before anything downstream relies on it.
+
+### Q-104 · What sets Lustrum's price? (DIV-079, DIV-080)
+
+The fire always takes its cost out of the caster. Does the cost scale with the **size of the casting**, or with **what the fire finds in the caster**?
+
+If it is the latter, the price is roughly fixed per cast and set by her own account — which decides how many times she can cast in B7, and implies her scars should have been getting lighter across sixteen years. Either they are, and that is an arc, or they are not, and that says something about what she has kept adding.
+
+### Q-105 · Did Dementors defect in the first war? (DIV-080)
+
+Canon has them loyal to the Ministry through the first war and switching only after the return, which does not track: a decade in Azkaban while Voldemort is at his strongest, then a change of side within two years of his coming back.
+
+Author's lead: some of them went over the first time too. What it buys — it supplies the **occasion** for Lustrum's reputation as the Dementor-killer, which "she burned Death Eater houses" does not, and it turns Minerva's objection to the garrison from squeamishness into an argument with evidence behind it.
+
+Open:
+- What became of the defectors in 1981. Destroyed (so the Ministry knows for certain they are killable and kept the rest anyway), or **taken back into service** — much nastier, more in character for this Ministry, and it means the things on the lawn in B3 are the same things that fought for Voldemort, which is why her restraint at the Quidditch pitch is enormous.
+- Knock-on to canon's B5, where Fudge insists Dementors cannot leave Ministry control. That becomes a documented lie, and Harry's hearing changes shape.
+- **Macnair** (Claude): he is the Ministry's executioner, a Death Eater, and canon later makes him Voldemort's envoy to the giants. Make him the Ministry's Dementor liaison and the B5 walkout has a mechanism, using a character already standing in the B3 scene.
+
+### Q-106 · The siege and Snape's Patronus (DIV-081, DIV-043)
+
+The staff hold the walls with their Patronuses. Snape's is a doe, and B7 depends on nobody knowing that.
+
+- He does not cast, and McGonagall notices — a scene in itself.
+- Or he casts, **Dracaena** sees a silver deer and thinks nothing of it, and it pays off in B7 when Harry learns what the doe meant and remembers she once mentioned her uncle's silver deer. Better, and a bigger call.
+
+Harry must not see it either way.
 
 ## Answered
 
