@@ -116,7 +116,7 @@ Fixed point: Apparition takes no wand ([magic](../setting/magic.md), DIV-054).
 
 ### Q-016 · What is the pureblood point? (DIV-008)
 
-*Lead (settled facts, B3):* the Ministry has a weapon that exterminates Dementors (DIV-080) and keeps the Dementors anyway because they are useful, and it used that same unauditable judgement-weapon on the homes of its political enemies, with a verdict nobody could appeal (DIV-079). The other side gets a documented atrocity that is not a lie told by losers — the castle tells the story itself, as a legend. See [problems/azkaban.md](../problems/azkaban.md).
+*Lead (settled facts, B3):* the Ministry has a weapon that exterminates Dementors (DIV-080) and keeps the Dementors anyway because they are useful, and it pointed that weapon at the homes of its political enemies — an instrument that judges nobody and only counts spells, whose output was read as a verdict nobody could appeal (DIV-079). The other side gets a documented atrocity that is not a lie told by losers — the castle tells the story itself, as a legend. See [problems/azkaban.md](../problems/azkaban.md).
 
 What's the real grievance or truth, and where does it turn into Voldemort's ideology? Where do the Malfoys stand?
 
@@ -199,6 +199,8 @@ With allegiance gone, what does "the wand chooses the wizard" mean now? Also: ho
 - **The Dark Arts crack the soul.** They break your seal and let more ambient magic in, so they increase your power, and you pay for it. That's Voldemort's transformations, which Dumbledore alludes to, the snake-man most visibly. Snape too ([society](../setting/society.md)).
 - **Practice** raises power and endurance somewhat, not much without the aptitude.
 - Questions it raises: does the Mark count as a crack (DIV-015)? What do Harry's Sectumsempra (DIV-043) and canon's B7 Unforgivables (Crucio on Amycus Carrow, Imperius at Gringotts) cost him? Is it what makes Bellatrix so formidable (Q-066)?
+
+*Partly committed by DIV-080:* whatever the Dark Arts leave in a person is what Lustrum burns, so the crack is no longer free to be decided. It refills rather than draining, which is why no amount of casting ever cleanses anyone. Whether remorse can close it: Q-110. What the Mark makes of Dracaena: Q-111.
 
 ### Q-028 · Seeding resonance (DIV-021)
 
@@ -643,22 +645,39 @@ B2 may give her far more to do — the inbox has her witnessing Harry kill the b
 
 Depends on what she is actually doing in B2, which is unplanned.
 
-### Q-103 · Does Lustrum touch things that are spells rather than selves? (DIV-080, DIV-025)
+### Q-110 · Can remorse mend what the Dark Arts crack? (DIV-080, Q-027)
 
-**Explicitly not settled** — the author's hold. The proposal on the table is that Lustrum weighs a self and its account, so a Horcrux (a splinter of soul running a spell, at most an echo) and an Inferius (a corpse running a spell) are both invisible to it.
+Canon allows it — a Horcrux can be repaired by genuine remorse, and the books never cash the idea in. Our rule says casting Lustrum cleanses nobody and the crack refills, but that is not the same as saying nothing can ever close it.
 
-What the proposal buys:
-- The B7 Horcrux hunt is untouched, and nobody can simply hand Minerva the locket.
-- Harry, carrying a Horcrux until the forest, can stand next to the fire.
-- **DIV-025 survives intact.** Voldemort's two battlefield weapons split: the Dementors are the thing Minerva can answer, the Inferi are the thing only Neville's sword and the DA's flames can. They are doing complementary jobs and neither covers for the other.
+- **Not for the Mark.** The author's call: we are not going to undo a Dark Mark this way (Q-111).
+- **Who would demonstrate it** is the open part. Snape is the obvious candidate and the one canon leaves on the table: a man whose whole arc is remorse, and nothing in the mechanics ever registers it. Harry's Sectumsempra (DIV-043) and Kreacher are the other candidates.
+- **Keep in mind rather than build on.** Nothing downstream should assume either answer yet.
 
-The author's objection: it may bite us, given what is planned for how magic and love work together in general. To workshop before anything downstream relies on it.
+### Q-111 · The Mark, Dracaena and the fire (DIV-080, DIV-015, Q-027)
 
-### Q-104 · What sets Lustrum's price? (DIV-079, DIV-080)
+If the Mark is a crack in the seal — which Q-027 already asks, and which the Lustrum rule assumes — then from B6 onward **Dracaena is flammable, specifically and visibly, by the thing burned into her arm.** So is every other Marked person at the Battle of Hogwarts.
 
-The fire always takes its cost out of the caster. Does the cost scale with the **size of the casting**, or with **what the fire finds in the caster**?
+Written down as the consequence that follows from DIV-080, not as a settled beat. What is undecided:
 
-If it is the latter, the price is roughly fixed per cast and set by her own account — which decides how many times she can cast in B7, and implies her scars should have been getting lighter across sixteen years. Either they are, and that is an arc, or they are not, and that says something about what she has kept adding.
+- **Whether it is ever used.** McGonagall covers Dracaena in the final sequence (DIV-023) carrying the one weapon that would kill her outright, and the reader may or may not be told.
+- **Who knows.** Harry carries a Horcrux until the forest and would go up like a Death Eater; the same was true in the air at the B3 Quidditch match, which nobody including McGonagall ever learns. If Hermione has the rule from B4 (Q-112), she is the one who can work out that the fire cannot be turned on Harry — and that it wouldn't even work, since Voldemort outranks any caster we have.
+- **Whether it reaches Dracaena herself**, who would then know what she is carrying.
+
+### Q-112 · Hermione's Lustrum research in B4 (DIV-080)
+
+She hears the incantation shouted at the siege, or hears it repeated afterwards by somebody who did, and that is a lead she can actually chase — unlike the necklace, which went nowhere in B3. In B4 she gets at it through the Restricted Section, with Flitwick's permission and supervision.
+
+- **Why he helps.** He would rather choose which true thing she walks away with than have her guess or go round him, and he knows by now that she does not take no for an answer. Echoes the Dessendre material and Dracaena's line there (DIV-072).
+- **He is not heading off a wrong idea.** Her guess would be that McGonagall is a Dark witch, and under the mechanism that is approximately correct. He is managing a truth.
+- **Open:** where it sits in a crowded book, how much of the origin surfaces, and what she does with knowing. B4 would then carry both spell reveals — *Arceo* through the Pensieve (Q-108) and Lustrum through a library — which is either a deliberate pairing or too much for one book.
+- **Its destination** needs naming or the subplot is decoration. Current lean: B7, Q-111.
+
+### Q-113 · Does she have a vicewick in B7? (DIV-080)
+
+She spends the only one in existence at the siege in June 1994, and the urn it was distilled from is empty. A second one needs fresh ash, which needs a fresh casting.
+
+- The Hogwarts grounds were covered in it that night and cordoned off pending a Ministry decontamination over the summer, so there was a window.
+- If she has none in B7, her constraint there is absolute rather than tactical, and "she still casts, precisely and small" means raw castings at a houseful's scale.
 
 ### Q-109 · Dracaena and Umbridge (DIV-085, DIV-084)
 
@@ -689,6 +708,25 @@ Still open:
 - Harry must not see it either way.
 
 ## Answered
+
+### Q-104 · What sets Lustrum's price? (DIV-079, DIV-080)
+
+*Answered: the caster's own Dark residue is the fuel, and it never runs out.* Recorded in **DIV-080**.
+
+- The fire catches on Dark magic worked. It needs something near to hand, so it takes the caster's, on the spot, as burns shaped like a grip.
+- **Anyone who has never worked Dark magic cannot cast it at all.** The admission ticket is having already crossed the line.
+- Lustrum is itself Dark, so every casting widens the crack that fuels the next. Nothing drains and nobody is cleansed, which is why sixteen years of casting have not lightened her scars and never will. What she calls penance pays nothing down.
+- The question's own framing — size of the casting versus what the fire finds in the caster — is superseded. There is no moral account to find.
+
+### Q-103 · Does Lustrum touch things that are spells rather than selves? (DIV-080, DIV-025)
+
+*Answered: yes, and the brake is power, not category.* Recorded in **DIV-080**.
+
+- A Horcrux and an Inferius are Dark magic and nothing else, so the fire catches on them perfectly well. Sacred fire burning undead is what a reader expects, and the earlier "invisible to it" proposal is **struck** for refusing it on a technicality.
+- **It cannot consume work done by a greater wizard.** It burns the vessel and leaves the thing inside: you would get the man and not the thing in him.
+- Nobody on our side outranks Voldemort, so the Horcrux hunt is untouched, no Inferius he raises can be put down this way, and **DIV-025 stands** — Neville's job is still necessary, and now because she is outmatched rather than because the spell cannot see.
+- The ugly corollary is deliberate: someone could propose burning Harry to get at what is in him, and the answer is that it would kill him and fail (Q-111).
+
 
 ### Q-108 · Whose lore is the spell? (DIV-084)
 

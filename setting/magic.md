@@ -26,16 +26,41 @@ Canon gives no way to destroy a Dementor: a Patronus drives them off and that is
 
 ### Lustrum
 
-A cousin of Fiendfyre. Where Fiendfyre destroys everything, **Lustrum burns what a person owes.** The incantation is *Lustra nefas* — "purify the sacrilege". McGonagall's signature spell in the first war, and the reason the other side called her Hellfire ([her file](../characters/minerva-mcgonagall.md)).
+A cousin of Fiendfyre. The incantation is *Lustra nefas* — "purify the sacrilege" — and the name is the Roman censor's rite, the purification performed over the citizenry at the close of every census. McGonagall's signature spell in the first war, and the reason the other side called her Hellfire ([her file](../characters/minerva-mcgonagall.md)).
 
-- **It judges, and it is proportional.** It weighs an account and burns in proportion to it. A man with a great deal to answer for goes up as ash; someone with little is singed. Grass, trees and stone are untouched — the fire does not spread and nothing ordinary catches.
-- **Dementors are almost nothing but account,** which is why they go up like tinder, and why a powerful enough casting melts them to cinders. Their remains burn anything that touches them for a long time afterwards.
-- **It always burns the caster, too.** The fire weighs whoever casts it and takes its price out of them on the spot. There is no way to cast it clean. That is the catch, and it is intrinsic — McGonagall's contribution is only that she stopped resenting it and called it penance.
-- **It is not a duelling spell.** Slow, wide, telegraphed, and it can backfire badly enough to incapacitate the caster. Against a wizard who can move or shield it is close to useless. It is something you drop on a position — which is why her war record is raids on houses and gatherings rather than duels.
-- **It does not pick sides.** Everything inside the burn is weighed, including whoever is standing with the caster. Against Dementors on an empty lawn that costs nothing; in a corridor, in a crowd, in a battle fought among your own students, it is the reason the spell stays in its sheath. Nobody who casts it can promise what it will do to the person beside them.
-- **Nobody knows what it is.** Extremely rare, and not in the library: Hermione can find nothing on it. The Ministry regulates the incantation, which is how Fudge can call its use unauthorised.
-- **The enhancer.** The small sun over the castle in B3 is not the spell alone. It takes a charmed trinket, custom-made and extremely expensive, which McGonagall had Flitwick make at the start of that year. Without it the spell kills a handful at a time — which is also why the thing is dangerous to own, and why she surrenders it to him in December rather than keep carrying it.
-- **What sets the price:** Q-104. **Whether it touches things that are spells rather than selves** — Horcruxes, Inferi — is explicitly **not settled**: Q-103.
+**The legend and the mechanism are two different things, and that gap is the whole design.** What everyone believes — including most of the few who have ever cast it — is that Lustrum is righteous fire: it weighs a person, burns what they owe, and spares the innocent. What it actually does is scorch everything Dark-touched inside the burn, in proportion, and nothing else. It makes no judgement of anybody. **It counts spells.**
+
+- **What it burns is Dark magic worked.** The Dark Arts crack the soul and let ambient magic in (Q-027); that is what catches. Not deeds, not character, not what a person deserves — the residue of what they have actually cast. The fire cannot tell a torturer from a man who hexed his neighbour. It can only tell how much.
+- **The stain is on the casting, and the spell's design decides how easy the question is.** Dark magic runs on intent (DIV-084), so a spell built only to afflict — Furnunculus, the slug-vomiting curse, Locomotor Mortis — cannot be cast any other way, and casting it at all leaves something behind. A spell with uses that are not harm — Expelliarmus, Stupefy, Protego, Petrificus Totalus, Impedimenta — can be cast clean, though it need not be. There is no fixed register of Dark spells; there is only what the caster wanted, and most spells make that obvious.
+- **So nobody is clean, and small children are.** Every adult in Britain has thrown something in a temper, and so has every student above first year, which is why an ordinary person inside the burn is scorched rather than spared. A small child has had no opportunity — not an innocent nature — and the fire finds nothing in one at all. Grass, trees and stone are untouched for the same reason, which is why the fire does not spread and nothing ordinary catches.
+- **Dementors are nearly all of that substance,** which is why they go up like tinder, and why a powerful enough casting melts them to cinders.
+- **It leaves the Dark behind.** The fire runs on what it finds and destroys the person, so what remains of anyone burned is the worst of what they ever cast, concentrated, and it scalds whatever touches it for months. Lustrum absolves nobody and settles nothing. It inflicts a punishment, which is what the ancients meant by keeping it for a last resort.
+- **The caster has to be flammable too.** The fire needs something near at hand to catch on and takes it out of whoever cast it, on the spot. There is no way to cast it clean — and **anyone who has never worked Dark magic cannot cast it at all.** The admission ticket is having already crossed the line. Lustrum is itself Dark, so every casting widens the crack that fuels the next, which is why no amount of casting ever empties a caster out. McGonagall's contribution is only that she stopped resenting the price and called it penance.
+- **The wounds are handprints.** Burns in the shape of a grip, as though a flaming hand had taken hold: a large one across the torso, smaller ones at the wrists and forearms. Enchanted dragonhide buys the first seconds and no more, which is why her jerkin is survivable and her arms are not.
+- **It cannot overcome magic stronger than the caster's.** A Horcrux and an Inferius both catch perfectly well — they are Dark magic and nothing else — but the fire cannot consume work done by a greater wizard. It burns the vessel and leaves the thing inside: **you would get the man and not the thing in him.** Nobody on our side outranks Voldemort, so no Horcrux of his can be burned out of anything, and no Inferius he has raised can be put down this way (DIV-025).
+- **It is a siege weapon, and an offensive one.** Slow, wide, telegraphed, and capable of incapacitating the caster; useless against anyone who can move or shield. It is something you drop on a position you do not occupy — which is why the war record is raids on houses and gatherings, and why a defender can almost never use it at all.
+- **It does not pick sides.** Everything inside the burn is scorched, allies included, and in a war everybody's hands are dirty, so her own squad is fuel. In a corridor, in a crowd, in a battle fought among your own students, that is the reason the spell stays in its sheath.
+- **Nobody knows what it is.** Not in the open stacks: Hermione finds nothing in B3, and gets at it in B4 through the Restricted Section, with Flitwick's permission and his supervision (DIV-080). The Ministry regulates the incantation, which is how Fudge can call its use unauthorised.
+
+### Where it comes from
+
+**The legend.** Appius Februus, a Roman censor, more than two thousand years ago. The city he watched over fell to the Dark, so he cleansed it with his own hands — offering his own soul as the kindling and burning the whole citizenry along with himself. The first Lustrum left cinders everywhere and a city fit to be lived in again.
+
+**What actually happened.** The spell is older than Rome: an Etruscan working used by haruspices, which the Romans took and dressed in their own togas. Appius was real and committed no genocide. He burned a few dozen people, scarred a good many more, and cast so often in so short a span that he nearly lost his magic and spent the rest of his days in obscurity. The records have him writing out his own *nota censoria* afterwards — the censor's mark against a citizen's name, entered on one man's judgement and not appealable — and setting it against himself, because reaching for Lustrum at all meant he had already failed at the job he actually held.
+
+- **The office is the argument.** A censor's defining power was to degrade a citizen on his own judgement with no appeal, and the lustrum itself was a scheduled civic purification performed every five years. The spell is named for the one magistracy in history whose entire business was unappealable verdicts on character — and it cannot deliver one.
+- **The cost was never a defect, and nobody has bred it out.** The ancients held that resorting to Lustrum meant something had already gone wrong and that it ought to stain whoever used it. It also happens to be how the thing works. Moderns have been trying to file the conscience off ever since, and the best anyone has managed is the vicewick.
+- **How much of this reaches the page, and when:** Q-112.
+
+### The vicewick
+
+The small sun over the castle in B3 is not the spell alone. It takes an **enhancer**: an artificial fuel source, worn on the person, which offers the fire a nearer and richer meal than the caster is. It does not make Lustrum safe. It misdirects it — the caster still pays, and pays less.
+
+- **It is made of rendered ash.** What Lustrum leaves of the things it has burned is the one substance in the world that is nothing but Dark magic, so it is the only thing that will serve. An enhancer can therefore only exist downstream of a casting, and almost nobody alive can cast. That, rather than any regulation, is why there are no stockpiles. Dementor ash is the premium grade, being very nearly pure.
+- **The name is propaganda, like the spell's.** "Vicewick" says the thing holds a man's vices, which flatters the legend. What it holds is distilled ash.
+- **Flitwick is not a Dark wizard for making one.** He never practises Dark magic. He concentrates a residue and builds a vessel that presents it to somebody else's fire first — charms work, a sleight of hand rather than a corruption. His own verdict on it is that they have tamed the torture weapon. Sort of.
+- **Without one the spell kills a handful at a time** — a houseful, which is exactly the shape of McGonagall's war record. Hers is the first she has ever had, and what it is made of is hers: see [her file](../characters/minerva-mcgonagall.md).
+- **Open:** whether remorse can mend what the Dark Arts crack, which canon allows and we have not decided (Q-110) · what the Mark makes of Dracaena (Q-111).
 
 ### The Dementors
 
@@ -65,6 +90,7 @@ Canon's own rule, never stated as one: the curse that tortures does not work on 
 - **It explains Macnair.** A brute with no scholarship takes a defensive spell and makes it a yoke, because the only qualification was wanting it that way. It is also why nobody decent ever found the trick: you have to want it first, and most people never do.
 - **It explains Umbridge** doing the same thing twelve years later with no more training than he had (DIV-085).
 - **It is not a licence.** Power still runs in lines ([society](society.md)) and the Dark Arts still crack the seal and let ambient magic in, at a price (Q-027). Intent decides whether dark magic *takes*, not how strong you are.
+- **It decides what Lustrum can see.** The fire burns the residue of Dark magic worked, so the intent rule is what sorts a curse from a martial spell, and what makes almost everybody flammable (*Lustrum*, above).
 
 ## Love as magic
 

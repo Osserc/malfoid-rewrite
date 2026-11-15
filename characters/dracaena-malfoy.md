@@ -92,6 +92,8 @@ Open: Q-084.
 
 *(settled)* DIV-015. Unlike canon Draco, she's never proud of it. She's ashamed of it and feels defiled, and it reminds her constantly of the chains that hold her. In the hollow weeks she won't let Harry touch her ([sleeping-beauty](../threads/sleeping-beauty.md)).
 
+*(draft)* **It makes her tinder.** If the Mark is a crack in the seal, then from B6 she is flammable to Lustrum, specifically and visibly, by the thing burned into her arm — and so is every other Marked person at the Battle of Hogwarts, where McGonagall is covering her while carrying the one weapon that would kill her outright. The consequence follows from DIV-080; what we do with it, and whether she ever finds out, is Q-111.
+
 ## The tsundere engine
 
 - **When she feels exposed, she reaches for snobbery.** This first shows at Madam Malkin's: flustered at being charmed by a Muggle story, she sneers at Hagrid (DIV-009).

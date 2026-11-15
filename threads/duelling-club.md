@@ -22,6 +22,13 @@ Through the clashes they come to know each other. They learn to read each other'
 
 When she wins she sometimes forgets to gloat. No sneer, just a bright, happy "Did you see that? I won!", and Harry finds it endearing enough that losing doesn't seem so bad. It stands out against her usual teasing and casual cruelty, towards Ron and Hermione too.
 
+## What Flitwick teaches *(settled)* · DIV-080
+
+He drills the spells that can be cast clean — Expelliarmus, Stupefy, Protego, Petrificus Totalus, Impedimenta — and not the ones built only to afflict. It reads as a schoolmaster keeping things decent, and it is not: Dark magic leaves a residue in whoever works it ([magic](../setting/magic.md), Q-027), and he is teaching children the only magic they can throw at each other a thousand times a year without cracking themselves.
+
+- **He never explains it that way,** and nobody asks. He is also, quietly, the man who built a vicewick.
+- **It gives Harry's Expelliarmus a reason.** Canon never justifies his signature spell as anything but sentiment. Ours makes it the one thing you can cast forever and stay clean — which is what the series ends on, against a man who is nothing but accumulated stain (🔒 DIV-006).
+
 ## The trophies, and the two hoards *(settled)* · DIV-059
 
 At some point the bouts acquire a forfeit: the loser gives the winner a trophy, something of their own. It starts as her challenge, before the Christmas holidays of their second year, and she wins it, taking his Gryffindor scarf.

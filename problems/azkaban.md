@@ -16,12 +16,13 @@ Canon also has them loyal to the Ministry straight through the first war and def
 
 - **It is an atrocity our heroes live beside.** Harry's third year has a garrison of them stationed around a school.
 - **Once they can be killed, keeping them becomes a choice.** DIV-080 makes them destructible and puts a woman on the staff who has destroyed them and says so. Azkaban stops being scenery and becomes policy. The Ministry has hunted a species to the edge before, when it wanted to; the Dementors survive because they are useful, not because they are invincible.
-- **It is first-rate DIV-008 fuel, aimed at us rather than at them.** The Ministry had a weapon that exterminates Dementors and kept the Dementors anyway, because they are useful. It used an unauditable judgement-weapon on the homes of its political enemies, with a verdict nobody could appeal. And when it turned out it had never had a hold on the Dementors at all, it bought one from the people it had just fought, and let a man walk for it (DIV-084). The pureblood side gets a documented grievance that is not a lie told by losers: the castle itself tells the story, as a legend. See Q-016.
+- **It is first-rate DIV-008 fuel, aimed at us rather than at them.** The Ministry had a weapon that exterminates Dementors and kept the Dementors anyway, because they are useful. It pointed that weapon at the homes of its political enemies — and the weapon judges nobody, it only counts spells, so it cannot tell a torturer from a man who hexed his neighbour and it finds something in almost everyone. The judging was always the Ministry's. The instrument measured one thing and the output was read as a verdict nobody could appeal (DIV-080). And when it turned out it had never had a hold on the Dementors at all, it bought one from the people it had just fought, and let a man walk for it (DIV-084). The pureblood side gets a documented grievance that is not a lie told by losers: the castle itself tells the story, as a legend. See Q-016.
 - **Minerva's position is the argument in person.** She has been a loud proponent of destroying them since the war, and it has cost her.
 
 ## Settled so far
 
 - Dementors can be destroyed: a dangerous creature, not a fixture of the universe, and huntable the way canon's wizards hunted the British giants. Lustrum is McGonagall's method, not the only one (DIV-080).
+- **Lustrum judges nobody.** It scorches Dark magic worked, in proportion, and the righteous-fire story told about it is propaganda. That is what turns the raids from a hard policy into an indefensible one: the instrument never had an opinion, so every verdict read off it was the Ministry's own (DIV-080).
 - The Ministry knows it and keeps them regardless, because they are useful.
 - **They split in the first war** (DIV-083). Some defected; the rest stayed because they had developed a taste for what Azkaban serves. Not loyalty — appetite. The defectors were hunted, and the remnants put back in their cells.
 - **Arceo** (DIV-084). A Malfoy ancestor's defensive charm, found by Lucius because Voldemort wanted his Dementors herded, and discovered by Macnair to give orders if you mean it to. Sold to the Ministry afterwards as the price of the Imperius story, and in ordinary use ever since as warding.
@@ -42,4 +43,4 @@ _Open._ DIV-080 settles the mechanics; the policy and its fate are not yet decid
 
 ## Ripples
 
-Q-016, Q-103, Q-104, Q-109 · DIV-079, DIV-080, DIV-081, DIV-083, DIV-084, DIV-085 · [core/themes.md](../core/themes.md) · [setting/society.md](../setting/society.md)
+Q-016, Q-109, Q-112 · DIV-079, DIV-080, DIV-081, DIV-083, DIV-084, DIV-085 · [core/themes.md](../core/themes.md) · [setting/society.md](../setting/society.md)
