@@ -17,6 +17,7 @@ Three of the finest young witches and wizards alive spend a year pouring themsel
 - **Which is why teenagers enter a competition with a death toll.** Not the gold and not the glory. Who would not want to be the greatest wizard of the age?
 - **Lethal is the yield.** You cannot harvest a safe tournament. The danger is not tradition dragging its feet; the danger is the instrument. The 1994 committee had to find a way to get the yield without the corpses, which nobody had managed before, and they are answerable for how they went about it.
 - **It is awarded raw and takes time to settle.** Until it has settled into the victor it can still be drawn out of them; afterwards it is simply part of them, and taking it would mean taking the wizard apart. That window is measured in minutes, and the whole plan is built to fit inside it.
+- **It takes one claimant.** The Goblet will not split a charge and does not recognise a tie. **Claiming is not the same as touching:** the pot goes to whoever claimed the Cup, while the Portkey carries whoever happens to be in contact with it. The two come apart in the maze, and the inch between them decides which of two boys is the spare (DIV-089).
 
 ## The contract *(settled)* · DIV-087
 
@@ -36,7 +37,13 @@ Voldemort's ritual needs the blood of one particular enemy and a victor's charge
 - **The charge is fuel, and the ritual burns it.** Voldemort leaves the graveyard with a body and no permanent gain. Harry leaves it stripped of the only prize that would ever have meant anything to him, and keeps the gold he does not want (DIV-062).
 - **He is handed it at the moment it cannot save him.** The pot lands in him when the victory resolves: the greatest surge of power he will ever feel, arriving while he is bound to a headstone with a dead boy three feet away and his wand out of reach. Then it is drawn out of him.
 
-**How a shared victory resolves — and therefore how Cedric dies — is open and parked for a session of its own: Q-115.**
+## The finish *(settled)* · DIV-089
+
+There is no shared victory, because the Goblet never gets two claimants. The maze is an elimination — Cedric beats Fleur, Harry beats Krum, and Harry and Cedric fight in front of the Cup — and the Task is designed to make them meet, because an instrument for generating contribution naturally funnels four people towards one point.
+
+- **The 1994 committee thought it was the safe option.** No dragons, no drowning, just trained champions and wands, and nobody dies in a duel. The safest Task anyone ever designed for the Tournament is the one that got a champion killed, somewhere else, for reasons none of them could have planned for (Q-120).
+- **Nobody dares yield.** Nobody knows where the Goblet draws the line between being stopped and giving up, and testing it costs a year of your magic — so the champions fight long past the point of sense. That is the floor under the wanting, not a substitute for it: all four of them want the pot.
+- Full beats, including the Summoned Cup and the hand on the ankle: [scenes/b4/the-third-task.md](../scenes/b4/the-third-task.md).
 
 ## Harry and the contract *(settled)* · DIV-087
 
@@ -52,4 +59,4 @@ Canon asks a stadium to watch the surface of a lake and the outside of a hedge. 
 
 ## Open
 
-Q-115 (the shared victory, and Cedric) · Q-118 (the maze, with no Crouch in it) · Q-119 (do spectators feed the Goblet) · Q-120 (past champions, and why it was abolished) · Q-121 (whether Harry is told) · Q-122 (the charge's absence in B5)
+Q-118 (the maze's furniture, with no Crouch in it) · Q-119 (do spectators feed the Goblet) · Q-120 (past champions, and why it was abolished) · Q-121 (whether Harry is told) · Q-122 (the charge's absence in B5) · Q-123 (how Harry beats Krum) · Q-125 (what the school saw, and B5)

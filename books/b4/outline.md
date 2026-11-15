@@ -36,7 +36,12 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 - On the eve of the Second Task, Dumbledore has a word with her. DIV-046
 - Harry goes down on a gillyweed extract Dracaena brewed. At the lake she claims him and kisses him in front of the school. DIV-038, DIV-039, [second-task](../../scenes/b4/second-task.md)
 - Fleur tests Harry's heart with her charm, then hands Dracaena a public win. DIV-037, DIV-038, [the-little-basilisk](../../scenes/b4/the-little-basilisk.md)
-- In the graveyard the charge lands in Harry as the victory resolves and is drawn out of him for the ritual: the strongest he will ever be, arriving while he is bound to a headstone and useless. How the shared victory resolves, and so how Cedric dies, is parked. DIV-087, Q-115
+- Krum joins the Duelling Club because he is curious about Harry, and at the weighing of the wands tells him why he ended a match Bulgaria was losing: the captain called it, and he agreed. DIV-066, DIV-090
+- Hooch calls a special flying lesson for the first years, with a world-class player in the castle. An exhibition, not a contest; nobody duels. DIV-091, [the-flying-lesson](../../scenes/b4/the-flying-lesson.md)
+- The Third Task is a fight. Cedric beats Fleur, Harry beats Krum, and Harry beats Cedric in front of the Cup, wearing her ribbon, in front of the whole school. DIV-089, [the-third-task](../../scenes/b4/the-third-task.md)
+- Beaten, Cedric Summons the Cup; Harry takes it out of the air; Cedric catches his leg. Touch is not claim, so he arrives as the spare over an inch. DIV-089
+- In the graveyard the charge lands in Harry as the victory resolves and is drawn out of him for the ritual: the strongest he will ever be, arriving while he is bound to a headstone and useless. DIV-087
+- Harry tries to give the Diggorys the winnings before the twins get them. DIV-089, DIV-062, Q-124
 - Moody throws Crouch out in Dumbledore's office when Crouch rides him too hot, and that is what saves Harry. Fudge takes Crouch into custody and has him Kissed days later, destroying the only witness who could corroborate Harry. DIV-086
 - In the graveyard, unseen, Lucius takes his daughter's ribbon back off Harry's wrist and Stuns Avery to open him a way out. DIV-057
 - The hospital wing: Sirius shoves her to the bedside, Dumbledore shelters her, and she guards Harry all night. "Sleep well, my prince." DIV-058, [the-hospital-wing](../../scenes/b4/the-hospital-wing.md)

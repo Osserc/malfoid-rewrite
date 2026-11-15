@@ -708,15 +708,6 @@ Canon's rewarded the rereader with the flask, the tongue and the ferret. The dis
 - **The flask.** Innocent now. Whether that is the joke (everyone suspects the obvious thing and it is only whisky) or whether it carries something is open.
 - **The lessons themselves,** since the reader can never be sure which were his (Q-116).
 
-### Q-115 · The shared victory, and how Cedric dies (DIV-087)
-
-**Parked deliberately, to be taken up on its own.** The charge is awarded to a victor, and canon's Third Task ends in a tie. What the Goblet does with two claimants decides how Cedric Diggory dies, and the author is not sold on either option yet.
-
-- **Necessity.** The tie splits the charge, and the half Cedric is holding has to be released, so the murder becomes a step in a recipe. *Cost:* "kill the spare" is chilling because Cedric is nothing to Voldemort, and a required death is not a careless one. *And:* if Harry ever learns it, his one decent impulse in the maze — sharing the Cup — becomes the mechanism that killed the other boy, which may be more guilt than B5 Harry can carry.
-- **The impasse** (the author's proposal). The Goblet will not take a tie; it requires that one claimant remain, and both boys refuse to fight. Voldemort resolves it because he is behind schedule and wants the thing started. *What it needs:* the Goblet accepts a death as resolution out of pure indifference, not bloodlust — it does not ask how the field was cleared, which is the same honesty it shows everywhere else. *What it buys:* the carelessness comes back colder than canon's; Cedric gets a real last decision, made consciously, in front of Harry, which the whole dragons-and-egg thread has been building towards; Harry's guilt becomes survivor's guilt rather than causal guilt; and it hands Q-120 a reason for the abolition for free, since a prize that large with an arbiter that indifferent means champions have murdered rivals before.
-- Either way, nobody has to ask why Crouch did not engineer a clean single victor: he deliberately stayed out of the maze (DIV-086), so the finish was the one uncontrolled variable in a ten-month plan, and Voldemort fixed it with the only tool he ever uses.
-- **Standing risk:** this replaces one of the most famous beats in the series, so readers will clock the change, and the prose has to carry it.
-
 ### Q-116 · What Crouch teaches Harry, and what it costs him (DIV-086, DIV-084)
 
 Crouch's job is to make Harry formidable, and the interesting way to do it is to push him towards spells a decent teacher would not — couched, to a boy who does not know him, as *spells are weapons, they are not good or bad*, with the Unforgivables as the stated exception. The author is not committed to the specific beat.
@@ -735,13 +726,16 @@ Crouch takes Moody over to bounce Dracaena down a corridor out of pure spite. Tw
 - **Lucius.** An Auror has assaulted the Malfoy heiress. He would move on that, and canon gives us nothing to copy. Whether he gets anywhere, whether it reaches the board, and what Dumbledore does with it.
 - And what the real Moody remembers afterwards: transfiguring a student, and having thought it just.
 
-### Q-118 · The maze, with no Crouch in it (DIV-086, DIV-087)
+### Q-118 · The maze's furniture, with no Crouch in it (DIV-086, DIV-087, DIV-089)
 
 Krum is never Imperiused and Fleur is never Stunned, so the Third Task has to be designed rather than inherited. Crouch's only act is the Portkey, set before the maze is sealed; from there the finish is genuinely out of anyone's hands.
 
-- What Fleur and Krum each get instead, both of which should be honourable exits.
-- The sphinx stays. What else fills the space.
-- Cedric and Harry saving each other stands, and it has to carry more weight now that it leads into Q-115.
+*Largely answered by DIV-089:* the maze is an elimination and it herds. Fleur and Krum get their honourable exits by being beaten by people — Fleur by Cedric, Krum by Harry — rather than by a hedge or a curse, and Cedric and Harry cooperating is **cut**, because all four champions want to win and the Task is built to make them meet.
+
+Still open:
+
+- The sphinx stays. What else fills the space between the eliminations, and how much of it there is now that the fights carry the Task.
+- How the maze herds them without the reader feeling an author's hand on it.
 - **Note:** the "prevented, not quitting" rule gets its demonstration earlier, in the Second Task, where Fleur is dragged out by grindylows and the Goblet is satisfied. The maze inherits a rule the reader has already watched work.
 
 ### Q-119 · Do the spectators feed the Goblet? (DIV-087, DIV-088)
@@ -753,18 +747,60 @@ Attractive and possibly too tidy. Undecided.
 ### Q-120 · Past champions, and why it was abolished (DIV-087)
 
 - **One or two past victors worth naming,** remembered for what they went on to do rather than for winning. A line of that kind is what sells the prize to the reader.
-- **The abolition.** The death toll is canon's reason and is not sufficient on its own, now that the prize is this large. The stronger reason: three schools, three nations, and one of them handed a decisive wizard every five years. Eventually somebody used it. If Q-115 lands on the impasse, add that champions have murdered rivals and collected.
+- **The abolition.** The death toll is canon's reason and is not sufficient on its own, now that the prize is this large. The stronger reason: three schools, three nations, and one of them handed a decisive wizard every five years. Eventually somebody used it. DIV-089 also offers a second strand for free: the final Task is a fight between champions, which means somebody has been killed in one before, and the 1994 committee's belief that a wand-fight was the *safe* option is a judgement somebody made once already.
 
-### Q-121 · Is Harry told why Cedric died? (DIV-087, Q-115)
+### Q-121 · Is Harry told why Cedric died? (DIV-087, DIV-089)
 
-Dumbledore works it out. Whether he tells Harry, and when, decides how much of B5's grief is survivor's guilt and how much is causal. B5 Harry is already drowning in Cedric; this either supplies the fuel or sinks him.
+*Much smaller since DIV-089.* There is no mechanism left for Dumbledore to withhold: Cedric is the spare because he had a hand on an ankle and not on a handle, and Harry already knows exactly why he was there — because Harry won, and Cedric would not let go.
+
+What remains: whether anybody tells him about the inch, and whether knowing it would help or finish him. Also whether Dumbledore ever says out loud that he watched two of his champions duel on a relay and did nothing, having been the one who told Harry in November what the prize was worth.
 
 ### Q-122 · The charge's absence in B5 (DIV-087)
 
 Harry has been emptied of something real, in June, on top of everything else. The texture is attractive — he is flat, his magic sluggish, and neither he nor the reader can separate drained from wrecked — but it must never become the explanation for his anger in B5. Where the line sits, and whether anybody in the castle can tell.
 
 
+### Q-123 · How Harry beats Krum (DIV-089, DIV-090, DIV-028)
+
+Settled that he wins outright and hard, that it costs him, and that his edge is the one that beats Dracaena's technique — **he has no shape**. What he actually does on the page is open, and it should come out of three years against her at the Duelling Club rather than out of Moody's lessons, so that the win is hers to have given him.
+
+- **The leading candidate, not adopted — legibility.** Spells are radicals, drawn, which means a spell is readable while it is being made; we already depend on that, since sync is both of them drawing the same radicals at the same instant with no leader (DIV-007, DIV-021, [magic](../setting/magic.md)). Three years at close range against the fastest, cleanest technician in the castle have made Harry a reader, because against her, waiting for the spell to exist is already too late. Krum is a professional and his form is the most drilled thing about him, so he is beautifully legible; Harry has never cast anything clean in his life and cannot be read at all. The better Krum is, the more Harry sees coming.
+- **And the finish it implies, which the author is *not* sold on.** Harry does not block — he spoils the draw, so the other man's spell arrives malformed or not at all. It half-works on her because she is too precise to be put off, and works outright on Krum because a drilled hand cannot change its mind halfway. Attractive because Krum is then beaten by his own excellence rather than diminished, and because Flitwick, who drilled clean form into the boy for three years, is in the stands watching him win by ruining other people's. **Parked as an option.**
+- Whatever replaces it has to show rather than tell, which is the whole point of the change (DIV-090).
+
+### Q-124 · The gold, and the Diggorys (DIV-089, DIV-062)
+
+Harry tries to give them the thousand Galleons. Not a canon beat — ours. It is the only thing he has for them besides the body, he knows what it is worth, and the attempt is for his own conscience as much as for them, which is what makes it ambiguous rather than sweet.
+
+Open: whether they take it. Canon routes the money to Fred and George dressed as an investment, at Dracaena's suggestion (DIV-062), so the simplest chain is that Amos refuses and the twins get it — which preserves the canon destination and makes the offer a failure Harry has to live with. Whether Amos refuses out of grief, pride or dislike is the part that decides how B5's Ministry hearing feels.
+
+### Q-125 · What the school saw, and what B5 does with it (DIV-089, DIV-088, DIV-090)
+
+The maze is relayed, so several hundred people watched Harry beat the Durmstrang champion, then beat Cedric Diggory, then vanish with him — and then watched a dead relay. Nobody thinks he killed him; they saw both boys go. But the year that follows is built on nobody believing Harry, and the whole school has footage in its head.
+
+- **The DA gets its premise for free.** In canon Hermione has to relay a compliment from Bulgaria to persuade him he can teach. Here nobody needs persuading, and her problem is that he refuses.
+- **Umbridge gets a motive she lacks in canon.** She shuts the Duelling Club in her first week (DIV-028) not out of generic repression but because the school has seen what it produced, and it is the one room in the castle where Potter is demonstrably right about something.
+- **Rita was in the building,** and so was Amos Diggory, who watched his son lose to Harry minutes before his son died.
+- Open: how much of this is on the page, and whether it makes B5's isolation harder to write or sharper.
+
+### Q-126 · The flying lesson: the cast, and what happens in the air (DIV-091)
+
+Settled that Hooch calls the session, that it is an exhibition rather than a contest, that nobody duels, and that the one result it produces is who follows Krum down.
+
+Open: who is on the lawn besides Harry, Dracaena and Krum — Cedric and Cho are the obvious ones, and Cho is a rival only in Dracaena's head (DIV-041) — what the first years are actually taught, and whether Fleur attends at all, since she is the one champion outside the flying fraternity and the first out of the maze.
+
 ## Answered
+
+### Q-115 · The shared victory, and how Cedric dies (DIV-087, DIV-089)
+
+*Answered: there is no shared victory. The Goblet never gets two claimants, so it never needs a rule for them.* Recorded in **DIV-089**.
+
+- **The maze is an elimination.** Cedric beats Fleur, Harry beats Krum, and Harry beats Cedric in front of the Cup. Canon's Harry does not especially want to win; ours does, and so do the other three, because all four know what the prize is.
+- **Cedric dies as the spare, and the margin is an inch.** Beaten, he Summons the Cup from the ground; Harry takes it out of the air; Cedric catches his leg. The Portkey carries whoever is touching, the charge goes to whoever claimed, and Cedric had a hand on an ankle rather than on a handle.
+- **Both parked options are retired.** *Necessity* (the tie splits and Cedric's half must be released) made the murder a step in a recipe. *The impasse* (the Goblet refuses a tie, both boys refuse to fight, Voldemort resolves it impatiently) made the climax of a ten-month plot happen *to* Harry. The duel keeps the impasse's rule — one claimant — and moves the authorship to the boys.
+- **What it costs Harry is the point.** He wins because he wanted to, wearing her ribbon, in front of the whole school, and the gold he offers the Diggorys afterwards is the only thing he has besides the body (Q-124).
+- **Cedric is not diminished.** He loses to a better duellist, refuses to stop, and his echo congratulates Harry before asking to be taken back to his father — which is him accepting that he lost.
+
 
 ### Q-111 · The Mark, Dracaena and the fire (DIV-080, DIV-015, Q-027)
 

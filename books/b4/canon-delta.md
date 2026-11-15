@@ -84,14 +84,14 @@ Not beats, but true all through the book:
 | # | Canon beat | Verdict | Our version / notes | Refs |
 |---|---|---|---|---|
 | 38 | Third Task preparation; Moody drills Harry on hexes; Molly and Bill come up for the Task and Harry shows them the grounds | **keep, extended** | Dracaena joins the tour, on his arm, trying to look detached. Bill is charmed; it's what he reports that night | DIV-058 |
-| 39 | Third Task: the maze, the sphinx, Krum under the Imperius Curse, and Cedric and Harry taking the cup together | **alter** | Krum is never Imperiused and Fleur is never Stunned: Crouch cannot afford to act in front of a crowd, and his only act is the Portkey, set before the maze is sealed. Both get honourable exits and Harry wins on merit. The maze has to be designed rather than inherited: Q-118. Relayed, so the school watches | DIV-086, DIV-087, DIV-088, Q-118 |
-| 40 | The graveyard: Cedric killed, Harry bound and bled, Voldemort returned, the circle, the duel, Priori Incantatem, and the escape with the body | **alter** | The charge lands in Harry when the victory resolves and is drawn out of him for the ritual: the strongest he will ever be, arriving while he is bound to a headstone and useless. Voldemort gains a body and nothing permanent. **How the shared victory resolves, and so how Cedric dies, is parked: Q-115.** Lucius's window is in here (DIV-057) | DIV-087, DIV-057, Q-115 |
+| 39 | Third Task: the maze, the sphinx, Krum under the Imperius Curse, and Cedric and Harry taking the cup together | **alter** | **The maze is an elimination and it herds.** All four want the pot, so Cedric beats Fleur, Harry beats Krum outright and hard, and Harry and Cedric fight in front of the Cup. Nobody is Imperiused or Stunned offstage; nobody dares yield, because nobody knows where the Goblet draws its line. Harry wins the last duel fair, wearing her ribbon. Relayed, so the school watches every bit of it. How he beats Krum: Q-123. The maze's remaining furniture: Q-118 | DIV-086, DIV-087, DIV-088, DIV-089, DIV-090, Q-118, Q-123 |
+| 40 | The graveyard: Cedric killed, Harry bound and bled, Voldemort returned, the circle, the duel, Priori Incantatem, and the escape with the body | **alter** | The charge lands in Harry when the victory resolves and is drawn out of him for the ritual: the strongest he will ever be, arriving while he is bound to a headstone and useless. Voldemort gains a body and nothing permanent. **There is no shared victory.** Cedric, beaten, Summons the Cup; Harry takes it out of the air; Cedric catches his leg. Touch is not claim, so Cedric arrives as the spare over an inch. Both think the Task is still running, because the charge has not settled. The echo asks for two things: take him back to his father, and well done. Lucius's window is in here (DIV-057) | DIV-087, DIV-089, DIV-057, Q-121 |
 | 41 | Moody is Barty Crouch Jr; the Veritaserum confession | **alter** | Crouch rides him too hot in Dumbledore's office and Moody throws him out — the hand on the wand wavers, and that is what saves Harry. The trunk holds a sleeper, not a prisoner; Snape's antidote brings him round, and the confession carries the exposition as it does in canon | DIV-086 |
 | 42 | Dumbledore's office: Harry gives his account | keep | He tells it once, here, and Dumbledore will not let him be asked again | DIV-058 |
 | 43 | The hospital wing: Fudge refuses the story, Snape shows his Mark, Dumbledore sends out the Order, and Fudge and Dumbledore break | **alter** | Dracaena is in the room and does not leave it. The order changes: Harry sleeps first, and Fudge's row wakes him. Harry keeps Lucius's name back, and she sees him do it; she defends Harry to the Minister's face. **Fudge takes Crouch into custody and has him Kissed days later,** at the Ministry, destroying the one witness who could corroborate Harry — which is where B5's campaign starts, and which Dumbledore, who let him be taken, owns | DIV-047, DIV-058, DIV-008, DIV-086 |
 | 44 | The Leaving Feast; Dumbledore's speech about Cedric; the Durmstrang party leaves | keep | | |
 | 45 | On the train, Draco, Crabbe and Goyle ambush the compartment and are hexed flat by all three | **cut** | The last train scene is Ron's confrontation and Lucius at King's Cross. Dracaena is not ambushing anyone this year | DIV-063, DIV-057 |
-| 46 | Harry forces his thousand Galleons on Fred and George to be rid of them | **alter** | He gives them the gold dressed as an investment so their pride survives it. The framing is Dracaena's idea. He never means to collect; they insist on repaying him anyway, and settle on free products for life | DIV-062 |
+| 46 | Harry forces his thousand Galleons on Fred and George to be rid of them | **alter** | **He tries the Diggorys first** — the only thing he has for them besides the body, and he knows it (Q-124). Then the twins: the gold dressed as an investment so their pride survives it, which is Dracaena's framing. He never means to collect; they insist on repaying him anyway, and settle on free products for life | DIV-062, DIV-089, Q-124 |
 
 ## New beats
 
@@ -99,7 +99,9 @@ Beats with no canon equivalent.
 
 | Beat | Where it goes | Refs |
 |---|---|---|
-| The visiting students join the Duelling Club | Autumn, after 30 October | DIV-028 |
+| The visiting students join the Duelling Club, Krum among them, because he is curious about Harry | Autumn, after 30 October | DIV-028, DIV-090 |
+| The weighing of the wands: Harry asks Krum why he ended a match Bulgaria was losing. *"Captain told me to."* A pause. *"And I agreed."* | Early November, before the First Task | DIV-066, DIV-090 |
+| Hooch's flying lesson: a special session for the first years with a world-class player in the castle. An exhibition, not a contest, and nobody duels | A few months into the year | DIV-091, [the-flying-lesson](../../scenes/b4/the-flying-lesson.md), Q-126 |
 | The Durmstrang challenger: Harry beats a rival for her attention, too hard, and Rita gets her ammunition | Between the arrival and the Ball | DIV-029, [durmstrang-challenger](../../scenes/b4/durmstrang-challenger.md) |
 | Her owls home; Lucius suspects, Narcissa confirms it and takes Harry's side; the green dress | December, before the Ball | DIV-040, [the-green-dress](../../scenes/b4/the-green-dress.md) |
 | Rita prints that they went to the Ball together | Right after the Ball | DIV-040 |
@@ -109,6 +111,7 @@ Beats with no canon equivalent.
 | At the lake she clings to him, berates him, shoves Fleur off and kisses him in front of the school | Second Task | DIV-038, [second-task](../../scenes/b4/second-task.md) |
 | Fleur's three days: the test, then the pantomime that hands Dracaena a public win | The three days after the Second Task | DIV-037, DIV-038, [the-little-basilisk](../../scenes/b4/the-little-basilisk.md) |
 | She ties a ribbon round Harry's wrist before he enters the maze — a charm for her brave knight | Before the Third Task | DIV-058 |
+| The duel in front of the Cup, watched by the whole school. Amos Diggory watches his son lose and then vanish, and the relay goes dead | Third Task | DIV-089, DIV-088, [the-third-task](../../scenes/b4/the-third-task.md), Q-125 |
 | In the graveyard, unseen, Lucius Summons the ribbon back and Stuns Avery to open Harry a way out | The graveyard | DIV-057 |
 | The hospital wing: Sirius shoves her to the bedside, Dumbledore shelters her, she guards Harry all night | The night of the Third Task | DIV-058, [the-hospital-wing](../../scenes/b4/the-hospital-wing.md) |
 | The night terrors; the paper snake; the Malfoy room; her failed potion and her lap. He finds her hoard | The last nights of term | DIV-059, DIV-060, DIV-061, [the-malfoy-room](../../scenes/b4/the-malfoy-room.md) |
@@ -130,8 +133,10 @@ Beats with no canon equivalent.
 - **Beat 29** — where she gets the gillyweed, and what becomes of Dobby's errand (Q-051).
 - **Beat 30** — Ron without the hostage spot (Q-010).
 - **Beat 11a** — Harry's reaction to watching her bounced, this early in the book, and what Lucius does about an Auror assaulting his heiress (Q-117).
-- **Beat 39** — the maze has to be designed rather than inherited, now that Crouch does nothing in it (Q-118).
-- **Beat 40** — **the big one, parked for a session of its own:** how a shared victory resolves, and so how Cedric dies (Q-115). Whether Harry is ever told (Q-121).
+- **Beat 39** — exactly how Harry beats Krum, which has to come out of the Duelling Club years rather than out of Moody's lessons (Q-123). What fills the maze between the eliminations, now that the fights carry the Task (Q-118).
+- **Beat 40** — whether anybody tells Harry about the inch, and whether it would help or finish him (Q-121).
+- **Beat 46** — whether the Diggorys take the gold, and what Amos's refusal is made of (Q-124).
+- **Standing, new** — what the school did with having watched all of it, and what B5 does with that (Q-125). The flying lesson's cast and content (Q-126).
 - **Standing** — the clue chain that replaces canon's flask and tongue (Q-114); what Crouch teaches Harry through Moody, and what our own rules say it costs him (Q-116); whether the spectators feed the Goblet (Q-119); past champions worth naming and why the Tournament was abolished (Q-120); how the charge's absence sits in B5 without explaining Harry's anger away (Q-122).
 - **Beat 33** — Rita's post-Task coverage (Q-052).
 - **Beat 14** — how much of S.P.E.W. survives and whether the knitted hats do (Q-093); who the castle's household is, and so whether the hats could ever have worked at all (Q-099). Winky's exact placement, where she is buried and what the marker says, and what her canon role as the witness to Crouch's secret was carrying (Q-094). Why nobody's grief saves her, Hermione's included (Q-093). Where the "better master" scene sits and whether Hermione is in the room for it (Q-098).
