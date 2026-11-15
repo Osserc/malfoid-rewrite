@@ -46,7 +46,7 @@ Pays off the Dementor garrison that has hung over the whole book, turns Harry's 
 - The fight is short.
 - The fire spares the grass.
 - The laughter, and the flat denial afterwards.
-- She spends the entire vial on this one casting. There is no second one unless she burns more people (Q-113).
+- She spends the entire vial on this one casting, and never makes another — the grounds are deep in the material all summer and she lets it go (Q-113).
 - Fudge loses the prisoner, the hippogriff and the garrison in one night and answers with a hearing.
 
 ## Open

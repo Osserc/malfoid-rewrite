@@ -665,19 +665,20 @@ Written down as the consequence that follows from DIV-080, not as a settled beat
 
 ### Q-112 · Hermione's Lustrum research in B4 (DIV-080)
 
-She hears the incantation shouted at the siege, or hears it repeated afterwards by somebody who did, and that is a lead she can actually chase — unlike the necklace, which went nowhere in B3. In B4 she gets at it through the Restricted Section, with Flitwick's permission and supervision.
+She hears the incantation shouted at the siege, or hears it repeated afterwards by somebody who did — a solid lead, unlike the necklace, which went nowhere in B3. In B4 she gets at it through the Restricted Section.
 
-- **Why he helps.** He would rather choose which true thing she walks away with than have her guess or go round him, and he knows by now that she does not take no for an answer. Echoes the Dessendre material and Dracaena's line there (DIV-072).
-- **He is not heading off a wrong idea.** Her guess would be that McGonagall is a Dark witch, and under the mechanism that is approximately correct. He is managing a truth.
-- **Open:** where it sits in a crowded book, how much of the origin surfaces, and what she does with knowing. B4 would then carry both spell reveals — *Arceo* through the Pensieve (Q-108) and Lustrum through a library — which is either a deliberate pairing or too much for one book.
-- **Its destination** needs naming or the subplot is decoration. Current lean: B7, Q-111.
+**Two sources, and only one of them is handed to her** *(direction)*:
 
-### Q-113 · Does she have a vicewick in B7? (DIV-080)
+- **The spell.** Flitwick writes her the slip and points her at the book that names it. He does not walk her through anything; he knows she does not take no for an answer and would get at it some other way, probably a worse one.
+- **The vicewick she finds herself,** and not in that book. He says nothing about it, because nobody knows Minerva used one and he is not going to be the one who says so. The lean is an oblique reference in something else entirely — a work on magical substances — which Hermione reads sideways and joins up. That is the version that shows what she actually is.
 
-She spends the only one in existence at the siege in June 1994, and the urn it was distilled from is empty. A second one needs fresh ash, which needs a fresh casting.
+**Where it pays off: B7** *(the author's, direction)*. They have the locket and no way to destroy it (DIV-049). Hermione rattles off every option she has, Lustrum among them, and — being what she is — the vicewick too, and says she learned of it in fourth year. Harry joins it to *Arceo*, which he learned in the same year from the Pensieve (DIV-084, Q-108), and proposes the Manor: a house whose holdings already produced one forgotten ancient working. It gives him his pretext for going, on top of the one he already has (DIV-049).
 
-- The Hogwarts grounds were covered in it that night and cordoned off pending a Ministry decontamination over the summer, so there was a window.
-- If she has none in B7, her constraint there is absolute rather than tactical, and "she still casts, precisely and small" means raw castings at a houseful's scale.
+- **It answers Q-064** — what they think is at the Manor that could destroy a Horcrux. That hole has been open since DIV-049 was settled.
+- **It retroactively justifies the B4 pairing.** Both spell reveals sit in one book because one B7 conversation spends both.
+- **The shape to settle.** The power gate says a Horcrux cannot be burned: you would get the man and not the thing in him (DIV-080). So either Hermione does not know that limit yet, or she does and the question is whether a large enough vicewick closes it. The second is stronger — it states the rule to the reader four books after it was seeded, in the one scene where it matters, and the uncertainty is what sends them to the Manor.
+- **What they are actually after** is open (Q-064). A vicewick needs rendered Lustrum ash, which the Malfoys would have no reason to hold — unless they kept what was left of their own dead, which is a possibility rather than a proposal.
+- **The thing nobody says.** If the gate is stated out loud in that room, Harry is a vessel, and Hermione is the one who could work it out (Q-111).
 
 ### Q-109 · Dracaena and Umbridge (DIV-085, DIV-084)
 
@@ -709,6 +710,16 @@ Still open:
 
 ## Answered
 
+### Q-113 · Does she have a vicewick in B7? (DIV-080)
+
+*Answered: no, and it is a choice rather than an accident.* She spends the only one in existence at the siege in June 1994, and the urn it was distilled from is empty.
+
+- **The material was there.** The grounds were covered in it that night and cordoned off pending a Ministry decontamination over the summer, so she had a window and walked past it daily.
+- **She lets it go.** She has now seen what she is capable of with one. At the siege she happened to have a clear sight of the enemy and nobody of hers inside the burn, and she has no reason to expect that twice; what she does have is the pull of being able to do it indiscriminately. So she does not cash in — the one time in her life she chose not to arm herself, against twelve years of keeping the urn.
+- **So B7's constraint is absolute,** not tactical: raw castings at a houseful's scale, precisely and small (DIV-023).
+- **It may never reach the page,** since we rarely have her POV. Carried as character fact unless a line turns up for it.
+
+
 ### Q-104 · What sets Lustrum's price? (DIV-079, DIV-080)
 
 *Answered: the caster's own Dark residue is the fuel, and it never runs out.* Recorded in **DIV-080**.
@@ -724,7 +735,8 @@ Still open:
 
 - A Horcrux and an Inferius are Dark magic and nothing else, so the fire catches on them perfectly well. Sacred fire burning undead is what a reader expects, and the earlier "invisible to it" proposal is **struck** for refusing it on a technicality.
 - **It cannot consume work done by a greater wizard.** It burns the vessel and leaves the thing inside: you would get the man and not the thing in him.
-- Nobody on our side outranks Voldemort, so the Horcrux hunt is untouched, no Inferius he raises can be put down this way, and **DIV-025 stands** — Neville's job is still necessary, and now because she is outmatched rather than because the spell cannot see.
+- **The gate is power invested in one piece of work, not category.** An Inferius is cheap per unit and burns readily; a Horcrux or a great Dark artefact is not. Nobody on our side outranks Voldemort, so the Horcrux hunt is untouched.
+- **DIV-025 stands for a different reason than I first wrote.** Neville's job survives not because the fire cannot touch the Inferi but because she cannot put a Lustrum down in a hall full of her own people. A wall of it behind him is a live candidate; whether she has the time is the scene's problem.
 - The ugly corollary is deliberate: someone could propose burning Harry to get at what is in him, and the answer is that it would kill him and fail (Q-111).
 
 
