@@ -54,6 +54,8 @@ The spell's rules live in [magic](../setting/magic.md). What belongs to her:
 
 Clipped, exact, Scottish. Under fire she gets shorter and politer, and the politeness is the warning sign. Her taunts are courteous ("Would that you had been in the field") and land harder for it.
 
+**The Macnair line has a second floor** *(settled)* · DIV-084. She tells him she wishes he had been out there with the Dementors she has just burned. It reads as a schoolmistress being vicious. It is a reference: **he was**. He led that horde for Voldemort, and the two of them know it, and he walked into Ministry service for it while she was told to stop asking. That is why he is afraid of her, and it is the engine under her objection to the garrison — she did not merely lose the extermination argument, she watched the man who aimed them at her get a desk.
+
 ## Arc by book
 
 | Book | Beat |

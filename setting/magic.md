@@ -45,7 +45,19 @@ A cousin of Fiendfyre. Where Fiendfyre destroys everything, **Lustrum burns what
   - **Some went over to Voldemort and some did not.** Azkaban kept running on a reduced contingent, which is why the prison needs no explaining away, and his side gained a real force. It also removes canon's worst piece of timing.
   - **The ones who stayed were never loyal.** Azkaban's despair is a particular vintage — concentrated, renewable, served daily — and they had acquired a taste for it. They are gourmands, which is worse than traitors, and it is the heaviest single charge against the place: the things that guard it prefer it.
   - **The defectors** were hunted. McGonagall and others like her destroyed a great many, and the remnants were put back in Azkaban, because they are an asset.
-- **The leash** *(draft)* · DIV-084. What put them back, and what holds them now, is a Death Eater spell handed to the Ministry after the war in exchange for an amnesty. It works — so Fudge's B5 claim that they cannot leave Ministry control is true rather than a lie, and the people whose magic it is can take it back. Whose lore: Q-108. Policy and consequences in [azkaban](../problems/azkaban.md).
+- **The leash** *(settled)* · DIV-084. What put them back, and what holds them now, had three lives.
+  1. **A Malfoy ancestor's defence.** Ancient, clean, and kind: it gets under a Dementor's skin and makes it want to be elsewhere. A way to push them off a house, off a road, off a child.
+  2. **Macnair's collar.** In the first war Lucius brings the find to Voldemort and Macnair turns it round — the same magic saying *come here* instead of *go away*. He led the horde with it.
+  3. **The Ministry's two purchases.** The clean original from Lucius, as the price of the Imperius story being believed, which it now uses openly and extensively — human guards at Azkaban, habitable Ministry buildings, and in B3 the thing the Hogwarts garrison was meant to be held off the students with. And Macnair himself, as the only defector who can work the cursed version.
+  So the Ministry's hold is one employee, and Fudge's B5 line is wrong rather than false (DIV-085). Policy in [azkaban](../problems/azkaban.md).
+
+## Dark Magic runs on intent *(draft)* · DIV-084
+
+Canon's own rule, never stated as one: the curse that tortures does not work on righteous anger, only on genuinely wanting to cause pain. We make it general. **Dark Magic is powered by what the caster wants, not by what the caster knows.** Technique helps; appetite is the requirement.
+
+- **It explains Macnair.** A brute with no scholarship takes a defensive spell and makes it a yoke, because the only qualification was wanting it that way. It is also why nobody decent ever found the trick: you have to want it first, and most people never do.
+- **It explains Umbridge** doing the same thing twelve years later with no more training than he had (DIV-085).
+- **It is not a licence.** Power still runs in lines ([society](society.md)) and the Dark Arts still crack the seal and let ambient magic in, at a price (Q-027). Intent decides whether dark magic *takes*, not how strong you are.
 
 ## Love as magic
 

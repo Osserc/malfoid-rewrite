@@ -23,9 +23,11 @@ _Marauders era, the first war. Not yet worked out._
 - **1980-06-05**: Dracaena born (canon default: Draco's birthday). DIV-001
 - **1980-07-31**: Harry born.
 - **During the war**: the Dementors split. Some go over to Voldemort; the rest stay in Azkaban, not out of loyalty but because they have developed a taste for what it serves. The prison runs on a reduced contingent throughout. DIV-083
+- **During the war**: Lucius brings an ancient Malfoy defensive spell — built to push Dementors *away* — to Voldemort. **Macnair turns it into a collar** by wanting it to, which takes no scholarship and the right appetite, and leads the horde with it for the rest of the war. McGonagall hunts that horde and knows whose it was. DIV-084
 - **1981-10-31**: The Potters are killed; Voldemort falls.
-- **After the fall**: the surviving defectors are hunted — McGonagall and others destroy a great many — and the remnants are put back in Azkaban rather than finished, because they are an asset. What puts them back is **the leash**, a Death Eater spell traded to the Ministry for an amnesty, operated ever since by Macnair. The Ministry's hold on the Dementors is therefore real, recent and borrowed. Whose lore the spell is: Q-108. DIV-083, DIV-084
-- **Early 1980s**: Lucius escapes Azkaban by claiming the Imperius Curse (canon). A Death Eater still at large tries to curse him for it and hits Narcissa, who can never have another child. DIV-030
+- **After the fall**: the surviving defectors are hunted — McGonagall and others destroy a great many — and the remnants are put back in Azkaban rather than finished, because they are an asset. What puts them back is the collar. DIV-083, DIV-084
+- **Early 1980s**: Lucius escapes Azkaban by claiming the Imperius Curse (canon) — and by selling the Ministry the original Malfoy spell, which it accepts and now uses openly. **Macnair** enters Ministry service in the same settlement, as the only defector who can work the cursed version. Dracaena will grow up with the Imperius story and nothing else. DIV-084, Q-109
+- **Early 1980s**: a Death Eater still at large tries to curse Lucius for the Imperius claim and hits Narcissa, who can never have another child. DIV-030
 - **Soon after the curse**: Snape starts brewing Narcissa's medicine, which holds the curse at bay without lifting it. DIV-030, DIV-031
 - **c. 1985**: Dracaena, about five, meets Snape at the Manor and asks to learn to brew her mother's medicine. He sends her one of his old potions books; private lessons follow until Hogwarts. DIV-031
 - **Mid-1980s**: Harry secretly watches *Sleeping Beauty* from behind the Dursleys' living-room door. DIV-009
@@ -85,6 +87,7 @@ _Marauders era, the first war. Not yet worked out._
 
 ## B5 · 1995–96
 
+- **1995-08**: Umbridge sends Dementors to Little Whinging. She has picked up the collar herself, since Macnair went back to Voldemort at the graveyard; Fudge, at Harry's hearing, insists the Dementors cannot leave Ministry control and has no idea his hold changed hands twice in a year. DIV-084, DIV-085
 - **1995-09**: Umbridge shuts down the Duelling Club, one of her first acts. DIV-028
 - **1995-11**: the first match. Harry steals it off her lead, she kisses him on the pitch, Harry and George beat Montague for what he says about her, and Umbridge bans them and Fred for life. DIV-066, DIV-067, [the-pitch-kiss](../scenes/b5/the-pitch-kiss.md)
 - **1995–96**: Lucius meets Voldemort regularly, never at the Manor, and tells him he has planted his daughter as a spy. DIV-020

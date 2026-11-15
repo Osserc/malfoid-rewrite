@@ -24,12 +24,13 @@ Canon also has them loyal to the Ministry straight through the first war and def
 - Dementors can be destroyed: a dangerous creature, not a fixture of the universe, and huntable the way canon's wizards hunted the British giants. Lustrum is McGonagall's method, not the only one (DIV-080).
 - The Ministry knows it and keeps them regardless, because they are useful.
 - **They split in the first war** (DIV-083). Some defected; the rest stayed because they had developed a taste for what Azkaban serves. Not loyalty — appetite. The defectors were hunted, and the remnants put back in their cells.
-- **The leash** (DIV-084). What put them back is a Death Eater spell, traded to the Ministry after the war for an amnesty, operated since by Macnair. So the Ministry's hold on the Dementors is real, recent, borrowed, and revocable by the other side — and Fudge's line in B5 about Ministry control is not a lie but the truth, which is far worse for him.
+- **The leash** (DIV-084). It began as a Malfoy ancestor's defensive spell — clean magic for pushing Dementors away from a house or a child. Macnair turned it into a collar during the war by wanting it to, and led the horde with it. Afterwards the Ministry bought the clean original from Lucius, as the price of the Imperius story, and took Macnair into service as the only man who could work the other one. So the Ministry's hold is not an institution, it is an employee — and Fudge's B5 line about Ministry control is not a lie but a thing that stopped being true at the graveyard without anyone telling him.
+- **Umbridge takes it up** (DIV-085). She finds the clean spell in the course of her work and is the second person willing to want it the wrong way round, which is how the Ministry's hold survives Macnair going back, and how Little Whinging happens.
 - We start tackling this in B3, with the garrison, the siege and Fudge's reaction to losing it ("precious manpower").
 
 ## Open
 
-- **Whose lore the leash is** (Q-108). The spell is Death Eater work — that is settled and it is the point. Who made it is open; Claude's recommendation is the Malfoy cellar, traded by Lucius for his own freedom, with the repetition risk against DIV-075 written up there.
+- **What Dracaena does with it** (Q-109, back pocket). She does not know about her father, and she is in the room in B5 when Umbridge boasts about the Dementors.
 - **Where it lands.** B3 opens it; B5 is where Fudge's claim about Ministry control turns out to be true and therefore damning. Whether the series resolves Azkaban, and how, is unplanned.
 - **The Kiss.** Still on the table as a sentence in B3 (Sirius). Untouched so far.
 
@@ -39,4 +40,4 @@ _Open._ DIV-080 settles the mechanics; the policy and its fate are not yet decid
 
 ## Ripples
 
-Q-016, Q-103, Q-104, Q-108 · DIV-079, DIV-080, DIV-081, DIV-083, DIV-084 · [core/themes.md](../core/themes.md) · [setting/society.md](../setting/society.md)
+Q-016, Q-103, Q-104, Q-109 · DIV-079, DIV-080, DIV-081, DIV-083, DIV-084, DIV-085 · [core/themes.md](../core/themes.md) · [setting/society.md](../setting/society.md)

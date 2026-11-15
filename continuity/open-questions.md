@@ -660,22 +660,21 @@ The fire always takes its cost out of the caster. Does the cost scale with the *
 
 If it is the latter, the price is roughly fixed per cast and set by her own account — which decides how many times she can cast in B7, and implies her scars should have been getting lighter across sixteen years. Either they are, and that is an arc, or they are not, and that says something about what she has kept adding.
 
-### Q-108 · Whose lore is the leash? (DIV-084)
+### Q-109 · Dracaena and Umbridge (DIV-085, DIV-084)
 
-The spell that holds the Dementors is Death Eater work, which is the whole point: Voldemort can take it back. Settled. **Who made it is not.**
+*Back pocket. Parked by the author, not being worked.*
 
-Not Voldemort himself — the author's call, and right: spreading the infamy makes the other side a movement rather than one man with hobbies.
+When Dracaena learns that Umbridge sent Dementors to kill Harry, she will want her dead. The question is what we do with that.
 
-Not Macnair. He is a brute. He swings the axe and works the leash; he does not invent dark magic, and giving him the authorship would flatten the only thing that makes him interesting.
+**The reveal needs no engineering — canon has already blocked it.** In B5 Umbridge admits to sending the Dementors in her own office, in front of the Inquisitorial Squad, and canon puts Draco in that room. So Dracaena is standing there when it is said, by her own Squad badge, which she only ever took as a toy (Q-070). She hears a Ministry official boast of trying to murder him, and she is wearing that Ministry's badge at the time.
 
-Candidates:
+Options, undecided:
 
-- **Ancient Malfoy lore, out of the cellar — and traded by Lucius, not Macnair.** *(Claude's recommendation.)* Canon has Lucius walk free in 1981 on an Imperius claim that has always been thin; give him something to sell and the thinness goes away. It explains why a Ministry that had just learned it had no hold on the Dementors would take a Death Eater's bargain at all. It makes Dracaena's father the reason Azkaban still works, which lands the Azkaban argument on the one person in the series it can hurt — and it stacks with Dobby and Buckbeak as the third and heaviest item in the case against him (Q-098, DIV-076). Very Lucius: he sells the method and keeps the original. And Voldemort does not need to burgle the Ministry in B5–B7, he needs the Malfoys, which gives him a reason to be at that table beyond humiliation.
-  - **The risk, and it is real:** DIV-075 already makes the old houses custodians of an atrocity they did not author. A second one is a rhyme if we mean it and repetition if we don't. The defence is that this one they *did* author, and it is recent enough to answer for.
-- **Bellatrix.** The bitter version: she built the thing that held her own jailers. But she is a weapon, not a researcher, and she is too young for anything that reads as old lore.
-- **Someone new.** Costs a character slot to serve a backstory function. Only worth it if we want a face for the Azkaban problem specifically.
+- **Instead of the centaurs.** Canon sends Hermione and Harry into the Forest and lets the herd take her. Replacing that with Dracaena is a large swap and the author has not chosen it.
+- **In addition.** The Forest happens as canon has it, and what Dracaena does with the knowledge lands later or elsewhere.
+- **Neither, and it is only pressure.** She wants to and doesn't, which is its own scene.
 
-Downstream either way: it has to be something Wormtail could know about from the inside.
+Downstream either way: it is the first time her own side tries to kill him on the record, and it sits next to what she does not yet know about her father (DIV-084).
 
 ### Q-106 · The siege and Snape's Patronus (DIV-081, DIV-043)
 
@@ -690,6 +689,18 @@ Still open:
 - Harry must not see it either way.
 
 ## Answered
+
+### Q-108 · Whose lore is the leash? (DIV-084)
+
+*Answered: ancient Malfoy lore, and nobody we know made it.* Recorded in **DIV-084**.
+
+- **Lucius found it; he did not write it.** He is a logistics man, which the bible already says, so authorship would have been out of character. It is ancestral magic in the family holdings, so old nobody remembered what it was for.
+- **It was a defensive spell, and a decent one** — a Malfoy ancestor's way of making Dementors want to be elsewhere. That it began as a kindness is the whole point.
+- **Macnair cursed it**, on hearing Lucius describe it, by wanting it to mean the opposite. Dark Magic runs on intent, so a brute with the right appetite needed no scholarship. It gives him something to be besides an axe without making him the linchpin.
+- **The Ministry bought two different things**: the clean original from Lucius, as the price of the Imperius story, and Macnair himself, as the only man who could work the cursed one.
+- **Delivery:** the B4 Pensieve, alongside Karkaroff. Dracaena has only the Imperius story.
+
+Struck: Bellatrix (a weapon, not a researcher), and a new character (a slot spent on backstory).
 
 ### Q-105 · Did Dementors defect in the first war? (DIV-080, DIV-083)
 

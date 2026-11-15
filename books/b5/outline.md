@@ -25,7 +25,9 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 - Dracaena is dreaming: happy with Harry, "keeping tabs on him" (Lucius's strategy), with the Inquisitorial Squad as cover. DIV-013
 - From April, when the Squad forms (canon), she takes Harry to Hogsmeade on Squad "errands": their secret dates. He picks her perfume. DIV-013, [the-pear-perfume](../../scenes/b5/the-pear-perfume.md)
 - Lucius tells Voldemort he has planted his daughter as a spy. DIV-020
+- Before term: Umbridge sends the Dementors to Little Whinging. She works the collar herself, having picked it up when Macnair went back to Voldemort, so Fudge's insistence at the hearing that Dementors cannot leave Ministry control is wrong rather than dishonest. DIV-084, DIV-085
 - Early on, Umbridge shuts down the Duelling Club, one of her first acts. DIV-028, [duelling-club](../../threads/duelling-club.md)
+- *(open)* Her office, late in the year: Umbridge boasts of sending the Dementors with the Inquisitorial Squad in the room, and canon puts Dracaena in that room. What she does with it: Q-109
 - The first match: Harry steals it off her lead and she kisses him on the pitch anyway. Montague calls her a blood-traitor, Harry and George beat him for it, and Umbridge bans them and Fred for life. DIV-066, DIV-067, [the-pitch-kiss](../../scenes/b5/the-pitch-kiss.md)
 - She plays the rest of the season angry, with Harry in the stands. Gryffindor win the final and Ron comes good, but Slytherin take the Cup on aggregate: her first Cup, won without ever beating him. DIV-066, DIV-067, [quidditch](../../threads/quidditch.md)
 - *(draft)* Some Slytherins join the DA, one of them a friend of Dracaena's. DIV-055, [house-unity](../../threads/house-unity.md)
