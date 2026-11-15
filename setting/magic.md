@@ -20,6 +20,85 @@ Time-Turners do not exist. Whether any other time magic exists: Q-004.
 
 Canon's portraits are unchanged: echoes with manners, not people. The one exception is the extinct Dessendre line, whose ancestral gift made paintings that were genuinely alive. Written out in [painted-life](painted-life.md).
 
+## Dementors, and Lustrum *(settled)* · DIV-080
+
+Canon gives no way to destroy a Dementor: a Patronus drives them off and that is the limit. Ours can be killed.
+
+### Lustrum
+
+A cousin of Fiendfyre. The incantation is *Lustra nefas* — "purify the sacrilege" — and the name is the Roman censor's rite, the purification performed over the citizenry at the close of every census. McGonagall's signature spell in the first war, and the reason the other side called her Hellfire ([her file](../characters/minerva-mcgonagall.md)).
+
+**The legend and the mechanism are two different things, and that gap is the whole design.** What everyone believes — including most of the few who have ever cast it — is that Lustrum is righteous fire: it weighs a person, burns what they owe, and spares the innocent. What it actually does is scorch everything Dark-touched inside the burn, in proportion, and nothing else. It makes no judgement of anybody. **It counts spells.**
+
+- **What it burns is Dark magic present in a person, however it got there.** The Dark Arts crack the soul and let ambient magic in (Q-027), and that is what catches. Working it is the commonest route in and not the rule: a curse someone else put on you leaves the same substance behind, which is why a wound dealt by Dark magic never properly heals. Not deeds, not character, not what anyone deserves.
+- **So it cannot tell a perpetrator from a victim.** It cannot tell a torturer from a man who hexed his neighbour either; it can only tell how much. An Auror who spent a career fighting Dark wizards and wears what they did to him burns hotter than a minister who has never been hit by anything in his life. **The war leaves marks on the good ones too, and the fire reads the marks.**
+- **The stain is on the casting, and the spell's design decides how easy the question is.** Dark magic runs on intent (DIV-084), so a spell built only to afflict — Furnunculus, the slug-vomiting curse, Locomotor Mortis — cannot be cast any other way, and casting it at all leaves something behind. A spell with uses that are not harm — Expelliarmus, Stupefy, Protego, Petrificus Totalus, Impedimenta — can be cast clean, though it need not be. There is no fixed register of Dark spells; there is only what the caster wanted, and most spells make that obvious.
+- **So nobody is clean, and small children are.** Every adult in Britain has thrown something in a temper, and so has every student above first year, which is why an ordinary person inside the burn is scorched rather than spared. A small child has had no opportunity and has had nothing done to them — not an innocent nature — and the fire finds nothing in one at all. Grass, trees and stone are untouched for the same reason, which is why the fire does not spread and nothing ordinary catches.
+- **The wounded are the most flammable people on a battlefield.** Cursed scars, a Dark Mark, a fragment of somebody else's soul: all of it catches, and none of it was the carrier's doing. There is no casual use of Lustrum anywhere near casualties, in any book.
+- **Dementors are nearly all of that substance,** which is why they go up like tinder, and why a powerful enough casting melts them to cinders.
+- **It leaves the Dark behind.** The fire runs on what it finds and destroys the person, so what remains of anyone burned is the worst of what they ever cast, concentrated, and it scalds whatever touches it for months. Lustrum absolves nobody and settles nothing. It inflicts a punishment, which is what the ancients meant by keeping it for a last resort.
+- **The caster has to be flammable too.** The fire needs something near at hand to catch on and takes it out of whoever cast it, on the spot. There is no way to cast it clean, and McGonagall's contribution is only that she stopped resenting the price and called it penance.
+- **Which leaves a window, and that is the safety catch.** **Too clean and it will not light: anyone who has never worked Dark magic cannot cast Lustrum at all,** so the admission ticket is having already crossed the line. **Too dirty and it kills you,** because the nearest fuel is the caster. The spell is castable only from a narrow band in the middle, and nobody designed that in as a sermon — it simply falls out of how the fire works.
+  - **The other side cannot use it.** Voldemort would be the pyre. So would Bellatrix, or Macnair, or any Death Eater worth the name. We never have to explain why they don't reach for the best area weapon in the country.
+  - **And it is a clock on whoever can.** Lustrum is itself Dark, so every casting deposits more and walks the caster towards the far edge of the window. No amount of casting ever empties anyone out; it only ever fills them. The sole warning is that the backlash keeps growing.
+- **The wounds are handprints.** Burns in the shape of a grip, as though a flaming hand had taken hold: a large one across the torso, smaller ones at the wrists and forearms. Enchanted dragonhide buys the first seconds and no more, which is why her jerkin is survivable and her arms are not.
+- **It cannot overcome magic stronger than the caster's.** The gate is about power invested in a single piece of work, not about category. An Inferius is cheap per unit and burns readily. A Horcrux or a great Dark artefact is not: the fire catches on it perfectly well and cannot consume it, so it burns the vessel and leaves the thing inside. **You would get the man and not the thing in him.** Nobody on our side outranks Voldemort, so no Horcrux of his can be burned out of anything — while his Inferi are stopped by the fact that she cannot use the spell in a room full of her own people, which is a different problem (DIV-025).
+- **It is a siege weapon, and an offensive one.** Slow, wide, telegraphed, and capable of incapacitating the caster; useless against anyone who can move or shield. It is something you drop on a position you do not occupy — which is why the war record is raids on houses and gatherings, and why a defender can almost never use it at all.
+- **It does not pick sides.** Everything inside the burn is scorched, allies included, and in a war everybody's hands are dirty, so her own squad is fuel. In a corridor, in a crowd, in a battle fought among your own students, that is the reason the spell stays in its sheath.
+- **Nobody knows what it is.** Not in the open stacks: Hermione finds nothing in B3, and gets at it in B4 through the Restricted Section, on a slip from Flitwick (Q-112). The vicewick she has to find for herself, elsewhere and sideways, because the few who know one was used are not telling. The Ministry regulates the incantation, which is how Fudge can call its use unauthorised.
+
+### Where it comes from
+
+**The legend.** Appius Februus, a Roman censor, more than two thousand years ago. The city he watched over fell to the Dark, so he cleansed it with his own hands — offering his own soul as the kindling and burning the whole citizenry along with himself. The first Lustrum left cinders everywhere and a city fit to be lived in again.
+
+**What actually happened.** The spell is older than Rome: an Etruscan working used by haruspices, which the Romans took and dressed in their own togas. Appius was real and committed no genocide. He burned a few dozen people and scarred a good many more — and he cast so often, in so short a span, that he walked himself out of the window. Each casting had deposited more in him than the last until he was too Dark to survive his own fire, and the records, which say he nearly lost his magic, have the shape of it and not the cause. He spent the rest of his days in obscurity. They also have him writing out his own *nota censoria* afterwards — the censor's mark against a citizen's name, entered on one man's judgement and not appealable — and setting it against himself, because reaching for Lustrum at all meant he had already failed at the job he actually held.
+
+- **The office is the argument.** A censor's defining power was to degrade a citizen on his own judgement with no appeal, and the lustrum itself was a scheduled civic purification performed every five years. The spell is named for the one magistracy in history whose entire business was unappealable verdicts on character — and it cannot deliver one.
+- **The cost was never a defect, and nobody has bred it out.** The ancients held that resorting to Lustrum meant something had already gone wrong and that it ought to stain whoever used it. It also happens to be how the thing works. Moderns have been trying to file the conscience off ever since, and the best anyone has managed is the vicewick.
+- **The *nota censoria* was accurate bookkeeping.** By casting as much as he had, Appius had made himself one of the people the spell is for, and he was the magistrate whose office it was to write that down. The origin story and the mechanism are the same story.
+- **How much of this reaches the page, and when:** Q-112.
+
+### The vicewick
+
+The small sun over the castle in B3 is not the spell alone. It takes an **enhancer**: an artificial fuel source, worn on the person, which offers the fire a nearer and richer meal than the caster is. It does not make Lustrum safe. It misdirects it — the caster still pays, and pays less.
+
+- **It is made of rendered ash.** What Lustrum leaves of the things it has burned is the one substance in the world that is nothing but Dark magic, so it is the only thing that will serve. An enhancer can therefore only exist downstream of a casting, and almost nobody alive can cast. That, rather than any regulation, is why there are no stockpiles. Dementor ash is the premium grade, being very nearly pure.
+- **The name is propaganda, like the spell's.** "Vicewick" says the thing holds a man's vices, which flatters the legend. What it holds is distilled ash.
+- **Flitwick is not a Dark wizard for making one.** He never practises Dark magic. He concentrates a residue and builds a vessel that presents it to somebody else's fire first — charms work, a sleight of hand rather than a corruption. His own verdict on it is that they have tamed the torture weapon. Sort of.
+- **Without one the spell kills a handful at a time** — a houseful, which is exactly the shape of McGonagall's war record. Hers is the first she has ever had, and what it is made of is hers: see [her file](../characters/minerva-mcgonagall.md).
+- **One is one.** McGonagall spends hers entirely at the siege and chooses not to make a second, so by B7 she casts raw (Q-113).
+- **Open:** whether remorse can mend what the Dark Arts crack, which canon allows and we have not decided (Q-110).
+
+### The Dementors
+
+- **They can be destroyed,** and the Ministry knows it. They are a dangerous magical creature, not a fixture of the universe: huntable, the way wizards hunted the British giants to nothing. Lustrum is McGonagall's method and the one the books show, not the only one there is. The Ministry keeps them anyway, because they are useful ([azkaban](../problems/azkaban.md)).
+- **They can be hurt.** A strong enough Patronus does real damage, and a wounded Dementor is a starving one. That is what turns Harry's Patronus at the lake into a siege (DIV-081) — and nothing is restraining them when it happens, because *Arceo* is not on them and never was.
+- **They are not one thing** *(settled)* · DIV-083. They have factions, and the first war split them. Canon gestures at Dementors feeling fury and talking among themselves and never follows it up; we do.
+  - **Some went over to Voldemort and some did not.** Azkaban kept running on a reduced contingent, which is why the prison needs no explaining away, and his side gained a real force. It also removes canon's worst piece of timing.
+  - **The ones who stayed were never loyal.** Azkaban's despair is a particular vintage — concentrated, renewable, served daily — and they had acquired a taste for it. They are gourmands, which is worse than traitors, and it is the heaviest single charge against the place: the things that guard it prefer it.
+  - **The defectors** were hunted. McGonagall and others like her destroyed a great many, and the remnants were put back in Azkaban, because they are an asset.
+### Arceo *(settled)* · DIV-084
+
+One spell, one incantation, and no second version. ***Arceo*** — first person singular, like *Accio* and *Protego* — means *to ward off, to keep at a distance*, and equally *to shut in, to enclose*. One verb for both halves of its life, which is the whole design: what it does is decided by what the caster wants while casting it (*Dark Magic runs on intent*, below).
+
+- **It was made as a defence.** A Malfoy ancestor's charm for getting under a Dementor's skin so it wants to be elsewhere — pushing them off a house, off a road, off a child. Clean magic. Macnair's discovery, generations later, was only that wanting the opposite makes it say *come here*.
+- **It is upkeep, not ownership.** A continuous influence and nothing more. There is no casting it once and keeping the creature; stop, and it leaves when it likes.
+  - **A place can be warded permanently**, because the enchantment sits in the stone. That is how Azkaban's human guards survive, how Ministry buildings stay habitable, and what the B3 garrison was supposed to be held off the students with. This is the ordinary, sanctioned, openly used half.
+  - **A creature cannot be owned.** Commanding has to be sustained, by a caster, for as long as it is wanted.
+- **So the Dementors are not under anyone's control.** They stay because the terms are good. Macnair and the Death Eaters treated them well, and they learned that taking orders feeds them better than wandering does. They would leave for a better offer, and in time they get one. Nobody at the Ministry has understood this in fourteen years.
+- **Naming.** The registers say *the Arceo Charm*; in departmental use it is just warding. **The commanding use has no name**, because naming it would be admitting to it — so there is nothing written down anywhere, which is exactly why it keeps being rediscovered (DIV-085). "The leash" and "the collar" are bible shorthand and must never reach the page.
+
+Who traded it, and the consequences: [azkaban](../problems/azkaban.md), DIV-084.
+
+## Dark Magic runs on intent *(draft)* · DIV-084
+
+Canon's own rule, never stated as one: the curse that tortures does not work on righteous anger, only on genuinely wanting to cause pain. We make it general. **Dark Magic is powered by what the caster wants, not by what the caster knows.** Technique helps; appetite is the requirement.
+
+- **It explains Macnair.** A brute with no scholarship takes a defensive spell and makes it a yoke, because the only qualification was wanting it that way. It is also why nobody decent ever found the trick: you have to want it first, and most people never do.
+- **It explains Umbridge** doing the same thing twelve years later with no more training than he had (DIV-085).
+- **It is not a licence.** Power still runs in lines ([society](society.md)) and the Dark Arts still crack the seal and let ambient magic in, at a price (Q-027). Intent decides whether dark magic *takes*, not how strong you are.
+- **It decides what Lustrum can see.** The fire burns Dark magic present in a person, so the intent rule is what sorts a curse from a martial spell at the moment of casting — and what makes almost everybody flammable, since a curse you took leaves the same residue as one you threw (*Lustrum*, above).
+
 ## Love as magic
 
 🔒 The payoff (DIV-006): in B7, love rebounds the Killing Curse.

@@ -29,6 +29,11 @@ Canon's night depends on the Time-Turner, so most of it has to be reworked until
 
 These have to fit alongside her fake lead, Buckbeak's freeing, Harry's Patronus, her confession and her talk with Sirius.
 
+*Now also:* **where Fudge, Macnair, Dumbledore and Snape are through the night,** given the siege (DIV-081). Fudge is on the grounds for the execution and retreats into the castle with Macnair after siccing the Dementors at the lake.
+- Recommendation on the table (Claude): they hear the siege perfectly well and do not come. Fudge will not recall the garrison he authorised and will not let Dumbledore leave while Black is unaccounted for, so Dumbledore is detained in his own office rather than absent. That makes McGonagall's sortie insubordination, which is what the hearing is actually about, and it means she takes Fudge by the collar because he was *there*.
+- Rejected (Claude): an enchantment that keeps them from hearing it. It reads as furniture, and it hands Dumbledore an alibi that dissolves the whole charge of his acquiescence.
+- **Parked by the author** until the shape of Sirius's freeing is settled; the pieces above are the current state.
+
 *Partly answered:* the memory behind Harry's Patronus is the lap-pillow scene, and at the lake it all adds up and he re-evaluates her (DIV-018). Canon's Harry drives off the swarm sure he can, having seen himself do it. Ours has the first flicker of resonance instead (Q-028).
 
 ### Q-004 · The Time Room in B5 (DIV-002)
@@ -110,6 +115,8 @@ Which radicals exist, how they combine, what incantations add, how nonverbal and
 Fixed point: Apparition takes no wand ([magic](../setting/magic.md), DIV-054).
 
 ### Q-016 · What is the pureblood point? (DIV-008)
+
+*Lead (settled facts, B3):* the Ministry has a weapon that exterminates Dementors (DIV-080) and keeps the Dementors anyway because they are useful, and it pointed that weapon at the homes of its political enemies — an instrument that judges nobody and only counts spells, whose output was read as a verdict nobody could appeal (DIV-079). The other side gets a documented atrocity that is not a lie told by losers — the castle tells the story itself, as a legend. See [problems/azkaban.md](../problems/azkaban.md).
 
 What's the real grievance or truth, and where does it turn into Voldemort's ideology? Where do the Malfoys stand?
 
@@ -193,6 +200,8 @@ With allegiance gone, what does "the wand chooses the wizard" mean now? Also: ho
 - **Practice** raises power and endurance somewhat, not much without the aptitude.
 - Questions it raises: does the Mark count as a crack (DIV-015)? What do Harry's Sectumsempra (DIV-043) and canon's B7 Unforgivables (Crucio on Amycus Carrow, Imperius at Gringotts) cost him? Is it what makes Bellatrix so formidable (Q-066)?
 
+*Partly committed by DIV-080:* whatever the Dark Arts leave in a person is what Lustrum burns, so the crack is no longer free to be decided. It refills rather than draining, which is why no amount of casting ever cleanses anyone. Whether remorse can close it: Q-110. What the Mark makes of Dracaena: Q-111.
+
 ### Q-028 · Seeding resonance (DIV-021)
 
 The hard part. Across B1–B6 we have to orchestrate moments where resonance happens at all, so that before the finale the reader knows the rule, what it takes, and that it can fail. Open:
@@ -254,6 +263,8 @@ Lucius thinks a daughter should be somewhat sheltered ([lucius-malfoy](../charac
 *Partly answered:* her tomboy side. He loses to his wife and daughter, settles for no training without supervision, and worries less as he sees how capable she is → [lucius-malfoy](../characters/lucius-malfoy.md). Why she's an only child: a curse meant for him hit Narcissa (DIV-030).
 
 ### Q-038 · Rita's article (DIV-029)
+
+*Narrowed:* Pansy is now settled as Dracaena's real friend and one of the Slytherins who turns (DIV-055), so she is not the leak. **Daphne Greengrass** is the candidate instead: same year, dislikes her, and already established as someone who watches her (DIV-082).
 
 Harry's fight with the Durmstrang challenger gives Rita Skeeter prime ammunition: a violent, tormented boy.
 
@@ -425,8 +436,10 @@ After the Manor, Harry handles her with velvet gloves until she confronts him ab
 ### Q-070 · Which Slytherins, and how do they get there? (DIV-055)
 
 Slytherins in the DA and at the battle ([house-unity](../threads/house-unity.md)). Open:
-- **Dracaena's friend.** Pansy Parkinson or Daphne Greengrass? Pansy is already pulling double duty as a candidate for Rita's source (Q-038), and canon gives her the call to hand Harry over, so using her means choosing which Pansy we want. Greengrass is a blank slate with a canon name.
+- ~~**Dracaena's friend.**~~ *Answered:* **Pansy** is the friend and one of the Slytherins who turns — the inversion of canon. **Daphne is the snake in the grass**, and takes over as the candidate for Rita's source (Q-038). DIV-055, DIV-082
 - **How many,** and which of them get seeded in which books. A handful, named and recurring, beats a crowd.
+  - *Now partly filled:* Balthier Thynne and Nola Laurel, from B3 (DIV-082).
+  - **The spread is the problem.** Balthier and Nola are fifth years in B3, so they are in the DA in B5 and have left school by B7 — they come back for the battle as adults. Pansy and Daphne are Dracaena's year, so they *are* in the castle for the evacuation. That leaves the whole thread sitting in two cohorts. A couple of younger ones, Ginny's year or below, cost nothing to seed now and a great deal to invent later.
 - **Getting in.** Canon's DA bars Slytherins outright, and the reason is distrust, not spite. Who vouches for them, and who objects?
 - **Dracaena and the Squad.** Not a problem: in B5 she's dreaming and barely does the job, least of all anything that would land Harry in real trouble (Q-021). A friend of hers in the DA is safe from her. Still worth deciding whether she knows, and what she does with knowing.
 - **The evacuation.** Who refuses to leave, and whether they go to Slughorn or stay hidden in the castle.
@@ -632,7 +645,134 @@ B2 may give her far more to do — the inbox has her witnessing Harry kill the b
 
 Depends on what she is actually doing in B2, which is unplanned.
 
+### Q-110 · Can remorse mend what the Dark Arts crack? (DIV-080, Q-027)
+
+Canon allows it — a Horcrux can be repaired by genuine remorse, and the books never cash the idea in. Our rule says casting Lustrum cleanses nobody and the crack refills, but that is not the same as saying nothing can ever close it.
+
+- **Not for the Mark.** The author's call: we are not going to undo a Dark Mark this way, although the Mark is unambiguously the kind of thing that would need it (DIV-080).
+- **Who would demonstrate it** is the open part. Snape is the obvious candidate and the one canon leaves on the table: a man whose whole arc is remorse, and nothing in the mechanics ever registers it. Harry's Sectumsempra (DIV-043) and Kreacher are the other candidates.
+- **Keep in mind rather than build on.** Nothing downstream should assume either answer yet.
+
+### Q-112 · Hermione's Lustrum research in B4 (DIV-080)
+
+She hears the incantation shouted at the siege, or hears it repeated afterwards by somebody who did — a solid lead, unlike the necklace, which went nowhere in B3. In B4 she gets at it through the Restricted Section.
+
+**Two sources, and only one of them is handed to her** *(direction)*:
+
+- **The spell.** Flitwick writes her the slip and points her at the book that names it. He does not walk her through anything; he knows she does not take no for an answer and would get at it some other way, probably a worse one.
+- **The vicewick she finds herself,** and not in that book. He says nothing about it, because nobody knows Minerva used one and he is not going to be the one who says so. The lean is an oblique reference in something else entirely — a work on magical substances — which Hermione reads sideways and joins up. That is the version that shows what she actually is.
+
+**Where it pays off: B7** *(the author's, direction)*. They have the locket and no way to destroy it (DIV-049). Hermione rattles off every option she has, Lustrum among them, and — being what she is — the vicewick too, and says she learned of it in fourth year. Harry joins it to *Arceo*, which he learned in the same year from the Pensieve (DIV-084, Q-108), and proposes the Manor: a house whose holdings already produced one forgotten ancient working. It gives him his pretext for going, on top of the one he already has (DIV-049).
+
+- **It answers Q-064** — what they think is at the Manor that could destroy a Horcrux. That hole has been open since DIV-049 was settled.
+- **It retroactively justifies the B4 pairing.** Both spell reveals sit in one book because one B7 conversation spends both.
+- **The shape to settle.** The power gate says a Horcrux cannot be burned: you would get the man and not the thing in him (DIV-080). So either Hermione does not know that limit yet, or she does and the question is whether a large enough vicewick closes it. The second is stronger — it states the rule to the reader four books after it was seeded, in the one scene where it matters, and the uncertainty is what sends them to the Manor.
+- **What they are actually after** is open (Q-064). A vicewick needs rendered Lustrum ash, which the Malfoys would have no reason to hold — unless they kept what was left of their own dead, which is a possibility rather than a proposal.
+- **The thing nobody says.** If the gate is stated out loud in that room, Harry is a vessel, and Hermione is the one who could work it out (Q-111).
+
+### Q-109 · Dracaena and Umbridge (DIV-085, DIV-084)
+
+*Back pocket. Parked by the author, not being worked.*
+
+When Dracaena learns that Umbridge sent Dementors to kill Harry, she will want her dead. The question is what we do with that.
+
+**The reveal needs no engineering — canon has already blocked it.** In B5 Umbridge admits to sending the Dementors in her own office, in front of the Inquisitorial Squad, and canon puts Draco in that room. So Dracaena is standing there when it is said, by her own Squad badge, which she only ever took as a toy (Q-070). She hears a Ministry official boast of trying to murder him, and she is wearing that Ministry's badge at the time.
+
+Options, undecided:
+
+- **Instead of the centaurs.** Canon sends Hermione and Harry into the Forest and lets the herd take her. Replacing that with Dracaena is a large swap and the author has not chosen it.
+- **In addition.** The Forest happens as canon has it, and what Dracaena does with the knowledge lands later or elsewhere.
+- **Neither, and it is only pressure.** She wants to and doesn't, which is its own scene.
+
+Downstream either way: it is the first time her own side tries to kill him on the record, and it sits next to what she does not yet know about her father (DIV-084).
+
+### Q-106 · The siege and Snape's Patronus (DIV-081, DIV-043)
+
+The staff hold the walls with their Patronuses. Snape's is a doe, and B7 depends on nobody knowing that.
+
+**Settled by the author: Snape does not cast it.** Not under any version of the night. The rejected alternative — he casts, Dracaena sees a silver deer and thinks nothing of it, and it pays off in B7 — is a bigger call than the reveal can afford.
+
+Still open:
+
+- **What he is doing instead**, which has to be good enough that his absence from the wall is not a hole. Proposal: he is a Head of House with a hundred children underground and no reason to be on a parapet. The Slytherin dormitories are in the one part of the castle the Dementors are coming through the ground towards, and he is where he is supposed to be. It also places him for Q-003 without needing an excuse.
+- **Whether McGonagall notices he was never on the wall.** She would. Whether she says so, in this book or a later one, is a scene we have not written.
+- Harry must not see it either way.
+
 ## Answered
+
+### Q-111 · The Mark, Dracaena and the fire (DIV-080, DIV-015, Q-027)
+
+*Answered: the Mark counts, because the rule is* present *rather than* worked. Recorded in **DIV-080**.
+
+- **Lustrum burns Dark magic present in a person however it got there.** The objection that the Mark is done *to* you and cannot be laid at your feet is true and beside the point: the fire does not do fault. It never did.
+- **So Dracaena is flammable from B6, twice over** — the Mark on one arm, Harry's Sectumsempra scars from belly to neck (DIV-032) — and neither was her doing. The nightmare in a mechanic.
+- **It generalises, and that is the prize.** Cursed scars burn. The war leaves marks on the good ones too, so an Auror wearing a career of curse damage burns hotter than a minister who has never been hit by anything, and the wounded are the most flammable people on any battlefield. There is no casual use of Lustrum near casualties, in any book.
+- **It also shuts the other side out.** Voldemort, Bellatrix and Macnair are all past the window and would be the pyre, which is why nobody on that side ever reaches for it (DIV-080).
+- **Still unwritten, and deliberately:** whether it is ever used on the page, whether Dracaena learns it, and whether anyone works out that the same is true of Harry until the forest. The candidate moment is the B7 Horcrux conversation (Q-112).
+
+
+### Q-113 · Does she have a vicewick in B7? (DIV-080)
+
+*Answered: no, and it is a choice rather than an accident.* She spends the only one in existence at the siege in June 1994, and the urn it was distilled from is empty.
+
+- **The material was there.** The grounds were covered in it that night and cordoned off pending a Ministry decontamination over the summer, so she had a window and walked past it daily.
+- **She lets it go.** She has now seen what she is capable of with one. At the siege she happened to have a clear sight of the enemy and nobody of hers inside the burn, and she has no reason to expect that twice; what she does have is the pull of being able to do it indiscriminately. So she does not cash in — the one time in her life she chose not to arm herself, against twelve years of keeping the urn.
+- **So B7's constraint is absolute,** not tactical: raw castings at a houseful's scale, precisely and small (DIV-023).
+- **It may never reach the page,** since we rarely have her POV. Carried as character fact unless a line turns up for it.
+
+
+### Q-104 · What sets Lustrum's price? (DIV-079, DIV-080)
+
+*Answered: the caster's own Dark residue is the fuel, and it never runs out.* Recorded in **DIV-080**.
+
+- The fire catches on Dark magic present in a person. It needs something near to hand, so it takes the caster's, on the spot, as burns shaped like a grip.
+- **Anyone who has never worked Dark magic cannot cast it at all.** The admission ticket is having already crossed the line.
+- Lustrum is itself Dark, so every casting widens the crack that fuels the next. Nothing drains and nobody is cleansed, which is why sixteen years of casting have not lightened her scars and never will. What she calls penance pays nothing down.
+- The question's own framing — size of the casting versus what the fire finds in the caster — is superseded. There is no moral account to find.
+
+### Q-103 · Does Lustrum touch things that are spells rather than selves? (DIV-080, DIV-025)
+
+*Answered: yes, and the brake is power, not category.* Recorded in **DIV-080**.
+
+- A Horcrux and an Inferius are Dark magic and nothing else, so the fire catches on them perfectly well. Sacred fire burning undead is what a reader expects, and the earlier "invisible to it" proposal is **struck** for refusing it on a technicality.
+- **It cannot consume work done by a greater wizard.** It burns the vessel and leaves the thing inside: you would get the man and not the thing in him.
+- **The gate is power invested in one piece of work, not category.** An Inferius is cheap per unit and burns readily; a Horcrux or a great Dark artefact is not. Nobody on our side outranks Voldemort, so the Horcrux hunt is untouched.
+- **DIV-025 stands for a different reason than I first wrote.** Neville's job survives not because the fire cannot touch the Inferi but because she cannot put a Lustrum down in a hall full of her own people. A wall of it behind him is a live candidate; whether she has the time is the scene's problem.
+- The ugly corollary is deliberate: someone could propose burning Harry to get at what is in him, and the answer is that it would kill him and fail (Q-111).
+
+
+### Q-108 · Whose lore is the spell? (DIV-084)
+
+*Answered: ancient Malfoy lore, and nobody we know made it.* Recorded in **DIV-084** as ***Arceo***.
+
+- **Lucius found it; he did not write it.** He is a logistics man, which the bible already says, so authorship would have been out of character. Voldemort asked him for a way to herd the Dementors he already had; Lucius went through the family holdings and came back with an ancestor's charm.
+- **It was a defensive spell, and a decent one** — a way of making Dementors want to be elsewhere. That it began as a kindness is the whole point.
+- **There is no second spell.** Macnair did not curse anything and nothing was altered. *Arceo* means both *ward off* and *shut in*, and Dark Magic runs on intent, so the same charm gives orders to anyone who means it that way. He was the first to mean it; Umbridge is the second (DIV-085).
+- **The Ministry bought the charm from Lucius** as the price of the Imperius story, and took Macnair in under the same settlement with no position and nothing on paper.
+- **Delivery:** the B4 Pensieve, alongside Karkaroff. Dracaena has only the Imperius story.
+
+Struck: Bellatrix (a weapon, not a researcher), and a new character (a slot spent on backstory).
+
+### Q-105 · Did Dementors defect in the first war? (DIV-080, DIV-083)
+
+*Answered: yes, and not all of them.* Recorded as **DIV-083**.
+
+- They have factions. Canon gestures at Dementors feeling fury and communicating with each other and never develops it; we develop it.
+- Some went to Voldemort. Azkaban kept running on a reduced contingent, so the prison needs no explaining away and his side gains a real force.
+- **The ones who stayed were not loyal — they were gourmands.** Azkaban's despair is a vintage they had acquired a taste for. Worse than defecting, and a far heavier charge against the place than loyalty would have been.
+- The defectors: McGonagall and others like her destroyed many, and the remnants went back to Azkaban, because they are an asset. How, and why they stayed once nobody was casting: **DIV-084**.
+- Fudge's B5 claim about Ministry control is **not** a lie. It is true, and the people who built the thing making it true can take it back.
+- Macnair works the Dementors for the Ministry, but with no position and nothing on paper. The liaison idea was Claude's; the amnesty and the spell are the author's, and they are what give the role teeth.
+
+### Q-107 · If the dates are interior, how does the reader get them? (DIV-079)
+
+*Answered: wrong question.* The dates were never the seeding device, and nothing needs fixing.
+
+- **The dates are interior and stay interior.** They are an insight into her, delivered in her POV, which we have rarely. She never says one aloud.
+- **The seeding is the remarks** — casual, obscure, faintly unhinged asides dropped into ordinary teaching, funny on the surface and unanswerable underneath, which nobody dares follow up. They run from B1 to B7 in Harry's POV and need nothing of hers. Written out in [characters/minerva-mcgonagall.md](../characters/minerva-mcgonagall.md).
+- **The two meet** when a name she has thrown away as a joke comes back later as a battle honour, with a date on it.
+
+The murmur, the lip-read and the strict-interior rewrite are all struck; none of them was needed.
 
 ### Q-102 · Do house-elves eat? (DIV-075, DIV-076, DIV-077)
 

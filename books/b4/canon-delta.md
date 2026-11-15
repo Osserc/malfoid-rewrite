@@ -71,7 +71,7 @@ Not beats, but true all through the book:
 | 32 | Sirius in the cave above Hogsmeade: Crouch's history, and Bertha Jorkins missing | keep | | |
 | 33 | Rita's Witch Weekly piece casts Hermione as a girl toying with Harry and Krum; hate mail follows | **alter** | The whole school has now watched Dracaena claim Harry at the lake, and Rita has already printed the Yule Ball. What she runs instead, and whether the Hermione–Krum angle survives, is open. One piece we have: Dracaena taking the place of Harry Potter's "most precious treasure" | Q-052, DIV-040 |
 | 34 | Crouch Sr appears in the forest out of his mind, Krum is Stunned, and Crouch vanishes | keep | | |
-| 35 | Harry falls into Dumbledore's Pensieve and sees the old trials: Karkaroff naming names, Bagman acquitted, Crouch Jr condemned alongside the Lestranges | keep | **Load-bearing.** The cleared names are exactly what Fudge throws back at Harry in June | DIV-047, DIV-058 |
+| 35 | Harry falls into Dumbledore's Pensieve and sees the old trials: Karkaroff naming names, Bagman acquitted, Crouch Jr condemned alongside the Lestranges | alter | **Load-bearing twice over.** The cleared names are exactly what Fudge throws back at Harry in June. Add: alongside Karkaroff buying his freedom with names, the shape of **Lucius's** bargain gets said out loud in passing — he bought his with an heirloom, and Macnair came in with him. Harry has no use for it yet and Dracaena never hears it (DIV-084, Q-109) | DIV-047, DIV-058, DIV-084 |
 | 36 | Harry's vision of Voldemort punishing Wormtail | keep | | |
 | 37 | Hermione traps Rita in a jar, having worked out she's an unregistered Animagus | keep | | Q-038 |
 

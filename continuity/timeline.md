@@ -10,13 +10,24 @@ _Marauders era, the first war. Not yet worked out._
 - **c. 990s**: Helga Hufflepuff brings her own bound elf into the castle, meaning it kindly. It has kept Hogwarts ever since. DIV-075
 - **1689**: The Statute of Secrecy is signed (canon). The long decline of the magical population begins. DIV-035
 - **c. 1970–1981**: The first war. Wizarding births dip, and every pupil at Hogwarts during the series is born in it. DIV-035
+- **1950s–1960s**: the Ministry, having had Minerva McGonagall for two years and then lost her to Hogwarts (canon), never takes her off its books. It calls her in for work abroad across two decades. This is where the foreign-sounding "incidents" in her remarks come from, and it means 1970 is not a recruitment. DIV-079
+- **c. 1970–1981**: she serves as the Ministry's special-operations asset, leading raids on Death Eater houses and gatherings with squads of Aurors. Her signature spell is Lustrum, and the other side calls her Hellfire. DIV-079, DIV-080
+- **1978-04-04**: Ambleside. One of her operations, and one of the memories she casts her Patronus from. DIV-079
+- **1980-09-17**: Dunfermline. Another. DIV-079
+- **Late in the war, 1981 the best fit**: the raid on Strix palace, which she led. It destroys the Strix household and kills Basil Thynne. Arvilla Strix and her small son Balthier survive — under Lustrum's rule, arithmetic rather than luck: it marked her and found nothing at all in a three-year-old. DIV-079, DIV-080, DIV-082
+  - **The age arithmetic.** Balthier starts Hogwarts in 1989, so he is born between September 1977 and August 1978. Put the raid in 1981 and he is three: the earliest age anyone retains anything, and then only as fragments. There is room, but not much, so the raid wants to be late in the war rather than early.
+  - **What he carries is two things.** The image is his — fire, a figure moving slowly above the ruins, a laugh — and it is an image, not a story. The **name** is his mother's: Arvilla told him, or let him overhear it. He has known who she is since before he was old enough to decide what to do about it, and he has sat in her classroom for five years. DIV-082
 
 ## 1980–1991
 
 - **1980-06-05**: Dracaena born (canon default: Draco's birthday). DIV-001
 - **1980-07-31**: Harry born.
+- **During the war**: the Dementors split. Some go over to Voldemort; the rest stay in Azkaban, not out of loyalty but because they have developed a taste for what it serves. The prison runs on a reduced contingent throughout. DIV-083
+- **During the war, after the defection**: with a mob of Dementors and no way to aim it, Voldemort asks Lucius whether anything exists for herding them. Lucius comes back with an ancestor's charm, ***Arceo***, built to push Dementors *away*. **Macnair realises it gives orders if you mean it to**, and drills the horde into a fighting force over the rest of the war. McGonagall hunts that horde and knows whose it was. DIV-084
 - **1981-10-31**: The Potters are killed; Voldemort falls.
-- **Early 1980s**: Lucius escapes Azkaban by claiming the Imperius Curse (canon). A Death Eater still at large tries to curse him for it and hits Narcissa, who can never have another child. DIV-030
+- **After the fall**: the surviving defectors are hunted — McGonagall and others destroy a great many — and the remnants are herded back to Azkaban rather than finished, because they are an asset. They stay, once the casting stops, because the food is reliable. DIV-083, DIV-084
+- **Early 1980s**: Lucius escapes Azkaban by claiming the Imperius Curse (canon) — and by selling the Ministry *Arceo*, which it accepts and now uses openly as warding. **Macnair** comes in under the same settlement with no position and nothing on paper. The Dementors go back to Azkaban and stay, not because anyone holds them but because the food is reliable. Dracaena will grow up with the Imperius story and nothing else. DIV-084, Q-109
+- **Early 1980s**: a Death Eater still at large tries to curse Lucius for the Imperius claim and hits Narcissa, who can never have another child. DIV-030
 - **Soon after the curse**: Snape starts brewing Narcissa's medicine, which holds the curse at bay without lifting it. DIV-030, DIV-031
 - **c. 1985**: Dracaena, about five, meets Snape at the Manor and asks to learn to brew her mother's medicine. He sends her one of his old potions books; private lessons follow until Hogwarts. DIV-031
 - **Mid-1980s**: Harry secretly watches *Sleeping Beauty* from behind the Dursleys' living-room door. DIV-009
@@ -43,7 +54,13 @@ _Marauders era, the first war. Not yet worked out._
 - **1994, during Harry's Patronus lessons**: she spies on them and studies the charm for him, getting only mist herself. The lap-pillow scene. DIV-018, DIV-027
 - **Spring 1994**, days before the final: the jeer at Hagrid, and the slap she baits and takes. DIV-069, [the-slap](../scenes/b3/the-slap.md)
 - **Spring 1994**, the Quidditch final: she plays clean while her house fouls, loses the long Seeker duel fairly, and is left alone on the pitch. Harry goes back for her and offers his hand; they fly off and earn detention. The mask is back on the next morning. DIV-066, DIV-068, DIV-069, [the-quidditch-final](../scenes/b3/the-quidditch-final.md)
-- **1994-06**, the night of Buckbeak's execution: her fake lead sends the Dementors to the lake. She frees Buckbeak, ends up at the lake, fails to cast a Patronus and confesses. Harry casts his, with a first flicker of resonance. She flies Buckbeak to Sirius, who escapes. Sequence provisional (Q-003). DIV-003, DIV-018
+- **1993-09**: the Dementor garrison is stationed around the castle over McGonagall's objection. DIV-079, DIV-081
+- **August 1993**: McGonagall gives Flitwick the urn she has kept since the war — ashes scooped from every burn, indiscriminately — and he distils the whole of it into one vial on a chain. The first enhancer she has ever had, and the only one that will exist unless she burns more people. DIV-079, DIV-080
+- **September 1993**: she wears it as the garrison arrives. The castle sees a necklace. DIV-079, DIV-080
+- **November 1993**: the Dementors swarm the Quidditch match. Two months into carrying the enhancer, she can destroy the garrison from the stands — and would scorch fourteen children off their brooms and burn whoever in a thousand-strong crowd has the worst hands, so she doesn't; she leaves scorch marks on the railing. Harry is in the air with a Horcrux in him and would have gone up like a Death Eater, which she never learns. DIV-079, DIV-080, Q-111
+- **December 1993**: at the Three Broomsticks she gives the enhancer to Flitwick to hold, because she does not trust herself with it. Hermione overhears; it is the same table at which Harry learns about Sirius. DIV-079, DIV-080
+- **1994-06**, the night of Buckbeak's execution: her fake lead sends the Dementors to the lake. She frees Buckbeak, ends up at the lake, fails to cast a Patronus and confesses. Harry casts his, with a first flicker of resonance. Sequence provisional (Q-003). DIV-003, DIV-018
+- **1994-06, the same night**: Harry's Patronus has maimed the swarm, and the horde storms the castle. The staff hold the walls; McGonagall breaks the siege with Lustrum and laughs doing it — the one night of her life when what she loves doing is also unambiguously right, and she spends the whole urn on it. Fudge loses prisoner, hippogriff and garrison in one night. Dracaena flies Buckbeak to Sirius over the cinders afterwards, and he escapes. DIV-079, DIV-080, DIV-081, DIV-003
 
 ## B4 · 1994–95
 
@@ -71,6 +88,7 @@ _Marauders era, the first war. Not yet worked out._
 
 ## B5 · 1995–96
 
+- **1995-08**: Umbridge drives Dementors to Little Whinging and holds them there herself, with the same *Arceo* every senior official is issued. Fudge, at Harry's hearing, insists the Dementors cannot leave Ministry control — not a lie, just fourteen years of mistaking a standing offer for a chain. DIV-084, DIV-085
 - **1995-09**: Umbridge shuts down the Duelling Club, one of her first acts. DIV-028
 - **1995-11**: the first match. Harry steals it off her lead, she kisses him on the pitch, Harry and George beat Montague for what he says about her, and Umbridge bans them and Fred for life. DIV-066, DIV-067, [the-pitch-kiss](../scenes/b5/the-pitch-kiss.md)
 - **1995–96**: Lucius meets Voldemort regularly, never at the Manor, and tells him he has planted his daughter as a spy. DIV-020

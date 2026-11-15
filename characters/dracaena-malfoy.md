@@ -92,6 +92,12 @@ Open: Q-084.
 
 *(settled)* DIV-015. Unlike canon Draco, she's never proud of it. She's ashamed of it and feels defiled, and it reminds her constantly of the chains that hold her. In the hollow weeks she won't let Harry touch her ([sleeping-beauty](../threads/sleeping-beauty.md)).
 
+*(settled)* **It makes her tinder** · DIV-080. Lustrum burns Dark magic present in a person however it got there, so from B6 she is flammable, specifically and visibly, by a thing that was done to her and is not hers. **Twice over**, in fact: the Mark on one arm and Harry's Sectumsempra scars from belly to neck (DIV-032), neither of which she chose. The fire does not do fault.
+
+- It is the nightmare in a mechanic — the script reclaiming her, written on her body in a substance that burns ([sleeping-beauty](../threads/sleeping-beauty.md)).
+- At the Battle of Hogwarts, McGonagall covers her (DIV-023) while carrying the one weapon that would kill her outright, and neither of them knows it.
+- Whether it is ever used on the page, and whether she ever learns it: Q-111.
+
 ## The tsundere engine
 
 - **When she feels exposed, she reaches for snobbery.** This first shows at Madam Malkin's: flustered at being charmed by a Muggle story, she sneers at Hagrid (DIV-009).

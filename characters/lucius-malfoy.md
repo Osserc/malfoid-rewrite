@@ -21,6 +21,12 @@ How his marriage works and what he knows about his daughter: Q-019 (the author h
 
 *(settled)* Voldemort's logistics man: procurement, money, contacts. That's what makes the Imperius defence plausible. Officially, he's almost a bureaucrat and a schemer who never did the heinous work himself. Voldemort surely made him kill or torture at least once. Commissioning potions from Snape is part of the job ([severus-snape](severus-snape.md)).
 
+*(settled)* **What he actually contributed, and what it cost everyone else** · DIV-084. His one great service to Voldemort is procurement in its purest form. Voldemort had Dementors and no way to aim them, and asked whether anything existed for herding; herding is a sourcing problem, which is Lucius's whole function. He went through the family holdings and came back with his great-great-grandfather's charm, ***Arceo***, built generations ago to push Dementors *away* from a house or a road or a child. He did not make it and did not see what else it was. **Macnair** did, and drilled the horde into an army with it.
+
+- **He is not off the hook for that.** He found it, he handed it over, and he has never once had to think about it since.
+- **And it bought his freedom twice.** The Imperius claim is the story; the price was the original spell, sold to a Ministry that had just discovered it had no hold on the Dementors at all. It uses it to this day. Very Lucius: he sold the method and kept the house.
+- **Dracaena does not know any of it.** She has the Imperius story, and she believes it. Harry gets the shape of the truth in the B4 Pensieve, in language he cannot use yet. What she does with it, if she ever has it, is Q-109 — and it would be the third and heaviest charge against him, after Dobby and Buckbeak (Q-098).
+
 ## His daughter
 
 *(settled)* He isn't resentful about having a daughter rather than a son. He thinks a daughter is too precious and fragile, and should be somewhat sheltered. But he's up against two formidable opponents: his doting wife, and his beloved daughter, who almost always gets her way ([dracaena-malfoy](dracaena-malfoy.md)). When she wants to fly, he has to give in, and sneaks in his condition: no training without supervision. When she makes the Slytherin team on merit he celebrates by buying the whole side Nimbus 2001s, purely to show off — which is why people say she bought her place, and why her housemates owe her something they'd rather forget (Q-081). He celebrates achievement and does not console failure: there is no new broom after she loses the B3 final, and she wouldn't want one (DIV-068, DIV-069). As the years pass his worries ease, because he sees how capable she is, but he stays very protective. He's strict. Her Boggart is him looking at her with disgust ([remedial-boggart](../scenes/b3/remedial-boggart.md)), but that's her fear, not what he feels. How sheltering her squares with the rest of his story: Q-036.
@@ -88,4 +94,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-001, Q-019, Q-022, Q-030, Q-032, Q-036, Q-072, Q-096
+Q-001, Q-019, Q-022, Q-030, Q-032, Q-036, Q-072, Q-096, Q-109
