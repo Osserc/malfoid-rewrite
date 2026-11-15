@@ -22,7 +22,7 @@ Canon also has them loyal to the Ministry straight through the first war and def
 ## Settled so far
 
 - Dementors can be destroyed: a dangerous creature, not a fixture of the universe, and huntable the way canon's wizards hunted the British giants. Lustrum is McGonagall's method, not the only one (DIV-080).
-- **Lustrum judges nobody.** It scorches Dark magic worked, in proportion, and the righteous-fire story told about it is propaganda. That is what turns the raids from a hard policy into an indefensible one: the instrument never had an opinion, so every verdict read off it was the Ministry's own (DIV-080).
+- **Lustrum judges nobody.** It scorches Dark magic present in a person, however it got there, and the righteous-fire story told about it is propaganda. It cannot tell a perpetrator from a victim: the Ministry's own wounded would have burned hotter than the men who sign the warrants. That is what turns the raids from a hard policy into an indefensible one — the instrument never had an opinion, so every verdict read off it was the Ministry's own (DIV-080).
 - The Ministry knows it and keeps them regardless, because they are useful.
 - **They split in the first war** (DIV-083). Some defected; the rest stayed because they had developed a taste for what Azkaban serves. Not loyalty — appetite. The defectors were hunted, and the remnants put back in their cells.
 - **Arceo** (DIV-084). A Malfoy ancestor's defensive charm, found by Lucius because Voldemort wanted his Dementors herded, and discovered by Macnair to give orders if you mean it to. Sold to the Ministry afterwards as the price of the Imperius story, and in ordinary use ever since as warding.

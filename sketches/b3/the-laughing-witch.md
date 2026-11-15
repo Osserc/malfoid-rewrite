@@ -1,5 +1,5 @@
 ---
-status: raw
+status: mined
 scene: ../../scenes/b3/the-laughing-witch.md
 written: 2026-11-13
 used_in:

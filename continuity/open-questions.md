@@ -649,19 +649,9 @@ Depends on what she is actually doing in B2, which is unplanned.
 
 Canon allows it — a Horcrux can be repaired by genuine remorse, and the books never cash the idea in. Our rule says casting Lustrum cleanses nobody and the crack refills, but that is not the same as saying nothing can ever close it.
 
-- **Not for the Mark.** The author's call: we are not going to undo a Dark Mark this way (Q-111).
+- **Not for the Mark.** The author's call: we are not going to undo a Dark Mark this way, although the Mark is unambiguously the kind of thing that would need it (DIV-080).
 - **Who would demonstrate it** is the open part. Snape is the obvious candidate and the one canon leaves on the table: a man whose whole arc is remorse, and nothing in the mechanics ever registers it. Harry's Sectumsempra (DIV-043) and Kreacher are the other candidates.
 - **Keep in mind rather than build on.** Nothing downstream should assume either answer yet.
-
-### Q-111 · The Mark, Dracaena and the fire (DIV-080, DIV-015, Q-027)
-
-If the Mark is a crack in the seal — which Q-027 already asks, and which the Lustrum rule assumes — then from B6 onward **Dracaena is flammable, specifically and visibly, by the thing burned into her arm.** So is every other Marked person at the Battle of Hogwarts.
-
-Written down as the consequence that follows from DIV-080, not as a settled beat. What is undecided:
-
-- **Whether it is ever used.** McGonagall covers Dracaena in the final sequence (DIV-023) carrying the one weapon that would kill her outright, and the reader may or may not be told.
-- **Who knows.** Harry carries a Horcrux until the forest and would go up like a Death Eater; the same was true in the air at the B3 Quidditch match, which nobody including McGonagall ever learns. If Hermione has the rule from B4 (Q-112), she is the one who can work out that the fire cannot be turned on Harry — and that it wouldn't even work, since Voldemort outranks any caster we have.
-- **Whether it reaches Dracaena herself**, who would then know what she is carrying.
 
 ### Q-112 · Hermione's Lustrum research in B4 (DIV-080)
 
@@ -710,6 +700,17 @@ Still open:
 
 ## Answered
 
+### Q-111 · The Mark, Dracaena and the fire (DIV-080, DIV-015, Q-027)
+
+*Answered: the Mark counts, because the rule is* present *rather than* worked. Recorded in **DIV-080**.
+
+- **Lustrum burns Dark magic present in a person however it got there.** The objection that the Mark is done *to* you and cannot be laid at your feet is true and beside the point: the fire does not do fault. It never did.
+- **So Dracaena is flammable from B6, twice over** — the Mark on one arm, Harry's Sectumsempra scars from belly to neck (DIV-032) — and neither was her doing. The nightmare in a mechanic.
+- **It generalises, and that is the prize.** Cursed scars burn. The war leaves marks on the good ones too, so an Auror wearing a career of curse damage burns hotter than a minister who has never been hit by anything, and the wounded are the most flammable people on any battlefield. There is no casual use of Lustrum near casualties, in any book.
+- **It also shuts the other side out.** Voldemort, Bellatrix and Macnair are all past the window and would be the pyre, which is why nobody on that side ever reaches for it (DIV-080).
+- **Still unwritten, and deliberately:** whether it is ever used on the page, whether Dracaena learns it, and whether anyone works out that the same is true of Harry until the forest. The candidate moment is the B7 Horcrux conversation (Q-112).
+
+
 ### Q-113 · Does she have a vicewick in B7? (DIV-080)
 
 *Answered: no, and it is a choice rather than an accident.* She spends the only one in existence at the siege in June 1994, and the urn it was distilled from is empty.
@@ -724,7 +725,7 @@ Still open:
 
 *Answered: the caster's own Dark residue is the fuel, and it never runs out.* Recorded in **DIV-080**.
 
-- The fire catches on Dark magic worked. It needs something near to hand, so it takes the caster's, on the spot, as burns shaped like a grip.
+- The fire catches on Dark magic present in a person. It needs something near to hand, so it takes the caster's, on the spot, as burns shaped like a grip.
 - **Anyone who has never worked Dark magic cannot cast it at all.** The admission ticket is having already crossed the line.
 - Lustrum is itself Dark, so every casting widens the crack that fuels the next. Nothing drains and nobody is cleansed, which is why sixteen years of casting have not lightened her scars and never will. What she calls penance pays nothing down.
 - The question's own framing — size of the casting versus what the fire finds in the caster — is superseded. There is no moral account to find.
