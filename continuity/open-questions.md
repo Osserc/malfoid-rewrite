@@ -337,7 +337,7 @@ Still open:
 Still open:
 - **Working it out.** Candidate: she and Hermione work out the task for him amid their bickering, which brings them to some kind of truce for Harry's sake. Then Dracaena one-ups Hermione with her potion.
 - **The gillyweed.** Where does she get it? Snape's stores, with or without uncle Severus's leave?
-- **Canon's route.** What's left of the disguised Crouch Jr steering Harry towards gillyweed, of Dobby's theft, and of Snape accusing Harry of raiding his stores?
+- **Canon's route.** *Answered in part:* there is no disguise and nobody steers him, because the teacher is the real Moody and Crouch cannot spare the grip (DIV-086). He and she solve it between them. What is left of Dobby's theft and of Snape accusing Harry of raiding his stores is still open.
 
 ### Q-052 · Rita after the Second Task (DIV-038)
 
@@ -697,6 +697,72 @@ Still open:
 - **What he is doing instead**, which has to be good enough that his absence from the wall is not a hole. Proposal: he is a Head of House with a hundred children underground and no reason to be on a parapet. The Slytherin dormitories are in the one part of the castle the Dementors are coming through the ground towards, and he is where he is supposed to be. It also places him for Q-003 without needing an excuse.
 - **Whether McGonagall notices he was never on the wall.** She would. Whether she says so, in this book or a later one, is a scene we have not written.
 - Harry must not see it either way.
+
+### Q-114 · The clue chain for Moody (DIV-086)
+
+Canon's rewarded the rereader with the flask, the tongue and the ferret. The disguise is gone, so those have to be replaced with tells that read as Moody on a first pass and as Crouch on a second. On the table:
+
+- **The trunk.** Seven locks, and one of them is never opened in front of anybody.
+- **The eye.** It sees through wood, so it can see into his own trunk — and he looks at it, and looks away. The problem becomes the clue.
+- **The Imperius lesson,** pressed far harder than the curriculum asks for, with Harry the only one who throws it off, in front of a man who cannot. Whether that is Moody leaving a trail or the curse letting him indulge a hobby should stay unsettled on the page.
+- **The flask.** Innocent now. Whether that is the joke (everyone suspects the obvious thing and it is only whisky) or whether it carries something is open.
+- **The lessons themselves,** since the reader can never be sure which were his (Q-116).
+
+### Q-115 · The shared victory, and how Cedric dies (DIV-087)
+
+**Parked deliberately, to be taken up on its own.** The charge is awarded to a victor, and canon's Third Task ends in a tie. What the Goblet does with two claimants decides how Cedric Diggory dies, and the author is not sold on either option yet.
+
+- **Necessity.** The tie splits the charge, and the half Cedric is holding has to be released, so the murder becomes a step in a recipe. *Cost:* "kill the spare" is chilling because Cedric is nothing to Voldemort, and a required death is not a careless one. *And:* if Harry ever learns it, his one decent impulse in the maze — sharing the Cup — becomes the mechanism that killed the other boy, which may be more guilt than B5 Harry can carry.
+- **The impasse** (the author's proposal). The Goblet will not take a tie; it requires that one claimant remain, and both boys refuse to fight. Voldemort resolves it because he is behind schedule and wants the thing started. *What it needs:* the Goblet accepts a death as resolution out of pure indifference, not bloodlust — it does not ask how the field was cleared, which is the same honesty it shows everywhere else. *What it buys:* the carelessness comes back colder than canon's; Cedric gets a real last decision, made consciously, in front of Harry, which the whole dragons-and-egg thread has been building towards; Harry's guilt becomes survivor's guilt rather than causal guilt; and it hands Q-120 a reason for the abolition for free, since a prize that large with an arbiter that indifferent means champions have murdered rivals before.
+- Either way, nobody has to ask why Crouch did not engineer a clean single victor: he deliberately stayed out of the maze (DIV-086), so the finish was the one uncontrolled variable in a ten-month plan, and Voldemort fixed it with the only tool he ever uses.
+- **Standing risk:** this replaces one of the most famous beats in the series, so readers will clock the change, and the prose has to carry it.
+
+### Q-116 · What Crouch teaches Harry, and what it costs him (DIV-086, DIV-084)
+
+Crouch's job is to make Harry formidable, and the interesting way to do it is to push him towards spells a decent teacher would not — couched, to a boy who does not know him, as *spells are weapons, they are not good or bad*, with the Unforgivables as the stated exception. The author is not committed to the specific beat.
+
+What makes it worth having is that our system already measures it. Dark magic runs on intent, and Lustrum **counts spells**: anything built only to afflict leaves residue in the caster that never comes out (DIV-084, [magic](../setting/magic.md)). So the gift makes Harry stronger and dirtier in one stroke, and it feeds Q-027 and Q-066.
+
+- **The line to B6.** The boy who was taught that spells are only weapons is the boy who opens Dracaena from collarbone to hip with a spell out of a book he did not understand (DIV-043).
+- **It is deniable as pedagogy,** which is what makes it a tell: a maimed Auror would say it sincerely, so neither the reader nor Harry can ever sort which lessons were whose.
+- Open: how much Dark magic Harry actually casts on the page in B4, which should probably be very little — a lesson absorbed is enough.
+
+### Q-117 · The ferret, and Lucius (DIV-086)
+
+Crouch takes Moody over to bounce Dracaena down a corridor out of pure spite. Two ripples:
+
+- **Harry's reaction,** in the first weeks of the book, which tells the reader where he already stands before he knows it himself. Whether he laughs, and what it costs him later if he does.
+- **Lucius.** An Auror has assaulted the Malfoy heiress. He would move on that, and canon gives us nothing to copy. Whether he gets anywhere, whether it reaches the board, and what Dumbledore does with it.
+- And what the real Moody remembers afterwards: transfiguring a student, and having thought it just.
+
+### Q-118 · The maze, with no Crouch in it (DIV-086, DIV-087)
+
+Krum is never Imperiused and Fleur is never Stunned, so the Third Task has to be designed rather than inherited. Crouch's only act is the Portkey, set before the maze is sealed; from there the finish is genuinely out of anyone's hands.
+
+- What Fleur and Krum each get instead, both of which should be honourable exits.
+- The sphinx stays. What else fills the space.
+- Cedric and Harry saving each other stands, and it has to carry more weight now that it leads into Q-115.
+- **Note:** the "prevented, not quitting" rule gets its demonstration earlier, in the Second Task, where Fleur is dragged out by grindylows and the Goblet is satisfied. The maze inherits a rule the reader has already watched work.
+
+### Q-119 · Do the spectators feed the Goblet? (DIV-087, DIV-088)
+
+If the crowd's attention is part of what the Tournament generates, then it is a public spectacle for a mechanical reason, the relay over the lake and the maze stops being a patch and becomes part of the instrument (DIV-088), and the audience that DIV-038 already requires is accounted for. Nothing is taken from the spectators either — same rule as the champions.
+
+Attractive and possibly too tidy. Undecided.
+
+### Q-120 · Past champions, and why it was abolished (DIV-087)
+
+- **One or two past victors worth naming,** remembered for what they went on to do rather than for winning. A line of that kind is what sells the prize to the reader.
+- **The abolition.** The death toll is canon's reason and is not sufficient on its own, now that the prize is this large. The stronger reason: three schools, three nations, and one of them handed a decisive wizard every five years. Eventually somebody used it. If Q-115 lands on the impasse, add that champions have murdered rivals and collected.
+
+### Q-121 · Is Harry told why Cedric died? (DIV-087, Q-115)
+
+Dumbledore works it out. Whether he tells Harry, and when, decides how much of B5's grief is survivor's guilt and how much is causal. B5 Harry is already drowning in Cedric; this either supplies the fuel or sinks him.
+
+### Q-122 · The charge's absence in B5 (DIV-087)
+
+Harry has been emptied of something real, in June, on top of everything else. The texture is attractive — he is flat, his magic sluggish, and neither he nor the reader can separate drained from wrecked — but it must never become the explanation for his anger in B5. Where the line sits, and whether anybody in the castle can tell.
+
 
 ## Answered
 

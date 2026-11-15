@@ -179,6 +179,15 @@ The Lullasp is a snake said to straddle the waking and the dreaming realms. Its 
 - **The Malfoys.** No one is born an Occlumens, but the discipline the Malfoys instil lends itself to learning it.
 - **Dracaena** learns it from Snape in summer 1995. Against Voldemort in summer 1996 her walls break with ease (DIV-015). In the final duel she doesn't wall him out: she wraps Harry's mind in hers (DIV-021).
 
+## Riding an Imperius *(settled)* · DIV-086
+
+Canon's Imperius Curse is unchanged: compliance, contentment, and no reliable way for anyone to detect it from outside. What we add is one refinement, invented by Voldemort and given to exactly one follower.
+
+- **A caster can wear the cursed, not only steer them.** It is possession — his own speciality, the diary and Nagini and what he does to Harry in B5 — fitted onto somebody else's Imperius, which serves as the road. The curse is Crouch's; the technique is the master's; nothing else was supplied.
+- **Holding and wearing are the same grip.** The caster can hold the cursed down or wear them, not both at full strength, and wearing always loosens the hold. Every take-over is therefore a risk, and an excited or careless one is how the cursed gets a chance to throw the caster out (DIV-086).
+- **It is upkeep.** A strong will surfaces, and only a caster who is present, undistracted and relentless keeps it under. That is the whole reason Crouch spends the year in a trunk a few feet from Moody rather than anywhere safer.
+- **Nobody else has it,** and it goes down with Crouch. It is not a technique in circulation.
+
 ## Wands *(settled)* · DIV-024
 
 - **No allegiance.** Wands have no allegiance that passes to whoever defeats their owner. Canon's lore about winning a wand by disarming or overpowering is purged, and nothing in the final duel turns on it.

@@ -84,6 +84,8 @@ The warning aimed at him is not Aline's but Renoir's — the man who went into t
 - **Resonance.** Blocked by the Horcrux until the forest; first flicker at the B3 lake (DIV-021, Q-028).
 - **Flying.** A wild instrument suits him. He wins when he stops managing it (DIV-068).
 - **Sacrifice.** His death in the forest protects nobody (DIV-026).
+- **The charge, B4.** Bound by the Goblet on pain of his magic, he carries the Tournament's charge as it grows through the year — spells landing harder than he means them to, and **Dracaena notices before he does**, because she is the one who knows his magic best (DIV-087, DIV-028). It buys him nothing he wants: he is strongest, most watched and most hounded in the year he cannot make himself ask one girl a question. It is awarded to him in the graveyard, bound to a headstone with his wand out of reach, and drawn straight back out for the ritual. How its absence reads in B5: Q-122.
+- **What Moody taught him** was real, and some of it was Crouch's, and he can never sort which (DIV-086, Q-116). The boy who was told that spells are only weapons is the boy who uses one out of a book he doesn't understand in B6 (DIV-043).
 
 ## The elves *(settled)* · DIV-075, DIV-076, DIV-078
 
@@ -126,7 +128,7 @@ Events are in [threads/harry-dracaena.md](../threads/harry-dracaena.md). This is
 | B1 | Awestruck, then stung, and sure the princess is cruel (DIV-009). Shown at the Mirror what wanting the dead back costs, and in a corridor what magic leaves behind — where he half wants her to be right about dreaming in measured doses, and a thing with no name settles it for him (DIV-072, DIV-073) |
 | B2 | The Duelling Club turns a feud into a game he enjoys and won't examine (DIV-028). In a corridor he does the only decent thing anyone has ever done for an elf, by accident (DIV-076) |
 | B3 | Affection at the final, revelation at the lake (DIV-069, DIV-018). He re-evaluates her and can't make the mask fit |
-| B4 | In love before he knows it (DIV-037); learns it properly over the year. First time he pictures a future |
+| B4 | In love before he knows it (DIV-037); learns it properly over the year. First time he pictures a future. Bound to a tournament he cannot leave without losing everything, taught by a man he will learn was a prisoner, and robbed of the one prize that would have meant anything (DIV-086, DIV-087) |
 | B5 | Rage, isolation, and the one person treating him like a person (DIV-065). Loses Quidditch for her and doesn't much care (DIV-067) |
 | B6 | Angry all year, heart not in Dumbledore's lessons. The reflex comes due (DIV-032) |
 | B7 | Drops the plan for her at the Manor (DIV-049); handles her with velvet gloves until she makes him stop (DIV-054); walks to the forest for Dumbledore's plan and comes back for her (DIV-022, DIV-048). Learns at Dobby's death what his own kindness had been costing (DIV-050) |
@@ -137,4 +139,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-024, Q-029, Q-035, Q-038, Q-050, Q-057, Q-061, Q-063, Q-072, Q-075, Q-078, Q-080, Q-082, Q-085, Q-096
+Q-024, Q-029, Q-035, Q-038, Q-050, Q-057, Q-061, Q-063, Q-072, Q-075, Q-078, Q-080, Q-082, Q-085, Q-096, Q-115, Q-116, Q-121, Q-122

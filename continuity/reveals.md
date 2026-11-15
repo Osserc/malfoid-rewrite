@@ -52,6 +52,12 @@ Cells give the book and the scene or chapter where each party learns the truth. 
 | Renoir went into the painting after Aline and lost years there | B1, the corridor | B1, from her — she tells the whole story, Renoir's argument included | Always; her family told it to her | The public: never — the books have the magic and the fire, and nobody in them | DIV-072, DIV-073 |
 | That Aline's error was the dose, not the wanting — her reading of it | B1, the corridor | B1, and he half wants her to be right | Always | Hermione: B1, and argues against it | DIV-072, Q-085 |
 | What Mudblood means | B1 (the reader has canon) | *Not* in the corridor — later, from someone else (Q-092) | Always | Hermione: at once, and says nothing about it | DIV-074, Q-092 |
+| Moody is the real Moody, held under the Imperius, with Crouch Jr asleep in his trunk | Fed by the clue chain across the year; in full on the night of the Third Task (Q-114) | B4, that night | B4, with the school | Moody: the whole time, and cannot act on it. Dumbledore, McGonagall, Snape: that night. Crouch Sr: he broke the hold to say his son was alive and in the castle, and never got it out (canon). The Ministry: the confession, which Fudge declines | DIV-086, Q-114 |
+| Nobody alive can detect an Imperius — so Lucius's acquittal can never be tested | B4, by implication: the whole castle missed one for ten months | ? He has the Pensieve in the same year and no use for either piece yet | **No.** She has the Imperius story and believes it (Q-109) | The Ministry of 1981: it is exactly why the defence worked, and why nobody could say otherwise | DIV-086, DIV-084, Q-109 |
+| What the Goblet really is: the Tournament makes a charge, and the victor keeps it for life | B4, November, from Dumbledore | B4, November | ? | The champions and their heads of school: always. The public: the gold and the glory, which is the part they print | DIV-087 |
+| Refusing to compete would strip Harry's magic | B4, November | B4, November | ? | Dumbledore and the judges: always | DIV-087 |
+| Which of the year's lessons were Crouch's | Never sorted out, deliberately | Never | — | Moody: remembers all of them, and remembers having meant them | DIV-086, Q-116 |
+| Fudge ordered the Kiss on Crouch in custody | B4, the end | ? | ? | Dumbledore: yes, after the fact, and owns having let him be taken. The Ministry: buried | DIV-086 |
 
 ## Feelings
 

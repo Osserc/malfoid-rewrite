@@ -5,7 +5,7 @@ book: 4
 
 # B4 · Canon Delta
 
-Every beat of the original book, summarised in our own words, and what we do with it. Numbering runs continuously through the sections. Anything marked **keep** follows canon and needs no entry in [the ledger](../../continuity/divergences.md).
+Every beat of the original book, summarised in our own words, and what we do with it. Numbering runs continuously through the sections, and a letter suffix marks a canon beat added after the first pass, so the existing numbers stay put. Anything marked **keep** follows canon and needs no entry in [the ledger](../../continuity/divergences.md).
 
 ## Standing changes
 
@@ -17,6 +17,9 @@ Not beats, but true all through the book:
 - Flitwick's Duelling Club has been running since B2, and stays open this year (DIV-028).
 - Crowds stay modest: the castle is about a third full (DIV-035).
 - No Time-Turners (DIV-002). Nothing in this book leaned on one.
+- **It is the real Moody all year**, under the Imperius Curse, with Crouch Jr in the trunk under the Draught of Living Death. His teaching is his own; Crouch rides him for five acts and no more (DIV-086).
+- **The Goblet is a real piece of magic and the whole plot runs on it:** the Tournament makes a charge, the victor is awarded it, and Voldemort's ritual has to burn it. That is why there is a tournament at all (DIV-087).
+- Both the Second and Third Tasks are relayed, so the school watches them (DIV-088).
 
 ## Summer 1994
 
@@ -37,16 +40,17 @@ Not beats, but true all through the book:
 | # | Canon beat | Verdict | Our version / notes | Refs |
 |---|---|---|---|---|
 | 10 | On the train, Draco hints that his father knows something big is coming to Hogwarts | **alter** | Dracaena does it, and aims it at Harry rather than at Ron. *(open)* What that looks like after the B3 lake, when she already owes him | DIV-013 |
-| 11 | Arrival: Moody is introduced, the Triwizard Tournament is announced with an age line, and Quidditch is cancelled for the year | keep | The cancelled season is why the Duelling Club is the only arena their rivalry has left this year | DIV-028 |
-| 12 | Moody demonstrates the three Unforgivable Curses on spiders. Neville is badly shaken | keep | **Load-bearing.** This is where Dracaena sees what the Killing Curse looks like. She uses it in June, to read the green light in her own room off Harry's face | DIV-061 |
-| 13 | Moody drills the class on resisting the Imperius Curse; Harry alone throws it off | keep | | |
+| 11 | Arrival: Moody is introduced, the Triwizard Tournament is announced with an age line, and Quidditch is cancelled for the year | **keep, re-lit** | It is the real man, taken at his house before term and already held. The cancelled season is why the Duelling Club is the only arena their rivalry has left this year. The "binding magical contract" in the announcement now has content, and the age line is there because the thing on offer is worth dying for | DIV-028, DIV-086, DIV-087 |
+| 11a | Moody transfigures Draco into a ferret and bounces him down a corridor; McGonagall stops it | **keep, re-lit** | Crouch takes over for this, and it is his one *unforced* act of the year: no plan value, pure hatred of the Death Eaters who stayed free, spent on Lucius Malfoy's daughter. The fair-play clue, and the ending in miniature — the appetite that nearly exposes him in October is what destroys him in June. Harry's reaction, and Lucius's: Q-117 | DIV-086, Q-117 |
+| 12 | Moody demonstrates the three Unforgivable Curses on spiders. Neville is badly shaken | keep | **Load-bearing.** This is where Dracaena sees what the Killing Curse looks like. She uses it in June, to read the green light in her own room off Harry's face. The lesson is Moody's own, which is why it has teeth | DIV-061, DIV-086 |
+| 13 | Moody drills the class on resisting the Imperius Curse; Harry alone throws it off | **keep, re-lit** | The man teaching resistance is held under one, and the only boy in the room who can throw it off does it in front of him. Whether this is Moody leaving a trail or the curse letting him indulge a hobby stays unsettled | DIV-086, Q-114 |
 | 14 | Hermione founds S.P.E.W.; Dobby and Winky turn up working in the kitchens | **keep, re-lit** | Dobby is in the castle to save Winky, not because he works there — he lodges at the Burrow. He keeps her out of Harry's vault, since she takes no money, and fails anyway, because none of it is a house and she will not beg. **Nobody is employed and there are no wages:** canon's hire from Dumbledore is cut, the castle needs nothing from anybody, and the two of them are the castle elf's guests, which Dumbledore never learns. Winky refusing money is refusing food, which is why she only drinks (Q-102). Hermione learns what freeing does early, from Harry and then from Dobby himself. How much of S.P.E.W. survives, and whether the hats do, is open | DIV-075, DIV-076, DIV-077, Q-093, Q-099, Q-102 |
 | 15 | Fred and George try to cross the age line and grow beards | keep | | |
 | 16 | Durmstrang and Beauxbatons arrive on 30 October: Karkaroff, Madame Maxime, Krum, Fleur | keep | | |
-| 17 | The Goblet names Cedric, Fleur and Krum, then Harry | keep | | |
+| 17 | The Goblet names Cedric, Fleur and Krum, then Harry | **alter** | The naming binds, and the binding has teeth: a champion who refuses has the contribution taken out of their body. Dumbledore tells Harry so plainly in November, along with what the prize actually is, and cannot spring the trap because the only counter — make the boy lose — is what the Goblet forbids | DIV-087 |
 | 18 | Ron falls out with Harry over the glory and the perceived lie | **keep, sharpened** | Canon's quarrel stands. The hostage in February gives it a second edge rather than replacing it, and a second rift opens at the end of the year | Q-010, DIV-005, DIV-063 |
 | 19 | The wand weighing; Rita's interview in the broom cupboard; her article | keep | | Q-038 |
-| 20 | Hagrid shows Harry the dragons; Harry warns Cedric; Moody nudges him towards his broom | keep | | |
+| 20 | Hagrid shows Harry the dragons; Harry warns Cedric; Moody nudges him towards his broom | keep | The nudge is sincere, from the real man. Voldemort needs Harry to win, so the best teacher in Britain is already doing the plan's work for free | DIV-086, DIV-087 |
 | 21 | First Task: the Horntail, the Summoning Charm, the golden egg. Ron reconciles | keep | *(open)* She is named for a she-dragon and her Patronus will be one. Whether the dragons get a beat of hers is worth a look | DIV-027 |
 | 22 | The egg screams and nobody can read it | keep | | |
 
@@ -65,12 +69,12 @@ Not beats, but true all through the book:
 | # | Canon beat | Verdict | Our version / notes | Refs |
 |---|---|---|---|---|
 | 28 | Cedric's hint sends Harry to the prefects' bath, where he works out the egg. Moaning Myrtle | keep | | |
-| 29 | Harry hunts for a way to breathe underwater and Dobby brings him gillyweed, having overheard Moody and McGonagall | **alter** | He goes down on a gillyweed extract Dracaena brewed for him. Where she gets the weed, and what replaces Dobby's errand, is open. Dobby has his own business in the castle this year (beat 14) | DIV-039, Q-051 |
-| 30 | Second Task: the hostages are the people the champions would miss most, and Ron is Harry's | **alter** 🔒 | Dracaena is Harry's hostage. Ron's role without the spot: Q-010 | DIV-005, DIV-013 |
+| 29 | Harry hunts for a way to breathe underwater and Dobby brings him gillyweed, having overheard Moody and McGonagall | **alter** | He goes down on a gillyweed extract Dracaena brewed for him. Where she gets the weed is open. Canon's steering is gone with the disguise: nobody is nudging him towards the solution, which is the point — he and she solve it. Dobby has his own business in the castle this year (beat 14) | DIV-039, DIV-086, Q-051 |
+| 30 | Second Task: the hostages are the people the champions would miss most, and Ron is Harry's | **alter** 🔒 | Dracaena is Harry's hostage. Ron's role without the spot: Q-010. **This is where the contract's rule is shown:** Fleur is dragged out by grindylows and the Goblet is satisfied, because she was stopped and did not give up, which is what the judges exist to witness. The Task is relayed, so the school sees all of it | DIV-005, DIV-013, DIV-087, DIV-088 |
 | 31 | Harry takes Gabrielle up as well as his own hostage, and the judges reward him for it | keep | Required: it's what puts Fleur in his debt | DIV-038 |
 | 32 | Sirius in the cave above Hogsmeade: Crouch's history, and Bertha Jorkins missing | keep | | |
 | 33 | Rita's Witch Weekly piece casts Hermione as a girl toying with Harry and Krum; hate mail follows | **alter** | The whole school has now watched Dracaena claim Harry at the lake, and Rita has already printed the Yule Ball. What she runs instead, and whether the Hermione–Krum angle survives, is open. One piece we have: Dracaena taking the place of Harry Potter's "most precious treasure" | Q-052, DIV-040 |
-| 34 | Crouch Sr appears in the forest out of his mind, Krum is Stunned, and Crouch vanishes | keep | | |
+| 34 | Crouch Sr appears in the forest out of his mind, Krum is Stunned, and Crouch vanishes | keep | Held under the Imperius by his son, cast and murdered through Moody's hand and Moody's wand — the body that curses him belongs to the Auror he worked beside. Priori Incantatem on that wand is a clue available to Dumbledore (Q-114) | DIV-086 |
 | 35 | Harry falls into Dumbledore's Pensieve and sees the old trials: Karkaroff naming names, Bagman acquitted, Crouch Jr condemned alongside the Lestranges | alter | **Load-bearing twice over.** The cleared names are exactly what Fudge throws back at Harry in June. Add: alongside Karkaroff buying his freedom with names, the shape of **Lucius's** bargain gets said out loud in passing — he bought his with an heirloom, and Macnair came in with him. Harry has no use for it yet and Dracaena never hears it (DIV-084, Q-109) | DIV-047, DIV-058, DIV-084 |
 | 36 | Harry's vision of Voldemort punishing Wormtail | keep | | |
 | 37 | Hermione traps Rita in a jar, having worked out she's an unregistered Animagus | keep | | Q-038 |
@@ -80,11 +84,11 @@ Not beats, but true all through the book:
 | # | Canon beat | Verdict | Our version / notes | Refs |
 |---|---|---|---|---|
 | 38 | Third Task preparation; Moody drills Harry on hexes; Molly and Bill come up for the Task and Harry shows them the grounds | **keep, extended** | Dracaena joins the tour, on his arm, trying to look detached. Bill is charmed; it's what he reports that night | DIV-058 |
-| 39 | Third Task: the maze, the sphinx, Krum under the Imperius Curse, and Cedric and Harry taking the cup together | keep | | |
-| 40 | The graveyard: Cedric killed, Harry bound and bled, Voldemort returned, the circle, the duel, Priori Incantatem, and the escape with the body | keep | | |
-| 41 | Moody is Barty Crouch Jr; the Veritaserum confession | keep | | |
+| 39 | Third Task: the maze, the sphinx, Krum under the Imperius Curse, and Cedric and Harry taking the cup together | **alter** | Krum is never Imperiused and Fleur is never Stunned: Crouch cannot afford to act in front of a crowd, and his only act is the Portkey, set before the maze is sealed. Both get honourable exits and Harry wins on merit. The maze has to be designed rather than inherited: Q-118. Relayed, so the school watches | DIV-086, DIV-087, DIV-088, Q-118 |
+| 40 | The graveyard: Cedric killed, Harry bound and bled, Voldemort returned, the circle, the duel, Priori Incantatem, and the escape with the body | **alter** | The charge lands in Harry when the victory resolves and is drawn out of him for the ritual: the strongest he will ever be, arriving while he is bound to a headstone and useless. Voldemort gains a body and nothing permanent. **How the shared victory resolves, and so how Cedric dies, is parked: Q-115.** Lucius's window is in here (DIV-057) | DIV-087, DIV-057, Q-115 |
+| 41 | Moody is Barty Crouch Jr; the Veritaserum confession | **alter** | Crouch rides him too hot in Dumbledore's office and Moody throws him out — the hand on the wand wavers, and that is what saves Harry. The trunk holds a sleeper, not a prisoner; Snape's antidote brings him round, and the confession carries the exposition as it does in canon | DIV-086 |
 | 42 | Dumbledore's office: Harry gives his account | keep | He tells it once, here, and Dumbledore will not let him be asked again | DIV-058 |
-| 43 | The hospital wing: Fudge refuses the story, Snape shows his Mark, Dumbledore sends out the Order, and Fudge and Dumbledore break | **alter** | Dracaena is in the room and does not leave it. The order changes: Harry sleeps first, and Fudge's row wakes him. Harry keeps Lucius's name back, and she sees him do it; she defends Harry to the Minister's face | DIV-047, DIV-058, DIV-008 |
+| 43 | The hospital wing: Fudge refuses the story, Snape shows his Mark, Dumbledore sends out the Order, and Fudge and Dumbledore break | **alter** | Dracaena is in the room and does not leave it. The order changes: Harry sleeps first, and Fudge's row wakes him. Harry keeps Lucius's name back, and she sees him do it; she defends Harry to the Minister's face. **Fudge takes Crouch into custody and has him Kissed days later,** at the Ministry, destroying the one witness who could corroborate Harry — which is where B5's campaign starts, and which Dumbledore, who let him be taken, owns | DIV-047, DIV-058, DIV-008, DIV-086 |
 | 44 | The Leaving Feast; Dumbledore's speech about Cedric; the Durmstrang party leaves | keep | | |
 | 45 | On the train, Draco, Crabbe and Goyle ambush the compartment and are hexed flat by all three | **cut** | The last train scene is Ron's confrontation and Lucius at King's Cross. Dracaena is not ambushing anyone this year | DIV-063, DIV-057 |
 | 46 | Harry forces his thousand Galleons on Fred and George to be rid of them | **alter** | He gives them the gold dressed as an investment so their pride survives it. The framing is Dracaena's idea. He never means to collect; they insist on repaying him anyway, and settle on free products for life | DIV-062 |
@@ -100,6 +104,7 @@ Beats with no canon equivalent.
 | Her owls home; Lucius suspects, Narcissa confirms it and takes Harry's side; the green dress | December, before the Ball | DIV-040, [the-green-dress](../../scenes/b4/the-green-dress.md) |
 | Rita prints that they went to the Ball together | Right after the Ball | DIV-040 |
 | The memory of the Ball gives her a corporeal Patronus | After the Ball | DIV-027 |
+| Dumbledore tells Harry plainly what the contract will do to him if he refuses, and what the prize actually is | November, after the naming | DIV-087 |
 | Dumbledore has a word with her as he puts the hostages under | Eve of the Second Task | DIV-046 |
 | At the lake she clings to him, berates him, shoves Fleur off and kisses him in front of the school | Second Task | DIV-038, [second-task](../../scenes/b4/second-task.md) |
 | Fleur's three days: the test, then the pantomime that hands Dracaena a public win | The three days after the Second Task | DIV-037, DIV-038, [the-little-basilisk](../../scenes/b4/the-little-basilisk.md) |
@@ -124,5 +129,9 @@ Beats with no canon equivalent.
 - **Beat 24** — the knock-ons of cutting Cho: Parvati, Padma, Pansy, and who takes whom (Q-008).
 - **Beat 29** — where she gets the gillyweed, and what becomes of Dobby's errand (Q-051).
 - **Beat 30** — Ron without the hostage spot (Q-010).
+- **Beat 11a** — Harry's reaction to watching her bounced, this early in the book, and what Lucius does about an Auror assaulting his heiress (Q-117).
+- **Beat 39** — the maze has to be designed rather than inherited, now that Crouch does nothing in it (Q-118).
+- **Beat 40** — **the big one, parked for a session of its own:** how a shared victory resolves, and so how Cedric dies (Q-115). Whether Harry is ever told (Q-121).
+- **Standing** — the clue chain that replaces canon's flask and tongue (Q-114); what Crouch teaches Harry through Moody, and what our own rules say it costs him (Q-116); whether the spectators feed the Goblet (Q-119); past champions worth naming and why the Tournament was abolished (Q-120); how the charge's absence sits in B5 without explaining Harry's anger away (Q-122).
 - **Beat 33** — Rita's post-Task coverage (Q-052).
 - **Beat 14** — how much of S.P.E.W. survives and whether the knitted hats do (Q-093); who the castle's household is, and so whether the hats could ever have worked at all (Q-099). Winky's exact placement, where she is buried and what the marker says, and what her canon role as the witness to Crouch's secret was carrying (Q-094). Why nobody's grief saves her, Hermione's included (Q-093). Where the "better master" scene sits and whether Hermione is in the room for it (Q-098).

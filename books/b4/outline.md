@@ -23,7 +23,10 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 
 - At the World Cup the veela don't touch Harry: he's already in love without knowing it. DIV-037
 - Harry never asks Cho. She's a rival only in Dracaena's head, who saw the veela leave him cold and assumes it's Cho. DIV-041
+- It is the real Moody all year, under the Imperius, with Crouch Jr asleep in the trunk holding him down. His teaching is genuinely his, which is why Harry's help was real and why Voldemort needed nobody to fake it. DIV-086, [alastor-moody](../../characters/alastor-moody.md)
+- Crouch takes Moody over to bounce Dracaena down a corridor as a ferret: his one unforced act of the year, and the reader's best clue. DIV-086, Q-117
 - The Duelling Club stays open, and the visiting students join. Harry beats a Durmstrang student who has taken an interest in Dracaena, too aggressively, and Rita Skeeter gets her ammunition. DIV-028, DIV-029, [durmstrang-challenger](../../scenes/b4/durmstrang-challenger.md)
+- The Goblet binds Harry, and the binding has teeth: refusing costs him his magic, which means Privet Drive for good and never seeing her again. Dumbledore tells him so plainly in November, along with what the prize really is, and cannot spring the trap because the one counter is what the Goblet forbids. DIV-087, [triwizard](../../setting/triwizard.md)
 - Sirius plants the idea of asking Dracaena to the Ball. DIV-019
 - Before the Ball, Dracaena's owls home tip off Lucius, and Narcissa takes Harry's side. DIV-040, [the-green-dress](../../scenes/b4/the-green-dress.md)
 - 🔒 Harry asks Dracaena to the Yule Ball and she accepts: the turning point. DIV-004, DIV-013, [yule-ball](../../scenes/b4/yule-ball.md)
@@ -33,6 +36,8 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 - On the eve of the Second Task, Dumbledore has a word with her. DIV-046
 - Harry goes down on a gillyweed extract Dracaena brewed. At the lake she claims him and kisses him in front of the school. DIV-038, DIV-039, [second-task](../../scenes/b4/second-task.md)
 - Fleur tests Harry's heart with her charm, then hands Dracaena a public win. DIV-037, DIV-038, [the-little-basilisk](../../scenes/b4/the-little-basilisk.md)
+- In the graveyard the charge lands in Harry as the victory resolves and is drawn out of him for the ritual: the strongest he will ever be, arriving while he is bound to a headstone and useless. How the shared victory resolves, and so how Cedric dies, is parked. DIV-087, Q-115
+- Moody throws Crouch out in Dumbledore's office when Crouch rides him too hot, and that is what saves Harry. Fudge takes Crouch into custody and has him Kissed days later, destroying the only witness who could corroborate Harry. DIV-086
 - In the graveyard, unseen, Lucius takes his daughter's ribbon back off Harry's wrist and Stuns Avery to open him a way out. DIV-057
 - The hospital wing: Sirius shoves her to the bedside, Dumbledore shelters her, and she guards Harry all night. "Sleep well, my prince." DIV-058, [the-hospital-wing](../../scenes/b4/the-hospital-wing.md)
 - After the Third Task, in the hospital wing, Harry keeps Lucius's name from Fudge, with Dracaena there. She defends him to the Minister's face, and it reaches her father. DIV-047, DIV-058, [the-missing-name](../../scenes/b4/the-missing-name.md)
