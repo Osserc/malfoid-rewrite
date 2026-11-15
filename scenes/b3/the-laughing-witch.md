@@ -21,7 +21,7 @@ Pays off the Dementor garrison that has hung over the whole book, turns Harry's 
 
 ## Beats
 
-1. The Dementors, maimed and starving after the lake, mass on the castle. *"They are wounded, Filius, and they seek to replenish their strength"* — six words that recast what a thirteen-year-old did at the lake.
+1. The Dementors, maimed and starving after the lake, mass on the castle. **Nothing is holding them and nothing ever was** — the garrison is an arrangement, not a leash (DIV-084), and an arrangement does not survive a thirteen-year-old maiming the horde. *"They are wounded, Filius, and they seek to replenish their strength"* — six words that recast what a thirteen-year-old did at the lake.
 2. The staff hold the walls with their Patronuses. The castle is awake; the corridors are full.
 3. McGonagall transfigures her battle garb onto herself as she walks, in front of the students. Nobody has ever seen it.
 4. Flitwick gives her back the enhancer he has been holding since the spring, and covers her. She goes up, casts Lustrum, and the swarm burns. The fire does not spread: the grass and the trees are untouched.

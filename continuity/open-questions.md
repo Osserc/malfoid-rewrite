@@ -690,14 +690,14 @@ Still open:
 
 ## Answered
 
-### Q-108 · Whose lore is the leash? (DIV-084)
+### Q-108 · Whose lore is the spell? (DIV-084)
 
-*Answered: ancient Malfoy lore, and nobody we know made it.* Recorded in **DIV-084**.
+*Answered: ancient Malfoy lore, and nobody we know made it.* Recorded in **DIV-084** as ***Arceo***.
 
-- **Lucius found it; he did not write it.** He is a logistics man, which the bible already says, so authorship would have been out of character. It is ancestral magic in the family holdings, so old nobody remembered what it was for.
-- **It was a defensive spell, and a decent one** — a Malfoy ancestor's way of making Dementors want to be elsewhere. That it began as a kindness is the whole point.
-- **Macnair cursed it**, on hearing Lucius describe it, by wanting it to mean the opposite. Dark Magic runs on intent, so a brute with the right appetite needed no scholarship. It gives him something to be besides an axe without making him the linchpin.
-- **The Ministry bought two different things**: the clean original from Lucius, as the price of the Imperius story, and Macnair himself, as the only man who could work the cursed one.
+- **Lucius found it; he did not write it.** He is a logistics man, which the bible already says, so authorship would have been out of character. Voldemort asked him for a way to herd the Dementors he already had; Lucius went through the family holdings and came back with an ancestor's charm.
+- **It was a defensive spell, and a decent one** — a way of making Dementors want to be elsewhere. That it began as a kindness is the whole point.
+- **There is no second spell.** Macnair did not curse anything and nothing was altered. *Arceo* means both *ward off* and *shut in*, and Dark Magic runs on intent, so the same charm gives orders to anyone who means it that way. He was the first to mean it; Umbridge is the second (DIV-085).
+- **The Ministry bought the charm from Lucius** as the price of the Imperius story, and took Macnair in under the same settlement with no position and nothing on paper.
 - **Delivery:** the B4 Pensieve, alongside Karkaroff. Dracaena has only the Imperius story.
 
 Struck: Bellatrix (a weapon, not a researcher), and a new character (a slot spent on backstory).
@@ -709,9 +709,9 @@ Struck: Bellatrix (a weapon, not a researcher), and a new character (a slot spen
 - They have factions. Canon gestures at Dementors feeling fury and communicating with each other and never develops it; we develop it.
 - Some went to Voldemort. Azkaban kept running on a reduced contingent, so the prison needs no explaining away and his side gains a real force.
 - **The ones who stayed were not loyal — they were gourmands.** Azkaban's despair is a vintage they had acquired a taste for. Worse than defecting, and a far heavier charge against the place than loyalty would have been.
-- The defectors: McGonagall and others like her destroyed many, and the remnants went back to Azkaban, because they are an asset. How they were put back is **DIV-084**, the leash.
+- The defectors: McGonagall and others like her destroyed many, and the remnants went back to Azkaban, because they are an asset. How, and why they stayed once nobody was casting: **DIV-084**.
 - Fudge's B5 claim about Ministry control is **not** a lie. It is true, and the people who built the thing making it true can take it back.
-- Macnair stays the Ministry's Dementor liaison — but the liaison was Claude's proposal; the amnesty and the leash are the author's, and they are what give the role teeth.
+- Macnair works the Dementors for the Ministry, but with no position and nothing on paper. The liaison idea was Claude's; the amnesty and the spell are the author's, and they are what give the role teeth.
 
 ### Q-107 · If the dates are interior, how does the reader get them? (DIV-079)
 

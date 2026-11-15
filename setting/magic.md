@@ -40,16 +40,23 @@ A cousin of Fiendfyre. Where Fiendfyre destroys everything, **Lustrum burns what
 ### The Dementors
 
 - **They can be destroyed,** and the Ministry knows it. They are a dangerous magical creature, not a fixture of the universe: huntable, the way wizards hunted the British giants to nothing. Lustrum is McGonagall's method and the one the books show, not the only one there is. The Ministry keeps them anyway, because they are useful ([azkaban](../problems/azkaban.md)).
-- **They can be hurt.** A strong enough Patronus does real damage, and a wounded Dementor is a starving one. That is what turns Harry's Patronus at the lake into a siege (DIV-081).
+- **They can be hurt.** A strong enough Patronus does real damage, and a wounded Dementor is a starving one. That is what turns Harry's Patronus at the lake into a siege (DIV-081) — and nothing is restraining them when it happens, because *Arceo* is not on them and never was.
 - **They are not one thing** *(settled)* · DIV-083. They have factions, and the first war split them. Canon gestures at Dementors feeling fury and talking among themselves and never follows it up; we do.
   - **Some went over to Voldemort and some did not.** Azkaban kept running on a reduced contingent, which is why the prison needs no explaining away, and his side gained a real force. It also removes canon's worst piece of timing.
   - **The ones who stayed were never loyal.** Azkaban's despair is a particular vintage — concentrated, renewable, served daily — and they had acquired a taste for it. They are gourmands, which is worse than traitors, and it is the heaviest single charge against the place: the things that guard it prefer it.
   - **The defectors** were hunted. McGonagall and others like her destroyed a great many, and the remnants were put back in Azkaban, because they are an asset.
-- **The leash** *(settled)* · DIV-084. What put them back, and what holds them now, had three lives.
-  1. **A Malfoy ancestor's defence.** Ancient, clean, and kind: it gets under a Dementor's skin and makes it want to be elsewhere. A way to push them off a house, off a road, off a child.
-  2. **Macnair's collar.** In the first war Lucius brings the find to Voldemort and Macnair turns it round — the same magic saying *come here* instead of *go away*. He led the horde with it.
-  3. **The Ministry's two purchases.** The clean original from Lucius, as the price of the Imperius story being believed, which it now uses openly and extensively — human guards at Azkaban, habitable Ministry buildings, and in B3 the thing the Hogwarts garrison was meant to be held off the students with. And Macnair himself, as the only defector who can work the cursed version.
-  So the Ministry's hold is one employee, and Fudge's B5 line is wrong rather than false (DIV-085). Policy in [azkaban](../problems/azkaban.md).
+### Arceo *(settled)* · DIV-084
+
+One spell, one incantation, and no second version. ***Arceo*** — first person singular, like *Accio* and *Protego* — means *to ward off, to keep at a distance*, and equally *to shut in, to enclose*. One verb for both halves of its life, which is the whole design: what it does is decided by what the caster wants while casting it (*Dark Magic runs on intent*, below).
+
+- **It was made as a defence.** A Malfoy ancestor's charm for getting under a Dementor's skin so it wants to be elsewhere — pushing them off a house, off a road, off a child. Clean magic. Macnair's discovery, generations later, was only that wanting the opposite makes it say *come here*.
+- **It is upkeep, not ownership.** A continuous influence and nothing more. There is no casting it once and keeping the creature; stop, and it leaves when it likes.
+  - **A place can be warded permanently**, because the enchantment sits in the stone. That is how Azkaban's human guards survive, how Ministry buildings stay habitable, and what the B3 garrison was supposed to be held off the students with. This is the ordinary, sanctioned, openly used half.
+  - **A creature cannot be owned.** Commanding has to be sustained, by a caster, for as long as it is wanted.
+- **So the Dementors are not under anyone's control.** They stay because the terms are good. Macnair and the Death Eaters treated them well, and they learned that taking orders feeds them better than wandering does. They would leave for a better offer, and in time they get one. Nobody at the Ministry has understood this in fourteen years.
+- **Naming.** The registers say *the Arceo Charm*; in departmental use it is just warding. **The commanding use has no name**, because naming it would be admitting to it — so there is nothing written down anywhere, which is exactly why it keeps being rediscovered (DIV-085). "The leash" and "the collar" are bible shorthand and must never reach the page.
+
+Who traded it, and the consequences: [azkaban](../problems/azkaban.md), DIV-084.
 
 ## Dark Magic runs on intent *(draft)* · DIV-084
 
