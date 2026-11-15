@@ -41,7 +41,11 @@ A cousin of Fiendfyre. Where Fiendfyre destroys everything, **Lustrum burns what
 
 - **They can be destroyed,** and the Ministry knows it. They are a dangerous magical creature, not a fixture of the universe: huntable, the way wizards hunted the British giants to nothing. Lustrum is McGonagall's method and the one the books show, not the only one there is. The Ministry keeps them anyway, because they are useful ([azkaban](../problems/azkaban.md)).
 - **They can be hurt.** A strong enough Patronus does real damage, and a wounded Dementor is a starving one. That is what turns Harry's Patronus at the lake into a siege (DIV-081).
-- **Whether some defected to Voldemort in the first war:** Q-105.
+- **They are not one thing** *(settled)* · DIV-083. They have factions, and the first war split them. Canon gestures at Dementors feeling fury and talking among themselves and never follows it up; we do.
+  - **Some went over to Voldemort and some did not.** Azkaban kept running on a reduced contingent, which is why the prison needs no explaining away, and his side gained a real force. It also removes canon's worst piece of timing.
+  - **The ones who stayed were never loyal.** Azkaban's despair is a particular vintage — concentrated, renewable, served daily — and they had acquired a taste for it. They are gourmands, which is worse than traitors, and it is the heaviest single charge against the place: the things that guard it prefer it.
+  - **The defectors** were hunted. McGonagall and others like her destroyed a great many, and the remnants were put back in Azkaban, because they are an asset.
+- **The leash** *(draft)* · DIV-084. What put them back, and what holds them now, is a Death Eater spell handed to the Ministry after the war in exchange for an amnesty. It works — so Fudge's B5 claim that they cannot leave Ministry control is true rather than a lie, and the people whose magic it is can take it back. Whose lore: Q-108. Policy and consequences in [azkaban](../problems/azkaban.md).
 
 ## Love as magic
 

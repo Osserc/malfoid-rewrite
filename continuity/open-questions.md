@@ -660,16 +660,22 @@ The fire always takes its cost out of the caster. Does the cost scale with the *
 
 If it is the latter, the price is roughly fixed per cast and set by her own account — which decides how many times she can cast in B7, and implies her scars should have been getting lighter across sixteen years. Either they are, and that is an arc, or they are not, and that says something about what she has kept adding.
 
-### Q-105 · Did Dementors defect in the first war? (DIV-080)
+### Q-108 · Whose lore is the leash? (DIV-084)
 
-Canon has them loyal to the Ministry through the first war and switching only after the return, which does not track: a decade in Azkaban while Voldemort is at his strongest, then a change of side within two years of his coming back.
+The spell that holds the Dementors is Death Eater work, which is the whole point: Voldemort can take it back. Settled. **Who made it is not.**
 
-Author's lead: some of them went over the first time too. What it buys — it supplies the **occasion** for Lustrum's reputation as the Dementor-killer, which "she burned Death Eater houses" does not, and it turns Minerva's objection to the garrison from squeamishness into an argument with evidence behind it.
+Not Voldemort himself — the author's call, and right: spreading the infamy makes the other side a movement rather than one man with hobbies.
 
-Open:
-- What became of the defectors in 1981. Destroyed (so the Ministry knows for certain they are killable and kept the rest anyway), or **taken back into service** — much nastier, more in character for this Ministry, and it means the things on the lawn in B3 are the same things that fought for Voldemort, which is why her restraint at the Quidditch pitch is enormous.
-- Knock-on to canon's B5, where Fudge insists Dementors cannot leave Ministry control. That becomes a documented lie, and Harry's hearing changes shape.
-- **Macnair** (Claude): he is the Ministry's executioner, a Death Eater, and canon later makes him Voldemort's envoy to the giants. Make him the Ministry's Dementor liaison and the B5 walkout has a mechanism, using a character already standing in the B3 scene.
+Not Macnair. He is a brute. He swings the axe and works the leash; he does not invent dark magic, and giving him the authorship would flatten the only thing that makes him interesting.
+
+Candidates:
+
+- **Ancient Malfoy lore, out of the cellar — and traded by Lucius, not Macnair.** *(Claude's recommendation.)* Canon has Lucius walk free in 1981 on an Imperius claim that has always been thin; give him something to sell and the thinness goes away. It explains why a Ministry that had just learned it had no hold on the Dementors would take a Death Eater's bargain at all. It makes Dracaena's father the reason Azkaban still works, which lands the Azkaban argument on the one person in the series it can hurt — and it stacks with Dobby and Buckbeak as the third and heaviest item in the case against him (Q-098, DIV-076). Very Lucius: he sells the method and keeps the original. And Voldemort does not need to burgle the Ministry in B5–B7, he needs the Malfoys, which gives him a reason to be at that table beyond humiliation.
+  - **The risk, and it is real:** DIV-075 already makes the old houses custodians of an atrocity they did not author. A second one is a rhyme if we mean it and repetition if we don't. The defence is that this one they *did* author, and it is recent enough to answer for.
+- **Bellatrix.** The bitter version: she built the thing that held her own jailers. But she is a weapon, not a researcher, and she is too young for anything that reads as old lore.
+- **Someone new.** Costs a character slot to serve a backstory function. Only worth it if we want a face for the Azkaban problem specifically.
+
+Downstream either way: it has to be something Wormtail could know about from the inside.
 
 ### Q-106 · The siege and Snape's Patronus (DIV-081, DIV-043)
 
@@ -684,6 +690,17 @@ Still open:
 - Harry must not see it either way.
 
 ## Answered
+
+### Q-105 · Did Dementors defect in the first war? (DIV-080, DIV-083)
+
+*Answered: yes, and not all of them.* Recorded as **DIV-083**.
+
+- They have factions. Canon gestures at Dementors feeling fury and communicating with each other and never develops it; we develop it.
+- Some went to Voldemort. Azkaban kept running on a reduced contingent, so the prison needs no explaining away and his side gains a real force.
+- **The ones who stayed were not loyal — they were gourmands.** Azkaban's despair is a vintage they had acquired a taste for. Worse than defecting, and a far heavier charge against the place than loyalty would have been.
+- The defectors: McGonagall and others like her destroyed many, and the remnants went back to Azkaban, because they are an asset. How they were put back is **DIV-084**, the leash.
+- Fudge's B5 claim about Ministry control is **not** a lie. It is true, and the people who built the thing making it true can take it back.
+- Macnair stays the Ministry's Dementor liaison — but the liaison was Claude's proposal; the amnesty and the leash are the author's, and they are what give the role teeth.
 
 ### Q-107 · If the dates are interior, how does the reader get them? (DIV-079)
 

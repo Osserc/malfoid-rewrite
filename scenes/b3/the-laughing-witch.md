@@ -52,5 +52,5 @@ Pays off the Dementor garrison that has hung over the whole book, turns Harry's 
 
 - **Q-003** — where Fudge, Macnair, Dumbledore and Snape are through the night, and how it fits the rebuilt climax. Recommendation on the table: they hear it perfectly well and do not come, because Fudge will not recall the garrison he authorised and will not let Dumbledore leave. Not "they were out of earshot", which reads as furniture and hands Dumbledore an alibi he should not have.
 - **Q-106** — Snape does not cast, settled. What he is doing instead is open; the proposal on the table is that he is underground with his House, which is where a Head of House belongs and which places him for Q-003 for free.
-- **Q-105** — whether the Dementors on that lawn are the same ones that went over to Voldemort in the first war, which is what makes Minerva's restraint enormous.
+- **Settled since:** the Dementors on that lawn may well be the ones that went over to Voldemort and were put back into service afterwards (DIV-083, DIV-084), which is what makes her restraint at the match enormous and what she is actually burning in June.
 - Where Dracaena is while every other student is at a window.

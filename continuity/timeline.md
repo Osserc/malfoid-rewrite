@@ -22,7 +22,9 @@ _Marauders era, the first war. Not yet worked out._
 
 - **1980-06-05**: Dracaena born (canon default: Draco's birthday). DIV-001
 - **1980-07-31**: Harry born.
+- **During the war**: the Dementors split. Some go over to Voldemort; the rest stay in Azkaban, not out of loyalty but because they have developed a taste for what it serves. The prison runs on a reduced contingent throughout. DIV-083
 - **1981-10-31**: The Potters are killed; Voldemort falls.
+- **After the fall**: the surviving defectors are hunted — McGonagall and others destroy a great many — and the remnants are put back in Azkaban rather than finished, because they are an asset. What puts them back is **the leash**, a Death Eater spell traded to the Ministry for an amnesty, operated ever since by Macnair. The Ministry's hold on the Dementors is therefore real, recent and borrowed. Whose lore the spell is: Q-108. DIV-083, DIV-084
 - **Early 1980s**: Lucius escapes Azkaban by claiming the Imperius Curse (canon). A Death Eater still at large tries to curse him for it and hits Narcissa, who can never have another child. DIV-030
 - **Soon after the curse**: Snape starts brewing Narcissa's medicine, which holds the curse at bay without lifting it. DIV-030, DIV-031
 - **c. 1985**: Dracaena, about five, meets Snape at the Manor and asks to learn to brew her mother's medicine. He sends her one of his old potions books; private lessons follow until Hogwarts. DIV-031

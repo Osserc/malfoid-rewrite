@@ -34,7 +34,7 @@ Everyone who appears, one line each. Characters with a full file are linked. "Ch
 | Nola Laurel | Balthier's girlfriend, fifth-year Slytherin, Muggle-born, no connection to Voldemort. Taller than he is. In the DA in B5, and comes back for the battle | DIV-055, DIV-082 | — |
 | Arvilla Strix | Balthier's mother. Pureblood heiress, not of the Sacred Twenty-Eight; the only other survivor of her house | DIV-079, DIV-082 | — |
 | Basil Thynne | Balthier's father, dead. A half-blood social climber who married into the Strix family and attached himself to Voldemort for the standing. Killed in McGonagall's raid | DIV-079, DIV-082 | — |
-| Walden Macnair | Canon's executioner, at the castle for Buckbeak. Afraid of McGonagall, and with reason. Candidate for the Ministry's Dementor liaison | DIV-081, Q-105 | — |
+| Walden Macnair | Canon's executioner, at the castle for Buckbeak. Afraid of McGonagall, and with reason. **The Ministry's Dementor liaison:** he works the leash, which is his real value and the reason Voldemort wants him. A brute, not an inventor — the spell is not his | DIV-081, DIV-083, DIV-084, Q-108 | — |
 | Pomona Sprout | No fighter, and does more at the B3 siege than could be asked of her | DIV-081 | — |
 | Lee Jordan | Sitting beside McGonagall when the Dementors swarm the match. Sees the scorch marks on the railing and has the sense to say nothing | DIV-079 | — |
 | The Slytherins who stay | A handful seeded from B1 as ordinary people, not bullies. Some join the DA; some refuse the evacuation and fight. One of them is Dracaena's friend (Pansy, or Daphne Greengrass) | DIV-055, Q-070 | — |

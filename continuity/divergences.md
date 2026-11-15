@@ -880,7 +880,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **Strix palace.** Late in the first war she led the raid that destroyed the Strix household and killed Basil Thynne. Arvilla Strix and her infant son survived, which under Lustrum's rule was a verdict rather than luck (DIV-082).
 - **Why:** it gives the series' most reliable adult a real war behind her, makes the Patronus charm say something uncomfortable about what counts as a happy memory, and puts a person on the staff who can argue the Azkaban question from experience ([problems/azkaban.md](../problems/azkaban.md)).
 - **Home:** [characters/minerva-mcgonagall.md](../characters/minerva-mcgonagall.md)
-- **Ripples:** Q-103, Q-104, Q-105, Q-106, Q-107 · DIV-080, DIV-081, DIV-082 · [threads/patronus.md](../threads/patronus.md) · [continuity/timeline.md](timeline.md)
+- **Ripples:** Q-103, Q-104, Q-106, Q-107 · DIV-080, DIV-081, DIV-082, DIV-083 · [threads/patronus.md](../threads/patronus.md) · [continuity/timeline.md](timeline.md)
 
 ### DIV-080 · Dementors can be destroyed
 
@@ -897,7 +897,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **The policy.** The Ministry keeps the Dementors because they are useful. McGonagall is a loud and unpopular proponent of exterminating them.
 - **Why:** it converts Azkaban from scenery into a choice somebody is making, and gives the pureblood side a documented grievance that is not a lie told by losers (DIV-008, Q-016).
 - **Home:** [setting/magic.md](../setting/magic.md) (the spell and the creatures) · [problems/azkaban.md](../problems/azkaban.md) (the policy)
-- **Ripples:** Q-016, Q-103, Q-104, Q-105 · DIV-025, DIV-027, DIV-079, DIV-081 · [core/themes.md](../core/themes.md)
+- **Ripples:** Q-016, Q-103, Q-104, Q-108 · DIV-025, DIV-027, DIV-079, DIV-081, DIV-083, DIV-084 · [core/themes.md](../core/themes.md)
 
 ### DIV-081 · B3: the Dementors storm Hogwarts
 
@@ -912,7 +912,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **The legend.** The school never gets an explanation, and the night becomes one of Hogwarts's stories.
 - **Why:** it makes Harry's Patronus an event with consequences rather than a rescue, pays off a garrison that has hung over the whole book, and solves the climax's logistics problem — the chaos Dracaena caused is what lets her finish the job (Q-003, Q-025).
 - **Home:** [scenes/b3/the-laughing-witch.md](../scenes/b3/the-laughing-witch.md)
-- **Ripples:** Q-003, Q-025, Q-105, Q-106 · DIV-018, DIV-079, DIV-080, DIV-082 · [books/b3/outline.md](../books/b3/outline.md)
+- **Ripples:** Q-003, Q-025, Q-106 · DIV-018, DIV-079, DIV-080, DIV-082, DIV-083 · [books/b3/outline.md](../books/b3/outline.md)
 
 ### DIV-082 · The Thynnes, and Nola Laurel
 
@@ -929,3 +929,30 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Why:** canon's Slytherins are a wall of sneers. These two are ordinary people with a bad history, on the page from B3, so the end is not a conversion. They also give the Strix raid a face in the castle.
 - **Home:** [threads/house-unity.md](../threads/house-unity.md)
 - **Ripples:** Q-038, Q-070 (part answered) · DIV-008, DIV-055, DIV-079, DIV-081 · [characters/_roster.md](../characters/_roster.md)
+
+### DIV-083 · The Dementors are not one thing
+
+- **Status:** settled
+- **Canon:** an undifferentiated mass. They serve the Ministry through the first war and change sides only after Voldemort returns, which does not track — a decade in Azkaban while he was at his strongest, then a switch within two years of his coming back. Canon also gestures at them having feelings and communicating among themselves, and never follows it up.
+- **Ours:** they have factions, and the first war split them.
+  - **Some went over to Voldemort, and not all of them.** Azkaban keeps running through the war on a reduced contingent, so the prison does not have to be explained away, and Voldemort's side gets a real force out of it. It also removes canon's worst piece of timing: the scary demons had no reason to wait.
+  - **The ones who stayed are not loyal. They are gourmands.** Azkaban's despair is a particular vintage — concentrated, renewable, served daily — and they have developed a taste for it. There is nothing noble in staying and it is worse than defecting, because it is a far heavier charge against Azkaban than loyalty would ever have been: the things that guard it *prefer* it.
+  - **What became of the defectors.** McGonagall and others like her destroyed a great many. The remnants were sent back to Azkaban, because they are an asset and this Ministry does not throw assets away. How they were put back: DIV-084.
+  - **Which means the garrison in B3 may be those same things**, taken back into service. That is what makes McGonagall's restraint at the Quidditch match enormous: she is standing twenty feet from her own war, carrying the one thing that could end it, with the school behind her.
+- **Why:** it fixes canon's chronology, supplies the occasion for Lustrum's reputation as the Dementor-killer (which "she burned Death Eater houses" does not), gives Azkaban its single worst fact, and turns McGonagall's objection to the garrison from squeamishness into an argument with evidence behind it.
+- **Home:** [setting/magic.md](../setting/magic.md) (the creatures) · [problems/azkaban.md](../problems/azkaban.md) (the policy)
+- **Ripples:** Q-108, Q-016 · DIV-080, DIV-081, DIV-084 · [characters/minerva-mcgonagall.md](../characters/minerva-mcgonagall.md) · [continuity/timeline.md](timeline.md)
+
+### DIV-084 · The leash, and who really owns it
+
+- **Status:** draft. Whose lore the spell is: Q-108.
+- **Canon:** in B5 Fudge insists the Dementors cannot leave Ministry control, and the books never say what that control consists of. Voldemort has them anyway, and nobody revisits the claim.
+- **Ours:** the control is real, it is recent, and it is a Death Eater spell.
+  - **Before 1981 there was no leash.** The Ministry had an arrangement with the Dementors, not a hold on them, and the defection proved the arrangement was worth nothing (DIV-083).
+  - **The leash was the price of an amnesty.** A piece of dark magic handed over after the war by someone buying his way out of Azkaban. It works. It is how the surviving defectors were put back in their cells and kept there, and it is the reason the Ministry could afford to keep them at all.
+  - **Macnair operates it.** The Ministry's executioner is also its Dementor liaison, because somebody has to be and nobody decent will. That is his real value, not the axe.
+  - **Fudge is not lying in B5 — he is right**, which is worse. The Dementors genuinely cannot leave Ministry control. What he does not know is who built the thing that holds them, or that its makers can take it back. On a reread, the most ridiculous line in his mouth is the true one.
+  - **Voldemort inherits; he does not steal.** He never has to break the leash. He has only to reach the people whose magic it is. **Wormtail** supplies him: the one Death Eater at liberty through the missing years, who knows exactly what was traded for whose freedom. It recasts the graveyard, where Voldemort tells Macnair he will have better work soon than killing beasts for the Ministry — flattery in canon, a job offer here.
+- **Why:** it turns the B5 line from a plot hole into a trap, gives Voldemort's hold on the Dementors a mechanism instead of an assumption, and makes Azkaban's continued operation a debt the Ministry owes the other side — DIV-008 fuel aimed squarely at us.
+- **Home:** [problems/azkaban.md](../problems/azkaban.md)
+- **Ripples:** Q-108, Q-016, Q-003 · DIV-080, DIV-083 · [characters/_roster.md](../characters/_roster.md) · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md)
