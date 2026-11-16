@@ -5,7 +5,7 @@ placement: Christmas night, 1994
 pov:
 characters: [harry-potter, dracaena-malfoy]
 threads: [harry-dracaena, sleeping-beauty]
-divergences: [DIV-004, DIV-013, DIV-019, DIV-041]
+divergences: [DIV-004, DIV-013, DIV-019, DIV-041, DIV-095]
 ---
 
 # The Yule Ball
@@ -30,10 +30,21 @@ The deal is one dance. During it, for an instant, Harry catches a warm smile on 
 
 It's her challenge, and he meets it. That's what she comes to love most about him: he never runs away, he always stands up, and he always meets her challenge. She raises the bar on him again in B7 ([apparate-dancing](../b7/apparate-dancing.md)).
 
+## The balcony *(settled)* · DIV-095
+
+What happens when he follows her out. **The leading candidate for beat 4** — the locked turn — though the lock only says the turn is here, not what it is.
+
+- **He gets close and says he wishes it could stay like this.** Not a line he has prepared; he is simply happier than he has ever been and says so badly.
+- **She asks: *Am I allowed to dream, Harry? Someone like me?*** It is not modesty and it is not fishing. She means it as a question of fact, and she is the only person in the castle who would ask it of herself in those terms.
+- **It is the first time she uses his given name**, and neither of them remarks on it. Everything before this is *Potter*.
+- **What she is asking about is September** — the corridor where she drew on Hermione Granger in front of him and he carried her to the hospital wing anyway (DIV-095, [the-ferret](the-ferret.md)). She knows exactly what he saw. The question is whether a person who does that gets to have this.
+- **It is the other half of the year's symmetry.** He gives her permission to want him; she gives him permission to want to win (DIV-089, Q-128). Each does it once, neither notices, and this is her half.
+- *(open)* What he answers, and how it runs into the kiss.
+
 ## Must keep
 
 He asks, she accepts, they go together, and it's the turning point.
 
 ## Open
 
-Q-008 (the relationship going in and coming out; Parvati, Pansy, Ron) · how the second dance relates to the turn in beat 4 · which dress she wears ([the-green-dress](the-green-dress.md)) · Q-114 (her reaction to the socks) · Q-098
+Q-008 (the relationship going in and coming out; Parvati, Pansy, Ron) · how the second dance and the balcony relate to the turn in beat 4 · what he answers her · which dress she wears ([the-green-dress](the-green-dress.md)) · Q-114 (her reaction to the socks) · Q-098

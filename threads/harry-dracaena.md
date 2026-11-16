@@ -75,10 +75,12 @@ Canon's isolation stands and gets worse. The people who claim to be protecting h
 | B3 | She spies on his Patronus lessons and studies the charm for him. The lap-pillow scene, which becomes his Patronus memory (DIV-018) | [lap-pillow](../scenes/b3/lap-pillow.md) |
 | B3 | 🔒 She saves Buckbeak (DIV-003). At the lake she confesses the swarm is her fault, his Patronus saves them all with a first flicker of resonance, and she flies Buckbeak to Sirius (DIV-018). His opinion of her turns | [buckbeak-rescue](../scenes/b3/buckbeak-rescue.md) |
 | B4 | The World Cup: the veela don't touch him. He's in love before he knows it (DIV-037). She notices, and assumes it's Cho (DIV-041) | |
+| B4 | The first week: she draws on Hermione in a corridor and Crouch bounces her down it as a ferret. Harry laughs at the Transfiguration, is horrified by the rest, and carries her to the hospital wing unasked, in front of everybody (DIV-095) | [the-ferret](../scenes/b4/the-ferret.md) |
 | B4 | Sirius plants the idea of asking her (DIV-019) | [yule-ball](../scenes/b4/yule-ball.md) |
 | B4 | The Durmstrang challenger: Harry beats a rival for her attention, too hard. She's delighted he's jealous, and would never use anyone to provoke him (DIV-029) | [durmstrang-challenger](../scenes/b4/durmstrang-challenger.md) |
 | B4 | Her owls home tip off Lucius before the Ball; Narcissa takes Harry's side (DIV-040) | [the-green-dress](../scenes/b4/the-green-dress.md) |
 | B4 | 🔒 The Yule Ball: he asks, she accepts. The turning point (DIV-004, DIV-013). Their first kiss. Rita prints it right after (DIV-040) | [yule-ball](../scenes/b4/yule-ball.md) |
+| B4 | The balcony, after the second dance: he wishes the night would never end, and she asks whether she is allowed to dream — *someone like me* — and uses his given name for the first time. She is asking about the corridor in September (DIV-095) | [yule-ball](../scenes/b4/yule-ball.md) |
 | B4 | 🔒 She is his Second Task hostage, and the dream begins (DIV-005, DIV-013). He goes down on her gillyweed extract (DIV-039). At the lake she claims him and kisses him in front of the school (DIV-038) | [second-task](../scenes/b4/second-task.md) |
 | B4 | Hooch's flying lesson: an hour among the first years correcting their technique and bickering about how it ought to be done, in front of the school, which concludes they are married. She is nice to small Gryffindors by accident. Then the dive: he watches her instead of Krum the whole way down and pulls out when she does, having forgotten there was a contest (DIV-091) | [the-flying-lesson](../scenes/b4/the-flying-lesson.md) |
 | B4 | Fleur tests his heart with her charm, then hands Dracaena a public win (DIV-037, DIV-038) | [the-little-basilisk](../scenes/b4/the-little-basilisk.md) |
@@ -120,6 +122,7 @@ Canon's isolation stands and gets worse. The people who claim to be protecting h
 | B3 Harry's Patronus | The lap-pillow scene (DIV-018) | B3 |
 | B3 his turn at the lake | Her sincerity glimpsed and dismissed: Potions (DIV-017), the lap-pillow smile, her Patronus study, her unguarded smiles at the Duelling Club (DIV-028). More needed (Q-035) | B1–B3 |
 | B4 Harry asks her | Sirius's nudge (DIV-019), resting on their one encounter (DIV-018) | B3, B4 |
+| B4 the balcony: *am I allowed to dream? Someone like me?* | Her being unmistakably vicious in front of him, and carried off by him anyway, in the first week of the book (DIV-095) | B4, [the-ferret](../scenes/b4/the-ferret.md) |
 | B4 Fleur's charm does nothing to him | His immunity already at the World Cup (DIV-037) | B4 |
 | B6 her broken promise | The promise (DIV-014) | B5 |
 | B6 Sectumsempra | A breakup brutal enough to lead there (DIV-015, Q-031). Her leaving the Duelling Club, so the Mirror is their first duel since (DIV-028) | B6 |

@@ -45,7 +45,7 @@ What he wants most is a body back, and the Goblet's hoard is too good an occasio
 
 There is no shared victory, because the Goblet never gets two claimants. The maze is an elimination — Cedric beats Fleur, Harry beats Krum, and Harry and Cedric fight in front of the Cup — and the Task is designed to make them meet, because an instrument for generating contribution naturally funnels four people towards one point.
 
-- **The 1994 committee thought it was the safe option.** No dragons, no drowning, just trained champions and wands, and nobody dies in a duel. The safest Task anyone ever designed for the Tournament is the one that got a champion killed, somewhere else, for reasons none of them could have planned for (Q-120).
+- **The 1994 committee thought it was the safe option.** No dragons, no drowning, just trained champions and wands, and nobody dies in a duel. The safest Task anyone ever designed for the Tournament is the one that got a champion killed, somewhere else, for reasons none of them could have planned for — and a wand-fight between champions is a judgement somebody made once before (*The roll of champions*, below).
 - **Nobody dares yield.** Nobody knows where the Goblet draws the line between being stopped and giving up, and testing it costs everything — all of your magic, and your place in the wizarding world with it. So the champions fight long past the point of sense. That is the floor under the wanting, not a substitute for it: all four of them want the pot, and Dracaena has already told Harry he had better want it too (DIV-089).
 - Full beats, including the Summoned Cup and the hand on the ankle: [scenes/b4/the-third-task.md](../scenes/b4/the-third-task.md).
 
@@ -59,8 +59,37 @@ There is no shared victory, because the Goblet never gets two claimants. The maz
 
 ## Watching the Tasks *(settled)* · DIV-088
 
-Canon asks a stadium to watch the surface of a lake and the outside of a hedge. Ours relays both. Whether the audience is part of the instrument: Q-119.
+Canon asks a stadium to watch the surface of a lake and the outside of a hedge. Ours relays both.
+
+### The audience *(settled)* · Q-119
+
+**The spectators are extra eyes, and that is all.** The Goblet has to witness a contribution before it can count it, which is what the judges and the scores are actually for; a crowd is simply a great many more judges, small ones, adding a marginal amount to what the panel already supplies.
+
+- **It is not a battery.** Nothing is drawn out of the spectators, the same rule as the champions, and the contest is never in danger of mattering less than the people watching it. An instrument you could feed by holding a rally would be a different story and a worse one.
+- **So the relay is part of the instrument** rather than a patch over canon's unwatchable Tasks (DIV-088).
+- **And the 1994 committee has one honest line of defence.** They lowered the lethality and made a little of it back on the gate — which is a defensible thing to have tried and nowhere near enough, since lethal is the yield and they knew it.
+
+## The roll of champions, and the abolition *(settled)* · Q-120
+
+Past victors are remembered for what they did afterwards, never for having won, because the winning is only when they were handed the means. Three names carry it, and they are three answers to the same question.
+
+- **Étienne Bouchard, Beauxbatons.** Took the pot and spent the rest of his life hunting things that had got out of hand, and is remembered for the Beast of Gévaudan — a creature that spent three years killing French peasants in front of Muggle witnesses, under a Statute of Secrecy that was barely seventy years old. The Muggle record calls it a wolf; the wizarding record has never agreed with itself about what it was. He did not merely kill a monster: he closed the worst breach of the Statute's first century. **A champion who used it in service.**
+- **Loxias, Durmstrang.** Took the pot and went looking for something better, and found the Elder Wand — which in our lore passes by blood, through killing (DIV-024). The Tournament did not fail to stop him. **It built him**, and handed a lifetime's practice to a man who then wanted the one wand that would top it. Whether he is anywhere in the wand's chain by B7 is open (Q-011). **A champion who used it on everyone.**
+- **Serena Passel, Hogwarts.** Took the pot and invented the Stunning Spell, which under our rules is not a charm but a moral technology: **a way to stop a man without wanting to hurt him, and therefore without staining the caster** (DIV-084). Before her, stopping somebody meant harming them, and every duel in Britain left something behind in both parties. She is the single most valuable thing anybody ever did with the prize, and she is what the Tournament's defenders cite for two centuries afterwards. What duelling looked like before her, and what that does to the culture the Duelling Club inherited: **Q-133.** **A champion who used it to change what magic is.**
+
+### Why it stopped
+
+- **The published reason is the death toll,** and the cockatrice is what let them close it — three dead children and a loose monster taking more. Nobody had to argue after that.
+- **The real reason is Loxias,** and it could not be said aloud, because saying it means saying what the prize is. A tournament that hands a decisive wizard to one of three nations every five years will eventually hand one to the wrong person, and it did.
+- **The escalation was built in.** If danger is the yield, every committee's incentive is to raise it, for ever, with no brake anywhere in the design. That is why the last century of the Tournament produced both its greatest champions and its worst casualty figures: **the golden age and the collapse are the same era and the same cause.**
+- **And the 1994 committee inherits the silence along with the Tournament.** They are reviving an instrument whose stated reason for closing was never the real one, which makes their confidence about safety worth exactly what it cost them.
+
+## The charge afterwards *(settled)* · Q-122, dropped
+
+**It leaves no mark on Harry.** The pot never settled into him, so there is nothing missing: no flatness, no sluggish magic, nothing for Madam Pomfrey to find and nothing to convalesce from. B5's Harry is furious about what was done to him, and the book must never be able to put his temper down to his magic.
+
+What survives is knowledge. He is the only person alive who knows what the prize actually was; he held it for about ninety seconds, tied to a headstone; and it was burned as fuel to build a body, on the same errand that killed Cedric Diggory. That is a sentence he can say once, to somebody who does not want to hear it, in a year when nobody believes him about anything.
 
 ## Open
 
-Q-118 (the maze's furniture, with no Crouch in it) · Q-119 (do spectators feed the Goblet) · Q-120 (past champions, and why it was abolished) · Q-122 (the charge's absence in B5) · Q-123 (how Harry beats Krum) · Q-125 (what the school saw, and B5)
+Q-118 (the maze's furniture, with no Crouch in it) · Q-123 (how Harry beats Krum) · Q-125 (what the school saw, and B5) · Q-133 (duelling before Passel)

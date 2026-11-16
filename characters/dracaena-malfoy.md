@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's rival and his tsundere love interest. 🔒 DIV-001
 **Canon baseline:** Draco Malfoy. Anything not overridden follows canon Draco, adjusted for the knock-on effects of her being a daughter (Q-001).
-**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–032, DIV-038–041, DIV-043, DIV-045–047, DIV-049, DIV-052, DIV-054, DIV-058–061, DIV-064, DIV-065, DIV-069–071
+**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–032, DIV-038–041, DIV-043, DIV-045–047, DIV-049, DIV-052, DIV-054, DIV-058–061, DIV-064, DIV-065, DIV-069–071, DIV-095
 
 ## Core
 
@@ -122,10 +122,11 @@ The morning after the Third Task, Harry says he should have pulled out of the To
 | B2 | So she sets out to prove to herself he was never special. That is what the competition is for |
 | B3 | She no longer knows where to stand. She has watched him kill a basilisk, so he *is* special — and she keeps the rivalry up because it is the only footing she has. Then Buckbeak, and the break with her father (🔒 DIV-003) |
 | B3, end | She has proved she can stand up to Lucius, and she knows he is exactly the prince she thought he was. **And now she feels unworthy of him**, and is sure she has lost him to somebody else — Cho, or Hermione |
-| B4 | Working out that she is allowed to love him for real |
+| B4 | Working out that she is allowed to love him for real. She asks him outright, on the balcony at the Ball: *am I allowed to dream, Harry? Someone like me?* (DIV-095) |
 
 - **She is too full of herself to fear the room.** She believes nothing in the world can touch her, which is her father's doing: he spent fourteen years almost never telling her no, because she is the only child he will ever have and he cannot afford to lose her — full account in [lucius-malfoy](lucius-malfoy.md), DIV-030. The single exception is her prince's opinion of her, which is why that is the only thing that can hurt her and why it takes four books.
 - **She is the image of her mother,** which is part of why: he cannot look at her without seeing Narcissa and the wound in the same glance.
+- **She is not on her way to being nice, and B4 opens by proving it.** In the first week of term she draws on Hermione Granger in a crowded corridor and is bounced down it as a ferret for her trouble, and Harry carries her to the hospital wing (DIV-095). The turn at the end of B3 was about *him* and about nobody else, and the balcony three months later is her asking whether a person who does that is allowed to want this.
 - **And Harry is the one who gives her permission** — by asking her to the Ball (🔒 DIV-004), with the Second Task sealing it (🔒 DIV-005). Which is the mirror of what she does for him in the same year, when she tells him it is all right to want to win (DIV-089). **Each of them spends B4 giving the other permission to want something,** and neither notices doing it.
 
 ## The tsundere engine

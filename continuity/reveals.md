@@ -56,7 +56,7 @@ Cells give the book and the scene or chapter where each party learns the truth. 
 | Nobody alive can detect an Imperius — so Lucius's acquittal can never be tested | B4, by implication: the whole castle missed one for ten months | ? He has the Pensieve in the same year and no use for either piece yet | **No.** She has the Imperius story and believes it (Q-109) | The Ministry of 1981: it is exactly why the defence worked, and why nobody could say otherwise | DIV-086, DIV-084, Q-109 |
 | What the Goblet really is: the Tournament makes a charge, and the victor keeps it for life | B4, November, from Dumbledore | B4, November | ? | The champions and their heads of school: always. The public: the gold and the glory, which is the part they print | DIV-087 |
 | Refusing to compete would strip Harry's magic | B4, November | B4, November | ? | Dumbledore and the judges: always | DIV-087 |
-| Which of the year's lessons were Crouch's | Never sorted out, deliberately | Never | — | Moody: remembers all of them, and remembers having meant them | DIV-086, Q-116 |
+| Which of the year's lessons were Crouch's | Never sorted out, deliberately | Never | — | Moody: remembers all of them, and remembers having meant them. There was never a syllabus to sort — what Harry was given was permission | DIV-086, DIV-096 |
 | Fudge ordered the Kiss on Crouch in custody | B4, the end | ? | ? | Dumbledore: yes, after the fact, and owns having let him be taken. The Ministry: buried | DIV-086 |
 
 ## Feelings

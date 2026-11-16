@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's friend and housemate in Gryffindor. Second to Dracaena in Potions, and hates her for it.
 **Canon baseline:** Hermione Granger. Anything not overridden follows canon.
-**Changes from canon:** DIV-011, DIV-012, DIV-018, DIV-021, DIV-049, DIV-063, DIV-069, DIV-073, DIV-074
+**Changes from canon:** DIV-011, DIV-012, DIV-018, DIV-021, DIV-049, DIV-063, DIV-069, DIV-073, DIV-074, DIV-095
 
 ## Core *(draft)*
 
@@ -41,7 +41,7 @@ Canon default.
 
 - Harry Potter: her friend. She can't resonate with him: friendship isn't enough (DIV-021).
 - [Ron Weasley](ron-weasley.md): canon default.
-- [Dracaena Malfoy](dracaena-malfoy.md): her rival from the first Potions lesson, where Dracaena shows her up (DIV-011). The first "Mudblood" is B1, in the Dessendre corridor, and she takes it in silence (DIV-074). Taunts her for dropping Muggle Studies (DIV-012). From B4 she stops slurring her, for Harry's sake. In B6 she calls Hermione "Mudblood" again, plenty, to hurt her ([dracaena-malfoy](dracaena-malfoy.md)). *(settled)* In B7 Hermione treats her with kid gloves anyway. She's perceptive, and knows Dracaena wasn't herself in B6, and still isn't: from the Ball to the end of B5 she was not too hostile for a year and a half. At Shell Cottage, her sealing spell saves Narcissa's medicine, and Dracaena starts treating her as a person for good ([narcissa-malfoy](narcissa-malfoy.md)).
+- [Dracaena Malfoy](dracaena-malfoy.md): her rival from the first Potions lesson, where Dracaena shows her up (DIV-011). *(settled)* **In the first week of B4 she says something that makes Dracaena draw on her in public** — a rival for Harry in Dracaena's head who has no idea she is in a contest — and the corridor ends with Harry carrying Dracaena away (DIV-095, Q-131). The first "Mudblood" is B1, in the Dessendre corridor, and she takes it in silence (DIV-074). Taunts her for dropping Muggle Studies (DIV-012). From B4 she stops slurring her, for Harry's sake. In B6 she calls Hermione "Mudblood" again, plenty, to hurt her ([dracaena-malfoy](dracaena-malfoy.md)). *(settled)* In B7 Hermione treats her with kid gloves anyway. She's perceptive, and knows Dracaena wasn't herself in B6, and still isn't: from the Ball to the end of B5 she was not too hostile for a year and a half. At Shell Cottage, her sealing spell saves Narcissa's medicine, and Dracaena starts treating her as a person for good ([narcissa-malfoy](narcissa-malfoy.md)).
 - Crookshanks: canon default.
 
 ## The elves *(draft)* · DIV-075, DIV-077
@@ -72,7 +72,7 @@ Hers is the win. The noble houses buried their own shame so completely that nobo
 | B1 | Outdone by Dracaena in the first Potions lesson (DIV-011) | The troll (canon). After the Mirror she appoints herself Harry's keeper; her research turns up the Dessendres, and in the corridor she is called a Mudblood for the first time and says nothing (DIV-073, DIV-074) | |
 | B2 | | | |
 | B3 | Takes Muggle Studies | Drops it (DIV-012). Slaps Dracaena over the jeer at Hagrid, and is right to: she sees the jeer and nothing else (DIV-069) | The lake: her idea to have Dracaena fly Buckbeak to Sirius (DIV-018) |
-| B4 | Founds S.P.E.W. (canon) | Learns early, from Harry and from Dobby, what freeing an elf does. Winky dies in front of her, with Dracaena there, and her dislike of Crouch settles into hatred (DIV-077) | The second rift: she backs Ron's confrontation on the train, then concedes they were too overprotective — and notices Dracaena didn't acknowledge them at all (DIV-063) |
+| B4 | Provokes Dracaena into drawing on her in the first week, and watches Harry carry her attacker to the hospital wing (DIV-095). Founds S.P.E.W. (canon) | Learns early, from Harry and from Dobby, what freeing an elf does. Winky dies in front of her, with Dracaena there, and her dislike of Crouch settles into hatred (DIV-077) | The second rift: she backs Ron's confrontation on the train, then concedes they were too overprotective — and notices Dracaena didn't acknowledge them at all (DIV-063) |
 | B5 | | Tracks down the elf conspiracy across the year: the hole in the record, never the deed (DIV-075) | The history, and no remedy |
 | B6 | | Notices Harry's new tricks resemble Dracaena's technique (Q-042) | |
 | B7 | | Plans the Malfoy Manor raid with Harry and Dobby (DIV-049). Reads Dobby's true form for the Malfoys when nobody else can (DIV-050). Treats Dracaena with kid gloves ([apparate-dancing](../scenes/b7/apparate-dancing.md)). Invents the sealing spell that preserves Narcissa's medicine | After the war, her method: Kreacher at the Manor (DIV-078, Q-100) |
@@ -83,4 +83,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-002, Q-028, Q-042, Q-050–Q-052, Q-093, Q-094, Q-099, Q-100
+Q-002, Q-028, Q-042, Q-050–Q-052, Q-093, Q-094, Q-099, Q-100, Q-131

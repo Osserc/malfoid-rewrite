@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Defence Against the Dark Arts, 1994–95. Harry's best teacher, and the instrument that delivers him to the graveyard.
 **Canon baseline:** retired Auror. In canon he spends the whole of B4 starved in his own trunk while Barty Crouch Jr wears his face, and arrives as a character only in the last chapter.
-**Changes from canon:** DIV-086.
+**Changes from canon:** DIV-086, DIV-095, DIV-096.
 
 ## The year
 
@@ -17,6 +17,14 @@ status: draft
 - **He fights it, all year.** He surfaces, and Crouch is always a few feet away to put him back under. The grip is maintained, not cast once — which is why Crouch has to be in the castle at all (DIV-086).
 - **The one thing he can still do, he does.** He drills the class on resisting the Imperius Curse harder than the curriculum asks for, repeatedly, and Harry is the only one who throws it off. Whether that is the man leaving a trail or the curse letting him indulge a hobby is never settled on the page (Q-114).
 
+## The lessons *(settled)* · DIV-096
+
+He makes the boy formidable, sincerely, and the damage is in the framing rather than in any spell. **He hands over a doctrine, not a syllabus** — *spells are weapons, they are not good or bad* — and in a world where Dark magic runs on intent that is enough to stain him for life (DIV-084). He also tells Harry he would make a good Auror, and means it, which a hunted fourteen-year-old wears like a borrowed jacket for a year.
+
+- **He teaches him nothing to be ashamed of and gives him permission for everything.** Harry has improvised past every problem since he was eleven; what the year removes is the apology.
+- **The Conjunctivitis Curse is not even his.** The chain runs Krum, then Sirius approving it, then Harry deciding to learn it. Moody's contribution is the climate (DIV-096).
+- **And none of it is Crouch's doing**, which is the cruelty of it. The lessons are the real man's and they are good lessons, and they are also the thing Harry reaches for in a bathroom in B6 (DIV-043).
+
 ## What gives him away *(settled)* · Q-114
 
 The tells are not villainy. **They are a frightened young man coming up for air inside a grizzled Auror**, which is the throughline: Barty Crouch Jr went to Azkaban very young and never finished growing up in there. Leading candidates:
@@ -25,6 +33,7 @@ The tells are not villainy. **They are a frightened young man coming up for air 
 - **He startles at the name Winky.** Days after the Yule Ball he asks after Dobby — in character, since a paranoid Auror wants to know why the Malfoy elf is handing Harry Potter socks — and Harry answers that Dobby is in the castle minding another elf. Moody has no reason at all to know the name. Crouch has every reason: she was his family's elf.
 - **He keeps nearly saying who did it.** He remembers putting the name in the Goblet and remembers thinking he had a reason, so he would say so if it came up — and all year he opens his mouth about the culprit and then shrugs it off. That is Crouch silencing him for a split second at a time, spending grip he cannot spare (DIV-086). The confession names it in one line.
 - And the ones already on the table: the seventh lock, the eye that can see into his own trunk and looks away, and the Imperius lesson pressed far harder than the curriculum asks.
+- **The ferret is not a tell at all, and that is worse.** Harry files the cruelty under *that is how Moody does things* and goes on to love the man — so the one act of the year he has to excuse is the only one that was not Moody's (DIV-095).
 
 ## He takes himself back
 
@@ -40,7 +49,7 @@ He drilled the boy and delivered him, and Cedric Diggory is dead. He knows the h
 
 ## Relationships
 
-- [Harry Potter](harry-potter.md): his pupil, honestly. What he taught Harry works, and some of what he taught him was Crouch's (Q-116).
+- [Harry Potter](harry-potter.md): his pupil, honestly. What he taught Harry works, and the boy can never sort which parts were Crouch's. What he actually handed over was permission (DIV-096).
 - [Minerva McGonagall](minerva-mcgonagall.md): he knows what she was in the first war and respects her for it, and he is the one person who can allude to it in company. He is himself when he says it — the beat belongs to the real man, not to Crouch.
 - Albus Dumbledore: an old friend who tested him on arrival with something only the two of them knew, and got it right, because he is Moody.
 - Barty Crouch Jr: asleep in his trunk, holding him down, for ten months.
@@ -55,4 +64,4 @@ He drilled the boy and delivered him, and Cedric Diggory is dead. He knows the h
 
 ## Open questions
 
-Q-114 (the clue chain) · Q-116 (what Crouch taught Harry through him) · Q-117 (the ferret, and Lucius)
+Q-114 (the clue chain) · Q-117 (Lucius's answer to the ferret, parked)

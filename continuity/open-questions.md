@@ -736,25 +736,18 @@ Not a candidate — recorded. Moody remembers putting the name in the Goblet and
 - **The eye.** It sees through wood, so it can see into his own trunk — and he looks at it, and looks away. The problem becomes the clue.
 - **The Imperius lesson,** pressed far harder than the curriculum asks for, with Harry the only one who throws it off, in front of a man who cannot. Whether that is Moody leaving a trail or the curse letting him indulge a hobby should stay unsettled on the page.
 - **The flask.** Innocent now. Whether that is the joke (everyone suspects the obvious thing and it is only whisky) or whether it carries something is open.
-- **The lessons themselves,** since the reader can never be sure which were his (Q-116).
+- **The lessons themselves,** since the reader can never be sure which were his — and there was never a list to sort, only permission (DIV-096).
 
-### Q-116 · What Crouch teaches Harry, and what it costs him (DIV-086, DIV-084)
+### Q-117 · Lucius's answer to the ferret (DIV-086, DIV-095)
 
-Crouch's job is to make Harry formidable, and the interesting way to do it is to push him towards spells a decent teacher would not — couched, to a boy who does not know him, as *spells are weapons, they are not good or bad*, with the Unforgivables as the stated exception. The author is not committed to the specific beat.
+**Parked by the author**, 2026-11-16, pending more thought. Everything else in the incident is settled in DIV-095: the target is Hermione, Harry laughs at the Transfiguration and not at the bouncing, and he carries her to the hospital wing unprompted.
 
-What makes it worth having is that our system already measures it. Dark magic runs on intent, and Lustrum **counts spells**: anything built only to afflict leaves residue in the caster that never comes out (DIV-084, [magic](../setting/magic.md)). So the gift makes Harry stronger and dirtier in one stroke, and it feeds Q-027 and Q-066.
+What is left is the one thing canon gives us nothing to copy. **An Auror has assaulted the Malfoy heiress in front of witnesses, and ours would move on it** — he is off the board of governors since B2, so his usual lever is gone, and he is a man whose whole function is influence and procurement rather than a brawl.
 
-- **The line to B6.** The boy who was taught that spells are only weapons is the boy who opens Dracaena from collarbone to hip with a spell out of a book he did not understand (DIV-043).
-- **It is deniable as pedagogy,** which is what makes it a tell: a maimed Auror would say it sincerely, so neither the reader nor Harry can ever sort which lessons were whose.
-- Open: how much Dark magic Harry actually casts on the page in B4, which should probably be very little — a lesson absorbed is enough.
-
-### Q-117 · The ferret, and Lucius (DIV-086)
-
-Crouch takes Moody over to bounce Dracaena down a corridor out of pure spite. Two ripples:
-
-- **Harry's reaction,** in the first weeks of the book, which tells the reader where he already stands before he knows it himself. Whether he laughs, and what it costs him later if he does.
-- **Lucius.** An Auror has assaulted the Malfoy heiress. He would move on that, and canon gives us nothing to copy. Whether he gets anywhere, whether it reaches the board, and what Dumbledore does with it.
-- And what the real Moody remembers afterwards: transfiguring a student, and having thought it just.
+- **Rejected (author):** sending her a defensive or offensive artefact. A prop in search of a scene, and Moody rumbling it adds a subplot nobody needs.
+- **On the table (Claude):** he goes at Moody on paper and in person — a complaint, an inquiry, a Ministry file — and gets an apology engineered to be insulting and nothing else. Dumbledore cannot defend what happened and cannot allow scrutiny of his Defence teacher either, so he shields the very man who is the trap. The payload would be that **her father fails to fix something for her, in public, for the first time in her life**, which is the first draft of what she learns in B6 (DIV-030).
+- **And the free consequence, whatever he does:** the real Moody's only honest account of the year is *I was under the Imperius Curse* — the exact defence Lucius Malfoy walked free on, which the Ministry will not believe from anybody. Dumbledore knows it is true. Moody cannot clear it.
+- And what the real man carries: he transfigured a student and thought it just, and Harry forgave him for the one act of the year that was not his (DIV-086, DIV-095).
 
 ### Q-118 · The maze's furniture, with no Crouch in it (DIV-086, DIV-087, DIV-089)
 
@@ -764,24 +757,12 @@ Krum is never Imperiused and Fleur is never Stunned, so the Third Task has to be
 
 Still open:
 
-- The sphinx stays. What else fills the space between the eliminations, and how much of it there is now that the fights carry the Task.
+- **The sphinx is settled** (DIV-096): the riddle is hard, Hermione is not there, the maze herds and there is no going back, and Harry blinds her with the Conjunctivitis Curse and goes through. He does not beat her; he buys seconds.
+- What else fills the space between the eliminations, and how much of it there is now that the fights carry the Task.
 - How the maze herds them without the reader feeling an author's hand on it.
 - **Note:** the "prevented, not quitting" rule gets its demonstration earlier, in the Second Task, where Fleur is dragged out by grindylows and the Goblet is satisfied. The maze inherits a rule the reader has already watched work.
 
-### Q-119 · Do the spectators feed the Goblet? (DIV-087, DIV-088)
 
-If the crowd's attention is part of what the Tournament generates, then it is a public spectacle for a mechanical reason, the relay over the lake and the maze stops being a patch and becomes part of the instrument (DIV-088), and the audience that DIV-038 already requires is accounted for. Nothing is taken from the spectators either — same rule as the champions.
-
-Attractive and possibly too tidy. Undecided.
-
-### Q-120 · Past champions, and why it was abolished (DIV-087)
-
-- **One or two past victors worth naming,** remembered for what they went on to do rather than for winning. A line of that kind is what sells the prize to the reader.
-- **The abolition.** The death toll is canon's reason and is not sufficient on its own, now that the prize is this large. The stronger reason: three schools, three nations, and one of them handed a decisive wizard every five years. Eventually somebody used it. DIV-089 also offers a second strand for free: the final Task is a fight between champions, which means somebody has been killed in one before, and the 1994 committee's belief that a wand-fight was the *safe* option is a judgement somebody made once already.
-
-### Q-122 · The charge's absence in B5 (DIV-087)
-
-Harry has been emptied of something real, in June, on top of everything else. The texture is attractive — he is flat, his magic sluggish, and neither he nor the reader can separate drained from wrecked — but it must never become the explanation for his anger in B5. Where the line sits, and whether anybody in the castle can tell.
 
 
 ### Q-123 · How Harry beats Krum (DIV-089, DIV-090, DIV-028)
@@ -848,7 +829,64 @@ Settled that he exists and what he is: **a sixth year in B4**, so Balthier and N
 
 The live possibility is that the diary goes to **Dracaena**, on purpose, and what that would mean about Lucius — whether he knows what it is, what he thinks he is buying, and how it sits beside a man driven by fear of losing her. It touches [the-sock](../scenes/b2/the-sock.md), DIV-076 and DIV-050, so nothing should be written that forecloses it.
 
+### Q-131 · What Hermione says that makes her see red (DIV-095, DIV-074)
+
+The ferret incident now turns on Hermione Granger provoking Dracaena badly enough that she draws her wand in a crowded corridor in front of everyone. The provocation has to be hers and it has to work.
+
+- **It cannot be an insult she could shrug off.** Dracaena is untouchable by design — her father built that (DIV-030) — and the only opinion that reaches her is Harry's. So whatever Hermione says has to be about *him*, or about her and him, whether or not Hermione knows what she is doing with it.
+- **Hermione is a rival for him in Dracaena's head** and has no idea she is in a contest ([hermione-granger](../characters/hermione-granger.md)). The cleanest version is therefore true, said without malice, and unbearable.
+- It also has to leave Hermione in the right: she is not to be a bully here, and the reader should be with her for the length of the sentence and with nobody at all a moment later.
+
+### Q-132 · Where the "all silent in here" line goes (DIV-095, DIV-089)
+
+The author's, and not yet placed. Dracaena brushes off the talk of Harry being unstable, says *here, let me check*, puts her ear to his temple as if listening, and reports that it is all quiet in there as usual.
+
+- **The insult is the defence**, which is exactly her cover: she can say it in front of a crowd without dropping the mask for a second, and it is the only thing anybody says in his favour. It belongs with the badge she does not wear (DIV-093).
+- **Claude's lean: B5**, where the charge is public and vicious and the Prophet has run it all year, so it costs her something and reads as an act of allegiance. Rita's *disturbed and dangerous* in B4 sets it up.
+- **The B4 case** is that she would be needling rather than defending, and it lands nearer the Tournament and the sphinx (DIV-096), which is what it is a callback to.
+- The gesture is a touch, which makes placement a question of how much she is allowed to do in public by then.
+
+### Q-133 · Duelling before Serena Passel (Q-120, DIV-084, DIV-028)
+
+If the Stunning Spell is about two centuries old, then before it there was no clean way to stop a man, and every duel in Britain left residue in both parties (DIV-080, DIV-084).
+
+- What that does to the culture the Duelling Club inherited: the bow, the rules, the scoring, the forfeit. Flitwick is teaching a civilised form that is younger than most of the portraits.
+- Whether the old families remember it, and what a pureblood education says about the era when duelling was maiming — a live question for DIV-008, since this is one place where the ideologues' nostalgia runs into something indefensible.
+- Whether it reaches the page at all, or stays as texture under the Duelling Club.
+
+
 ## Answered
+
+### Q-116 · What Crouch teaches Harry, and what it costs him (DIV-086, DIV-084)
+
+*Answered: there is no syllabus. What the year leaves in Harry is permission.* Recorded in **DIV-096**.
+
+- **No list of Dark spells.** Dark magic runs on intent and Lustrum counts spells rather than names (DIV-084), so the gift is the doctrine — *spells are weapons, they are not good or bad* — and the stain comes from casting ordinary spells wanting harm. Nothing illicit to fetch, nothing for Ron and Hermione to object to, and no way for anyone in the room to tell. They practise in an empty classroom as in canon.
+- **Moody gives permission, not the idea.** Harry has improvised past everything since he was eleven; the year removes the apology. Being told by the most decorated Auror in Britain that he would make a good one is a jacket a fourteen-year-old wears for a year, and it is never his ambition.
+- **One named spell, and the chain to it is canon's.** Harry does not see Krum face the dragon — he is in the tent — he is told afterwards, and **Sirius says the Conjunctivitis Curse is what he would have done.** Precedent, proof it beats a dragon, the blessing of the one adult whose approval he wants, and only then the decision to learn it. He uses it on the sphinx.
+- **And it is what pays for Sectumsempra:** not *he was taught Dark magic* but *he was taught there is no such thing as an illegitimate move*, hardened by a year of the DA making fighting reflex and by having been under the Cruciatus himself (DIV-032, DIV-043).
+
+### Q-119 · Do the spectators feed the Goblet? (DIV-087, DIV-088)
+
+*Answered: yes, marginally — they are extra eyes.* Recorded in **DIV-087**, **DIV-088**, [triwizard](../setting/triwizard.md).
+
+The Goblet has to witness a contribution to count it, which is what the judges are for; the crowd is a great many more judges, small ones, worth a little on top. **Not a battery and not a resource** — nothing is taken from them, and an instrument that could be fed by holding a rally would make the audience more interesting than the contest. The relay (DIV-088) is therefore part of the instrument, and the 1994 committee gets one honest defence: they lowered the lethality and made a little of it back on the gate.
+
+### Q-120 · Past champions, and why it was abolished (DIV-087)
+
+*Answered: three names, and the stated reason for the abolition is a cover story.* Written out in [triwizard](../setting/triwizard.md).
+
+- **Étienne Bouchard** (Beauxbatons) killed the Beast of Gévaudan and closed the worst breach of the Statute's first century. **Loxias** (Durmstrang) went on to the Elder Wand, which in our lore passes by blood through killing (DIV-024, Q-011). **Serena Passel** (Hogwarts) invented the Stunning Spell — under our rules a way to stop a man without staining the caster, which is the most valuable thing anybody ever did with the prize (DIV-084, Q-133).
+- **The published reason is the death toll** and the cockatrice is what let them close it. **The real reason is Loxias**, and it could not be said aloud without saying what the prize is.
+- **The escalation is built in.** Danger is the yield, so every committee's incentive is to raise it for ever. The last century of the Tournament is both its golden age and its collapse, for the same reason.
+- **Best placed in Dracaena's mouth** — a pureblood education is where you learn the roll of champions, Hermione would know only the body count, and it lets her tell Harry what he is actually playing for (DIV-089, Q-128).
+
+### Q-122 · The charge's absence in B5 (DIV-087)
+
+*Answered by dropping it: there is no after-effect, and there was never going to be.* Recorded in **DIV-087**, [triwizard](../setting/triwizard.md).
+
+The charge never settled into him, so nothing is missing — no flatness, no sluggish magic, nothing to convalesce from. The author's objection stands and is mechanical as well as thematic: a magical cause for B5's temper would be the same mistake as letting the charge supply the nerve to ask her to the Ball, and B5 depends on Harry's anger being earned. What survives is knowledge, not sensation: he is the only person alive who knows what the prize was, he held it for ninety seconds tied to a headstone, and it was burned to build a body. One sentence, said once, to somebody who does not want to hear it.
+
 
 ### Q-121 · Is Harry told why Cedric died? (DIV-087, DIV-089)
 
