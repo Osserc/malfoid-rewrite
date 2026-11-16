@@ -17,6 +17,14 @@ status: draft
 - **He fights it, all year.** He surfaces, and Crouch is always a few feet away to put him back under. The grip is maintained, not cast once — which is why Crouch has to be in the castle at all (DIV-086).
 - **The one thing he can still do, he does.** He drills the class on resisting the Imperius Curse harder than the curriculum asks for, repeatedly, and Harry is the only one who throws it off. Whether that is the man leaving a trail or the curse letting him indulge a hobby is never settled on the page (Q-114).
 
+## What gives him away *(settled)* · Q-114
+
+The tells are not villainy. **They are a frightened young man coming up for air inside a grizzled Auror**, which is the throughline: Barty Crouch Jr went to Azkaban very young and never finished growing up in there. Leading candidates:
+
+- **He drinks something he did not prepare himself.** Moody eats and drinks nothing that has not passed through his own hands — canon's flask exists for that reason. Ours inverts it: a smell from Crouch's schooldays gets him at Hogsmeade, and he gives in and takes Moody over to have it. The author's lean is a mug of Butterbeer, which passes as nostalgia in a hard old man and is worse once you know.
+- **He startles at the name Winky.** Days after the Yule Ball, Harry mentions that Dobby is in the castle minding another elf. Moody has no reason at all to know the name. Crouch has every reason: she was his family's elf.
+- And the ones already on the table: the seventh lock, the eye that can see into his own trunk and looks away, and the Imperius lesson pressed far harder than the curriculum asks.
+
 ## He takes himself back
 
 *(settled)* · DIV-086. In Dumbledore's office, with Harry in front of him, Crouch rides him too hot — appetite is the one thing Crouch has never been able to govern — and the grip slackens. Moody uses that instant and throws him out.

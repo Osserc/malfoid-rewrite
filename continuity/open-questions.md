@@ -564,7 +564,7 @@ Still open:
 She dies in B4, with Dobby there. Open:
 
 - **Exactly when.** The lull after the Second Task is the lean. Not early, because the fade is the demonstration; not the end of the book, which belongs to the graveyard.
-- **Her canon function.** In canon she is the witness who confirms that Crouch hid his son. Harry and Dumbledore get that from Moody's confession anyway, but B4 planning has to check what else she carried and re-home it.
+- **Her canon function.** In canon she is the witness who confirms that Crouch hid his son. Harry and Dumbledore get that from Moody's confession anyway, but B4 planning has to check what else she carried and re-home it. *Candidate re-homing (Q-114):* she gives him away as a **name** rather than as a witness — Harry mentions Dobby is in the castle minding an elf called Winky, and Moody startles. She is never in the room for it.
 - **The grave** *(settled)*. Yes. **Dobby asks Harry for it** — an elf asking for something, which is the extraordinary part — because he thinks Winky should be honoured, having been working through his own mortality since the corridor without knowing it is already under way. **It is the first elf grave in Britain** (DIV-075), and it is why Harry knows to bury Dobby in B7 without being asked (DIV-050). **The marker is her name and nothing else** *(settled)* — there is nothing honest to add, she was never free and never wanted to be, and a name is more than any elf before her got. Still open: where she is buried and who digs.
 
 *Settled:* Harry, Ron, Hermione, Dobby **and Dracaena** are all present when she dies. It is where Hermione's hatred of Crouch is born — permanent, personal, and not political; she extends him no sympathy through the back half of the book. And it is the only time any pureblood watches what dismissal actually does (DIV-077, Q-098).
@@ -702,7 +702,26 @@ Still open:
 
 ### Q-114 · The clue chain for Moody (DIV-086)
 
-Canon's rewarded the rereader with the flask, the tongue and the ferret. The disguise is gone, so those have to be replaced with tells that read as Moody on a first pass and as Crouch on a second. On the table:
+Canon rewarded the rereader with the flask, the tongue and the ferret. The disguise is gone, so those have to be replaced with tells that read as Moody on a first pass and as Crouch on a second.
+
+**The throughline the author wants: Barty Crouch Jr is a person, not only a cultist.** He went to Azkaban very young and has not finished growing up in there, so what gives him away is not villainy — it is the boy underneath coming up for air. Every tell below should be something a frightened, arrested young man would do, worn by a grizzled Auror who would never.
+
+**Candidate: the thing he did not prepare himself.** *(the author's, leading)*
+
+- **The rule it breaks is canon's own.** Moody eats and drinks nothing he has not made with his own hands — the reason the flask works as a clue in the original. Ours inverts it: the tell is the one time he doesn't.
+- **A smell from his schooldays gets him** on an outing to Hogsmeade, and he gives in and takes Moody over to have it himself. Not planned, no advantage in it, no plan value at all — the same register as the ferret (DIV-086).
+- **Butterbeer rather than food, on the author's lean.** A grizzled Auror putting away a mug of a children's drink reads as a bout of nostalgia and nothing worse, which is exactly what a clue has to do. It is also funnier and sadder than a plate of something.
+- **Placement:** the Three Broomsticks, in the canon scene with Hagrid that the author recalls. If it turns out to be food after all, the recipe can be Rosmerta's from years back, or her predecessor's that she learned.
+
+**Candidate: Winky's name.** *(the author's)*
+
+- **The way in is canon's own joke, kept:** at the Yule Ball, Moody admires Harry's socks and Harry says they came from Dobby. We keep the exchange whole, because it is funny and because it is the only reason the next beat can exist.
+- **The startle comes days later,** when Moody asks after Dobby in passing and Harry mentions he is in the castle minding another elf — Winky. **Moody startles, very slightly, and covers it.**
+- **The real Moody has no reason to know the name. Barty Crouch Jr has every reason:** she was his family's elf. A reader who remembers whose elf she was has the whole thing from one word.
+- **It re-homes what Winky was carrying in canon** (Q-094). She confirmed the secret as a witness there; here she gives it away as a name, without ever being in the room.
+- **Dracaena is in the Ball beat too,** and her reaction is open. Three on the table: incensed that he wore peasant socks and that she failed to notice; genuinely impressed, since our Dobby is no caricature and the socks may simply be good; or she says nothing at all and allows herself a small smile, because her old servant is alive and happy — which is the one that feeds Q-098 and costs a line.
+
+**Also on the table:**
 
 - **The trunk.** Seven locks, and one of them is never opened in front of anybody.
 - **The eye.** It sees through wood, so it can see into his own trunk — and he looks at it, and looks away. The problem becomes the clue.
