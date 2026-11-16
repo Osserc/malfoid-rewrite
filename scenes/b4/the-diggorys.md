@@ -20,14 +20,15 @@ Canon uses the visit to move a sack of gold. Ours uses it to install the belief 
 ## Beats
 
 1. *(settled)* **She has not left.** Dracaena held the room off his bedside the night before and fell asleep on his chest; by morning she is still there and is not going anywhere ([the-hospital-wing](the-hospital-wing.md), DIV-058).
-2. *(settled)* **The Diggorys come, and she runs the room.** Her upbringing is good for exactly one thing here and it is the right thing: she is an expert navigator of a delicate social occasion, and she handles it so Harry does not have to.
-3. *(settled)* **Harry gives them closure.** It does not have to be gentle, and the book is not going to apologise for the fact that he beat Cedric first in front of several hundred people. Cedric knew what he was entering. **What is actually said: Q-124.**
-4. *(settled)* **No gold.** The offer is cut. The visit is for Cedric's parents, not for Harry's conscience, and the money has somewhere better to go (DIV-062).
-5. *(settled)* **When they have gone, he says it.** He is a calamity, a misfortune that happens to people. *If I hadn't been in it, Cedric would have won.*
-6. *(settled)* **And then that he should have pulled out of the Tournament.** If all he brings the person next to him is death, he should never have competed — and he means it, knowing what withdrawal would have cost him: all of his magic and his place in the world with it (DIV-087). It is also, without his hearing it, a charge laid at her door.
-7. *(settled)* **She cuts him off.** She does not argue with the guilt, does not produce comfort, does not take the charge, and does not let him off.
-8. *(settled)* **What she says is:** ***"I'm glad it was you who made it out alive."*** Not reassurance. Not consolation. It was good that he lived. Again.
-9. *(settled)* **What she does not say,** and what has to land anyway: she would trade a hundred Cedric Diggorys for him. Saying it outright is too much. **Harry is her happiness.** He is not to be ashamed of surviving, and nobody gives up and dies because things have got hard.
+2. *(settled)* **The hair, as they are announced.** She combs her own in a hurry — a night in her day clothes in a chair shows — then gives him a pitying look, has a go at his, and gives up once she works out that his hair does not take it. **Molly Weasley reaches the same conclusion a year later,** before the Ministry hearing (canon). The text never joins them.
+3. *(settled)* **The Diggorys come, and she runs the room.** Her upbringing is good for exactly one thing here and it is the right thing: she is an expert navigator of a delicate social occasion, and she handles it so Harry does not have to.
+4. *(settled)* **Harry gives them closure.** It does not have to be gentle, and the book is not going to apologise for the fact that he beat Cedric first in front of several hundred people. Cedric knew what he was entering. **What is actually said: Q-124.**
+5. *(settled)* **No gold.** The offer is cut. The visit is for Cedric's parents, not for Harry's conscience, and the money has somewhere better to go (DIV-062).
+6. *(settled)* **When they have gone, he says it.** He is a calamity, a misfortune that happens to people. *If I hadn't been in it, Cedric would have won.*
+7. *(settled)* **And then that he should have pulled out of the Tournament.** If all he brings the person next to him is death, he should never have competed — and he means it, knowing what withdrawal would have cost him: all of his magic and his place in the world with it (DIV-087). It is also, without his hearing it, a charge laid at her door.
+8. *(settled)* **She cuts him off.** She does not argue with the guilt, does not produce comfort, does not take the charge, and does not let him off.
+9. *(settled)* **What she says is:** ***"I'm glad it was you who made it out alive."*** Not reassurance. Not consolation. It was good that he lived. Again.
+10. *(settled)* **What she does not say,** and what has to land anyway: she would trade a hundred Cedric Diggorys for him. Saying it outright is too much. **Harry is her happiness.** He is not to be ashamed of surviving, and nobody gives up and dies because things have got hard.
 
 ## Why that line and not another
 

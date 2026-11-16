@@ -34,6 +34,7 @@ He drills the spells that can be cast clean — Expelliarmus, Stupefy, Protego, 
 At some point the bouts acquire a forfeit: the loser gives the winner a trophy, something of their own. It starts as her challenge, before the Christmas holidays of their second year, and she wins it, taking his Gryffindor scarf.
 
 - **Both of them keep everything they win,** and neither has ever broached the subject with the other. She parades her spoils — the scarf, and at the B3 final one of his Seeker's gloves, worn on the pitch while he wears one of hers (DIV-069). What is never said out loud is what the things have come to mean, or where they end up.
+- **And the scarf is public evidence.** A Slytherin wearing Gryffindor colours every winter from B2 on. "Trophy" covers it for about a year, and from B3 her House stops believing it — Pansy first, Daphne next, and for opposite reasons (DIV-094).
 - **Hers,** by B4, is a shrine in the Malfoy room (DIV-060): a quill, a Chocolate Frog card with Dumbledore on it, a worn Seeker's glove and the scarf, on a stand under a Gryffindor banner. *(draft)* Where the banner came from is open.
 - **His** is a smaller trove of her things in his dormitory. He admits to it the night he finds hers ([the-malfoy-room](../scenes/b4/the-malfoy-room.md)).
 - **What it's for.** It turns years of feuding into a physical record, and it makes her sincerity something she has been accumulating in secret since B2 — one more thing that should have told Harry and didn't (Q-035).

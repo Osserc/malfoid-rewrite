@@ -36,7 +36,17 @@ The measure of the theme is who is standing in the Great Hall at the finish: not
   - **So Balthier has grown up knowing what Lustrum scars look like.** He has never seen McGonagall's; the day he does is available and unplanned, and it belongs to B5 or later with the rest of the Strix material.
   - **And it sharpens what he is asking in the summer of 1994.** The woman he wants to accept a Muggle-born is wearing the verdict of the war on her body — except it was never a verdict, which neither of them will ever know (DIV-080).
 - **Pansy Parkinson** *(settled)*. Dracaena's real friend, in the DA, and one of those who refuses the evacuation — the direct inversion of canon, where Pansy calls for Harry to be handed over. DIV-055
-- **Daphne Greengrass** *(settled)*. Not one of ours. The snake in the grass, and therefore the candidate for Rita's source (Q-038). She is a POV at the siege precisely because she is unpleasant: the reader gets the spectacle through someone who despises the people feeling things in front of her. **She is also the next queen bee,** from the point in B4 where Dracaena stops bothering to humiliate Harry and a vacancy opens.
+- **Daphne Greengrass** *(settled)*. Not one of ours. The snake in the grass, and therefore the candidate for Rita's source (Q-038). She is a POV at the siege precisely because she is unpleasant: the reader gets the spectacle through someone who despises the people feeling things in front of her. **She is also the next queen bee, and she starts reaching for it in B3** (DIV-094).
+
+## What Slytherin notices *(settled)* · DIV-094
+
+The secret cannot be kept by authorial convenience in a House of forty people sharing a common room, so from B3 it is not kept. Two of them act on it, and the badges in B4 are late rather than first.
+
+- **The scarf has been walking around since B2.** She won it off Harry at the Duelling Club before Christmas of their second year and she *uses* it (DIV-059): a Slytherin in Gryffindor colours, every winter, in front of everybody. "Trophy" covers it for about a year.
+- **B3 breaks the arithmetic.** She trains herself into the ground to beat him *properly* rather than merely beat him (DIV-017, DIV-069), and goes on needling him the whole time. The two do not fit, and people can see them not fitting.
+- **The needling never stops,** which is what makes it such good cover — through B4 up to the Ball and for the rest of their lives. The undertone changes; the surface never does.
+- **Daphne moves in B3.** A distracted queen bee is a vacancy, and she notices vacancies early. Her candidacy as Rita's source gains a year (Q-038).
+- **Pansy notices in B3 too,** and has both the most data and the least appetite for using it. In B4 the missing badge is the thread that finally will not go away (DIV-093).
 
 ## The other pole: who makes the badges *(settled)* · DIV-093
 
@@ -44,7 +54,7 @@ The thread needs its ugliness owned by somebody, or Slytherin's cruelty reads as
 
 - **Canon has Draco make them.** Ours cannot: a Malfoy is a nobleman, not a craftsman, and nobody in that family has made anything with their hands in three hundred years.
 - **The Hufflepuffs make them,** being the industrious House with the champion in the running. Theirs say SUPPORT CEDRIC DIGGORY and mean it, with nothing about Harry on them at all.
-- **The insult is added by an older Slytherin** — sixth or seventh year, **one of the people who made Nola Laurel's life a misery** for being Muggle-born (DIV-082), delighted to have a new target and a whole school to hand it to. Hufflepuff loyalty supplies the badge; he supplies the other side of it. Who he is: **Q-129.**
+- **The insult is added by an older Slytherin** — a sixth year, so the year above Dracaena and the same year as Balthier and Nola, **one of the people who made Nola Laurel's life a misery** for being Muggle-born (DIV-082), delighted to have a new target and a whole school to hand it to. Hufflepuff loyalty supplies the badge; he supplies the other side of it. **He joins the Inquisitorial Squad in B5** — which puts him in the same room as Dracaena, who is in it as a toy to get Harry alone (DIV-013, Q-070), standing next to the boy who made POTTER STINKS and saying nothing. He needs a name: **Q-129.**
 - **Ruled out, each for its own reason.** Daphne is a schemer rather than a ringleader of merchandise, and is already carrying Rita's source. Pansy is Dracaena's real friend. Crabbe and Goyle are trolls and could not have had the idea.
 - **Dracaena does not wear one,** and **Pansy notices** — the friend clocking a badge that is not there, which is a candidate first thread in her working out there is something between those two (DIV-093).
 - **What it buys the thread:** the same House produces Nola, Balthier, Pansy and this man in the same corridor, and the badge sorts the school by who pins it on.

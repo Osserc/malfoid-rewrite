@@ -262,6 +262,8 @@ Lucius thinks a daughter should be somewhat sheltered ([lucius-malfoy](../charac
 
 *Partly answered:* her tomboy side. He loses to his wife and daughter, settles for no training without supervision, and worries less as he sees how capable she is → [lucius-malfoy](../characters/lucius-malfoy.md). Why she's an only child: a curse meant for him hit Narcissa (DIV-030).
 
+*Also answered: why he shelters her, and what it cost.* He almost never tells her no, because she is the only child he will ever have and he is quietly terrified of losing her — compounded by her being the image of her mother, so he sees Narcissa and the wound in the same glance. He is not a doormat about it (Buckbeak, 🔒 DIV-003), and the product is a girl who believes nothing in the world can hurt her except her prince's opinion. **Love and fear of loss drive him equally, and both pull against the Dark Lord's claim on him.** → [lucius-malfoy](../characters/lucius-malfoy.md), DIV-030. What it may mean for B2: Q-130. The bullets above about the dark business, the spy strategy and her Mark are still open.
+
 ### Q-038 · Rita's article (DIV-029)
 
 *Narrowed:* Pansy is now settled as Dracaena's real friend and one of the Slytherins who turns (DIV-055), so she is not the leak. **Daphne Greengrass** is the candidate instead: same year, dislikes her, and already established as someone who watches her (DIV-082).
@@ -800,7 +802,23 @@ Settled that she says it and roughly what it is: a wake-up call, not an instruct
 
 - **Before the Ball** — the author leans this way. It comes out scathing, from one of the very few people who believe he never entered himself: she has no reason left to disbelieve him, she will not wear a Potter Stinks badge, and he is already outstanding in her eyes. All she lacks is permission to let herself love him, and giving him permission to want something is a strange way of asking for her own.
 - **After the Ball** — it comes out loving, and is a smaller scene for it.
-- **Loose end from the early version:** canon has Draco make the badges. Ours will not wear one, so who makes them, and whether they exist at all, wants deciding alongside this (DIV-001).
+- The badges are now settled separately: Hufflepuff makes them, an older Slytherin adds the insult, and she does not wear one (DIV-093). Whichever way the timing falls, that stands.
+
+### Q-129 · Naming the Slytherin who flips the badges (DIV-093, DIV-082)
+
+Settled that he exists and what he is: **a sixth year in B4**, so Balthier and Nola's year and one above Dracaena, **one of the people who made Nola Laurel's life a misery for being Muggle-born**, delighted to have a target the whole school will take off his hands. **He joins the Inquisitorial Squad in B5.** He needs a name and about three lines of presence.
+
+*The candidate scan, done:* there is nobody to reuse. The only named Slytherins in that year group are Balthier and Nola, who are the opposite pole, and the only other named Slytherin of roughly the right age is **Graham Montague** — who is tempting and should not be used. Harry beats Montague in B5 for what he says about her, and that beat has to be about her and nothing else (DIV-067). Give Montague a prior crime against Harry and the B5 moment turns into a grudge being settled, which is a different and much smaller scene. **So he is new.**
+
+- **He does not need an arc, or to survive to B7.** He owns the House's cruelty for a book so that it stops reading as weather. Nola's bullies are otherwise unwritten, which makes him free.
+- **He pairs with Balthier and Nola rather than competing with them** — same House, same year, same corridor, opposite answers — and gives [house-unity](../threads/house-unity.md) the pole it was missing (DIV-082, DIV-055).
+- **The Squad puts him next to Dracaena in B5.** She is in it as a toy to get Harry alone (DIV-013, Q-070), and she has to stand beside the boy who made POTTER STINKS and say nothing. What she does with that is worth a beat.
+
+### Q-130 · B2: who is the diary actually meant for? (DIV-030, DIV-076)
+
+**Parked by the author, for its own session.** Raised while settling why Lucius indulges his daughter: one child, no possibility of another, and a father whose every instinct is to put her somewhere nothing can reach her.
+
+The live possibility is that the diary goes to **Dracaena**, on purpose, and what that would mean about Lucius — whether he knows what it is, what he thinks he is buying, and how it sits beside a man driven by fear of losing her. It touches [the-sock](../scenes/b2/the-sock.md), DIV-076 and DIV-050, so nothing should be written that forecloses it.
 
 ## Answered
 

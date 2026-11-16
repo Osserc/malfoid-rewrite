@@ -49,7 +49,8 @@ Not beats, but true all through the book:
 | 16 | Durmstrang and Beauxbatons arrive on 30 October: Karkaroff, Madame Maxime, Krum, Fleur | keep | | |
 | 17 | The Goblet names Cedric, Fleur and Krum, then Harry | **alter** | The naming binds, and the binding has teeth: a champion who refuses has the contribution taken out of their body. Dumbledore tells Harry so plainly in November, along with what the prize actually is, and cannot spring the trap because the only counter — make the boy lose — is what the Goblet forbids | DIV-087 |
 | 18 | Ron falls out with Harry over the glory and the perceived lie | **keep, sharpened** | Canon's quarrel stands. The hostage in February gives it a second edge rather than replacing it, and a second rift opens at the end of the year | Q-010, DIV-005, DIV-063 |
-| 19 | The wand weighing; Rita's interview in the broom cupboard; her article | keep | | Q-038 |
+| 18a | Draco makes the SUPPORT CEDRIC DIGGORY badges that flip to POTTER STINKS, and hands them round | **alter** | A Malfoy is a nobleman, not a craftsman. **The Hufflepuffs make them** — their champion, their industry — and theirs say nothing about Harry. **An older Slytherin adds the insult:** one of Nola Laurel's bullies, delighted with a new target (Q-129). Dracaena does not wear one, and Pansy notices | DIV-093, DIV-082, Q-129 |
+| 19 | The wand weighing; Rita's interview in the broom cupboard; her article | **keep, extended** | Harry's first conversation with Krum happens here: why did you end a match you were losing? | DIV-066, DIV-090, Q-038 |
 | 20 | Hagrid shows Harry the dragons; Harry warns Cedric; Moody nudges him towards his broom | keep | The nudge is sincere, from the real man. Voldemort needs Harry to win, so the best teacher in Britain is already doing the plan's work for free | DIV-086, DIV-087 |
 | 21 | First Task: the Horntail, the Summoning Charm, the golden egg. Ron reconciles | keep | *(open)* She is named for a she-dragon and her Patronus will be one. Whether the dragons get a beat of hers is worth a look | DIV-027 |
 | 22 | The egg screams and nobody can read it | keep | | |
@@ -138,7 +139,7 @@ Beats with no canon equivalent.
 - **Beat 11a** — Harry's reaction to watching her bounced, this early in the book, and what Lucius does about an Auror assaulting his heiress (Q-117).
 - **Beat 39** — exactly how Harry beats Krum, which has to come out of the Duelling Club years rather than out of Moody's lessons (Q-123). What fills the maze between the eliminations, now that the fights carry the Task (Q-118).
 - **Beat 45b** — what is actually said, now that the gold is out and both of canon's lines are false (Q-124).
-- **Standing** — when she gives him permission to want it, which decides whether the scene is scathing or loving, and what happens to the Potter Stinks badges (Q-128).
+- **Standing** — when she gives him permission to want it, which decides whether the scene comes out scathing or loving (Q-128). Naming the Slytherin who flips the badges (Q-129).
 - **Standing, new** — what the school did with having watched all of it, and what B5 does with that (Q-125). The flying lesson's cast and content (Q-126).
 - **Standing** — the clue chain that replaces canon's flask and tongue (Q-114); what Crouch teaches Harry through Moody, and what our own rules say it costs him (Q-116); whether the spectators feed the Goblet (Q-119); past champions worth naming and why the Tournament was abolished (Q-120); how the charge's absence sits in B5 without explaining Harry's anger away (Q-122).
 - **Beat 33** — Rita's post-Task coverage (Q-052).

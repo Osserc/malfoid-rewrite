@@ -100,12 +100,33 @@ Open: Q-084.
 
 ## "I'm glad it was you" *(settled)* · DIV-092
 
-The morning after the Third Task, with Cedric four days from a funeral and Harry having decided he is a calamity, she does not tell him he did nothing wrong. She says she is glad it was him who made it out alive.
+The morning after the Third Task, Harry says he should have pulled out of the Tournament — that if all he brings the person next to him is death, he should never have competed, whatever it would have cost him. She cuts him off. She does not tell him he did nothing wrong. She says she is glad it was him who made it out alive.
 
 - **It is not comfort,** and it is not meant as any. It is a statement that it was good that he lived, again, and she is saying it over a dead boy without flinching.
 - **It is the only thing that reaches him,** because what he wants and cannot ask for is to be wanted, as himself ([harry-potter](harry-potter.md)). She is the one person who gives him that, and she gives it in the hardest possible register.
 - **She is honest, hard-hearted and in love,** all three at once, and the line only works because all three are true. She does not get softened for the occasion — the same reason the others' coda exists in [the-hospital-wing](../scenes/b4/the-hospital-wing.md).
+- **What she does not say,** and what has to land anyway: that she would trade a hundred Cedric Diggorys for him. Saying it outright is too much. **Harry is her happiness** — he is not to be ashamed of surviving, and nobody gives up and dies because things have got hard.
 - **Her upbringing earns its keep in the same scene.** The Diggorys' visit is a delicate social occasion and she is an expert navigator of those (see *Drilled manners*), so she runs it and Harry does not have to.
+- **She will not take her own advice.** Put in the same position in B6 she gives up and sets about dying, and does not come back to this until the raid on the Manor in B7 ([sleeping-beauty](../threads/sleeping-beauty.md), DIV-015, DIV-049).
+
+## What the hurdle actually is *(settled)*
+
+**Her problem is never social, and it is never her father.** She is not hiding a friendship with Harry Potter because a Malfoy could not be seen with one, and she is not weighing what the Slytherin table would say. The usual version of this story is not ours.
+
+**The hurdle is entirely self-centred**, and it moves:
+
+| | What is in her way |
+|---|---|
+| B1 | She wants him, because at Madam Malkin's he did not see *a Malfoy*, he saw something wondrous (DIV-009) |
+| B1 | Then she is spurned, and she cannot bear it: she thought she had found something she had never seen before, and he brushed her aside |
+| B2 | So she sets out to prove to herself he was never special. That is what the competition is for |
+| B3 | She no longer knows where to stand. She has watched him kill a basilisk, so he *is* special — and she keeps the rivalry up because it is the only footing she has. Then Buckbeak, and the break with her father (🔒 DIV-003) |
+| B3, end | She has proved she can stand up to Lucius, and she knows he is exactly the prince she thought he was. **And now she feels unworthy of him**, and is sure she has lost him to somebody else — Cho, or Hermione |
+| B4 | Working out that she is allowed to love him for real |
+
+- **She is too full of herself to fear the room.** She believes nothing in the world can touch her, which is her father's doing: he spent fourteen years almost never telling her no, because she is the only child he will ever have and he cannot afford to lose her — full account in [lucius-malfoy](lucius-malfoy.md), DIV-030. The single exception is her prince's opinion of her, which is why that is the only thing that can hurt her and why it takes four books.
+- **She is the image of her mother,** which is part of why: he cannot look at her without seeing Narcissa and the wound in the same glance.
+- **And Harry is the one who gives her permission** — by asking her to the Ball (🔒 DIV-004), with the Second Task sealing it (🔒 DIV-005). Which is the mirror of what she does for him in the same year, when she tells him it is all right to want to win (DIV-089). **Each of them spends B4 giving the other permission to want something,** and neither notices doing it.
 
 ## The tsundere engine
 
