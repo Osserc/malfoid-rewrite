@@ -41,7 +41,8 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 - The Third Task is a fight. Cedric beats Fleur, Harry beats Krum, and Harry beats Cedric in front of the Cup, wearing her ribbon, in front of the whole school. DIV-089, [the-third-task](../../scenes/b4/the-third-task.md)
 - Beaten, Cedric Summons the Cup; Harry takes it out of the air; Cedric catches his leg. Touch is not claim, so he arrives as the spare over an inch. DIV-089
 - In the graveyard the charge lands in Harry as the victory resolves and is drawn out of him for the ritual: the strongest he will ever be, arriving while he is bound to a headstone and useless. DIV-087
-- Harry tries to give the Diggorys the winnings before the twins get them. DIV-089, DIV-062, Q-124
+- The Diggorys visit. Harry gives them closure, with Dracaena running the room; then she answers his guilt without telling him he did nothing wrong: "I'm glad it was you who made it out alive." DIV-092, [the-diggorys](../../scenes/b4/the-diggorys.md)
+- He decides he is a calamity, on a premise that is almost certainly false — the real final was Harry and Krum, and Cedric was never the likeliest winner. DIV-092, DIV-089
 - Moody throws Crouch out in Dumbledore's office when Crouch rides him too hot, and that is what saves Harry. Fudge takes Crouch into custody and has him Kissed days later, destroying the only witness who could corroborate Harry. DIV-086
 - In the graveyard, unseen, Lucius takes his daughter's ribbon back off Harry's wrist and Stuns Avery to open him a way out. DIV-057
 - The hospital wing: Sirius shoves her to the bedside, Dumbledore shelters her, and she guards Harry all night. "Sleep well, my prince." DIV-058, [the-hospital-wing](../../scenes/b4/the-hospital-wing.md)

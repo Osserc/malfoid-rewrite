@@ -30,7 +30,9 @@ Mostly, though, it is a domestic hour for Harry and Dracaena — in public, in d
    - Then Dracaena.
    - Then Harry, shortly after her.
    - Then Krum, last, because it is his.
-8. *(settled)* **Harry loses, and it costs nothing.** A dive is not a duel: the star is allowed to take this one home, there is nothing riding on it, and Harry against Krum stays unspent for the maze. He still out-lasts her by a second and a half, and neither of them is going to drop that for a week.
+8. *(settled)* **He is not looking at Krum.** All the way down, Harry's eyes are on her, and he pulls out the instant *she* bails — because she is who he is flying with, and he is having the time of his life. He has entirely forgotten what they were supposedly doing.
+9. *(settled)* **So has she.** She is looking at him and nobody else.
+10. *(settled)* **Harry loses, and it costs nothing — because he was never in the contest.** A dive is not a duel, the star takes this one home, and Harry against Krum stays unspent for the maze.
 
 ## Why no duel here
 
@@ -47,6 +49,7 @@ Harry against Krum belongs to the Third Task and must not be spent early (DIV-08
 - No contest between Harry and Krum.
 - Children on the lawn. It is what makes the hour gentle, and it is why she forgets herself.
 - Krum wins the dive. He is the star of this scene and nothing is taken off him in it.
+- Harry's third place is not a measure of his nerve. He stopped because she stopped.
 
 ## Open
 

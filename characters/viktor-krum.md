@@ -30,7 +30,9 @@ He gets no arc of his own, and this is not a rival-suitor thread.
 
 ## The maze *(settled)* · DIV-089
 
-**He is the only professional in it.** Real contests, real crowds, real stakes, since he was fifteen; everyone else is a student playing at it. It is why he knows the shape of a contest — and why he loses, because Harry does not fight in one.
+**He is the only professional in it, and he is the real final.** Real contests, real crowds, real stakes, since he was fifteen; everyone else is a student playing at it. He is the hardest opponent in the maze by a distance — Cedric is the last fight, not the hardest. It is why he knows the shape of a contest, and why he loses: Harry does not fight in one.
+
+It also means Harry's guilt rests on nothing. *If I hadn't been in it, Cedric would have won* — almost certainly not; Krum would have (DIV-092).
 
 He is formidable: seventh year, Durmstrang-trained, chosen by the Goblet out of a whole school of them. He is beaten by a fourteen-year-old, outright and hard, and it only works because Harry is the genuine article. How, exactly: **Q-123.**
 

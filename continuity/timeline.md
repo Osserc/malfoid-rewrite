@@ -73,7 +73,7 @@ _Marauders era, the first war. Not yet worked out._
 - **November 1994**: Dumbledore tells Harry exactly what the contract will do to him if he refuses, and what the prize actually is. He cannot spring the trap, because making the boy lose is the one thing the Goblet forbids. DIV-087
 - **Before the Yule Ball**: Sirius plants the idea of asking her. DIV-019
 - **Autumn 1994 (tentative)**: Hooch's flying lesson. Harry and Dracaena spend an hour among the first years bickering about technique; the school decides they are married. Then Krum's Feint: Cedric and Cho pull out earliest, then Dracaena, then Harry, then Krum. Fleur watches from the stands, miffed. DIV-091, Q-126
-- **1994–95, placement open**: Dracaena tells Harry to stop planning to survive the Tournament and start trying to win it — he is the champion of Hogwarts, and the others are staking their lives on it. DIV-089, DIV-066
+- **1994–95, placement open (Q-128)**: Dracaena gives Harry permission to want to win the Tournament rather than survive it. A wake-up call, not an instruction. DIV-089, DIV-066
 - **December 1994, before the Ball**: Dracaena's owls home. Lucius suspects, and Narcissa confirms it and takes Harry's side. DIV-040
 
 - **1994-12-25**: Yule Ball. Harry asks, Dracaena accepts. Their first kiss. DIV-004, DIV-013
@@ -91,7 +91,8 @@ _Marauders era, the first war. Not yet worked out._
 - **1995-06-27 (tentative)**: after two nights of screaming in the dormitory, Harry goes down to the Malfoy room. Her potion has failed; she offers her lap instead, and changes the green light without a word. He finds her hoard. He sleeps in her room for the rest of term. DIV-059, DIV-060, DIV-061
 - **Late June 1995**: Fudge takes Crouch into Ministry custody and has him Kissed there, days after the confession, destroying the only witness who could corroborate Harry. B5's campaign starts here. DIV-086
 - **End of B4 (June 1995)**: Dumbledore, who noticed the missing name and welcomes it, tells Harry she's in a very tough spot. DIV-046, DIV-047
-- **End of B4 (June 1995)**: the Diggorys visit the hospital wing and thank him for bringing Cedric back; Harry pushes the gold at Mrs Diggory and she refuses it (canon, with both of its lines now false: DIV-089, Q-124). The train home: the winnings go to Fred and George dressed as an investment, on Dracaena's advice (DIV-062). Ron confronts Harry over the Map and the nights away; Harry leaves with her without answering (DIV-063). At King's Cross, Lucius finds them asleep in a locked compartment and declines to see it. DIV-057
+- **1995-06-25 (tentative)**: the Diggorys visit the hospital wing. Harry gives them closure, with Dracaena — who has not left — running the room. No gold. When they have gone she answers his guilt without telling him he did nothing wrong: "I'm glad it was you who made it out alive." DIV-092, Q-124
+- **End of B4 (June 1995)**: the train home: the winnings go to Fred and George dressed as an investment, on Dracaena's advice (DIV-062). Ron confronts Harry over the Map and the nights away; Harry leaves with her without answering (DIV-063). At King's Cross, Lucius finds them asleep in a locked compartment and declines to see it. DIV-057
 - **End of B4 (June 1995)**: Lucius orders Dracaena to cut ties with Potter. She refuses, throwing Harry's silence about him back at him, and he comes up with the "keeping tabs on Potter" strategy. DIV-013, DIV-040, DIV-047, Q-022
 - **Summer 1995**: Snape teaches Dracaena Occlumency, and sees her memories of Harry. DIV-020, DIV-031, Q-043
 - **Summer 1995**: Dracaena writes to Harry at Privet Drive all summer. Dobby carries the letters, past an Order that is watching his post. DIV-065, Q-075, Q-076

@@ -91,8 +91,8 @@ Not beats, but true all through the book:
 | 43 | The hospital wing: Fudge refuses the story, Snape shows his Mark, Dumbledore sends out the Order, and Fudge and Dumbledore break | **alter** | Dracaena is in the room and does not leave it. The order changes: Harry sleeps first, and Fudge's row wakes him. Harry keeps Lucius's name back, and she sees him do it; she defends Harry to the Minister's face. **Fudge takes Crouch into custody and has him Kissed days later,** at the Ministry, destroying the one witness who could corroborate Harry — which is where B5's campaign starts, and which Dumbledore, who let him be taken, owns | DIV-047, DIV-058, DIV-008, DIV-086 |
 | 44 | The Leaving Feast; Dumbledore's speech about Cedric; the Durmstrang party leaves | keep | | |
 | 45 | On the train, Draco, Crabbe and Goyle ambush the compartment and are hexed flat by all three | **cut** | The last train scene is Ron's confrontation and Lucius at King's Cross. Dracaena is not ambushing anyone this year | DIV-063, DIV-057 |
-| 45b | The Diggorys visit the hospital wing; Harry pushes the gold at Mrs Diggory and she refuses it | **keep, altered lines** | The visit stands. But Harry cannot say the money should have been Cedric's because *he got there first* — he took it out of the air in front of the school — and Mrs Diggory cannot comfort herself that Cedric died having just won, because he lost on a relay with Amos watching. What they say instead: Q-124 | DIV-089, Q-124 |
-| 46 | Harry forces his thousand Galleons on Fred and George to be rid of them | **alter** | After the Diggorys refuse it. The gold dressed as an investment so the twins' pride survives it, which is Dracaena's framing. He never means to collect; they insist on repaying him anyway, and settle on free products for life | DIV-062, DIV-089 |
+| 45b | The Diggorys visit the hospital wing; Harry pushes the gold at Mrs Diggory and she refuses it | **alter** | **The gold comes out of the scene.** The visit is Harry giving Cedric's parents closure, with Dracaena running the room, and afterwards she answers his guilt without once telling him he did nothing wrong. Both of canon's lines here are unusable: Q-124 | DIV-092, DIV-089, Q-124 |
+| 46 | Harry forces his thousand Galleons on Fred and George to be rid of them | **alter** | The gold dressed as an investment so the twins' pride survives it. **The idea is born in its own conversation:** Harry says he does not want the money, they work through what to do with it, he raises the joke shop and she supplies the cover — begrudgingly. He never means to collect; they insist on repaying him anyway, and settle on free products for life | DIV-062, DIV-092 |
 
 ## New beats
 
@@ -103,7 +103,7 @@ Beats with no canon equivalent.
 | The visiting students join the Duelling Club, Krum among them, because he is curious about Harry | Autumn, after 30 October | DIV-028, DIV-090 |
 | The weighing of the wands: Harry asks Krum why he ended a match Bulgaria was losing. *"Captain told me to."* A pause. *"And I agreed."* | Early November, before the First Task | DIV-066, DIV-090 |
 | Hooch's flying lesson: an hour among the first years with Harry and Dracaena bickering over their technique, then Krum's Feint and the dive. Fleur sulks in the stands | A few months into the year | DIV-091, [the-flying-lesson](../../scenes/b4/the-flying-lesson.md), Q-126 |
-| Dracaena tells Harry to stop planning to survive the Tournament and start trying to win it. His appetite in the maze is hers | Well before the Third Task; placement open | DIV-089, DIV-066, DIV-069 |
+| Dracaena gives Harry permission to want to win it rather than survive it. A wake-up call, not an instruction — there is a chance, you take it | Before the Third Task; before or after the Ball is open | DIV-089, DIV-066, Q-128 |
 | The Durmstrang challenger: Harry beats a rival for her attention, too hard, and Rita gets her ammunition | Between the arrival and the Ball | DIV-029, [durmstrang-challenger](../../scenes/b4/durmstrang-challenger.md) |
 | Her owls home; Lucius suspects, Narcissa confirms it and takes Harry's side; the green dress | December, before the Ball | DIV-040, [the-green-dress](../../scenes/b4/the-green-dress.md) |
 | Rita prints that they went to the Ball together | Right after the Ball | DIV-040 |
@@ -113,7 +113,7 @@ Beats with no canon equivalent.
 | At the lake she clings to him, berates him, shoves Fleur off and kisses him in front of the school | Second Task | DIV-038, [second-task](../../scenes/b4/second-task.md) |
 | Fleur's three days: the test, then the pantomime that hands Dracaena a public win | The three days after the Second Task | DIV-037, DIV-038, [the-little-basilisk](../../scenes/b4/the-little-basilisk.md) |
 | She ties a ribbon round Harry's wrist before he enters the maze — a charm for her brave knight | Before the Third Task | DIV-058 |
-| In the maze Harry takes a spell he could have dodged, because dodging would have burnt her ribbon. She watches it on the relay | Third Task | DIV-089, DIV-058 |
+| In the Krum fight Harry takes a spell he could have dodged, because dodging would have burnt her ribbon. She watches it on the relay: appalled, furious and flattered. Rhymes forward to Montague in B5 | Third Task | DIV-089, DIV-058, DIV-067 |
 | The duel in front of the Cup, watched by the whole school. Amos Diggory watches his son lose and then vanish, and the relay goes dead | Third Task | DIV-089, DIV-088, [the-third-task](../../scenes/b4/the-third-task.md), Q-125 |
 | In the graveyard, unseen, Lucius Summons the ribbon back and Stuns Avery to open Harry a way out | The graveyard | DIV-057 |
 | The hospital wing: Sirius shoves her to the bedside, Dumbledore shelters her, she guards Harry all night | The night of the Third Task | DIV-058, [the-hospital-wing](../../scenes/b4/the-hospital-wing.md) |
@@ -137,7 +137,8 @@ Beats with no canon equivalent.
 - **Beat 30** — Ron without the hostage spot (Q-010).
 - **Beat 11a** — Harry's reaction to watching her bounced, this early in the book, and what Lucius does about an Auror assaulting his heiress (Q-117).
 - **Beat 39** — exactly how Harry beats Krum, which has to come out of the Duelling Club years rather than out of Moody's lessons (Q-123). What fills the maze between the eliminations, now that the fights carry the Task (Q-118).
-- **Beat 45b** — what Harry and Mrs Diggory say instead, now that both of canon's lines are false (Q-124).
+- **Beat 45b** — what is actually said, now that the gold is out and both of canon's lines are false (Q-124).
+- **Standing** — when she gives him permission to want it, which decides whether the scene is scathing or loving, and what happens to the Potter Stinks badges (Q-128).
 - **Standing, new** — what the school did with having watched all of it, and what B5 does with that (Q-125). The flying lesson's cast and content (Q-126).
 - **Standing** — the clue chain that replaces canon's flask and tongue (Q-114); what Crouch teaches Harry through Moody, and what our own rules say it costs him (Q-116); whether the spectators feed the Goblet (Q-119); past champions worth naming and why the Tournament was abolished (Q-120); how the charge's absence sits in B5 without explaining Harry's anger away (Q-122).
 - **Beat 33** — Rita's post-Task coverage (Q-052).

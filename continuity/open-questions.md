@@ -762,14 +762,14 @@ Settled that he wins outright and hard, that it costs him, and that his edge is 
 - **And the finish it implies, which the author is *not* sold on.** Harry does not block — he spoils the draw, so the other man's spell arrives malformed or not at all. It half-works on her because she is too precise to be put off, and works outright on Krum because a drilled hand cannot change its mind halfway. Attractive because Krum is then beaten by his own excellence rather than diminished, and because Flitwick, who drilled clean form into the boy for three years, is in the stands watching him win by ruining other people's. **Parked as an option.**
 - Whatever replaces it has to show rather than tell, which is the whole point of the change (DIV-090).
 
-### Q-124 · The Diggorys' two false lines (DIV-089, DIV-062)
+### Q-124 · What the Diggorys say (DIV-092, DIV-089)
 
-**The hospital-wing visit is canon and stays**, offer included: they thank Harry for bringing Cedric back, he pushes the sack of gold at Mrs Diggory, and she will not take it. Two of its lines stop working under DIV-089.
+The visit stays and its purpose is now closure for Cedric's parents, with Dracaena running the room ([the-diggorys](../scenes/b4/the-diggorys.md), DIV-092). **The gold is out of it.** What is left open is the dialogue, and both of canon's load-bearing lines are unusable:
 
-- **Harry's.** Canon's Harry says the money should have been Cedric's, *because he got there first*. Ours took it out of the air in front of several hundred people. He cannot say it, and what he says instead is the scene — the offer is now the only thing he has for them besides the body, and he knows exactly how small it is.
-- **Mrs Diggory's.** Canon's comforts herself that her son died just when he had won the Tournament. Ours lost, on a relay, with her husband watching. The comfort is not available, and taking it off her costs the scene its one kind moment — which may be the right price or may be too much.
-- **And Amos is in the room.** He crowed about Cedric beating Harry on the walk to the Portkey in August (canon, kept), and he is now sitting opposite the boy who beat his son, thanking him.
-- The gold still goes to the twins afterwards, dressed as an investment (DIV-062). That does not change.
+- **Harry's** — that the money should have been Cedric's *because he got there first* — is gone with the gold, and was false anyway: Harry got there first, out of the air, in front of several hundred people.
+- **Mrs Diggory's** — that her son died just when he had won the Tournament — cannot be said. He lost, on a relay, with Amos in the stand.
+- **Amos is in the room.** He crowed about Cedric beating Harry on the walk to the Portkey in August (canon, kept), and is now thanking the boy who beat his son.
+- **It does not have to be gentle.** Cedric knew exactly what he was entering, and the book is not apologising for Harry having won. Whether anything is left of Mrs Diggory's comfort, or whether the scene simply refuses her one, is the decision.
 
 ### Q-125 · What the school saw, and what B5 does with it (DIV-089, DIV-088, DIV-090)
 
@@ -793,6 +793,14 @@ Open: where in the year it sits, and what Hooch is actually teaching that day �
 The two numbers multiply. A club that meets often, with a trophy changing hands every time they face each other, gives each of them a vault by B4 rather than the shrine the Malfoy room is built around (DIV-059, DIV-060). Candidate dials: fewer meetings; they do not face each other every session; or they do not collect every time.
 
 Nothing elsewhere should assume a frequency, and [harry-potter](../characters/harry-potter.md) and [duelling-club](../threads/duelling-club.md) are written to avoid stating one.
+
+### Q-128 · When she tells him it is all right to want to win (DIV-089, DIV-092)
+
+Settled that she says it and roughly what it is: a wake-up call, not an instruction, and **the wanting stays his** (DIV-089). Open is where it sits, and the timing changes the scene completely.
+
+- **Before the Ball** — the author leans this way. It comes out scathing, from one of the very few people who believe he never entered himself: she has no reason left to disbelieve him, she will not wear a Potter Stinks badge, and he is already outstanding in her eyes. All she lacks is permission to let herself love him, and giving him permission to want something is a strange way of asking for her own.
+- **After the Ball** — it comes out loving, and is a smaller scene for it.
+- **Loose end from the early version:** canon has Draco make the badges. Ours will not wear one, so who makes them, and whether they exist at all, wants deciding alongside this (DIV-001).
 
 ## Answered
 

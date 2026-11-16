@@ -31,12 +31,12 @@ Nobody yields, because nobody knows where the Goblet draws the line between bein
 
 ## Beats
 
-1. *(settled)* **Months earlier, she tells him to try to win.** Not to survive the Tournament — to take it. He is the champion of Hogwarts and ought to behave like one, and more to the point the other three are staking their lives on winning, and treating it as something to get through insults their resolve. It is the inverse of the B3 final, where he gave up his victory lap for her (DIV-069), and the same ethic that made her approve of Krum's calculation at the World Cup (DIV-066). Placement open; possibly months before the maze.
+1. *(settled)* **Earlier, she gives him permission to want it.** A wake-up call, not an instruction: it is all right to want to make a splash, all right to want to win, and in fact he should, because he is the champion of Hogwarts in a tradition centuries old. **Her reasoning is entirely her own — there is a chance, you take it** — and it is the same ethic that made her approve of Krum's calculation at the World Cup (DIV-066). **The wanting stays his.** She removes the reason he was suppressing it; she does not supply it. When she says it, and whether it comes out scathing or loving: **Q-128.**
 2. *(settled)* **The ribbon, before he goes in.** She ties it round his wrist — a charm for her brave knight — and Hermione overhears it (DIV-058). It is on him for everything that follows, and Lucius takes it off him in the graveyard (DIV-057).
 3. *(settled)* **The maze herds.** Not a bracket anyone drew. It is an instrument for generating contribution and it funnels them together, and the 1994 committee chose it believing it was the safe option: no dragons, no drowning, just trained champions and wands, and nobody dies in a duel (Q-120). The sphinx and the rest of the furniture: Q-118.
 4. *(settled)* **Cedric and Fleur.** He wins the way he will nearly win against Harry — by not losing. She is stopped for the second time in a year and has not quit either time (DIV-087).
-5. *(settled)* **Harry and Krum.** Krum is the only professional in the maze and is beaten by a fourteen-year-old. Harry's edge is the one that beats Dracaena's technique: he has no shape (DIV-028, DIV-090). Exactly what he does is **Q-123**.
-6. *(settled)* **He takes a spell rather than let the ribbon burn.** He eats something he could have dodged, because dodging would have put her ribbon in its path. She watches it happen on the relay and is appalled, furious and flattered at once, at full strength, with none of the three cancelling the others. *(draft)* Best placed inside the Krum fight, so that the stands — and she — know what the ribbon is worth to him before the duel at the Cup.
+5. *(settled)* **Harry and Krum — the real final.** The hardest opponent in the maze by a distance, and the only professional in it, beaten by a fourteen-year-old. Harry's edge is the one that beats Dracaena's technique: he has no shape (DIV-028, DIV-090). Exactly what he does is **Q-123**. Cedric was never the likeliest winner of this maze, which is what makes Harry's guilt rest on a false premise (DIV-092).
+6. *(settled)* **He takes a spell rather than let the ribbon burn — inside the Krum fight.** He eats something he could have dodged, because dodging would have put her ribbon in its path, and he does it against the hardest opponent he has, which is what makes it cost. She watches it on the relay: appalled, furious and flattered at once, at full strength, none of the three cancelling the others. **He takes damage to protect his lady's honour** — which is exactly what he does again in B5, when Montague says something about her and Harry ends his own Quidditch career over it (DIV-067).
 7. *(settled)* **The duel in front of the Cup.** Both riding the charge at its peak. Harry will not stand down because her ribbon is on his wrist and he wants to show her what her knight is made of. Cedric will not because he beat Harry in B3 only through a Dementor and a fall, Amos has been crowing about it since August, and he wants to hand his father something real — the rematch he offered in B3 and never got.
 8. *(settled)* **Harry wins it, fair.** He is the better duellist, and this is the one book where he goes for the prize instead of giving it up. The prize is for her.
 9. *(settled)* **Cedric does not stop.** From the ground, beaten, he Summons the Cup. Harry takes it out of the air, being also the better Seeker. Cedric catches his leg as the Portkey goes.
@@ -57,7 +57,7 @@ Relayed, all of it (DIV-088).
 
 ## Afterwards
 
-- *(settled)* **The Diggorys' visit is canon and stays.** They thank him for bringing Cedric back, Harry pushes the sack of gold at Mrs Diggory, and she will not take it. **Two of its lines are now false, though.** Canon's Harry says the gold should have been Cedric's because *he got there first* — ours took it out of the air in front of the school. And canon's Mrs Diggory comforts herself that her son died having just won — ours lost, on a relay, with Amos watching. Amos crowed about Cedric beating Harry back in August and is now sitting opposite the boy who beat his son. What they say instead: **Q-124.**
+- *(settled)* **What Harry makes of it all** — the Diggorys' visit, the calamity, and the one thing she says about it — is [the-diggorys](the-diggorys.md), DIV-092. The gold is not in that scene.
 
 ## Must keep
 
@@ -69,4 +69,4 @@ Relayed, all of it (DIV-088).
 
 ## Open
 
-Q-118 (the maze's furniture) · Q-120 (the committee, and the abolition) · **Q-123 (how he beats Krum)** · Q-124 (the Diggorys' two false lines) · Q-125 (what the school saw, into B5)
+Q-118 (the maze's furniture) · Q-120 (the committee, and the abolition) · **Q-123 (how he beats Krum)** · Q-124 (what the Diggorys say) · Q-125 (what the school saw, into B5) · Q-128 (when she tells him to want it)

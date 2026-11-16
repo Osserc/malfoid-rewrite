@@ -70,6 +70,14 @@ The tsundere engine from his side. Her sincerity is in front of him from B1 — 
 
 The reader is meant to be ahead of him. He is not stupid about her; he has no framework in which a Malfoy means any of it.
 
+## A calamity *(settled)* · DIV-092
+
+What B4 leaves him with, and the shape his guilt takes from then on. Every other time, something tried to kill him and he came out on top. In the maze he did not manage it, and somebody else paid. From that he concludes that he is a **misfortune** — a thing that happens to the people near him.
+
+- **The premise is false.** He settles on *if I had not been in it, Cedric would have won.* The real final was Harry and Krum, and Krum would most likely have taken the Cup (DIV-089). Nobody ever puts this to him.
+- **He is not told he did nothing wrong,** because the person who answers it will not say that. She says she is glad it was him who made it out alive — not reassurance, not consolation, a flat statement that it was good that he lived, again ([the-diggorys](../scenes/b4/the-diggorys.md)).
+- **And that is the only register that reaches him,** because it is his want exactly: not absolution, not gratitude, not admiration — being wanted, by someone, as himself. The found family gives him belonging; she gives him this ([themes](../core/themes.md)).
+
 ## Harsher than canon *(draft)* · Q-024
 
 Angrier and more willing to hurt people than the original, with his Horcrux playing a larger part in it. Visible in the Durmstrang duel, which he wins too hard (DIV-029); in Montague (DIV-067); in going cold when Ron goes through his trunk, and leaving with her without answering the accusation (DIV-063); in forcing his way past Crabbe and Goyle at the hospital wing door; and in a sixth year spent furious. How much is the Horcrux and how much is him is Q-024.
@@ -132,7 +140,7 @@ Events are in [threads/harry-dracaena.md](../threads/harry-dracaena.md). This is
 | B1 | Awestruck, then stung, and sure the princess is cruel (DIV-009). Shown at the Mirror what wanting the dead back costs, and in a corridor what magic leaves behind — where he half wants her to be right about dreaming in measured doses, and a thing with no name settles it for him (DIV-072, DIV-073) |
 | B2 | The Duelling Club turns a feud into a game he enjoys and won't examine (DIV-028). In a corridor he does the only decent thing anyone has ever done for an elf, by accident (DIV-076) |
 | B3 | Affection at the final, revelation at the lake (DIV-069, DIV-018). He re-evaluates her and can't make the mask fit |
-| B4 | In love before he knows it (DIV-037); learns it properly over the year. First time he pictures a future. Bound to a tournament he cannot leave without losing everything, taught by a man he will learn was a prisoner, and robbed of the one prize that would have meant anything (DIV-086, DIV-087). He also finds a friend who is famous too, and then has to put him down (DIV-090) — and wins the thing by wanting it, in front of the school, which is what he carries into B5 (DIV-089) |
+| B4 | In love before he knows it (DIV-037); learns it properly over the year. First time he pictures a future. Bound to a tournament he cannot leave without losing everything, taught by a man he will learn was a prisoner, and robbed of the one prize that would have meant anything (DIV-086, DIV-087). He also finds a friend who is famous too, and then has to put him down (DIV-090) — and wins the thing by wanting it, in front of the school, having been given permission to want it (DIV-089). Then decides he is a calamity, and is answered rather than comforted (DIV-092) |
 | B5 | Rage, isolation, and the one person treating him like a person (DIV-065). Loses Quidditch for her and doesn't much care (DIV-067) |
 | B6 | Angry all year, heart not in Dumbledore's lessons. The reflex comes due (DIV-032) |
 | B7 | Drops the plan for her at the Manor (DIV-049); handles her with velvet gloves until she makes him stop (DIV-054); walks to the forest for Dumbledore's plan and comes back for her (DIV-022, DIV-048). Learns at Dobby's death what his own kindness had been costing (DIV-050) |
@@ -143,4 +151,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-024, Q-029, Q-035, Q-038, Q-050, Q-057, Q-061, Q-063, Q-072, Q-075, Q-078, Q-080, Q-082, Q-085, Q-096, Q-116, Q-122, Q-123, Q-124, Q-125, Q-127
+Q-024, Q-029, Q-035, Q-038, Q-050, Q-057, Q-061, Q-063, Q-072, Q-075, Q-078, Q-080, Q-082, Q-085, Q-096, Q-116, Q-122, Q-123, Q-124, Q-125, Q-127, Q-128
