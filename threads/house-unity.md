@@ -42,7 +42,7 @@ The measure of the theme is who is standing in the Great Hall at the finish: not
 
 The secret cannot be kept by authorial convenience in a House of forty people sharing a common room, so from B3 it is not kept. Two of them act on it, and the badges in B4 are late rather than first.
 
-- **The scarf has been walking around since B2.** She won it off Harry at the Duelling Club before Christmas of their second year and she *uses* it (DIV-059): a Slytherin in Gryffindor colours, every winter, in front of everybody. "Trophy" covers it for about a year.
+- **The scarf arrives in B3.** She wins it off Harry at the last duel of their second year (DIV-059), parades it at home over the summer, and wears it all through B3 — a Slytherin in Gryffindor colours in front of everybody, most visibly on a winter Hogsmeade weekend. "Trophy" covers it for a while and then stops.
 - **B3 breaks the arithmetic.** She trains herself into the ground to beat him *properly* rather than merely beat him (DIV-017, DIV-069), and goes on needling him the whole time. The two do not fit, and people can see them not fitting.
 - **The needling never stops,** which is what makes it such good cover — through B4 up to the Ball and for the rest of their lives. The undertone changes; the surface never does.
 - **Daphne moves in B3.** A distracted queen bee is a vacancy, and she notices vacancies early. Her candidacy as Rita's source gains a year (Q-038).

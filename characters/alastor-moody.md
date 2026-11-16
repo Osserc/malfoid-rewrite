@@ -22,7 +22,8 @@ status: draft
 The tells are not villainy. **They are a frightened young man coming up for air inside a grizzled Auror**, which is the throughline: Barty Crouch Jr went to Azkaban very young and never finished growing up in there. Leading candidates:
 
 - **He drinks something he did not prepare himself.** Moody eats and drinks nothing that has not passed through his own hands — canon's flask exists for that reason. Ours inverts it: a smell from Crouch's schooldays gets him at Hogsmeade, and he gives in and takes Moody over to have it. The author's lean is a mug of Butterbeer, which passes as nostalgia in a hard old man and is worse once you know.
-- **He startles at the name Winky.** Days after the Yule Ball, Harry mentions that Dobby is in the castle minding another elf. Moody has no reason at all to know the name. Crouch has every reason: she was his family's elf.
+- **He startles at the name Winky.** Days after the Yule Ball he asks after Dobby — in character, since a paranoid Auror wants to know why the Malfoy elf is handing Harry Potter socks — and Harry answers that Dobby is in the castle minding another elf. Moody has no reason at all to know the name. Crouch has every reason: she was his family's elf.
+- **He keeps nearly saying who did it.** He remembers putting the name in the Goblet and remembers thinking he had a reason, so he would say so if it came up — and all year he opens his mouth about the culprit and then shrugs it off. That is Crouch silencing him for a split second at a time, spending grip he cannot spare (DIV-086). The confession names it in one line.
 - And the ones already on the table: the seventh lock, the eye that can see into his own trunk and looks away, and the Imperius lesson pressed far harder than the curriculum asks.
 
 ## He takes himself back

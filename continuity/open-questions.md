@@ -463,7 +463,7 @@ Lucius Summoned the ribbon off Harry's wrist and Stunned Avery to open him a way
 
 The hoard in B4 only lands if the custom and her first win are on the page years earlier. Open:
 
-- **The challenge.** Her forfeit, before the Christmas holidays of their second year, and the bout she wins. Does it get a scene or a paragraph?
+- **The challenge.** Her forfeit, at the **last duel of their second year**, and the bout she wins. Does it get a scene or a paragraph? *(Moved from Christmas: canon puts the club's first meeting on 17 December, so there is no rivalry yet at the holidays for a forfeit to grow out of — and the later date means the scarf first appears in public in B3, which is where the House starts noticing anyway, DIV-094.)*
 - **What he's won off her,** and whether we ever see his own trove before he admits to it. *Partly answered:* one of her gloves, worn on his catching hand at the B3 final, opposite a Seeker's glove of his on hers (DIV-069). That puts the custom in front of the whole school without either of them explaining it, which is the planting this question asks for — and it leaves B4's room as the reveal of what the hoard *means* rather than that it exists.
 - **The banner.** Where a Gryffindor banner in a Slytherin's secret room came from. A trophy is the funniest answer; a Quidditch spoil is the other.
 
@@ -710,16 +710,25 @@ Canon rewarded the rereader with the flask, the tongue and the ferret. The disgu
 
 - **The rule it breaks is canon's own.** Moody eats and drinks nothing he has not made with his own hands — the reason the flask works as a clue in the original. Ours inverts it: the tell is the one time he doesn't.
 - **A smell from his schooldays gets him** on an outing to Hogsmeade, and he gives in and takes Moody over to have it himself. Not planned, no advantage in it, no plan value at all — the same register as the ferret (DIV-086).
-- **Butterbeer rather than food, on the author's lean.** A grizzled Auror putting away a mug of a children's drink reads as a bout of nostalgia and nothing worse, which is exactly what a clue has to do. It is also funnier and sadder than a plate of something.
+- **Butterbeer, settled.** No need to engineer a plate of something when a drink does the whole job. A grizzled Auror putting away a mug of a children's drink reads as a bout of nostalgia and nothing worse — **to the reader it says our Moody is not a stick in the mud about vigilance quite all the time**, which is a likeable thing to learn about him, and then they find out it was a rare Crouch moment and it curdles.
 - **Placement:** the Three Broomsticks, in the canon scene with Hagrid that the author recalls. If it turns out to be food after all, the recipe can be Rosmerta's from years back, or her predecessor's that she learned.
 
 **Candidate: Winky's name.** *(the author's)*
 
 - **The way in is canon's own joke, kept:** at the Yule Ball, Moody admires Harry's socks and Harry says they came from Dobby. We keep the exchange whole, because it is funny and because it is the only reason the next beat can exist.
-- **The startle comes days later,** when Moody asks after Dobby in passing and Harry mentions he is in the castle minding another elf — Winky. **Moody startles, very slightly, and covers it.**
+- **Why he asks is the good part.** He knows Dobby is the Malfoy elf, and a paranoid Auror wants to know why a Malfoy creature is handing Harry Potter socks. The question is perfectly in character for the real man, which is what makes it safe cover — and it is the question that walks him into the tell.
+- **The startle comes days later,** when Harry answers that Dobby is in the castle minding another elf — Winky. **Moody startles, very slightly, and covers it.**
 - **The real Moody has no reason to know the name. Barty Crouch Jr has every reason:** she was his family's elf. A reader who remembers whose elf she was has the whole thing from one word.
 - **It re-homes what Winky was carrying in canon** (Q-094). She confirmed the secret as a witness there; here she gives it away as a name, without ever being in the room.
 - **Dracaena is in the Ball beat too,** and her reaction is open. Three on the table: incensed that he wore peasant socks and that she failed to notice; genuinely impressed, since our Dobby is no caricature and the socks may simply be good; or she says nothing at all and allows herself a small smile, because her old servant is alive and happy — which is the one that feeds Q-098 and costs a line.
+
+**Settled: the voice he keeps having to shut** *(DIV-086)*
+
+Not a candidate — recorded. Moody remembers putting the name in the Goblet and remembers having had a reason at the time, so he would simply say so if it came up, and he keeps nearly saying so. Crouch takes him over for a split second each time to stop him.
+
+- **On the page:** passing notes of Moody opening his mouth about the culprit and then not saying it — a shrug, a grumble. Reads as a hard old man thinking better of a theory.
+- **Every one of those costs Crouch grip** (DIV-086), which is why the hold is frayed by the Third Task and why the office goes wrong.
+- **The confession pays it in one line:** *I had to keep his voice down all year — he was dying to tell them he put the name in.* The reader recontextualises every shrug at once.
 
 **Also on the table:**
 
