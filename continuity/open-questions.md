@@ -749,12 +749,6 @@ Attractive and possibly too tidy. Undecided.
 - **One or two past victors worth naming,** remembered for what they went on to do rather than for winning. A line of that kind is what sells the prize to the reader.
 - **The abolition.** The death toll is canon's reason and is not sufficient on its own, now that the prize is this large. The stronger reason: three schools, three nations, and one of them handed a decisive wizard every five years. Eventually somebody used it. DIV-089 also offers a second strand for free: the final Task is a fight between champions, which means somebody has been killed in one before, and the 1994 committee's belief that a wand-fight was the *safe* option is a judgement somebody made once already.
 
-### Q-121 · Is Harry told why Cedric died? (DIV-087, DIV-089)
-
-*Much smaller since DIV-089.* There is no mechanism left for Dumbledore to withhold: Cedric is the spare because he had a hand on an ankle and not on a handle, and Harry already knows exactly why he was there — because Harry won, and Cedric would not let go.
-
-What remains: whether anybody tells him about the inch, and whether knowing it would help or finish him. Also whether Dumbledore ever says out loud that he watched two of his champions duel on a relay and did nothing, having been the one who told Harry in November what the prize was worth.
-
 ### Q-122 · The charge's absence in B5 (DIV-087)
 
 Harry has been emptied of something real, in June, on top of everything else. The texture is attractive — he is flat, his magic sluggish, and neither he nor the reader can separate drained from wrecked — but it must never become the explanation for his anger in B5. Where the line sits, and whether anybody in the castle can tell.
@@ -768,11 +762,14 @@ Settled that he wins outright and hard, that it costs him, and that his edge is 
 - **And the finish it implies, which the author is *not* sold on.** Harry does not block — he spoils the draw, so the other man's spell arrives malformed or not at all. It half-works on her because she is too precise to be put off, and works outright on Krum because a drilled hand cannot change its mind halfway. Attractive because Krum is then beaten by his own excellence rather than diminished, and because Flitwick, who drilled clean form into the boy for three years, is in the stands watching him win by ruining other people's. **Parked as an option.**
 - Whatever replaces it has to show rather than tell, which is the whole point of the change (DIV-090).
 
-### Q-124 · The gold, and the Diggorys (DIV-089, DIV-062)
+### Q-124 · The Diggorys' two false lines (DIV-089, DIV-062)
 
-Harry tries to give them the thousand Galleons. Not a canon beat — ours. It is the only thing he has for them besides the body, he knows what it is worth, and the attempt is for his own conscience as much as for them, which is what makes it ambiguous rather than sweet.
+**The hospital-wing visit is canon and stays**, offer included: they thank Harry for bringing Cedric back, he pushes the sack of gold at Mrs Diggory, and she will not take it. Two of its lines stop working under DIV-089.
 
-Open: whether they take it. Canon routes the money to Fred and George dressed as an investment, at Dracaena's suggestion (DIV-062), so the simplest chain is that Amos refuses and the twins get it — which preserves the canon destination and makes the offer a failure Harry has to live with. Whether Amos refuses out of grief, pride or dislike is the part that decides how B5's Ministry hearing feels.
+- **Harry's.** Canon's Harry says the money should have been Cedric's, *because he got there first*. Ours took it out of the air in front of several hundred people. He cannot say it, and what he says instead is the scene — the offer is now the only thing he has for them besides the body, and he knows exactly how small it is.
+- **Mrs Diggory's.** Canon's comforts herself that her son died just when he had won the Tournament. Ours lost, on a relay, with her husband watching. The comfort is not available, and taking it off her costs the scene its one kind moment — which may be the right price or may be too much.
+- **And Amos is in the room.** He crowed about Cedric beating Harry on the walk to the Portkey in August (canon, kept), and he is now sitting opposite the boy who beat his son, thanking him.
+- The gold still goes to the twins afterwards, dressed as an investment (DIV-062). That does not change.
 
 ### Q-125 · What the school saw, and what B5 does with it (DIV-089, DIV-088, DIV-090)
 
@@ -783,13 +780,25 @@ The maze is relayed, so several hundred people watched Harry beat the Durmstrang
 - **Rita was in the building,** and so was Amos Diggory, who watched his son lose to Harry minutes before his son died.
 - Open: how much of this is on the page, and whether it makes B5's isolation harder to write or sharper.
 
-### Q-126 · The flying lesson: the cast, and what happens in the air (DIV-091)
+### Q-126 · The flying lesson: placement, and what the children are taught (DIV-091)
 
-Settled that Hooch calls the session, that it is an exhibition rather than a contest, that nobody duels, and that the one result it produces is who follows Krum down.
+*Mostly answered.* Cast, shape and outcome are settled in DIV-089's sibling entry and [the-flying-lesson](../scenes/b4/the-flying-lesson.md): Harry, Dracaena, Krum, Cedric and Cho on the lawn, Fleur sulking in the stands, the hour of domestic bickering over the first years' technique, then the Feint, with Cedric and Cho out earliest, then Dracaena, then Harry, then Krum.
 
-Open: who is on the lawn besides Harry, Dracaena and Krum — Cedric and Cho are the obvious ones, and Cho is a rival only in Dracaena's head (DIV-041) — what the first years are actually taught, and whether Fleur attends at all, since she is the one champion outside the flying fraternity and the first out of the maze.
+Open: where in the year it sits, and what Hooch is actually teaching that day — which matters only because Harry and Dracaena have to be contradicting each other about something specific, at length, in front of children.
+
+### Q-127 · How often the Duelling Club meets, and whether every bout carries a forfeit (DIV-028, DIV-059)
+
+**Deliberately uncommitted**, at the author's instruction, until the club's shape is clear.
+
+The two numbers multiply. A club that meets often, with a trophy changing hands every time they face each other, gives each of them a vault by B4 rather than the shrine the Malfoy room is built around (DIV-059, DIV-060). Candidate dials: fewer meetings; they do not face each other every session; or they do not collect every time.
+
+Nothing elsewhere should assume a frequency, and [harry-potter](../characters/harry-potter.md) and [duelling-club](../threads/duelling-club.md) are written to avoid stating one.
 
 ## Answered
+
+### Q-121 · Is Harry told why Cedric died? (DIV-087, DIV-089)
+
+*Answered: it is not a question.* Harry was there and saw all of it, and so did the school. The instruction was to reach the Cup, he reached it, and everybody understands why he is the victor — there is nothing for anyone to tell him. Cedric is dead because he was standing next to the boy who won. → **DIV-089**
 
 ### Q-115 · The shared victory, and how Cedric dies (DIV-087, DIV-089)
 

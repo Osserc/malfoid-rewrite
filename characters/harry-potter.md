@@ -88,7 +88,7 @@ The warning aimed at him is not Aline's but Renoir's — the man who went into t
 - **Flying.** A wild instrument suits him. He wins when he stops managing it (DIV-068).
 - **Sacrifice.** His death in the forest protects nobody (DIV-026).
 - **The charge, B4.** Bound by the Goblet on pain of his magic, he carries the Tournament's charge as it grows through the year — spells landing harder than he means them to, and **Dracaena notices before he does**, because she is the one who knows his magic best (DIV-087, DIV-028). It buys him nothing he wants: he is strongest, most watched and most hounded in the year he cannot make himself ask one girl a question. It is awarded to him in the graveyard, bound to a headstone with his wand out of reach, and drawn straight back out for the ritual. How its absence reads in B5: Q-122.
-- **No shape.** His edge against anyone trained, and the reason he beats Krum: three years against the best technician in the castle have made him a reader of other people's casting, and left his own unreadable. She gave him that by being perfect at him twice a week since they were twelve (DIV-028, DIV-089). How it works on the page is **Q-123**.
+- **No shape.** His edge against anyone trained, and the reason he beats Krum: three years against the best technician in the castle have made him a reader of other people's casting, and left his own unreadable. She gave him that by being perfect at him, bout after bout, since they were twelve — how often the club actually meets is deliberately uncommitted (DIV-028, DIV-089, Q-127). How it works on the page is **Q-123**.
 - **What Moody taught him** was real, and some of it was Crouch's, and he can never sort which (DIV-086, Q-116). The boy who was told that spells are only weapons is the boy who uses one out of a book he doesn't understand in B6 (DIV-043).
 
 ## The elves *(settled)* · DIV-075, DIV-076, DIV-078
@@ -143,4 +143,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-024, Q-029, Q-035, Q-038, Q-050, Q-057, Q-061, Q-063, Q-072, Q-075, Q-078, Q-080, Q-082, Q-085, Q-096, Q-116, Q-121, Q-122, Q-123, Q-124, Q-125
+Q-024, Q-029, Q-035, Q-038, Q-050, Q-057, Q-061, Q-063, Q-072, Q-075, Q-078, Q-080, Q-082, Q-085, Q-096, Q-116, Q-122, Q-123, Q-124, Q-125, Q-127

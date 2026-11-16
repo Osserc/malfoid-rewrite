@@ -23,7 +23,7 @@ Three of the finest young witches and wizards alive spend a year pouring themsel
 
 The Goblet names champions and binds them. Canon never says what the binding consists of; ours does.
 
-- **A bound champion owes a contribution.** One who competes pays it by competing. One who refuses cannot, so the Goblet takes it out of the body instead — a year's worth of a champion's expenditure, which is effectively everything they have.
+- **A bound champion owes a contribution.** One who competes pays it by competing. One who refuses cannot, so the Goblet takes it out of the body instead — **all of it.** Not a year's worth: a champion who will not commit is stripped of their magic entirely and banished from the wizarding world, no ifs and no buts.
 - **It is collection, not punishment.** The Goblet is not angry and is not making an example. It is balancing a ledger, and that is worse.
 - **It knows the difference between being stopped and giving up,** and it will not be tricked by a champion who goes through the motions. Which is what the officials are actually for: the judges and the scores exist to witness contribution, not to award points. A champion dragged out of the lake by grindylows has paid. One who walks away has not.
 - **It is exactly what it says it is.** No secret, no Dark under-layer, no loophole Dumbledore failed to find. An impartial arbiter with no mercy and no discretion — which is precisely why it will take a fourteen-year-old's magic without blinking, and why it does not care in the slightest that he was entered falsely. Its honesty is the horror. *(Deliberately not built as legend-versus-mechanism: that shape belongs to Lustrum and to* Arceo *(DIV-080, DIV-084), and a third would be a tic.)*
@@ -42,7 +42,7 @@ Voldemort's ritual needs the blood of one particular enemy and a victor's charge
 There is no shared victory, because the Goblet never gets two claimants. The maze is an elimination — Cedric beats Fleur, Harry beats Krum, and Harry and Cedric fight in front of the Cup — and the Task is designed to make them meet, because an instrument for generating contribution naturally funnels four people towards one point.
 
 - **The 1994 committee thought it was the safe option.** No dragons, no drowning, just trained champions and wands, and nobody dies in a duel. The safest Task anyone ever designed for the Tournament is the one that got a champion killed, somewhere else, for reasons none of them could have planned for (Q-120).
-- **Nobody dares yield.** Nobody knows where the Goblet draws the line between being stopped and giving up, and testing it costs a year of your magic — so the champions fight long past the point of sense. That is the floor under the wanting, not a substitute for it: all four of them want the pot.
+- **Nobody dares yield.** Nobody knows where the Goblet draws the line between being stopped and giving up, and testing it costs everything — all of your magic, and your place in the wizarding world with it. So the champions fight long past the point of sense. That is the floor under the wanting, not a substitute for it: all four of them want the pot, and Dracaena has already told Harry he had better want it too (DIV-089).
 - Full beats, including the Summoned Cup and the hand on the ankle: [scenes/b4/the-third-task.md](../scenes/b4/the-third-task.md).
 
 ## Harry and the contract *(settled)* · DIV-087
@@ -59,4 +59,4 @@ Canon asks a stadium to watch the surface of a lake and the outside of a hedge. 
 
 ## Open
 
-Q-118 (the maze's furniture, with no Crouch in it) · Q-119 (do spectators feed the Goblet) · Q-120 (past champions, and why it was abolished) · Q-121 (whether Harry is told) · Q-122 (the charge's absence in B5) · Q-123 (how Harry beats Krum) · Q-125 (what the school saw, and B5)
+Q-118 (the maze's furniture, with no Crouch in it) · Q-119 (do spectators feed the Goblet) · Q-120 (past champions, and why it was abolished) · Q-122 (the charge's absence in B5) · Q-123 (how Harry beats Krum) · Q-125 (what the school saw, and B5)

@@ -4,7 +4,7 @@ status: draft
 
 # Fleur Delacour
 
-**Role:** Beauxbatons champion, part veela. After Harry brings her sister back, she repays him by playing matchmaker.
+**Role:** Beauxbatons champion, part veela, and a social butterfly from the start. After Harry brings her sister back, she repays him by playing matchmaker.
 **Canon baseline:** Fleur Delacour. Anything not overridden follows canon.
 **Changes from canon:** DIV-037, DIV-038, DIV-089
 
@@ -27,7 +27,7 @@ She is beaten twice in one year and does not give up either time, which is the d
 - **June.** Cedric beats her in the maze — and she is the faster and more inventive duellist of the two. He simply does not break, which is how he will nearly beat Harry twenty minutes later. It is the same reason, not a ranking.
 - **What she is.** The champion who cannot be made to give up, who wins nothing, and who is the only one of the four to walk out of the year undamaged. Everyone underestimates her, which is the engine of DIV-038 as well, and she is still fighting in B7.
 
-*(draft)* She is not a Seeker, and so is the one champion outside the flying fraternity that Hooch's lesson assembles — and the first out of the maze. Whether she attends at all: Q-126.
+**She is not a Seeker,** and so is the one champion left out of the flying fraternity that Hooch's lesson assembles. She comes and watches from the stands anyway, visibly miffed at being excluded from a gathering of champions (DIV-091) — the first clear sighting of a girl who wants to be in every room, which is the same appetite that produces the pantomime in the Great Hall three months later. She is also the first out of the maze.
 
 ## Voice
 

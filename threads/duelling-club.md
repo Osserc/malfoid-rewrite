@@ -69,4 +69,4 @@ At some point the bouts acquire a forfeit: the loser gives the winner a trophy, 
 
 ## Open
 
-Q-028 (Flitwick and resonance) · Q-073 (planting the trophies) · Q-123 (how the club's years cash out against Krum)
+Q-028 (Flitwick and resonance) · Q-073 (planting the trophies) · Q-123 (how the club's years cash out against Krum) · Q-127 (how often it meets, and whether every bout is collected)

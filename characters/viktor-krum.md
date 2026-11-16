@@ -36,11 +36,7 @@ He is formidable: seventh year, Durmstrang-trained, chosen by the Goblet out of 
 
 He is the first person Harry has to put down, and the only one in the maze who understood him.
 
-## Where the World Cup answer pays *(draft)*
-
-Not in the maze. A duel has no margin to salvage, so there is nothing for him to take inside a loss short of going kamikaze, which is not him — the mirror does not exist and should not be forced.
-
-It pays in the graveyard, where Harry is bound, bled, wandless and stripped of the charge, and takes the one thing still takeable: he Summons the Cup and brings the body home. Cedric's echo calls it and Harry agrees. Planted in November, done in June, and nothing in the text joins them (DIV-089).
+The Snitch answer needs no payoff elsewhere. It is characterisation, and the World Cup beat has already paid once, as the argument it starts between Harry and Dracaena (DIV-066). *Rejected:* mirroring it in the maze, since a duel has no margin to salvage; and relocating the mirror to the graveyard, which was a reach.
 
 ## Voice
 
@@ -55,12 +51,13 @@ Canon.
 - [Harry Potter](harry-potter.md): the only other person who knows what it is like. Friendly by the Ball, and the first man Harry puts down in the maze.
 - Hermione Granger: as canon. He takes her to the Yule Ball and nothing about that changes (DIV-029).
 - A Durmstrang student: a schoolmate who talks too much, and whom Krum is pleased to see beaten (DIV-029).
+- [Dracaena Malfoy](dracaena-malfoy.md): the other Hogwarts Seeker worth watching. She follows him down at the flying lesson and pulls out before Harry does, and minds it (DIV-091).
 
 ## Arc by book
 
 | Book | Where he is |
 |---|---|
-| B4 | The World Cup, ended on his own terms (DIV-066). Then a year of being curious about Harry Potter, and a maze in which Harry proves to be better than he is (DIV-089, DIV-090) |
+| B4 | The World Cup, ended on his own terms (DIV-066). Then a year of being curious about Harry Potter — and one afternoon on a lawn where he is unambiguously the best flier there and everybody including Harry knows it (DIV-091). Then a maze in which Harry proves to be the better duellist (DIV-089, DIV-090) |
 
 ## Secrets
 
