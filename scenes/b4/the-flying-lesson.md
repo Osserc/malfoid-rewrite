@@ -49,7 +49,7 @@ Harry against Krum belongs to the Third Task and must not be spent early (DIV-08
 - No contest between Harry and Krum.
 - Children on the lawn. It is what makes the hour gentle, and it is why she forgets herself.
 - Krum wins the dive. He is the star of this scene and nothing is taken off him in it.
-- Harry's third place is not a measure of his nerve. He stopped because she stopped.
+- Harry comes second, and it is not a measure of his nerve. He stopped because she stopped.
 
 ## Open
 

@@ -23,15 +23,23 @@ Canon uses the visit to move a sack of gold. Ours uses it to install the belief 
 2. *(settled)* **The Diggorys come, and she runs the room.** Her upbringing is good for exactly one thing here and it is the right thing: she is an expert navigator of a delicate social occasion, and she handles it so Harry does not have to.
 3. *(settled)* **Harry gives them closure.** It does not have to be gentle, and the book is not going to apologise for the fact that he beat Cedric first in front of several hundred people. Cedric knew what he was entering. **What is actually said: Q-124.**
 4. *(settled)* **No gold.** The offer is cut. The visit is for Cedric's parents, not for Harry's conscience, and the money has somewhere better to go (DIV-062).
-5. *(settled)* **When they have gone, she talks to him.** He has worked it out and tells her: he is a calamity, a misfortune that happens to people. *If I hadn't been in it, Cedric would have won.*
-6. *(settled)* **She does not argue with it.** She will not tell him he did nothing wrong, will not produce comfort, and will not let him off.
-7. *(settled)* **What she says is:** ***"I'm glad it was you who made it out alive."*** Not reassurance. Not consolation. It was good that he lived. Again.
+5. *(settled)* **When they have gone, he says it.** He is a calamity, a misfortune that happens to people. *If I hadn't been in it, Cedric would have won.*
+6. *(settled)* **And then that he should have pulled out of the Tournament.** If all he brings the person next to him is death, he should never have competed — and he means it, knowing what withdrawal would have cost him: all of his magic and his place in the world with it (DIV-087). It is also, without his hearing it, a charge laid at her door.
+7. *(settled)* **She cuts him off.** She does not argue with the guilt, does not produce comfort, does not take the charge, and does not let him off.
+8. *(settled)* **What she says is:** ***"I'm glad it was you who made it out alive."*** Not reassurance. Not consolation. It was good that he lived. Again.
+9. *(settled)* **What she does not say,** and what has to land anyway: she would trade a hundred Cedric Diggorys for him. Saying it outright is too much. **Harry is her happiness.** He is not to be ashamed of surviving, and nobody gives up and dies because things have got hard.
 
 ## Why that line and not another
 
 It is the only register that reaches him. He has been thanked, admired, and made much of all his life, and none of it has ever been the thing he wants, which is to be **wanted, by someone, as himself** ([harry-potter](../../characters/harry-potter.md)). She is not comforting him; she is telling him she is glad he exists, and she happens to be saying it over a dead boy.
 
 She is also, at that moment, being honest, hard-hearted and in love all at once, and the line only works because all three are true. She does not get softened for the occasion.
+
+## The line she will not live by
+
+She says it to him in June 1995. In B6, Marked and certain she is past saving, she gives up and sets about dying — the hollow weeks, the breakup, a year of trying to make him hate her (DIV-015, DIV-043). She does not take her own advice back up until the raid on the Manor in B7 (DIV-049).
+
+The text never joins the two. It belongs on the echoes list in [sleeping-beauty](../../threads/sleeping-beauty.md).
 
 ## What he is wrong about
 
@@ -44,6 +52,7 @@ She is also, at that moment, being honest, hard-hearted and in love all at once,
 ## Must keep
 
 - She does not say it was not his fault.
+- His offer to have withdrawn comes before her line, and she does not let him finish it.
 - The line lands as a statement, not as comfort.
 - No gold in this scene.
 - She is not softened. The others' coda in the hospital wing exists for the same reason.

@@ -81,6 +81,7 @@ Motif echoes to use at the moments that carry weight, not everywhere.
 - **The Dessendres.** The warning both of them heard in B1 and read differently (DIV-072). Hers was the family's version, and she took it as a technique that nearly worked. The Mirror is where that catches up with her: the one thing she can't fix with a method, and she can't stop going ([painted-life](../setting/painted-life.md)).
 - **The Prince.** She tells Harry princes are supposed to save their princesses. The spell that cut her came from the Half-Blood Prince's book.
 - **Her Patronus** tracks the dream: mist until the Yule Ball, corporeal in the dream, gone in the nightmare, back when she wakes ([patronus](patronus.md)).
+- **Her own advice, refused.** In B4 she tells Harry he is not to be ashamed of having survived, and that nobody gives up and dies because things have got hard (DIV-092). In B6, Marked and certain she is past saving, she does exactly that: the hollow weeks, the breakup, and a year spent trying to make him hate her (DIV-015). **She does not take it back up until the raid on the Manor in B7** (DIV-049). The text never points at the repetition.
 - **The final duel** is love breaking the curse (DIV-006).
 - **Her name:** Dracaena is from *drakaina*, a she-dragon. In Harry's version of the tale the villain becomes a dragon. Princess or dragon is the question she keeps facing. Her Patronus is a dragon (DIV-027).
 
