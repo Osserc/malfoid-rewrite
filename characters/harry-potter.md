@@ -79,6 +79,8 @@ The tsundere engine from his side. Her sincerity is in front of him from B1 — 
 
 The reader is meant to be ahead of him. He is not stupid about her; he has no framework in which a Malfoy means any of it.
 
+**And it runs both ways, which is the engine.** He cannot read a Malfoy meaning it; she cannot believe she is wantable, and writes his decency off as the golden boy being pleasant to everyone (DIV-041, DIV-095). Two people looking straight at the evidence with the wrong filing system, which is why it takes until the Ball and why neither of them is being stupid.
+
 ## A calamity *(settled)* · DIV-092
 
 What B4 leaves him with, and the shape his guilt takes from then on. Every other time, something tried to kill him and he came out on top. In the maze he did not manage it, and somebody else paid. From that he concludes that he is a **misfortune** — a thing that happens to the people near him.
@@ -149,7 +151,7 @@ Events are in [threads/harry-dracaena.md](../threads/harry-dracaena.md). This is
 | B1 | Awestruck, then stung, and sure the princess is cruel (DIV-009). Shown at the Mirror what wanting the dead back costs, and in a corridor what magic leaves behind — where he half wants her to be right about dreaming in measured doses, and a thing with no name settles it for him (DIV-072, DIV-073) |
 | B2 | The Duelling Club turns a feud into a game he enjoys and won't examine (DIV-028). In a corridor he does the only decent thing anyone has ever done for an elf, by accident (DIV-076) |
 | B3 | Affection at the final, revelation at the lake (DIV-069, DIV-018). He re-evaluates her and can't make the mask fit |
-| B4 | In love before he knows it (DIV-037); learns it properly over the year. In the first week he carries a transfigured rival to the hospital wing without being asked and could not say why (DIV-095). First time he pictures a future. Bound to a tournament he cannot leave without losing everything, taught by a man he will learn was a prisoner, and robbed of the one prize that would have meant anything (DIV-086, DIV-087). He also finds a friend who is famous too, and then has to put him down (DIV-090) — and wins the thing by wanting it, in front of the school, having been given permission to want it (DIV-089). Then decides he is a calamity, and is answered rather than comforted (DIV-092) |
+| B4 | In love before he knows it (DIV-037); learns it properly over the year. In the first week he carries a transfigured rival to the hospital wing without being asked, could not say why, and tells her there that what she did was hideous — the only argument that has ever worked on her, found by accident (DIV-095). First time he pictures a future. Bound to a tournament he cannot leave without losing everything, taught by a man he will learn was a prisoner, and robbed of the one prize that would have meant anything (DIV-086, DIV-087). He also finds a friend who is famous too, and then has to put him down (DIV-090) — and wins the thing by wanting it, in front of the school, having been given permission to want it (DIV-089). Then decides he is a calamity, and is answered rather than comforted (DIV-092) |
 | B5 | Rage, isolation, and the one person treating him like a person (DIV-065). Loses Quidditch for her and doesn't much care (DIV-067) |
 | B6 | Angry all year, heart not in Dumbledore's lessons. The reflex comes due (DIV-032) |
 | B7 | Drops the plan for her at the Manor (DIV-049); handles her with velvet gloves until she makes him stop (DIV-054); walks to the forest for Dumbledore's plan and comes back for her (DIV-022, DIV-048). Learns at Dobby's death what his own kindness had been costing (DIV-050) |
@@ -160,4 +162,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-024, Q-029, Q-035, Q-038, Q-050, Q-057, Q-061, Q-063, Q-072, Q-075, Q-078, Q-080, Q-082, Q-085, Q-096, Q-118, Q-123, Q-124, Q-125, Q-127, Q-128, Q-131, Q-132
+Q-024, Q-029, Q-035, Q-038, Q-050, Q-057, Q-061, Q-063, Q-072, Q-075, Q-078, Q-080, Q-082, Q-085, Q-096, Q-118, Q-123, Q-124, Q-125, Q-127, Q-128, Q-132, Q-134

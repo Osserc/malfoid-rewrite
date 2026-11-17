@@ -152,7 +152,7 @@ A secret couple, secret friends, something unnamed? Who knows? And what about th
 
 *The Squad is a toy, not a job.* She's living the dream, and she has no intention of doing Umbridge's policing, least of all anything that would get Harry into real trouble. What the badge is for is leverage to invent excuses: errands to run, rules to catch him breaking, pretexts to bully him with. So canon's bust can't turn on her catching him.
 
-*Cho is settled* (DIV-041): nothing has ever been planted between her and Harry, so whatever she tries in B5 is hers alone, goes nowhere, and is not on Harry's or Dracaena's radar for a moment. Whether it happens on the page at all is a scene question, not a relationship one.
+*Cho is settled* (DIV-041): nothing is ever planted between her and Harry, so what she tries in B5 is hers alone and goes nowhere. **Harry never notices. Dracaena notices every time**, and makes her sorry for it — not out of jealousy but out of bookkeeping (Q-134).
 
 Who knows, and who catches the DA instead, are still open.
 
@@ -831,20 +831,6 @@ Settled that he exists and what he is: **a sixth year in B4**, so Balthier and N
 
 The live possibility is that the diary goes to **Dracaena**, on purpose, and what that would mean about Lucius — whether he knows what it is, what he thinks he is buying, and how it sits beside a man driven by fear of losing her. It touches [the-sock](../scenes/b2/the-sock.md), DIV-076 and DIV-050, so nothing should be written that forecloses it.
 
-### Q-131 · What Hermione says that makes her see red (DIV-095, DIV-074)
-
-The ferret incident now turns on Hermione Granger provoking Dracaena badly enough that she draws her wand in a crowded corridor in front of everyone. The provocation has to be hers and it has to work.
-
-- **It cannot be an insult she could shrug off.** Dracaena is untouchable by design — her father built that (DIV-030) — and the only opinion that reaches her is Harry's. So whatever Hermione says has to be about *him*, or about her and him, whether or not Hermione knows what she is doing with it.
-- **Hermione is a rival for him in Dracaena's head** and has no idea she is in a contest ([hermione-granger](../characters/hermione-granger.md)). The cleanest version is therefore true, said without malice, and unbearable.
-- It also has to leave Hermione in the right: she is not to be a bully here, and the reader should be with her for the length of the sentence and with nobody at all a moment later.
-
-**The author's candidate, and Claude would close the question on it:** *Hermione tells her she is never going to take Harry, because she is a nasty and vile person.*
-
-- **It is true, and it is not a slur.** Hermione says it in heat, about character, and she is right — the reader has three books of evidence and is with her entirely for the length of the sentence.
-- **Dracaena hears a different sentence.** *Take* lands as *take from me.* A moral claim arrives as a possessive one, which is the whole Hermione misreading compressed into one word (DIV-041).
-- **It is the only kind of thing that can reach her.** She is untouchable by design and the single opinion that can hurt her is Harry's — and here the girl who is always at his side has just claimed to speak for it. So she is not insulted, she is *threatened*, and told to her face by the rival that she has already lost. That is why she draws rather than answering.
-- **And the reader is with nobody a moment later**, as required: she is bounced down a corridor as an animal for it, by a teacher, in front of the school.
 
 ### Q-132 · Where the "all silent in here" line goes (DIV-095, DIV-089)
 
@@ -864,7 +850,28 @@ If the Stunning Spell is about two centuries old, then before it there was no cl
 - Whether it reaches the page at all, or stays as texture under the Duelling Club.
 
 
+### Q-134 · How far the Cho subplot runs in B5 (DIV-041, DIV-013)
+
+Settled in DIV-041: Cho tries her luck with Harry more than once, Dracaena ruins it every time — covert in company, terrifying alone — and Harry never knows. **Not jealousy and not defence**, which the page has to make unmistakable: she has already won, and an affront is paid back so that nobody tries again ([dracaena-malfoy](../characters/dracaena-malfoy.md)).
+
+- **How much of it is on the page**, and whether it is a running joke with a cold bottom to it or two scenes and a glance. The comedy is real and the thing it demonstrates is not funny at all, and the balance is the whole question.
+- **Whether Cho ever works out what is happening to her.** Leaning no: being bewildered is most of the joke, and it keeps her a person rather than a target.
+- **Whether anybody else notices.** Pansy would (DIV-055, DIV-094). So might Hermione, who by B5 has watched this pair for a year and a half.
+- **Where it sits against the secret-couple cover** (DIV-013), since being seen to care is exactly what the cover cannot afford — which is the reason it has to be covert rather than a scene in the Great Hall.
+- It must not become a redemption beat for Dracaena, and it must not make Cho pitiable enough to become a rival after all.
+
 ## Answered
+
+### Q-131 · What Hermione says that makes her see red (DIV-095, DIV-041)
+
+*Answered: she tells her she is never going to take Harry, because she is a nasty and vile person.* Recorded in **DIV-095**, [the-ferret](../scenes/b4/the-ferret.md).
+
+- **It is true, it is about character, and it is not a slur.** Hermione says it in heat, the reader is with her for the length of the sentence, and she is right.
+- **Dracaena hears a different sentence.** *Take* lands as *take from me*: a moral claim received as a claim of possession, which is the whole Hermione misreading in one word (DIV-041).
+- **It is the only kind of thing that can reach her.** She is untouchable by design and the single opinion that can hurt her is Harry's — and the girl who is always beside him has just claimed to speak for it. So she is not insulted, she is threatened, and she draws.
+- **And she takes it as fundamentally true**, because she already believes it: *nasty and vile* is a verdict she privately agrees with, and the only part she disputes is the ownership ([dracaena-malfoy](../characters/dracaena-malfoy.md)).
+- **The run-up is a routine corridor sneer that escalates** — her usual insults, very possibly "Mudblood" with real venom, which is the last one said in Harry's hearing without consequence (DIV-074).
+- **And the aftermath is where it pays.** In the hospital wing Harry tells her what she did was hideous — not an argument about prejudice, a verdict about ugliness, which is the one channel that reaches her (DIV-070). That is where the slur stops, and it is the promise she breaks in B6.
 
 ### Q-116 · What Crouch teaches Harry, and what it costs him (DIV-086, DIV-084)
 

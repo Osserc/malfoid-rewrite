@@ -21,14 +21,14 @@ By the World Cup in summer 1994 he's already in love without knowing it. Fresh o
 
 Harry never asks Cho Chang to the Ball, and Dracaena is the only person he asks. **There is no triangle anywhere in the series.** What there is is a jealousy that exists in exactly one head, and it is aimed at **Hermione Granger**.
 
-- **Cho is not a rival and never was.** Nothing is planted between her and Harry at any point, in any book, so there is nothing for Dracaena to misread and nothing for the reader to wait for. Her whole opinion of Cho is that she is *a third-rate Seeker* — a settled fact, in her view, having beaten her — and **even she can see there is nothing there.** What Cho gets up to in B5 goes nowhere and neither of them notices (Q-021).
+- **Cho is not a rival and never was.** Nothing is planted between her and Harry at any point, in any book, so there is nothing for Dracaena to misread and nothing for the reader to wait for. Her whole opinion of Cho is that she is *a third-rate Seeker* — a settled fact, in her view, having beaten her — and **even she can see there is nothing there.** What Cho tries in B5 goes nowhere — but Dracaena notices every attempt and makes her sorry for it, out of bookkeeping rather than jealousy, with Harry none the wiser (Q-134).
 - **Hermione is always there, and that is the whole of it.** She feeds him, makes him work beside her so she can catch his mistakes, has his broom taken away for his own good, slaps people on his behalf. From outside, a girl who does all that has a claim on him, and Dracaena has watched her do it since B1.
 - **Hermione means none of it.** Harry is a scrawny, miserable boy she appointed herself to fix, and she has never seen him as anything but a brother ([hermione-granger](../characters/hermione-granger.md)). The misreading is total, one-way, and never corrected on the page.
 - **The World Cup** starts it. The veela leave him cold (DIV-037), so she knows he loves somebody; Hermione is sitting with him; she picks the obvious answer and is wrong by one person. She watches his matches like a hawk ([quidditch](quidditch.md)), and she has been watching who stands next to him for three years.
 - **The autumn does the work for free.** Ron is not speaking to Harry for weeks after the Goblet, so Harry and Hermione spend it visibly alone together. Nobody has to arrange a scene; canon already wrote a month of them.
 - **It ends twice.** Hermione comes into the Ball on Viktor Krum's arm, which removes the rival in public at the moment Dracaena is on Harry's — and then Fleur's line settles it outright and she understands it was her all along ([the-little-basilisk](../scenes/b4/the-little-basilisk.md), DIV-038).
 - **Why it bites** rather than amusing her: the animus is stacked three deep. Hermione beats her at nothing and is second to her in Potions (DIV-011), Hermione is Muggle-born (DIV-074), and Hermione is the girl who is always touching him. Only the third one hurts, and it is the one she would never say aloud.
-- **And it is what sets the ferret off** (DIV-095, Q-131).
+- **And it is what sets the ferret off** (DIV-095).
 
 Why Harry never asks Cho at all: asking Ravenclaw's Seeker first and only then Dracaena would cheapen the invitation. With Dracaena the outcome is inevitable, and he has been primed all summer.
 
@@ -80,7 +80,7 @@ Canon's isolation stands and gets worse. The people who claim to be protecting h
 | B3 | She spies on his Patronus lessons and studies the charm for him. The lap-pillow scene, which becomes his Patronus memory (DIV-018) | [lap-pillow](../scenes/b3/lap-pillow.md) |
 | B3 | 🔒 She saves Buckbeak (DIV-003). At the lake she confesses the swarm is her fault, his Patronus saves them all with a first flicker of resonance, and she flies Buckbeak to Sirius (DIV-018). His opinion of her turns | [buckbeak-rescue](../scenes/b3/buckbeak-rescue.md) |
 | B4 | The World Cup: the veela don't touch him. He's in love before he knows it (DIV-037). She notices, and assumes it's Hermione — who is sitting right next to him (DIV-041) | |
-| B4 | The first week: she draws on Hermione in a corridor and Crouch bounces her down it as a ferret. Harry laughs at the Transfiguration, is horrified by the rest, and carries her to the hospital wing unasked, in front of everybody (DIV-095) | [the-ferret](../scenes/b4/the-ferret.md) |
+| B4 | The first week: she draws on Hermione in a corridor and Crouch bounces her down it as a ferret. Harry laughs at the Transfiguration, is horrified by the rest, and carries her to the hospital wing unasked, in front of everybody. There he tells her what she did was hideous — where the slur stops, and the promise she breaks in B6 — and she decides the carry meant nothing, because he is like that with everyone (DIV-095) | [the-ferret](../scenes/b4/the-ferret.md) |
 | B4 | Sirius plants the idea of asking her (DIV-019) | [yule-ball](../scenes/b4/yule-ball.md) |
 | B4 | The Durmstrang challenger: Harry beats a rival for her attention, too hard. She's delighted he's jealous, and would never use anyone to provoke him (DIV-029) | [durmstrang-challenger](../scenes/b4/durmstrang-challenger.md) |
 | B4 | Her owls home tip off Lucius before the Ball; Narcissa takes Harry's side (DIV-040) | [the-green-dress](../scenes/b4/the-green-dress.md) |
@@ -104,6 +104,7 @@ Canon's isolation stands and gets worse. The people who claim to be protecting h
 | B5 | The dream: happy with him, under cover (DIV-013) | |
 | B5 | The first match: he steals it off her lead and she kisses him on the pitch, barely minding the loss. Harry beats Montague for what he says about her and is banned for life; she cheers him on and goes unpunished (DIV-067) | [the-pitch-kiss](../scenes/b5/the-pitch-kiss.md) |
 | B5 | She gives him the password to her room (DIV-060) | |
+| B5 | Cho tries her luck with Harry, more than once. He never notices; Dracaena notices every time and makes her sorry for it, covertly in company and otherwise alone. Not jealousy — she has already won (DIV-041, Q-134) | |
 | B5 | Secret dates: from April she takes him to Hogsmeade on Inquisitorial Squad "errands", as her errand boy. He picks her perfume (DIV-013) | [the-pear-perfume](../scenes/b5/the-pear-perfume.md) |
 | B5 | After Sirius, Dumbledore tells Harry to treasure the love he has left (DIV-046). Then she comforts him and promises to be there (DIV-014) | [after-sirius](../scenes/b5/after-sirius.md) |
 | B5→B6 | Voldemort shatters her walls, and her faith dies (DIV-015) | |

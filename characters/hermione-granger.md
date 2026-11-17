@@ -43,7 +43,7 @@ Canon default.
 
 - Harry Potter: her friend. She can't resonate with him: friendship isn't enough (DIV-021).
 - [Ron Weasley](ron-weasley.md): canon default.
-- [Dracaena Malfoy](dracaena-malfoy.md): her rival from the first Potions lesson, where Dracaena shows her up (DIV-011). *(settled)* **She is the rival in Dracaena's head** from the World Cup until Fleur's line, and has no idea she is in a contest (DIV-041). **In the first week of B4 she says something that makes Dracaena draw on her in public**, and the corridor ends with Harry carrying Dracaena away (DIV-095, Q-131). The first "Mudblood" is B1, in the Dessendre corridor, and she takes it in silence (DIV-074). Taunts her for dropping Muggle Studies (DIV-012). From B4 she stops slurring her, for Harry's sake. In B6 she calls Hermione "Mudblood" again, plenty, to hurt her ([dracaena-malfoy](dracaena-malfoy.md)). *(settled)* In B7 Hermione treats her with kid gloves anyway. She's perceptive, and knows Dracaena wasn't herself in B6, and still isn't: from the Ball to the end of B5 she was not too hostile for a year and a half. At Shell Cottage, her sealing spell saves Narcissa's medicine, and Dracaena starts treating her as a person for good ([narcissa-malfoy](narcissa-malfoy.md)).
+- [Dracaena Malfoy](dracaena-malfoy.md): her rival from the first Potions lesson, where Dracaena shows her up (DIV-011). *(settled)* **She is the rival in Dracaena's head** from the World Cup until Fleur's line, and has no idea she is in a contest (DIV-041). *(settled)* **In the first week of B4 she tells her she will never take Harry because she is a nasty and vile person** — true, said in heat, and heard by Dracaena as *take from me*. She draws on her for it, is bounced down the corridor as a ferret, and Harry carries her away (DIV-095). Hermione is in the right for the length of the sentence, and is never told what Harry said in the hospital wing afterwards. The first "Mudblood" is B1, in the Dessendre corridor, and she takes it in silence (DIV-074). Taunts her for dropping Muggle Studies (DIV-012). From B4 she stops slurring her, for Harry's sake. In B6 she calls Hermione "Mudblood" again, plenty, to hurt her ([dracaena-malfoy](dracaena-malfoy.md)). *(settled)* In B7 Hermione treats her with kid gloves anyway. She's perceptive, and knows Dracaena wasn't herself in B6, and still isn't: from the Ball to the end of B5 she was not too hostile for a year and a half. At Shell Cottage, her sealing spell saves Narcissa's medicine, and Dracaena starts treating her as a person for good ([narcissa-malfoy](narcissa-malfoy.md)).
 - Crookshanks: canon default.
 
 ## The elves *(draft)* · DIV-075, DIV-077
@@ -85,4 +85,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-002, Q-028, Q-042, Q-050–Q-052, Q-093, Q-094, Q-099, Q-100, Q-131
+Q-002, Q-028, Q-042, Q-050–Q-052, Q-093, Q-094, Q-099, Q-100
