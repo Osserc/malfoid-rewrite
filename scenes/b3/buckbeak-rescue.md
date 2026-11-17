@@ -29,12 +29,18 @@ The order and logistics are provisional: the night has to be rebuilt without Tim
 1. She plants a fake lead with the Ministry so the Dementors swarm the lake and leave her room to act (Q-025).
 2. 🔒 She saves Buckbeak from the execution herself.
 3. She can't control him and ends up at the lake. She knows the Patronus Charm, having studied it for Harry, and tries it, but she can't cast it (DIV-027).
-4. Under the Dementors' influence she breaks down sobbing and confesses, unprompted, that the swarm is her fault.
+4. Under the Dementors' influence she breaks down sobbing and confesses, unprompted, that the swarm is her fault. **The swarm also shows her her Boggart** (*Her worst memory is a fake*, below): she begs it not to leave her, not to ignore her, aloud, at nothing. **She never says his name.**
 5. It all adds up, and Harry re-evaluates her (*Why Harry turns*, below). The lap-pillow memory wins the day ([lap-pillow](lap-pillow.md)): his Patronus drives off the swarm and saves everyone. As he casts there's a first flicker of resonance between them (DIV-021); how it works is open (Q-028). She watches him do what she couldn't, and resolves to master the charm.
 6. Hermione has the idea: Dracaena should fly Buckbeak to Sirius.
 7. She agrees: she owes Harry, and knows it. And her prince just drove off a horde of demons, for her.
 8. 🔒 She brings Buckbeak to Sirius, who escapes on him.
 9. Sirius recognises Narcissa's daughter, and they talk briefly: "maybe the Black family did make something good after all", if Narcissa gave birth to a girl this brave. He doesn't see her again before the Yule Ball (DIV-019).
+
+## Her worst memory is a fake *(settled)*
+
+Dementors serve worst memories, and she hasn't got one: she is fourteen years into a life in which nobody has told her no. So the worst memory she owns is one she acquired **voluntarily, in a classroom, from a shapeshifter, two terms earlier** — Harry telling her he wishes he'd never met her ([remedial-boggart](remedial-boggart.md), DIV-017). That is the hardest sentence the book can say about her, and it means the remedial lesson is load-bearing for the climax rather than a vulnerability token.
+
+**The constraint: Harry must not read it.** His blindness runs for four more books (DIV-041), so if he hears his own name here the balcony in B4 has nothing left to ask ([yule-ball](../b4/yule-ball.md), DIV-095). She says no name; he is fighting a hundred Dementors and has no attention to spare. Place it **just before he casts**, so the memory she gave him drives off the thing making her relive losing him, and neither of them can read what just happened.
 
 ## Why Harry turns
 
@@ -49,7 +55,7 @@ His conclusion: there really is something more to this girl. That's the turn in 
 
 ## Must keep
 
-The locked beats, her motive, the confession, Hermione's idea, Sirius's recognition and his line. Why Harry turns: the four things adding up.
+The locked beats, her motive, the confession, Hermione's idea, Sirius's recognition and his line. Why Harry turns: the four things adding up. What the swarm shows her, and that she never says his name.
 
 ## Open
 

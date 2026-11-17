@@ -30,7 +30,7 @@ Settled, from the author's sketch. The order and wording can still move.
 3. She wants her sparring partner back, so she pushes harder to provoke him into fighting back. She guesses he's struggling with the charm: a Patronus needs a strong, happy memory, so he mustn't have any. The taunt is also the run-up to her offer (*What she's trying to do*). It gets her far more than she bargained for: he explodes before she gets there.
 4. **The outburst.** Harry looms over her and screams what the Dementors make him hear: Voldemort killing his parents, over and over. She's terrified, and for the first time she feels he truly hates her. Kept on purpose: it shows Harry can become unstable, which we can use later (Q-024).
 5. **What she didn't know.** Not that his parents are dead, but that the Dementors make him relive it. Seeing how deeply it hurts him, she wishes she'd never said it. She apologises, stammering.
-6. **Her Boggart.** To make a connection, she offers a vulnerability of her own: she couldn't beat her Boggart either. It was her father, looking at her with disgust, and she froze. She faced it alone with Lupin, after sitting out Slytherin's session in her sling, so Harry is the first person she tells ([remedial-boggart](remedial-boggart.md)).
+6. **Her Boggart.** To make a connection, she offers a vulnerability of her own: she couldn't beat her Boggart either. **She cannot tell him what it was, because it is him.** She starts, looks up at him as she says it, stops dead, and shuts the door. What she offers is the failure and not its content: she froze, and Lupin had to step in — which costs her more than naming a fear would, because it is admitted to Potter. And **what she does tell him is a lie**: she says she *froze*. She didn't — she went down on her knees and begged ([remedial-boggart](remedial-boggart.md)). It is a flattering edit, delivered smoothly, to the boy it was about. He never learns either half (Q-137).
 7. **The lap pillow.** She offers to help and pulls his head into her lap, stroking his hair and cheek, because that's what mama does whenever she's upset. He laughs at "mama". She blushes but doesn't stop. For a few precious seconds he catches her giving him a heartfelt, sweet smile, with none of her usual venom.
 8. **The tsun excuse.** *(Paid off at the final: she gets her fair, no-excuses match, and loses it — DIV-069, [the-quidditch-final](the-quidditch-final.md).)* He asks why she's being nice. She sounds almost wronged: if the Dementors make him faint during their Quidditch match, how can she prove she's better than him? She wants to beat him fair and square. (Wording to polish.)
 9. He ends it. Did it work? It did *something*. She runs off, threatening to hex him if he tells anyone, with the skip in her step she has after beating him at the Duelling Club (DIV-028). He walks back touching the cheek she stroked.
@@ -50,6 +50,7 @@ Before the lake he still goes back to her smile now and then, and finds it very 
 - **The taunt** (beat 3) is to be reworked so it reads as her trying to provoke him back into the game, and as the run-up to her offer, with the owning motive underneath.
 - **Her introspection** during the outburst is too on the nose. Stay with Harry and let her terror show from outside.
 - **Her "oh"** reads as regret too early. Make clear it's the teasing backfiring (beat 2): she expected a sparring match, and he shut down instead.
+- **The Boggart lines** (sketch, the "creepy-crawly" exchange) are revised: she reached for the bug because she couldn't think of anything at all, and she breaks off because she is looking straight at her Boggart. A reader who has seen [remedial-boggart](remedial-boggart.md) gets it instantly; Harry gets nothing.
 
 ## Must keep
 
@@ -57,7 +58,7 @@ Before the lake he still goes back to her smile now and then, and finds it very 
 - The mama gesture: her only model of love, borrowed for him.
 - The owning motive under the cruelty, never spoken.
 - Her end goal steers every line she says, even the cruel ones: get him sparring again, then make her offer. Keep it in view when drafting the chapter.
-- The outburst, and her Boggart.
+- The outburst, and the Boggart she can't name.
 - The smile he catches.
 - The tsun excuse about the match.
 - He doesn't count it as a happy memory until the lake, where it wins the day.

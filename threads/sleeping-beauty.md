@@ -18,6 +18,8 @@ Dracaena's private fairy tale. It begins with one sincere compliment, and it car
 
 The dream is believing she can live outside the script, away from her family's allegiance to Voldemort. Harry is the one who lets her. The nightmare is the script reclaiming her.
 
+*(settled)* **The script is not her family and not her name.** She loves being a Malfoy and wants to be rid of none of it. The script is **inheritance as the only source of her worth** — everything she has was handed to her, so what is she when none of it is counted? What she is after is one beautiful thing of her own, and the first one that ever turns up is a boy in a tailor's shop (DIV-009, DIV-013, [dracaena-malfoy](../characters/dracaena-malfoy.md)). Her B3 Boggart is that gap closing over ([remedial-boggart](../scenes/b3/remedial-boggart.md)), which is why it is the same sentence as DIV-015, three books early.
+
 | Book | Beat |
 |---|---|
 | B1 | The dream begins: she reads the tale before term and casts herself and the boy in it. On the train he refuses her. She's shocked anyone would tell her off, and the grudge begins (DIV-009, DIV-010) |
