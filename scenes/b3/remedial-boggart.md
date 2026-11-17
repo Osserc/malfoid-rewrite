@@ -1,8 +1,8 @@
 ---
 status: draft
 book: 3
-placement: Autumn 1993, once she gives up the sling (tentative)
-pov:
+placement: Late autumn 1993, once she gives up the sling and before the Ravenclaw match (tentative)
+pov: dracaena-malfoy
 characters: [dracaena-malfoy, remus-lupin]
 threads: [harry-dracaena]
 divergences: [DIV-017]
@@ -13,7 +13,21 @@ sketch:
 
 ## Purpose
 
-How she meets her Boggart, and why nobody but Lupin has seen it. Canon's Boggart lesson is Gryffindor's, so Harry was never going to see hers; the sling she's milking (DIV-017) keeps her out of her own class's lesson too, so it's also kept from her own House, the children of her father's circle. What she faces later, alone, is the vulnerability she offers Harry at the [lap pillow](lap-pillow.md).
+The scene that says what she is. She walks in unable to name a single thing that frightens her, and finds out her whole interior life is one boy.
+
+It is also the ammunition for the climax: without it the Dementors at the lake have nothing to show her ([buckbeak-rescue](buckbeak-rescue.md)).
+
+Canon's Boggart lesson is Gryffindor's, so Harry was never going to see hers. The sling she's milking (DIV-017) keeps her out of her own class's lesson too, so it's kept from her own House as well — the children of her father's circle.
+
+## Her Boggart *(settled)*
+
+**It is Harry, and he is indifferent.** He wears a resolute expression and tells her he wishes he'd never met her.
+
+- **It cannot be her father.** She is too full of herself to fear the room: she believes nothing in the world can touch her, and the single exception is her prince's opinion of her ([dracaena-malfoy](../../characters/dracaena-malfoy.md)). As far as anyone who isn't Harry is concerned, she has never done a thing wrong in her life. She is not afraid of Lucius and never was ([lucius-malfoy](../../characters/lucius-malfoy.md)).
+- **It is not a hateful Harry, and that is the whole point.** Hate would be a reaction, and a reaction means she registered. What he declares instead is that she is a stain on his life — not even worth hating, just taking up space for no reason, something he would rather forget altogether.
+- **Which makes it a verdict on three years.** Everything the two of them have done to each other since they were eleven left no mark on him at all, not even anger. She was seen, and discarded as a non-entity. That is the worst thing that can be said to her, which is why it is what the Boggart picks.
+- **It is the Hogwarts Express with the appeal exhausted.** She offered her hand and he brushed her aside ([hogwarts-express](../b1/hogwarts-express.md), DIV-009). Here he has had three years to revise that verdict and hasn't.
+- **No Riddikulus.** There is no absurd version of the line, because she thinks it is true. That is why she freezes rather than fumbles.
 
 ## Beats
 
@@ -22,30 +36,60 @@ How she meets her Boggart, and why nobody but Lupin has seen it. Canon's Boggart
 1. **Her class's lesson.** Lupin runs the Boggart practical for her class as he does for Harry's (canon). She sits it out: she's milking the hippogriff injury (DIV-017), and watches with her wand arm in a sling.
 2. **The offer.** Once the sling comes off, Lupin offers her a remedial lesson to catch up. She looks down on him ("Rags").
 3. **The goad.** Lupin tells her he stepped in before Harry's turn, so she'd have faced a Boggart when Harry Potter never has.
-4. **Her Boggart.** She expects some creepy-crawly. She gets her father, looking at her with disgust. She freezes, and Lupin deals with it.
-5. **Nothing to brag about.** She keeps quiet about it.
+4. **What she expects.** Asked what she thinks she'll see, she has nothing — privately, *what is there to be deathly afraid of?* She reaches for some creepy-crawly, because the honest answer is nothing at all.
+5. **Her Boggart.** She gets Harry, telling her he wishes he'd never met her. She freezes, and Lupin steps in.
+6. **The cover.** Lupin takes the blame: he put Harry in her head a minute earlier, and a Boggart is stronger the fewer people face it.
+7. **Nothing to brag about.** She says nothing, to anyone, ever.
 
 ## Why she says yes
 
 *(settled)* Whatever she thinks of Lupin, she wouldn't pass up a go at a Boggart, if only to brag about it: publicly at least, Harry has never faced one. Lupin knows it and uses it to goad her into the remedial lesson. He isn't trying to hurt her, or to set her against Harry. It's his job to arm his students against dark creatures, and this is the lever that works on her.
 
+## She does not understand it *(settled)*
+
+**She comes out knowing something is badly wrong with her, and refusing to look at it.** She does not work out that she loves him. If she names it here, the balcony in B4 has nothing left to ask ([yule-ball](../b4/yule-ball.md), DIV-095).
+
+What stays with her is **how frightened she was**, which is entirely new to her.
+
+**The one thing she spends it on is the Dementor impression.** She had been doing it at Harry herself that autumn, after the swarm dropped him off his broom. Afterwards she stops, and never does it again, and when Crabbe and Goyle pull the fake-Dementor prank at the Ravenclaw match she greatly disapproves (DIV-017). Not pity — **taste**. Her moral channel is that wrong things are ugly things (DIV-070), and taste runs on knowing what a thing actually is. Having been unable to move, she now knows what the joke is, and it is squalid.
+
+She never explains the new rule to anyone, including herself. She simply has it now. From outside she is being arbitrary and vicious at her own people for no reason, which is the ugly side aimed at the right target for once (DIV-071). Harry notices only an absence, and never learns why (Q-035).
+
+## Lupin *(settled)*
+
+**He reads it correctly, and never says a word about it to anyone, ever.**
+
+- **The cover he offers is true,** which is why it works. He did plant Harry in her head a minute earlier, and a Boggart really is stronger the fewer people face it — a crowd confuses it (canon). He isn't lying to spare her; he is handing her a true and incomplete explanation and letting her take it. That is what tact is, and it characterises him completely without one word about what he is.
+- **She takes it greedily and resents needing it.** Not gratitude in the room, and not fresh hatred either. Being given something she cannot repay is an **open debt**, and the ledger has no entry for one ([dracaena-malfoy](../../characters/dracaena-malfoy.md)); she finds it intolerable rather than touching. The gratitude arrives later, offstage, and is never dramatised.
+- **Why it matters that it's him.** Outside her mother, she is alone. Pansy is a given friend, inherited with the family ties rather than chosen. The one adult who sees her at her weakest and declines to use it is the new teacher in the dilapidated suit.
+- **Not more awful here.** Having her hate him for having seen it was the other option and it was rejected: this is her one moment of weakness, and making her worse in it risks making her unforgivable. The reader's affection for what she is survives a great deal, but it is not a cheque to cash on this scene.
+- **Two adults read her in B3, and only one acts.** Sirius gets a single glimpse at the lake and nudges Harry toward the Ball (DIV-019). Lupin saw the whole thing and says nothing. That division is free, and it characterises both.
+
+What he does with it for the rest of the year, and what she does with the debt when he resigns: Q-136.
+
 ## Why nobody knows
 
-She took the lesson to brag, and froze, so she has nothing to brag about and says nothing. Lupin is the only witness. Harry is the first person she tells, at the [lap pillow](lap-pillow.md).
+She took the lesson to brag, and froze, so she has nothing to brag about and says nothing. Lupin is the only other witness, and he keeps it.
+
+**Harry never learns it in B3.** She is looking straight at her Boggart when she half-offers it at the lap pillow, and breaks off ([lap-pillow](lap-pillow.md)). When, if ever, he learns: Q-137.
 
 ## Notes
 
 Claude's, not settled:
-- **Alone.** A Boggart is easier to face in company, because a crowd confuses it (canon). She gets hers at full strength, with no class laughing to break it.
+
 - **The tables turn.** By the lap pillow, Harry faces a Boggart every week in his Patronus lessons, and she knows it from spying on them. The brag she wanted is his now.
+- **It rhymes with DIV-015.** *I wish I never met you* is *the dream was never real*, three books early and in his voice instead of the world's. Whether to play that deliberately is open.
 
 ## Must keep
 
 - She sits out her class's lesson because of the sling she's milking.
 - Lupin goads her with Harry, to do his job, not to hurt her.
-- She accepts for the bragging rights.
-- She freezes, alone with Lupin, and tells no one until Harry.
+- She accepts for the bragging rights, expecting that nothing could frighten her.
+- The Boggart is an indifferent Harry: *I wish I never met you*. Never a hateful one.
+- She freezes, and Lupin covers for her with the truth.
+- She does not understand what it means. Only the fear stays, and it buys the end of the Dementor impression.
+- She tells no one, ever.
 
 ## Open
 
-Q-053.
+Q-053 (answered) · Q-136 (Lupin's debt) · Q-137 (when Harry learns)

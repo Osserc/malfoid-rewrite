@@ -349,13 +349,6 @@ In canon, Rita follows the Second Task with a Witch Weekly piece casting Hermion
 
 *Partly answered:* one of the pieces runs on Dracaena taking the place of Harry Potter's "most precious treasure" in the Second Task. Lucius reads it, and it's one of the things he runs through at King's Cross ([the-train-home](../scenes/b4/the-train-home.md)). Still open: the rest of her coverage, the Hermione–Krum angle, and what she makes of the night of the Third Task.
 
-### Q-053 · The remedial Boggart (DIV-017)
-
-She faces her Boggart alone with Lupin ([remedial-boggart](../scenes/b3/remedial-boggart.md)). Open:
-- **On the page?** Showing it, from her POV or Lupin's, gives the reader her Boggart before Harry gets it. Keeping it offstage leaves the lap pillow a reveal for both ([reveals](reveals.md)).
-- **Lupin knows.** He has seen her fear of her father. Does it change how he treats her? Does he notice her spying on Harry's Patronus lessons?
-- **When.** How long she keeps the sling, and so how long after the class lesson the remedial one comes.
-
 ### Q-057 · Sectumsempra's canon aftermath (DIV-043)
 
 In canon Harry gets detention for the rest of term, so he misses the last Quidditch match, and he hides the Prince's book in the Room of Requirement. The school knows. With the incident buried, what's left? How does Snape punish Harry without saying why, and what does Harry tell Ron and Hermione?
@@ -863,6 +856,22 @@ Open: where in the window it sits, and what it looks like.
 - **It must be small.** A Malfoy does not make speeches about reform, and the beat is a sentence at most.
 - **It is made to Harry, about his friends, and Hermione is never told** — not then and not later. If she apologised to Hermione in B4, Shell Cottage would have nothing left to do, and Shell Cottage is where Hermione becomes a person to her, by way of a debt rather than a change of heart (DIV-077, Q-096).
 
+### Q-136 · Lupin's debt, and the end of B3 (DIV-017)
+
+Lupin reads her Boggart correctly, covers for her with a true and incomplete explanation, and never mentions it to anyone ([remedial-boggart](../scenes/b3/remedial-boggart.md)). She takes the cover and resents needing it: a kindness she can't repay is an open debt, and the ledger has no entry for one ([dracaena-malfoy](../characters/dracaena-malfoy.md)). Open:
+
+- **The end of B3.** Lupin is outed and resigns. Canon Draco gloats that his father got him sacked; she can't, because the debt is unsettled. Whatever she does instead should be small and deniable, and we don't have the scene.
+- **The rest of the year.** Does it change how he treats her? Does he notice her spying on Harry's Patronus lessons?
+- **Later books.** He is around Harry in B5 and B7 and says nothing, which is settled. Whether he ever nudges Harry the way Sirius does (DIV-019) — Claude's lean is no: that's Sirius's job, and the contrast between the adult who acts on one glimpse and the one who saw everything and kept it is worth more than a second nudge.
+
+### Q-137 · When Harry learns her Boggart (DIV-017)
+
+Not in B3: she is looking straight at it when she half-offers it at the lap pillow, and breaks off ([lap-pillow](../scenes/b3/lap-pillow.md)). After the Yule Ball it could go anywhere, and nothing depends on it, so it stays **unplaced on purpose** — ammunition for a small moment between them rather than a scheduled beat ([reveals](reveals.md)).
+
+- **Author's lean: B7**, once she has come to terms with what it meant. There is no room in B6.
+- **What makes it tellable** is that by then the sentence has been falsified by the facts of their life. She can only say it out loud at the point where it is manifestly absurd, which is also the only point where she could bear to.
+- **It may never be spent,** and that is an acceptable outcome. The lake is the payoff; this would be a bonus.
+
 ## Answered
 
 ### Q-134 · How far the Cho subplot runs in B5 (DIV-041, DIV-013)
@@ -1108,3 +1117,15 @@ Multiple POVs, not only Harry's. → [core/style.md](../core/style.md)
 ### Q-026 · The lap-pillow scene and the fake-Dementor prank (DIV-017)
 
 The lap pillow is the memory behind Harry's Patronus, and grows out of her spying on his lessons and studying the charm for him → [scenes/b3/lap-pillow.md](../scenes/b3/lap-pillow.md). The prank happens without her: Crabbe and Goyle pull it on their own initiative, and she greatly disapproves, to their confusion. His Patronus at that match doesn't run on the lap pillow, which he doesn't count as happy until the lake. → DIV-017
+
+*Also answered: why she disapproves.* She had been doing the Dementor impression at Harry herself that autumn, and stopped after her own Boggart left her unable to move. Taste, not pity: she now knows what the joke actually is, and it is squalid (DIV-070, Q-053). → [remedial-boggart](../scenes/b3/remedial-boggart.md)
+
+### Q-053 · The remedial Boggart (DIV-017)
+
+*Answered: it goes on the page, from her POV, before the lap pillow — and the Boggart is Harry.* Recorded in **DIV-017**, [remedial-boggart](../scenes/b3/remedial-boggart.md).
+
+- **On the page, her POV.** It is the one Dracaena chapter that doesn't risk explaining her hostility away ([style](../core/style.md)). It shows no soft side at all: a girl who cannot name a fear, who finds out her whole interior life is one boy. That makes her more alarming, not softer, and it explains why she defends the feud so viciously — it is the only footing she has. **Lupin's POV is out**: it tips the werewolf early, and it hands the reader an adult's correct reading, which kills the blindness the next four books run on.
+- **It also pays the lake,** which is the real reason to show it. Dementors serve worst memories and she hasn't got one, so what the swarm shows her is the Boggart ([buckbeak-rescue](../scenes/b3/buckbeak-rescue.md), DIV-018).
+- **And it pays the lap pillow twice:** the reader watches her break off at "I got-" knowing it is him, with his head about to go in her lap.
+- **Lupin knows and keeps it.** The open part carried on as Q-136.
+- **When.** No longer free: the sling has to come off between the November swarm and the Ravenclaw match, or the Dementor-impression beat loses its cause ([timeline](timeline.md)).

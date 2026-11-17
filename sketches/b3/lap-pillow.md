@@ -65,9 +65,11 @@ What the hell was going on? Was she apologising? *The* Malfoy, apologising to hi
 
 The sudden revelation from Dracaena shook Harry from his torpor, and he turned towards her, and finally saw the effect his outburst had on her. She looked far from the proud and composed witch he knew. She looked... small. Like the little girl she was.
 
-"Yeah. *Rags* set up a remedial lesson for me, I thought I'd get some kind of creepy-crawly or something," she said while mimicking a bug's skittering with her fingers, "but instead... I got Father."
+"Yeah. *Rags* set up a remedial lesson for me. He asked me what I thought I'd see, and I couldn't name a single thing." She mimicked a bug's skittering with her fingers. "So I said a creepy-crawly, like some first-year. But instead... I got-"
 
-She shuddered at her recollection, before continuing. "He had this... disgusted expression, l-like he was looking at walking rubbish and, and I just... froze. *Rags* had to step in."
+She looked up at him as she said it, and whatever she saw made her stop dead. Her expression darkened, and Harry could see new tears well in her eyes. But before he could say anything, she had already shut the door.
+
+"Well, it's not important. Suffice to say, I could not banish it. I just... froze. *Rags* had to step in."
 
 Was she trying to... make him feel better? The girl took a long, slow, deep breath before looking him in the eyes.
 
