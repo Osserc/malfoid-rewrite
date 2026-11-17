@@ -10,7 +10,7 @@ status: draft
 
 ## Core
 
-- **Want:** _open_
+- **Want:** *(draft)* his family kept whole and untouchable. Fear of losing them is as much a motive as love of them, and both of them pull against the Dark Lord having a claim on him (DIV-030).
 - **Need:** _open_
 - **Wound / fear:** guilt, because the curse meant for him hit Narcissa and cost her any more children; he never forgives himself, and she uses it (DIV-030). And fear: it's the only thing keeping him with the Death Eaters, the same reasoning Dracaena will follow in B6 (DIV-015).
 - **Lie he believes:** _open_
@@ -28,6 +28,18 @@ How his marriage works and what he knows about his daughter: Q-019 (the author h
 - **Dracaena does not know any of it.** She has the Imperius story, and she believes it. Harry gets the shape of the truth in the B4 Pensieve, in language he cannot use yet. What she does with it, if she ever has it, is Q-109 — and it would be the third and heaviest charge against him, after Dobby and Buckbeak (Q-098).
 
 ## His daughter
+
+### Why she is the way she is *(settled)* · DIV-030
+
+**He built her self-regard, and he did it by almost never telling her no.** That is the mechanism, and this is the reason for it: **she is the only child they will ever have.** The curse that was meant for him took the rest (DIV-030), so everything the house will ever be rests on one girl, and he is quietly terrified of losing her. Refusing her costs him something he cannot afford to spend.
+
+- **And she is the image of her mother,** so he cannot look at her without seeing Narcissa and seeing the wound in the same glance. It compounds every time.
+- **He is not a doormat, and this is not weakness.** He is still the patriarch of the house and acts like it. Buckbeak is the proof: when the family's standing is in question he does the cold thing and does not consult anybody (🔒 DIV-003).
+- **What it produces** is a girl who genuinely believes nothing in the world can hurt her, and is wrong about exactly one thing — her prince's opinion of her ([dracaena-malfoy](dracaena-malfoy.md)). Her arrogance is not a pose she adopted; it is a thing her father spent fourteen years constructing, for reasons that were never about her at all.
+- **Which is where the conflict is.** Love and the fear of loss drive him equally, and both of them pull against a Dark Lord who can demand anything at any time. He is in Voldemort's pocket out of fear (DIV-030) while being a man whose every other instinct is to put his family somewhere nothing can reach them.
+- *(parked)* **It may matter a great deal in B2,** depending on who the diary is actually meant for: Q-130.
+
+### The sheltering
 
 *(settled)* He isn't resentful about having a daughter rather than a son. He thinks a daughter is too precious and fragile, and should be somewhat sheltered. But he's up against two formidable opponents: his doting wife, and his beloved daughter, who almost always gets her way ([dracaena-malfoy](dracaena-malfoy.md)). When she wants to fly, he has to give in, and sneaks in his condition: no training without supervision. When she makes the Slytherin team on merit he celebrates by buying the whole side Nimbus 2001s, purely to show off — which is why people say she bought her place, and why her housemates owe her something they'd rather forget (Q-081). He celebrates achievement and does not console failure: there is no new broom after she loses the B3 final, and she wouldn't want one (DIV-068, DIV-069). As the years pass his worries ease, because he sees how capable she is, but he stays very protective. He's strict. Her Boggart is him looking at her with disgust ([remedial-boggart](../scenes/b3/remedial-boggart.md)), but that's her fear, not what he feels. How sheltering her squares with the rest of his story: Q-036.
 

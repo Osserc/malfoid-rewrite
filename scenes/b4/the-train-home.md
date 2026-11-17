@@ -17,7 +17,7 @@ Breaks Harry from his friends at the end of the book (DIV-063), hands the hoard 
 
 ## Beats
 
-1. *(settled)* **The winnings** (DIV-062). Harry gives Fred and George the thousand Galleons as an investment in the shop, not a gift, so their pride survives it. Away from Ron. The framing was hers.
+1. *(settled)* **The winnings** (DIV-062). Harry gives Fred and George the thousand Galleons as an investment in the shop, not a gift, so their pride survives it. Away from Ron. The framing was hers, worked out in an earlier conversation: he said he did not want the money, he raised the joke shop, and she supplied the cover — begrudgingly (DIV-092).
    - *(settled)* He has no intention of ever collecting; the word was only cover. The twins take it literally, insist on repaying their investor, and won't be argued out of it. They end up settling on free products now and again. The shop stays entirely theirs (Q-074).
 2. *(settled)* **The row.** Hermione and Ron confront him over where he's been sleeping. Ron went through his trunk for the Map and found neither Harry nor Malfoy on it. Harry goes cold at the rifling, not at the question.
 3. *(settled)* Ron's case: Voldemort is back, a Death Eater was in the castle all year, and Harry is sneaking off at night with Lucius Malfoy's daughter.

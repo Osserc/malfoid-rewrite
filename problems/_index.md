@@ -16,7 +16,7 @@ Canon elements that break the plot or the ethics and have to be dealt with rathe
 Suggested by Claude and not yet sorted. Promote a candidate to a file, or strike it.
 
 **Breaks the plot**
-- Polyjuice Potion: anyone can be anyone, so security means nothing.
+- Polyjuice Potion: anyone can be anyone, so security means nothing. *(Defused in part: the series' flagship abuse, a year of impersonating Moody, is gone — DIV-086. The general problem stands.)*
 - Veritaserum and Pensieve memories: why is any trial ever in doubt?
 - Felix Felicis: luck in a bottle.
 - Fidelius Charm: the Secret-Keeper rules aren't consistent.

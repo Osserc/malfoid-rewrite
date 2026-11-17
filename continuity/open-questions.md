@@ -48,7 +48,7 @@ Still open: Ron, Dumbledore, anyone else. Track in [reveals.md](reveals.md).
 
 ### Q-008 · How do they end up at the Yule Ball together? (DIV-004)
 
-*Partly answered:* Harry asks and she accepts (DIV-013). He asks because Sirius planted the idea (DIV-019). They kiss for the first time at the Ball. Harry never asks Cho (DIV-041).
+*Partly answered:* Harry asks and she accepts (DIV-013). He asks because Sirius planted the idea (DIV-019). They kiss for the first time at the Ball. Harry never asks Cho, and the only rival is the one Dracaena has invented out of Hermione — who arrives on Krum's arm (DIV-041).
 
 Still open: where the relationship stands going in and coming out, and the knock-on effects for Parvati, Pansy and Ron. Going in, Harry has already shown his jealousy by beating a Durmstrang student at the Duelling Club (DIV-029).
 
@@ -146,13 +146,15 @@ Which year she starts, how she justifies it at home ("know your enemy"?), when L
 
 ### Q-021 · What are they to each other in B5? (DIV-013)
 
-A secret couple, secret friends, something unnamed? Who knows? What happens with Cho? In B4 she was only ever a rival in Dracaena's head (DIV-041). And what about the DA bust, where canon Draco is the one who catches Harry?
+A secret couple, secret friends, something unnamed? Who knows? And what about the DA bust, where canon Draco is the one who catches Harry?
 
-*Partly answered:* a secret couple that fools no one. They stage fights in front of Umbridge. From April 1996, when the Inquisitorial Squad forms (canon), she uses its privileges to take Harry to Hogsmeade on "errands", as her errand boy: their secret dates ([the-pear-perfume](../scenes/b5/the-pear-perfume.md)).
+*Answered in part, and corrected (DIV-013):* **not a secret couple.** They are public essentially from the Yule Ball and beyond argument once she claims him at the lake, and the cover is for Lucius and the Dark Lord, never for the school. The fights in front of Umbridge are not staged — they are real quarrels, and she docks him points for invented infractions because it amuses her. From April 1996, when the Inquisitorial Squad forms (canon), she uses its privileges to take Harry to Hogsmeade on "errands", as her errand boy ([the-pear-perfume](../scenes/b5/the-pear-perfume.md)).
 
 *The Squad is a toy, not a job.* She's living the dream, and she has no intention of doing Umbridge's policing, least of all anything that would get Harry into real trouble. What the badge is for is leverage to invent excuses: errands to run, rules to catch him breaking, pretexts to bully him with. So canon's bust can't turn on her catching him.
 
-Who knows, Cho, and who catches the DA instead, are still open.
+*Cho is settled* (DIV-041): nothing is ever planted between her and Harry, so what she tries in B5 is hers alone and goes nowhere. **Harry never notices. Dracaena notices every time**, and makes her sorry for it — not out of jealousy but out of bookkeeping (Q-134).
+
+Who knows, and who catches the DA instead, are still open.
 
 ### Q-022 · What does she feed Lucius? (DIV-013)
 
@@ -262,6 +264,8 @@ Lucius thinks a daughter should be somewhat sheltered ([lucius-malfoy](../charac
 
 *Partly answered:* her tomboy side. He loses to his wife and daughter, settles for no training without supervision, and worries less as he sees how capable she is → [lucius-malfoy](../characters/lucius-malfoy.md). Why she's an only child: a curse meant for him hit Narcissa (DIV-030).
 
+*Also answered: why he shelters her, and what it cost.* He almost never tells her no, because she is the only child he will ever have and he is quietly terrified of losing her — compounded by her being the image of her mother, so he sees Narcissa and the wound in the same glance. He is not a doormat about it (Buckbeak, 🔒 DIV-003), and the product is a girl who believes nothing in the world can hurt her except her prince's opinion. **Love and fear of loss drive him equally, and both pull against the Dark Lord's claim on him.** → [lucius-malfoy](../characters/lucius-malfoy.md), DIV-030. What it may mean for B2: Q-130. The bullets above about the dark business, the spy strategy and her Mark are still open.
+
 ### Q-038 · Rita's article (DIV-029)
 
 *Narrowed:* Pansy is now settled as Dracaena's real friend and one of the Slytherins who turns (DIV-055), so she is not the leak. **Daphne Greengrass** is the candidate instead: same year, dislikes her, and already established as someone who watches her (DIV-082).
@@ -322,11 +326,11 @@ Wizarding Britain is shrinking, and Voldemort's war made it worse. After the war
 The veela dazzle Ron and half the stadium, and leave Harry cold.
 
 *Partly answered:*
-- **Dracaena** notices. She knows the rule, so she knows he's in love, but she has no way of knowing it's with her. She assumes it's Cho (DIV-041).
+- **Dracaena** notices. She knows the rule, so she knows he's in love, but she has no way of knowing it's with her. She assumes it's Hermione, who is sitting with him (DIV-041).
 - **The married men.** The rule makes a test of every man in the Top Box. Arthur Weasley and Lucius Malfoy are unmoved.
 
 Still open:
-- **Hermione.** She's more perceptive, and might already work something out.
+- **Hermione.** She's more perceptive, and might already work something out — which would be its own joke, since she is the girl Dracaena has just decided he is in love with (DIV-041).
 - **Narcissa.** She's in the Top Box too. Does she notice, and is it where her "of course it's him" comes from ([the-green-dress](../scenes/b4/the-green-dress.md))?
 - **A joke.** Some *other* husband in the box gives himself away. Who?
 
@@ -337,7 +341,7 @@ Still open:
 Still open:
 - **Working it out.** Candidate: she and Hermione work out the task for him amid their bickering, which brings them to some kind of truce for Harry's sake. Then Dracaena one-ups Hermione with her potion.
 - **The gillyweed.** Where does she get it? Snape's stores, with or without uncle Severus's leave?
-- **Canon's route.** What's left of the disguised Crouch Jr steering Harry towards gillyweed, of Dobby's theft, and of Snape accusing Harry of raiding his stores?
+- **Canon's route.** *Answered in part:* there is no disguise and nobody steers him, because the teacher is the real Moody and Crouch cannot spare the grip (DIV-086). He and she solve it between them. What is left of Dobby's theft and of Snape accusing Harry of raiding his stores is still open.
 
 ### Q-052 · Rita after the Second Task (DIV-038)
 
@@ -461,7 +465,7 @@ Lucius Summoned the ribbon off Harry's wrist and Stunned Avery to open him a way
 
 The hoard in B4 only lands if the custom and her first win are on the page years earlier. Open:
 
-- **The challenge.** Her forfeit, before the Christmas holidays of their second year, and the bout she wins. Does it get a scene or a paragraph?
+- **The challenge.** Her forfeit, at the **last duel of their second year**, and the bout she wins. Does it get a scene or a paragraph? *(Moved from Christmas: canon puts the club's first meeting on 17 December, so there is no rivalry yet at the holidays for a forfeit to grow out of — and the later date means the scarf first appears in public in B3, which is where the House starts noticing anyway, DIV-094.)*
 - **What he's won off her,** and whether we ever see his own trove before he admits to it. *Partly answered:* one of her gloves, worn on his catching hand at the B3 final, opposite a Seeker's glove of his on hers (DIV-069). That puts the custom in front of the whole school without either of them explaining it, which is the planting this question asks for — and it leaves B4's room as the reveal of what the hoard *means* rather than that it exists.
 - **The banner.** Where a Gryffindor banner in a Slytherin's secret room came from. A trophy is the funniest answer; a Quidditch spoil is the other.
 
@@ -562,7 +566,7 @@ Still open:
 She dies in B4, with Dobby there. Open:
 
 - **Exactly when.** The lull after the Second Task is the lean. Not early, because the fade is the demonstration; not the end of the book, which belongs to the graveyard.
-- **Her canon function.** In canon she is the witness who confirms that Crouch hid his son. Harry and Dumbledore get that from Moody's confession anyway, but B4 planning has to check what else she carried and re-home it.
+- **Her canon function.** In canon she is the witness who confirms that Crouch hid his son. Harry and Dumbledore get that from Moody's confession anyway, but B4 planning has to check what else she carried and re-home it. *Candidate re-homing (Q-114):* she gives him away as a **name** rather than as a witness — Harry mentions Dobby is in the castle minding an elf called Winky, and Moody startles. She is never in the room for it.
 - **The grave** *(settled)*. Yes. **Dobby asks Harry for it** — an elf asking for something, which is the extraordinary part — because he thinks Winky should be honoured, having been working through his own mortality since the corridor without knowing it is already under way. **It is the first elf grave in Britain** (DIV-075), and it is why Harry knows to bury Dobby in B7 without being asked (DIV-050). **The marker is her name and nothing else** *(settled)* — there is nothing honest to add, she was never free and never wanted to be, and a name is more than any elf before her got. Still open: where she is buried and who digs.
 
 *Settled:* Harry, Ron, Hermione, Dobby **and Dracaena** are all present when she dies. It is where Hermione's hatred of Crouch is born — permanent, personal, and not political; she extends him no sympathy through the back half of the book. And it is the only time any pureblood watches what dismissal actually does (DIV-077, Q-098).
@@ -698,7 +702,234 @@ Still open:
 - **Whether McGonagall notices he was never on the wall.** She would. Whether she says so, in this book or a later one, is a scene we have not written.
 - Harry must not see it either way.
 
+### Q-114 · The clue chain for Moody (DIV-086)
+
+Canon rewarded the rereader with the flask, the tongue and the ferret. The disguise is gone, so those have to be replaced with tells that read as Moody on a first pass and as Crouch on a second.
+
+**The throughline the author wants: Barty Crouch Jr is a person, not only a cultist.** He went to Azkaban very young and has not finished growing up in there, so what gives him away is not villainy — it is the boy underneath coming up for air. Every tell below should be something a frightened, arrested young man would do, worn by a grizzled Auror who would never.
+
+**Candidate: the thing he did not prepare himself.** *(the author's, leading)*
+
+- **The rule it breaks is canon's own.** Moody eats and drinks nothing he has not made with his own hands — the reason the flask works as a clue in the original. Ours inverts it: the tell is the one time he doesn't.
+- **A smell from his schooldays gets him** on an outing to Hogsmeade, and he gives in and takes Moody over to have it himself. Not planned, no advantage in it, no plan value at all — the same register as the ferret (DIV-086).
+- **Butterbeer, settled.** No need to engineer a plate of something when a drink does the whole job. A grizzled Auror putting away a mug of a children's drink reads as a bout of nostalgia and nothing worse — **to the reader it says our Moody is not a stick in the mud about vigilance quite all the time**, which is a likeable thing to learn about him, and then they find out it was a rare Crouch moment and it curdles.
+- **Placement:** the Three Broomsticks, in the canon scene with Hagrid that the author recalls. If it turns out to be food after all, the recipe can be Rosmerta's from years back, or her predecessor's that she learned.
+
+**Candidate: Winky's name.** *(the author's)*
+
+- **The way in is canon's own joke, kept:** at the Yule Ball, Moody admires Harry's socks and Harry says they came from Dobby. We keep the exchange whole, because it is funny and because it is the only reason the next beat can exist.
+- **Why he asks is the good part.** He knows Dobby is the Malfoy elf, and a paranoid Auror wants to know why a Malfoy creature is handing Harry Potter socks. The question is perfectly in character for the real man, which is what makes it safe cover — and it is the question that walks him into the tell.
+- **The startle comes days later,** when Harry answers that Dobby is in the castle minding another elf — Winky. **Moody startles, very slightly, and covers it.**
+- **The real Moody has no reason to know the name. Barty Crouch Jr has every reason:** she was his family's elf. A reader who remembers whose elf she was has the whole thing from one word.
+- **It re-homes what Winky was carrying in canon** (Q-094). She confirmed the secret as a witness there; here she gives it away as a name, without ever being in the room.
+- **Dracaena is in the Ball beat too,** and her reaction is open. Three on the table: incensed that he wore peasant socks and that she failed to notice; genuinely impressed, since our Dobby is no caricature and the socks may simply be good; or she says nothing at all and allows herself a small smile, because her old servant is alive and happy — which is the one that feeds Q-098 and costs a line.
+
+**Settled: the voice he keeps having to shut** *(DIV-086)*
+
+Not a candidate — recorded. Moody remembers putting the name in the Goblet and remembers having had a reason at the time, so he would simply say so if it came up, and he keeps nearly saying so. Crouch takes him over for a split second each time to stop him.
+
+- **On the page:** passing notes of Moody opening his mouth about the culprit and then not saying it — a shrug, a grumble. Reads as a hard old man thinking better of a theory.
+- **Every one of those costs Crouch grip** (DIV-086), which is why the hold is frayed by the Third Task and why the office goes wrong.
+- **The confession pays it in one line:** *I had to keep his voice down all year — he was dying to tell them he put the name in.* The reader recontextualises every shrug at once.
+
+**Also on the table:**
+
+- **The trunk.** Seven locks, and one of them is never opened in front of anybody.
+- **The eye.** It sees through wood, so it can see into his own trunk — and he looks at it, and looks away. The problem becomes the clue.
+- **The Imperius lesson,** pressed far harder than the curriculum asks for, with Harry the only one who throws it off, in front of a man who cannot. Whether that is Moody leaving a trail or the curse letting him indulge a hobby should stay unsettled on the page.
+- **The flask.** Innocent now. Whether that is the joke (everyone suspects the obvious thing and it is only whisky) or whether it carries something is open.
+- **The lessons themselves,** since the reader can never be sure which were his — and there was never a list to sort, only permission (DIV-096).
+
+### Q-117 · Lucius's answer to the ferret (DIV-086, DIV-095)
+
+**Parked by the author**, 2026-11-16, pending more thought. Everything else in the incident is settled in DIV-095: the target is Hermione, Harry laughs at the Transfiguration and not at the bouncing, and he carries her to the hospital wing unprompted.
+
+What is left is the one thing canon gives us nothing to copy. **An Auror has assaulted the Malfoy heiress in front of witnesses, and ours would move on it** — he is off the board of governors since B2, so his usual lever is gone, and he is a man whose whole function is influence and procurement rather than a brawl.
+
+- **Rejected (author):** sending her a defensive or offensive artefact. A prop in search of a scene, and Moody rumbling it adds a subplot nobody needs.
+- **On the table (Claude):** he goes at Moody on paper and in person — a complaint, an inquiry, a Ministry file — and gets an apology engineered to be insulting and nothing else. Dumbledore cannot defend what happened and cannot allow scrutiny of his Defence teacher either, so he shields the very man who is the trap. The payload would be that **her father fails to fix something for her, in public, for the first time in her life**, which is the first draft of what she learns in B6 (DIV-030).
+- **And the free consequence, whatever he does:** the real Moody's only honest account of the year is *I was under the Imperius Curse* — the exact defence Lucius Malfoy walked free on, which the Ministry will not believe from anybody. Dumbledore knows it is true. Moody cannot clear it.
+- And what the real man carries: he transfigured a student and thought it just, and Harry forgave him for the one act of the year that was not his (DIV-086, DIV-095).
+
+### Q-118 · The maze's furniture, with no Crouch in it (DIV-086, DIV-087, DIV-089)
+
+Krum is never Imperiused and Fleur is never Stunned, so the Third Task has to be designed rather than inherited. Crouch's only act is the Portkey, set before the maze is sealed; from there the finish is genuinely out of anyone's hands.
+
+*Largely answered by DIV-089:* the maze is an elimination and it herds. Fleur and Krum get their honourable exits by being beaten by people — Fleur by Cedric, Krum by Harry — rather than by a hedge or a curse, and Cedric and Harry cooperating is **cut**, because all four champions want to win and the Task is built to make them meet.
+
+Still open:
+
+- **The sphinx is settled** (DIV-096): the riddle is hard, Hermione is not there, the maze herds and there is no going back, and Harry blinds her with the Conjunctivitis Curse and goes through. He does not beat her; he buys seconds.
+- What else fills the space between the eliminations, and how much of it there is now that the fights carry the Task.
+- How the maze herds them without the reader feeling an author's hand on it.
+- **Note:** the "prevented, not quitting" rule gets its demonstration earlier, in the Second Task, where Fleur is dragged out by grindylows and the Goblet is satisfied. The maze inherits a rule the reader has already watched work.
+
+
+
+
+### Q-123 · How Harry beats Krum (DIV-089, DIV-090, DIV-028)
+
+Settled that he wins outright and hard, that it costs him, and that his edge is the one that beats Dracaena's technique — **he has no shape**. What he actually does on the page is open, and it should come out of three years against her at the Duelling Club rather than out of Moody's lessons, so that the win is hers to have given him.
+
+- **The leading candidate, not adopted — legibility.** Spells are radicals, drawn, which means a spell is readable while it is being made; we already depend on that, since sync is both of them drawing the same radicals at the same instant with no leader (DIV-007, DIV-021, [magic](../setting/magic.md)). Three years at close range against the fastest, cleanest technician in the castle have made Harry a reader, because against her, waiting for the spell to exist is already too late. Krum is a professional and his form is the most drilled thing about him, so he is beautifully legible; Harry has never cast anything clean in his life and cannot be read at all. The better Krum is, the more Harry sees coming.
+- **And the finish it implies, which the author is *not* sold on.** Harry does not block — he spoils the draw, so the other man's spell arrives malformed or not at all. It half-works on her because she is too precise to be put off, and works outright on Krum because a drilled hand cannot change its mind halfway. Attractive because Krum is then beaten by his own excellence rather than diminished, and because Flitwick, who drilled clean form into the boy for three years, is in the stands watching him win by ruining other people's. **Parked as an option.**
+- Whatever replaces it has to show rather than tell, which is the whole point of the change (DIV-090).
+
+### Q-124 · What the Diggorys say (DIV-092, DIV-089)
+
+The visit stays and its purpose is now closure for Cedric's parents, with Dracaena running the room ([the-diggorys](../scenes/b4/the-diggorys.md), DIV-092). **The gold is out of it.** What is left open is the dialogue, and both of canon's load-bearing lines are unusable:
+
+- **Harry's** — that the money should have been Cedric's *because he got there first* — is gone with the gold, and was false anyway: Harry got there first, out of the air, in front of several hundred people.
+- **Mrs Diggory's** — that her son died just when he had won the Tournament — cannot be said. He lost, on a relay, with Amos in the stand.
+- **Amos is in the room.** He crowed about Cedric beating Harry on the walk to the Portkey in August (canon, kept), and is now thanking the boy who beat his son.
+- **It does not have to be gentle.** Cedric knew exactly what he was entering, and the book is not apologising for Harry having won. Whether anything is left of Mrs Diggory's comfort, or whether the scene simply refuses her one, is the decision.
+
+### Q-125 · What the school saw, and what B5 does with it (DIV-089, DIV-088, DIV-090)
+
+The maze is relayed, so several hundred people watched Harry beat the Durmstrang champion, then beat Cedric Diggory, then vanish with him — and then watched a dead relay. Nobody thinks he killed him; they saw both boys go. But the year that follows is built on nobody believing Harry, and the whole school has footage in its head.
+
+- **The DA gets its premise for free.** In canon Hermione has to relay a compliment from Bulgaria to persuade him he can teach. Here nobody needs persuading, and her problem is that he refuses.
+- **Umbridge gets a motive she lacks in canon.** She shuts the Duelling Club in her first week (DIV-028) not out of generic repression but because the school has seen what it produced, and it is the one room in the castle where Potter is demonstrably right about something.
+- **Rita was in the building,** and so was Amos Diggory, who watched his son lose to Harry minutes before his son died.
+- Open: how much of this is on the page, and whether it makes B5's isolation harder to write or sharper.
+
+### Q-126 · The flying lesson: placement, and what the children are taught (DIV-091)
+
+*Mostly answered.* Cast, shape and outcome are settled in DIV-089's sibling entry and [the-flying-lesson](../scenes/b4/the-flying-lesson.md): Harry, Dracaena, Krum, Cedric and Cho on the lawn, Fleur sulking in the stands, the hour of domestic bickering over the first years' technique, then the Feint, with Cedric and Cho out earliest, then Dracaena, then Harry, then Krum.
+
+Open: where in the year it sits, and what Hooch is actually teaching that day — which matters only because Harry and Dracaena have to be contradicting each other about something specific, at length, in front of children.
+
+### Q-127 · How often the Duelling Club meets, and whether every bout carries a forfeit (DIV-028, DIV-059)
+
+**Deliberately uncommitted**, at the author's instruction, until the club's shape is clear.
+
+The two numbers multiply. A club that meets often, with a trophy changing hands every time they face each other, gives each of them a vault by B4 rather than the shrine the Malfoy room is built around (DIV-059, DIV-060). Candidate dials: fewer meetings; they do not face each other every session; or they do not collect every time.
+
+Nothing elsewhere should assume a frequency, and [harry-potter](../characters/harry-potter.md) and [duelling-club](../threads/duelling-club.md) are written to avoid stating one.
+
+### Q-128 · When she tells him it is all right to want to win (DIV-089, DIV-092)
+
+Settled that she says it and roughly what it is: a wake-up call, not an instruction, and **the wanting stays his** (DIV-089). Open is where it sits, and the timing changes the scene completely.
+
+- **Before the Ball** — the author leans this way. It comes out scathing, from one of the very few people who believe he never entered himself: she has no reason left to disbelieve him, she will not wear a Potter Stinks badge, and he is already outstanding in her eyes. All she lacks is permission to let herself love him, and giving him permission to want something is a strange way of asking for her own.
+- **After the Ball** — it comes out loving, and is a smaller scene for it.
+- The badges are now settled separately: Hufflepuff makes them, an older Slytherin adds the insult, and she does not wear one (DIV-093). Whichever way the timing falls, that stands.
+
+### Q-129 · Naming the Slytherin who flips the badges (DIV-093, DIV-082)
+
+Settled that he exists and what he is: **a sixth year in B4**, so Balthier and Nola's year and one above Dracaena, **one of the people who made Nola Laurel's life a misery for being Muggle-born**, delighted to have a target the whole school will take off his hands. **He joins the Inquisitorial Squad in B5.** He needs a name and about three lines of presence.
+
+*The candidate scan, done:* there is nobody to reuse. The only named Slytherins in that year group are Balthier and Nola, who are the opposite pole, and the only other named Slytherin of roughly the right age is **Graham Montague** — who is tempting and should not be used. Harry beats Montague in B5 for what he says about her, and that beat has to be about her and nothing else (DIV-067). Give Montague a prior crime against Harry and the B5 moment turns into a grudge being settled, which is a different and much smaller scene. **So he is new.**
+
+- **He does not need an arc, or to survive to B7.** He owns the House's cruelty for a book so that it stops reading as weather. Nola's bullies are otherwise unwritten, which makes him free.
+- **He pairs with Balthier and Nola rather than competing with them** — same House, same year, same corridor, opposite answers — and gives [house-unity](../threads/house-unity.md) the pole it was missing (DIV-082, DIV-055).
+- **The Squad puts him next to Dracaena in B5.** She is in it as a toy to get Harry alone (DIV-013, Q-070), and she has to stand beside the boy who made POTTER STINKS and say nothing. What she does with that is worth a beat.
+
+### Q-130 · B2: who is the diary actually meant for? (DIV-030, DIV-076)
+
+**Parked by the author, for its own session.** Raised while settling why Lucius indulges his daughter: one child, no possibility of another, and a father whose every instinct is to put her somewhere nothing can reach her.
+
+The live possibility is that the diary goes to **Dracaena**, on purpose, and what that would mean about Lucius — whether he knows what it is, what he thinks he is buying, and how it sits beside a man driven by fear of losing her. It touches [the-sock](../scenes/b2/the-sock.md), DIV-076 and DIV-050, so nothing should be written that forecloses it.
+
+
+### Q-132 · Where the "all silent in here" line goes (DIV-095, DIV-089)
+
+The author's, and not yet placed. Dracaena brushes off the talk of Harry being unstable, says *here, let me check*, puts her ear to his temple as if listening, and reports that it is all quiet in there as usual.
+
+- **The insult is the defence**, which is exactly her cover: she can say it in front of a crowd without dropping the mask for a second, and it is the only thing anybody says in his favour. It belongs with the badge she does not wear (DIV-093).
+- **Claude's lean: B5**, where the charge is public and vicious and the Prophet has run it all year, so it costs her something and reads as an act of allegiance. Rita's *disturbed and dangerous* in B4 sets it up.
+- **The B4 case** is that she would be needling rather than defending, and it lands nearer the Tournament and the sphinx (DIV-096), which is what it is a callback to.
+- The gesture is a touch, which makes placement a question of how much she is allowed to do in public by then.
+
+### Q-133 · Duelling before Serena Passel (Q-120, DIV-084, DIV-028)
+
+If the Stunning Spell is about two centuries old, then before it there was no clean way to stop a man, and every duel in Britain left residue in both parties (DIV-080, DIV-084).
+
+- What that does to the culture the Duelling Club inherited: the bow, the rules, the scoring, the forfeit. Flitwick is teaching a civilised form that is younger than most of the portraits.
+- Whether the old families remember it, and what a pureblood education says about the era when duelling was maiming — a live question for DIV-008, since this is one place where the ideologues' nostalgia runs into something indefensible.
+- Whether it reaches the page at all, or stays as texture under the Duelling Club.
+
+
+
+### Q-135 · When she promises to treat his friends better (DIV-095, DIV-015, DIV-013)
+
+**Settled: after the Ball, never before.** The hospital wing in September lays the charge and she answers none of it — her ledger has no entry for amends, so she can only pay once she has decided she is allowed to want the thing she would be paying for ([dracaena-malfoy](../characters/dracaena-malfoy.md)). **Permission first, amends second.** Anything that has her mending in the autumn steals the balcony's question.
+
+Open: where in the window it sits, and what it looks like.
+
+- **The window** runs from the balcony (Christmas) to the end of the year. [the-little-basilisk](../scenes/b4/the-little-basilisk.md), three days after the Second Task, shows her catching "Mudblood" and turning it into "muffin head" — which works either as the promise already in force or as the quiet habit she formed in September, so it does not pin the date.
+- **Claude's lean: after the Second Task**, which is what seals the permission the Ball gave (🔒 DIV-005, [dracaena-malfoy](../characters/dracaena-malfoy.md)). She has been claimed in public by then and has nothing left to protect, which is the cheapest moment in the book for her to concede anything.
+- **The quietest candidate is the kitchens** ([the-kitchens](../scenes/b4/the-kitchens.md)), where she and Hermione stand in the same room and watch Winky die. No declaration required.
+- **It must be small.** A Malfoy does not make speeches about reform, and the beat is a sentence at most.
+- **It is made to Harry, about his friends, and Hermione is never told** — not then and not later. If she apologised to Hermione in B4, Shell Cottage would have nothing left to do, and Shell Cottage is where Hermione becomes a person to her, by way of a debt rather than a change of heart (DIV-077, Q-096).
+
 ## Answered
+
+### Q-134 · How far the Cho subplot runs in B5 (DIV-041, DIV-013)
+
+*Answered: canon's Cho beats are kept almost whole, and Dracaena is behind every one of them.* Recorded in **DIV-041**, **DIV-013**, [sleeping-beauty](../threads/sleeping-beauty.md).
+
+- **Cho seeks him out** — on the train, in the Owlery, and the rest — and **Dracaena is lurking not far behind, every time.** Mostly played for gags, and the whole school works out what is happening. Harry does not.
+- **Harry's side of it is mild annoyance.** He wishes Dracaena would turn up and get him out of it — the same note as Fleur's teasing, where he can tell there is a war on around him and does not much mind ([the-little-basilisk](../scenes/b4/the-little-basilisk.md)).
+- **Not jealousy and not defence.** She knows she has won. An affront was offered and the ledger does not care that it failed ([dracaena-malfoy](../characters/dracaena-malfoy.md)).
+- **And it settles the bigger thing:** by B5 there is no secret girlfriend. They are public essentially from the Ball and unmistakably so after the Second Task; the cover was only ever for Lucius and Voldemort (DIV-013, DIV-020, DIV-040).
+
+### Q-131 · What Hermione says that makes her see red (DIV-095, DIV-041)
+
+*Answered: she tells her she is never going to take Harry, because she is a nasty and vile person.* Recorded in **DIV-095**, [the-ferret](../scenes/b4/the-ferret.md).
+
+- **It is true, it is about character, and it is not a slur.** Hermione says it in heat, the reader is with her for the length of the sentence, and she is right.
+- **Dracaena hears a different sentence.** *Take* lands as *take from me*: a moral claim received as a claim of possession, which is the whole Hermione misreading in one word (DIV-041).
+- **It is the only kind of thing that can reach her.** She is untouchable by design and the single opinion that can hurt her is Harry's — and the girl who is always beside him has just claimed to speak for it. So she is not insulted, she is threatened, and she draws.
+- **And she takes it as fundamentally true**, because she already believes it: *nasty and vile* is a verdict she privately agrees with, and the only part she disputes is the ownership ([dracaena-malfoy](../characters/dracaena-malfoy.md)).
+- **The run-up is a routine corridor sneer that escalates** — her usual insults, very possibly "Mudblood" with real venom, which is the last one said in Harry's hearing without consequence (DIV-074).
+- **And the aftermath is where it pays.** In the hospital wing Harry tells her what she did was hideous — not an argument about prejudice, a verdict about ugliness, which is the one channel that reaches her (DIV-070). That is where the slur stops, and it is the promise she breaks in B6.
+
+### Q-116 · What Crouch teaches Harry, and what it costs him (DIV-086, DIV-084)
+
+*Answered: there is no syllabus. What the year leaves in Harry is permission.* Recorded in **DIV-096**.
+
+- **No list of Dark spells.** Dark magic runs on intent and Lustrum counts spells rather than names (DIV-084), so the gift is the doctrine — *spells are weapons, they are not good or bad* — and the stain comes from casting ordinary spells wanting harm. Nothing illicit to fetch, nothing for Ron and Hermione to object to, and no way for anyone in the room to tell. They practise in an empty classroom as in canon.
+- **Moody gives permission, not the idea.** Harry has improvised past everything since he was eleven; the year removes the apology. Being told by the most decorated Auror in Britain that he would make a good one is a jacket a fourteen-year-old wears for a year, and it is never his ambition.
+- **One named spell, and the chain to it is canon's.** Harry does not see Krum face the dragon — he is in the tent — he is told afterwards, and **Sirius says the Conjunctivitis Curse is what he would have done.** Precedent, proof it beats a dragon, the blessing of the one adult whose approval he wants, and only then the decision to learn it. He uses it on the sphinx.
+- **And it is what pays for Sectumsempra:** not *he was taught Dark magic* but *he was taught there is no such thing as an illegitimate move*, hardened by a year of the DA making fighting reflex and by having been under the Cruciatus himself (DIV-032, DIV-043).
+
+### Q-119 · Do the spectators feed the Goblet? (DIV-087, DIV-088)
+
+*Answered: yes, marginally — they are extra eyes.* Recorded in **DIV-087**, **DIV-088**, [triwizard](../setting/triwizard.md).
+
+The Goblet has to witness a contribution to count it, which is what the judges are for; the crowd is a great many more judges, small ones, worth a little on top. **Not a battery and not a resource** — nothing is taken from them, and an instrument that could be fed by holding a rally would make the audience more interesting than the contest. The relay (DIV-088) is therefore part of the instrument, and the 1994 committee gets one honest defence: they lowered the lethality and made a little of it back on the gate.
+
+### Q-120 · Past champions, and why it was abolished (DIV-087)
+
+*Answered: three names, and the stated reason for the abolition is a cover story.* Written out in [triwizard](../setting/triwizard.md).
+
+- **Étienne Bouchard** (Beauxbatons) killed the Beast of Gévaudan and closed the worst breach of the Statute's first century. **Loxias** (Durmstrang) went on to the Elder Wand, which in our lore passes by blood through killing (DIV-024, Q-011). **Serena Passel** (Hogwarts) invented the Stunning Spell — under our rules a way to stop a man without staining the caster, which is the most valuable thing anybody ever did with the prize (DIV-084, Q-133).
+- **The published reason is the death toll** and the cockatrice is what let them close it. **The real reason is Loxias**, and it could not be said aloud without saying what the prize is.
+- **The escalation is built in.** Danger is the yield, so every committee's incentive is to raise it for ever. The last century of the Tournament is both its golden age and its collapse, for the same reason.
+- **Best placed in Dracaena's mouth** — a pureblood education is where you learn the roll of champions, Hermione would know only the body count, and it lets her tell Harry what he is actually playing for (DIV-089, Q-128).
+
+### Q-122 · The charge's absence in B5 (DIV-087)
+
+*Answered by dropping it: there is no after-effect, and there was never going to be.* Recorded in **DIV-087**, [triwizard](../setting/triwizard.md).
+
+The charge never settled into him, so nothing is missing — no flatness, no sluggish magic, nothing to convalesce from. The author's objection stands and is mechanical as well as thematic: a magical cause for B5's temper would be the same mistake as letting the charge supply the nerve to ask her to the Ball, and B5 depends on Harry's anger being earned. What survives is knowledge, not sensation: he is the only person alive who knows what the prize was, he held it for ninety seconds tied to a headstone, and it was burned to build a body. One sentence, said once, to somebody who does not want to hear it.
+
+
+### Q-121 · Is Harry told why Cedric died? (DIV-087, DIV-089)
+
+*Answered: it is not a question.* Harry was there and saw all of it, and so did the school. The instruction was to reach the Cup, he reached it, and everybody understands why he is the victor — there is nothing for anyone to tell him. Cedric is dead because he was standing next to the boy who won. → **DIV-089**
+
+### Q-115 · The shared victory, and how Cedric dies (DIV-087, DIV-089)
+
+*Answered: there is no shared victory. The Goblet never gets two claimants, so it never needs a rule for them.* Recorded in **DIV-089**.
+
+- **The maze is an elimination.** Cedric beats Fleur, Harry beats Krum, and Harry beats Cedric in front of the Cup. Canon's Harry does not especially want to win; ours does, and so do the other three, because all four know what the prize is.
+- **Cedric dies as the spare, and the margin is an inch.** Beaten, he Summons the Cup from the ground; Harry takes it out of the air; Cedric catches his leg. The Portkey carries whoever is touching, the charge goes to whoever claimed, and Cedric had a hand on an ankle rather than on a handle.
+- **Both parked options are retired.** *Necessity* (the tie splits and Cedric's half must be released) made the murder a step in a recipe. *The impasse* (the Goblet refuses a tie, both boys refuse to fight, Voldemort resolves it impatiently) made the climax of a ten-month plot happen *to* Harry. The duel keeps the impasse's rule — one claimant — and moves the authorship to the boys.
+- **What it costs Harry is the point.** He wins because he wanted to, wearing her ribbon, in front of the whole school, and the gold he offers the Diggorys afterwards is the only thing he has besides the body (Q-124).
+- **Cedric is not diminished.** He loses to a better duellist, refuses to stop, and his echo congratulates Harry before asking to be taken back to his father — which is him accepting that he lost.
+
 
 ### Q-111 · The Mark, Dracaena and the fire (DIV-080, DIV-015, Q-027)
 

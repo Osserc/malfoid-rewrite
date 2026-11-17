@@ -28,6 +28,8 @@ Shows, in front of the whole school, who Harry would miss most. It comes two mon
 
 She is his hostage, not Ron, and she's elated. She claims him in public, and Fleur's thanks never land.
 
+And Hermione is Krum's (canon, kept), which says in public what the Ball implied: the girl Dracaena spent the autumn jealous of is the person another man would miss most (DIV-041).
+
 ## Open
 
 Q-009 (who chose her; public reactions) · Q-010 (Ron's role) · Q-051 (the gillyweed extract) · Q-052 (what Rita prints next)

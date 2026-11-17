@@ -31,9 +31,10 @@ He drills the spells that can be cast clean — Expelliarmus, Stupefy, Protego, 
 
 ## The trophies, and the two hoards *(settled)* · DIV-059
 
-At some point the bouts acquire a forfeit: the loser gives the winner a trophy, something of their own. It starts as her challenge, before the Christmas holidays of their second year, and she wins it, taking his Gryffindor scarf.
+At some point the bouts acquire a forfeit: the loser gives the winner a trophy, something of their own. It starts as her challenge at the last duel of their second year, and she wins it, taking his Gryffindor scarf. *(Not Christmas: canon puts the club's first meeting on 17 December, so by the holidays there is no rivalry yet for a forfeit to come out of.)*
 
 - **Both of them keep everything they win,** and neither has ever broached the subject with the other. She parades her spoils — the scarf, and at the B3 final one of his Seeker's gloves, worn on the pitch while he wears one of hers (DIV-069). What is never said out loud is what the things have come to mean, or where they end up.
+- **And the scarf is public evidence.** She parades it at home over the summer of 1993 and wears it through B3: a Slytherin in Gryffindor colours, in front of everybody. "Trophy" covers it for about a year, and from B3 her House stops believing it — Pansy first, Daphne next, and for opposite reasons (DIV-094).
 - **Hers,** by B4, is a shrine in the Malfoy room (DIV-060): a quill, a Chocolate Frog card with Dumbledore on it, a worn Seeker's glove and the scarf, on a stand under a Gryffindor banner. *(draft)* Where the banner came from is open.
 - **His** is a smaller trove of her things in his dormitory. He admits to it the night he finds hers ([the-malfoy-room](../scenes/b4/the-malfoy-room.md)).
 - **What it's for.** It turns years of feuding into a physical record, and it makes her sincerity something she has been accumulating in secret since B2 — one more thing that should have told Harry and didn't (Q-035).
@@ -45,10 +46,11 @@ At some point the bouts acquire a forfeit: the loser gives the winner a trophy, 
 |---|---|---|
 | B1 | | |
 | B2 | Lockhart's session ends in disaster (canon). The petition; Flitwick takes over | |
-| B2 | The trophy forfeit starts, with her challenge before the Christmas holidays. She wins his Gryffindor scarf (DIV-059, Q-073) | |
+| B2 | The trophy forfeit starts, with her challenge at the **last duel of the year**. She wins his Gryffindor scarf (DIV-059, Q-073) | |
 | B3 | A regular fixture. She leaves the lap-pillow scene with the skip in her step she has after beating him | [lap-pillow](../scenes/b3/lap-pillow.md) |
 | B3 | The trophies go public at the Quidditch final: each turns up wearing one of the other's gloves, played as a joke by both and never mentioned again. Harry catches the Snitch wearing hers (DIV-059, DIV-069, Q-073) | [the-quidditch-final](../scenes/b3/the-quidditch-final.md) |
-| B4 | Stays open; Durmstrang and Beauxbatons students join. The Durmstrang challenger (DIV-029) | [durmstrang-challenger](../scenes/b4/durmstrang-challenger.md) |
+| B4 | Stays open; Durmstrang and Beauxbatons students join. **Krum keeps coming, because he is curious whether the boy can actually do it** (DIV-090). The Durmstrang challenger, whom Krum is glad to see beaten (DIV-029) | [durmstrang-challenger](../scenes/b4/durmstrang-challenger.md) |
+| B4 | **The club's real payoff:** in the maze Harry beats the Durmstrang champion with what three years against her technique gave him — no shape of his own, and a reader's eye for everyone else's (DIV-089, Q-123) | [the-third-task](../scenes/b4/the-third-task.md) |
 | B5 | Umbridge shuts it down, one of her first acts. They're both miffed | |
 | B6 | Flitwick reopens it. Harry offers it as a date; she refuses, and they break up (DIV-015). Their next duel is Sectumsempra (DIV-043) | [the-breakup](../scenes/b6/the-breakup.md) |
 | B7 | | |
@@ -58,6 +60,7 @@ At some point the bouts acquire a forfeit: the loser gives the winner a trophy, 
 | Payoff | Needs setting up | Planted in |
 |---|---|---|
 | Resonance: the sync it takes (DIV-021) | Years of duelling, learning to read each other | B2 on |
+| B4 Harry beats Krum (DIV-089, Q-123) | That she is the better technician and he is unreadable, bout after bout, for three years | B2 on |
 | B3 his turn at the lake | Her unguarded "I won!", one of the moments where her sincerity shows (Q-035) | B2–B3 |
 | B4 the hoard in her room (DIV-059) | The trophy forfeit, and her winning his scarf | B2 (Q-073) |
 
@@ -67,4 +70,4 @@ At some point the bouts acquire a forfeit: the loser gives the winner a trophy, 
 
 ## Open
 
-Q-028 (Flitwick and resonance) · Q-073 (planting the trophies)
+Q-028 (Flitwick and resonance) · Q-073 (planting the trophies) · Q-123 (how the club's years cash out against Krum) · Q-127 (how often it meets, and whether every bout is collected)

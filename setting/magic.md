@@ -132,7 +132,7 @@ A veela's charm has no hold on someone who's already in love. Canon never says e
 
 - **Harry** is immune by the 1994 World Cup. Fresh off the B3 lake, where she saved his godfather, he sees Dracaena again and can't explain to himself why he's happy to. He's in love before he knows it ([harry-dracaena](../threads/harry-dracaena.md)).
 - **Who knows.** It's veela lore. Fleur knows it, and so does Dracaena. Harry doesn't.
-- **Dracaena notices** at the World Cup that he's unmoved, so she knows he's in love. She has no way of knowing it's with her, and assumes it's Cho (DIV-041).
+- **Dracaena notices** at the World Cup that he's unmoved, so she knows he's in love. She has no way of knowing it's with her, and assumes it's Hermione, who is sitting with him and who has never been anywhere else (DIV-041).
 - **The married men** in the Top Box: Arthur Weasley and Lucius Malfoy are unmoved too. Who else notices: Q-050.
 - **Fleur's test.** In B4 she turns her charm on Harry to find out whether his heart is taken (DIV-038).
 - **Separate from resonance.** It takes no wand and no sync: it's a limit of the charm, not something two people do.
@@ -178,6 +178,15 @@ The Lullasp is a snake said to straddle the waking and the dreaming realms. Its 
 - **Tweaking.** A skilled Occlumens can tweak what passive Legilimency perceives. Lying outright to Voldemort's face takes far more: Snape can, Lucius can't. Voldemort's arrogance helps both of them.
 - **The Malfoys.** No one is born an Occlumens, but the discipline the Malfoys instil lends itself to learning it.
 - **Dracaena** learns it from Snape in summer 1995. Against Voldemort in summer 1996 her walls break with ease (DIV-015). In the final duel she doesn't wall him out: she wraps Harry's mind in hers (DIV-021).
+
+## Riding an Imperius *(settled)* · DIV-086
+
+Canon's Imperius Curse is unchanged: compliance, contentment, and no reliable way for anyone to detect it from outside. What we add is one refinement, invented by Voldemort and given to exactly one follower.
+
+- **A caster can wear the cursed, not only steer them.** It is possession — his own speciality, the diary and Nagini and what he does to Harry in B5 — fitted onto somebody else's Imperius, which serves as the road. The curse is Crouch's; the technique is the master's; nothing else was supplied.
+- **Holding and wearing are the same grip.** The caster can hold the cursed down or wear them, not both at full strength, and wearing always loosens the hold. Every take-over is therefore a risk, and an excited or careless one is how the cursed gets a chance to throw the caster out (DIV-086).
+- **It is upkeep.** A strong will surfaces, and only a caster who is present, undistracted and relentless keeps it under. That is the whole reason Crouch spends the year in a trunk a few feet from Moody rather than anywhere safer.
+- **Nobody else has it,** and it goes down with Crouch. It is not a technique in circulation.
 
 ## Wands *(settled)* · DIV-024
 
