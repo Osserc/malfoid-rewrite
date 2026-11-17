@@ -24,10 +24,11 @@ Romance in the dream (DIV-013), and more of Fleur. Her way of repaying Harry for
 1. *(settled)* For three days after the Second Task, Fleur hangs on Harry's arm and needles Dracaena, whom she calls "le petit basilic". Dracaena takes up the challenge and gets bolder with him. Harry can tell there's a war on around him, and doesn't much mind.
 2. *(settled)* The third day, at breakfast, Fleur pushes Neville aside to sit by Harry. Dracaena isn't there. Fleur drops the act for a moment and tells him quietly, without malice, that her charm does nothing to him: she can see how much he likes Dracaena. Then she's back to the show, offering to feed him toast.
 3. *(settled)* Dracaena arrives. Fleur stages the pantomime: she shields "her Arry" from the villainess, concedes to "a fierce dragon" and sweeps off to the Beauxbatons at the Ravenclaw table.
-4. *(settled)* Dracaena takes her win. She kisses Harry in front of the Hall and drags him out by his tie.
-5. *(settled)* Alone, she sees through it ("that devious woman") and knows she owes Fleur something nice. *(draft)* A potion of her own brewing. She covers with a show of jealousy; he finds it endearing, and hugs her.
-6. *(settled)* On the way to Potions he asks what Fleur meant about her tricks. Dracaena knows the rule, blushes and deflects. Since the World Cup she's known he loves someone, and feared it was Hermione (DIV-041); now it's plain that it's her. He has no idea what he's told her.
-7. *(settled)* Ron and Hermione catch up and complain. She starts to call Hermione "Mudblood" and turns it into "muffin head": Harry won't stand for slurs against his friend ([dracaena-malfoy](../../characters/dracaena-malfoy.md)).
+4. *(settled)* Dracaena takes her win. She hisses Fleur off, takes Harry by the tie and brings her face to his — then snaps her mouth shut a hair short of him, catching his lip in her teeth hard enough to draw blood. Her eyes are on the retreating Fleur throughout. She drags him out of the Hall by the tie, to the delight of the room. **No second public kiss** ([style](../../core/style.md)). The lake is the claim (DIV-038); this is the bill for letting himself be claimed by somebody else. It is also the game half of DIV-071 — what she aims at Harry is a game — three days after the shove at Fleur gave the school the other half.
+5. *(settled)* Alone, she sees through it ("that devious woman") and knows she owes Fleur something nice. *(draft)* A potion of her own brewing. He finds blood on his fingers and asks whether the bite was necessary. *You deserved it* — and then, smaller, *you could have made more of an effort to push her away*, which is what the bite was for and the only straight thing she says in the scene. She covers it with a show of jealousy; he finds it endearing, and hugs her.
+6. *(settled)* On the way to Potions he asks what Fleur meant about her tricks. Dracaena knows the rule, blushes and deflects — *ask your* other *girlfriend* — which is the rival she invented out of Hermione (DIV-041) made into a joke within a minute of its dissolving, by a girl who hasn't noticed she's doing it. Since the World Cup she's known he loves someone, and feared it was Hermione; now it's plain that it's her. Harry answers that he'd hardly miss a second Dracaena Malfoy at Hogwarts, which kills the fear outright.
+7. Still in the corridor, she steals a quick kiss and tells him he's all better now, undoing her own bite. This is what the small ones are for.
+8. *(settled)* Ron and Hermione catch up and complain. She starts to call Hermione "Mudblood" and turns it into "muffin head": Harry won't stand for slurs against his friend ([dracaena-malfoy](../../characters/dracaena-malfoy.md)).
 
 ## Must keep
 
@@ -35,6 +36,7 @@ Romance in the dream (DIV-013), and more of Fleur. Her way of repaying Harry for
 - Fleur concedes to "a fierce dragon".
 - Dracaena gets her public win, and knows she owes Fleur for it.
 - Harry doesn't understand Fleur's line. Dracaena does.
+- Her public win here is the tie and the bite, not a kiss. The lake kiss stays the only one the school sees in B4.
 
 ## Open
 

@@ -22,7 +22,9 @@ _Open._ Not afraid of the hard beats (Sectumsempra, Burbage).
 
 ## Prose rules
 
-_Open._
+**Ration the weighted kisses.** The pecks they steal off each other are free, and they're frequent: they're how the two of them talk. The weighted ones are spent only where something changes, and never twice on the same note. A second public kiss three days after the lake would have repeated the claim instead of raising it, which is why the Great Hall gets a bite and the corridor gets a peck that undoes it ([the-little-basilisk](../scenes/b4/the-little-basilisk.md), DIV-038). B4's weighted count is two: the Yule Ball and the lake.
+
+Otherwise _open._
 
 ## Writing Dracaena
 
