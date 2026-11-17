@@ -45,8 +45,8 @@ The secret cannot be kept by authorial convenience in a House of forty people sh
 - **The scarf arrives in B3.** She wins it off Harry at the last duel of their second year (DIV-059), parades it at home over the summer, and wears it all through B3 — a Slytherin in Gryffindor colours in front of everybody, most visibly on a winter Hogsmeade weekend. "Trophy" covers it for a while and then stops.
 - **B3 breaks the arithmetic.** She trains herself into the ground to beat him *properly* rather than merely beat him (DIV-017, DIV-069), and goes on needling him the whole time. The two do not fit, and people can see them not fitting.
 - **The needling never stops,** which is what makes it such good cover — through B4 up to the Ball and for the rest of their lives. The undertone changes; the surface never does.
-- **Daphne moves in B3.** A distracted queen bee is a vacancy, and she notices vacancies early. Her candidacy as Rita's source gains a year (Q-038).
-- **Pansy notices in B3 too,** and has both the most data and the least appetite for using it. In B4 the missing badge is the thread that finally will not go away (DIV-093).
+- **Daphne moves in B3.** A distracted queen bee is a vacancy, and she notices vacancies early. Her candidacy as Rita's source gains a year (Q-038). **Her first real ammunition is the Defence exam** ([the-trunk](../scenes/b3/the-trunk.md)): deniable, which is her method — she states the true thing, that Dracaena couldn't handle a Boggart, and lets the queue draw the line. She has no idea what she is actually pointing at.
+- **Pansy notices in B3 too,** and has both the most data and the least appetite for using it. In B4 the missing badge is the thread that finally will not go away (DIV-093). **At the exam Lupin hands her a shaking Dracaena and explains nothing, and she doesn't ask** — the difference between her and Daphne in one gesture, and the proof that an arranged friendship can be a real one.
 
 ## The other pole: who makes the badges *(settled)* · DIV-093
 
@@ -66,6 +66,7 @@ The thread needs its ugliness owned by somebody, or Slytherin's cruelty reads as
 | B1 | First ordinary Slytherins on the page | |
 | B2 | | |
 | B3 | The Quidditch match: the Dementors wreck Balthier and Nola gets him through it. The siege: he insists on a window, which costs him, and she stands there with him. Daphne beside them being vile about it; Balthier's “I never knew fire could be so beautiful” afterwards, and his decision to stop hiding Nola. Earlier in the year, he tells Harry not to be ashamed of fainting. DIV-082 | [the-laughing-witch](../scenes/b3/the-laughing-witch.md) |
+| B3 | The Defence exam: she is excellent on the course and never comes out of the Boggart trunk. Lupin takes her out and hands her to Pansy, who doesn't ask; Daphne gets her first ammunition and uses it in front of the queue (DIV-093, DIV-094) | [the-trunk](../scenes/b3/the-trunk.md) |
 | B3 | The final: she's the only Slytherin playing clean, cheers for Gryffindor in front of her own stands, screams at her own Beater and calls him inbred, then takes Potter's hand on the pitch. The first crack between her and her house, and it is written home about (DIV-069, DIV-070, Q-081) | [the-quidditch-final](../scenes/b3/the-quidditch-final.md) |
 | B4 | | |
 | B5 | Some Slytherins join the DA: Pansy (Dracaena's friend), and Balthier and Nola in their last year | [b5/outline](../books/b5/outline.md) |

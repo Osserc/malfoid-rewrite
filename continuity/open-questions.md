@@ -861,7 +861,9 @@ Open: where in the window it sits, and what it looks like.
 Lupin reads her Boggart correctly, covers for her with a true and incomplete explanation, and never mentions it to anyone ([remedial-boggart](../scenes/b3/remedial-boggart.md)). She takes the cover and resents needing it: a kindness she can't repay is an open debt, and the ledger has no entry for one ([dracaena-malfoy](../characters/dracaena-malfoy.md)). Open:
 
 - **The end of B3.** Lupin is outed and resigns. Canon Draco gloats that his father got him sacked; she can't, because the debt is unsettled. Whatever she does instead should be small and deniable, and we don't have the scene.
-- **The rest of the year.** Does it change how he treats her? Does he notice her spying on Harry's Patronus lessons?
+- **The rest of the year.** Does it change how he treats her otherwise? At the June exam he takes her out of the trunk himself and hands her to Pansy without a word to anyone ([the-trunk](../scenes/b3/the-trunk.md)).
+
+*Partly answered: he spends a little of the goodwill on Harry, once.* The trigger is Harry mentioning — probably complaining — that she has been hanging around the Patronus lessons; Lupin already knows. He cannot send Harry to her, because pity is adjacent to indifference and she would clock it instantly and read it as the Boggart confirmed. So he remarks obliquely that people carry a great deal in their hearts that doesn't show, and lets it sit. Nothing names her, and Harry never tells him about the lap pillow. → [remedial-boggart](../scenes/b3/remedial-boggart.md)
 - **Later books.** He is around Harry in B5 and B7 and says nothing, which is settled. Whether he ever nudges Harry the way Sirius does (DIV-019) — Claude's lean is no: that's Sirius's job, and the contrast between the adult who acts on one glimpse and the one who saw everything and kept it is worth more than a second nudge.
 
 ### Q-137 · When Harry learns her Boggart (DIV-017)

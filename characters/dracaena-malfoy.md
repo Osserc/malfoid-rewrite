@@ -10,7 +10,7 @@ status: draft
 
 ## Core
 
-- **Want:** to live outside the script her family wrote for her (DIV-013).
+- **Want:** *(settled)* **one beautiful thing to call her own.** Everything she has was handed to her, and she wants to be rid of none of it — she loves being a Malfoy, the line, the nobility, the unbroken descent of great people. The question underneath is **what she is worth when none of it is counted**: if she is defined by what she inherited, what is left of her when it's stripped away? That is the script she wants to live outside of (DIV-013), and the first thing that ever arrives from outside it is an unassuming boy in a tailor's shop (DIV-009). It is why her B3 Boggart is him ([remedial-boggart](../scenes/b3/remedial-boggart.md), DIV-017).
 - **Need:** _open_
 - **Wound / fear:** that the dream was never real (DIV-015).
 - **Lie she believes:** _open_

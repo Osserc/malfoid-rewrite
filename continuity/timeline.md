@@ -53,6 +53,7 @@ _Marauders era, the first war. Not yet worked out._
 - **Autumn 1993**, after the November swarm drops Harry off his broom: she does the Dementor impression at him herself. DIV-017
 - **Late autumn 1993**, once the sling comes off and before the Ravenclaw match: the remedial Boggart lesson, alone with Lupin. It is Harry, telling her he wishes he'd never met her. She freezes, understands none of it, and tells no one. The order is now load-bearing — the lesson has to fall between the swarm and the prank, or the prank loses its cause. DIV-017, [remedial-boggart](../scenes/b3/remedial-boggart.md)
 - **Spring 1994**, the Ravenclaw match: Crabbe and Goyle pull the fake-Dementor prank on their own and she greatly disapproves. She had stopped doing the impression after the Boggart, and never explains why. DIV-017, DIV-070
+- **June 1994**, exam week, days before the execution: Lupin's Defence exam. She is excellent on the course and never comes out of the Boggart trunk. Lupin takes her out and hands her to Pansy; Daphne uses it in front of the queue; the trio watch. DIV-017, DIV-093, DIV-094, [the-trunk](../scenes/b3/the-trunk.md)
 - **During B3**: Hermione drops Muggle Studies, and Dracaena calls it conceding defeat. DIV-012
 - **1994, during Harry's Patronus lessons**: she spies on them and studies the charm for him, getting only mist herself. The lap-pillow scene. DIV-018, DIV-027
 - **Spring 1994**, days before the final: the jeer at Hagrid, and the slap she baits and takes. DIV-069, [the-slap](../scenes/b3/the-slap.md)
