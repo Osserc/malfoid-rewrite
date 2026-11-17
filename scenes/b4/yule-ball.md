@@ -38,7 +38,8 @@ What happens when he follows her out. **The leading candidate for beat 4** — t
 - **He gets close and says he wishes it could stay like this.** Not a line he has prepared; he is simply happier than he has ever been and says so badly.
 - **She asks: *Am I allowed to dream, Harry? Someone like me?*** It is not modesty and it is not fishing. She means it as a question of fact, and she is the only person in the castle who would ask it of herself in those terms.
 - **It is the first time she uses his given name**, and neither of them remarks on it. Everything before this is *Potter*.
-- **What she is asking about is September** — the corridor where she drew on Hermione Granger in front of him and he carried her to the hospital wing anyway (DIV-095, [the-ferret](the-ferret.md)). She knows exactly what he saw. The question is whether a person who does that gets to have this.
+- **What she is asking about is September** — the corridor where she drew on Hermione Granger in front of him, and the hospital bed where he told her what she did was hideous (DIV-095, [the-ferret](the-ferret.md)). **She has carried that for three months without answering it**, because her ledger has no way to pay it off ([dracaena-malfoy](../../characters/dracaena-malfoy.md)). The question is whether a person who does that gets to have this — and it is his own verdict coming back out of her mouth.
+- **Nothing is promised here either.** The promise about his friends comes after, once she has given herself permission; putting it in this conversation would turn her question into an undertaking (Q-135).
 - **It is the other half of the year's symmetry.** He gives her permission to want him; she gives him permission to want to win (DIV-089, Q-128). Each does it once, neither notices, and this is her half.
 - *(open)* What he answers, and how it runs into the kiss.
 

@@ -148,7 +148,7 @@ Which year she starts, how she justifies it at home ("know your enemy"?), when L
 
 A secret couple, secret friends, something unnamed? Who knows? And what about the DA bust, where canon Draco is the one who catches Harry?
 
-*Partly answered:* a secret couple that fools no one. They stage fights in front of Umbridge. From April 1996, when the Inquisitorial Squad forms (canon), she uses its privileges to take Harry to Hogsmeade on "errands", as her errand boy: their secret dates ([the-pear-perfume](../scenes/b5/the-pear-perfume.md)).
+*Answered in part, and corrected (DIV-013):* **not a secret couple.** They are public essentially from the Yule Ball and beyond argument once she claims him at the lake, and the cover is for Lucius and the Dark Lord, never for the school. The fights in front of Umbridge are not staged — they are real quarrels, and she docks him points for invented infractions because it amuses her. From April 1996, when the Inquisitorial Squad forms (canon), she uses its privileges to take Harry to Hogsmeade on "errands", as her errand boy ([the-pear-perfume](../scenes/b5/the-pear-perfume.md)).
 
 *The Squad is a toy, not a job.* She's living the dream, and she has no intention of doing Umbridge's policing, least of all anything that would get Harry into real trouble. What the badge is for is leverage to invent excuses: errands to run, rules to catch him breaking, pretexts to bully him with. So canon's bust can't turn on her catching him.
 
@@ -850,17 +850,29 @@ If the Stunning Spell is about two centuries old, then before it there was no cl
 - Whether it reaches the page at all, or stays as texture under the Duelling Club.
 
 
-### Q-134 · How far the Cho subplot runs in B5 (DIV-041, DIV-013)
 
-Settled in DIV-041: Cho tries her luck with Harry more than once, Dracaena ruins it every time — covert in company, terrifying alone — and Harry never knows. **Not jealousy and not defence**, which the page has to make unmistakable: she has already won, and an affront is paid back so that nobody tries again ([dracaena-malfoy](../characters/dracaena-malfoy.md)).
+### Q-135 · When she promises to treat his friends better (DIV-095, DIV-015, DIV-013)
 
-- **How much of it is on the page**, and whether it is a running joke with a cold bottom to it or two scenes and a glance. The comedy is real and the thing it demonstrates is not funny at all, and the balance is the whole question.
-- **Whether Cho ever works out what is happening to her.** Leaning no: being bewildered is most of the joke, and it keeps her a person rather than a target.
-- **Whether anybody else notices.** Pansy would (DIV-055, DIV-094). So might Hermione, who by B5 has watched this pair for a year and a half.
-- **Where it sits against the secret-couple cover** (DIV-013), since being seen to care is exactly what the cover cannot afford — which is the reason it has to be covert rather than a scene in the Great Hall.
-- It must not become a redemption beat for Dracaena, and it must not make Cho pitiable enough to become a rival after all.
+**Settled: after the Ball, never before.** The hospital wing in September lays the charge and she answers none of it — her ledger has no entry for amends, so she can only pay once she has decided she is allowed to want the thing she would be paying for ([dracaena-malfoy](../characters/dracaena-malfoy.md)). **Permission first, amends second.** Anything that has her mending in the autumn steals the balcony's question.
+
+Open: where in the window it sits, and what it looks like.
+
+- **The window** runs from the balcony (Christmas) to the end of the year. [the-little-basilisk](../scenes/b4/the-little-basilisk.md), three days after the Second Task, shows her catching "Mudblood" and turning it into "muffin head" — which works either as the promise already in force or as the quiet habit she formed in September, so it does not pin the date.
+- **Claude's lean: after the Second Task**, which is what seals the permission the Ball gave (🔒 DIV-005, [dracaena-malfoy](../characters/dracaena-malfoy.md)). She has been claimed in public by then and has nothing left to protect, which is the cheapest moment in the book for her to concede anything.
+- **The quietest candidate is the kitchens** ([the-kitchens](../scenes/b4/the-kitchens.md)), where she and Hermione stand in the same room and watch Winky die. No declaration required.
+- **It must be small.** A Malfoy does not make speeches about reform, and the beat is a sentence at most.
+- **It is made to Harry, about his friends, and Hermione is never told** — not then and not later. If she apologised to Hermione in B4, Shell Cottage would have nothing left to do, and Shell Cottage is where Hermione becomes a person to her, by way of a debt rather than a change of heart (DIV-077, Q-096).
 
 ## Answered
+
+### Q-134 · How far the Cho subplot runs in B5 (DIV-041, DIV-013)
+
+*Answered: canon's Cho beats are kept almost whole, and Dracaena is behind every one of them.* Recorded in **DIV-041**, **DIV-013**, [sleeping-beauty](../threads/sleeping-beauty.md).
+
+- **Cho seeks him out** — on the train, in the Owlery, and the rest — and **Dracaena is lurking not far behind, every time.** Mostly played for gags, and the whole school works out what is happening. Harry does not.
+- **Harry's side of it is mild annoyance.** He wishes Dracaena would turn up and get him out of it — the same note as Fleur's teasing, where he can tell there is a war on around him and does not much mind ([the-little-basilisk](../scenes/b4/the-little-basilisk.md)).
+- **Not jealousy and not defence.** She knows she has won. An affront was offered and the ledger does not care that it failed ([dracaena-malfoy](../characters/dracaena-malfoy.md)).
+- **And it settles the bigger thing:** by B5 there is no secret girlfriend. They are public essentially from the Ball and unmistakably so after the Second Task; the cover was only ever for Lucius and Voldemort (DIV-013, DIV-020, DIV-040).
 
 ### Q-131 · What Hermione says that makes her see red (DIV-095, DIV-041)
 
