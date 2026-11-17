@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Defence Against the Dark Arts, 1994–95. Harry's best teacher, and the instrument that delivers him to the graveyard.
 **Canon baseline:** retired Auror. In canon he spends the whole of B4 starved in his own trunk while Barty Crouch Jr wears his face, and arrives as a character only in the last chapter.
-**Changes from canon:** DIV-086, DIV-095, DIV-096.
+**Changes from canon:** DIV-086, DIV-095, DIV-096, DIV-097.
 
 ## The year
 
@@ -23,6 +23,8 @@ He makes the boy formidable, sincerely, and the damage is in the framing rather 
 
 - **He teaches him nothing to be ashamed of and gives him permission for everything.** Harry has improvised past every problem since he was eleven; what the year removes is the apology.
 - **The Conjunctivitis Curse is not even his.** The chain runs Krum, then Sirius approving it, then Harry deciding to learn it. Moody's contribution is the climate (DIV-096).
+**The whisky after the First Task is the same doctrine with no spell in it** — a colleague's drink for a boy back off a job, offered as procedure and not as mischief, and the only regard of that kind anyone in the castle offers him (DIV-097, [the-flask](../scenes/b4/the-flask.md)).
+
 - **And none of it is Crouch's doing**, which is the cruelty of it. The lessons are the real man's and they are good lessons, and they are also the thing Harry reaches for in a bathroom in B6 (DIV-043).
 
 ## What gives him away *(settled)* · Q-114
@@ -30,6 +32,7 @@ He makes the boy formidable, sincerely, and the damage is in the framing rather 
 The tells are not villainy. **They are a frightened young man coming up for air inside a grizzled Auror**, which is the throughline: Barty Crouch Jr went to Azkaban very young and never finished growing up in there. Leading candidates:
 
 - **He drinks something he did not prepare himself.** Moody eats and drinks nothing that has not passed through his own hands — canon's flask exists for that reason. Ours inverts it: a smell from Crouch's schooldays gets him at Hogsmeade, and he gives in and takes Moody over to have it. The author's lean is a mug of Butterbeer, which passes as nostalgia in a hard old man and is worse once you know.
+- **The flask is innocent, and it is spent proving it.** After the First Task he pours Harry a measure of Firewhisky in his office, every reader of canon has a very bad second, and nothing whatever happens — which is also where the rule above gets stated, as a drill aimed at Harry rather than as exposition about him (DIV-097, [the-flask](../scenes/b4/the-flask.md)).
 - **He startles at the name Winky.** Days after the Yule Ball he asks after Dobby — in character, since a paranoid Auror wants to know why the Malfoy elf is handing Harry Potter socks — and Harry answers that Dobby is in the castle minding another elf. Moody has no reason at all to know the name. Crouch has every reason: she was his family's elf.
 - **He keeps nearly saying who did it.** He remembers putting the name in the Goblet and remembers thinking he had a reason, so he would say so if it came up — and all year he opens his mouth about the culprit and then shrugs it off. That is Crouch silencing him for a split second at a time, spending grip he cannot spare (DIV-086). The confession names it in one line.
 - And the ones already on the table: the seventh lock, the eye that can see into his own trunk and looks away, and the Imperius lesson pressed far harder than the curriculum asks.
@@ -64,4 +67,4 @@ He drilled the boy and delivered him, and Cedric Diggory is dead. He knows the h
 
 ## Open questions
 
-Q-114 (the clue chain) · Q-117 (Lucius's answer to the ferret, parked)
+Q-114 (the clue chain) · Q-117 (Lucius's answer to the ferret, parked) · Q-138 (whether the drink is ever spoken of again)

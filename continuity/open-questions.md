@@ -725,12 +725,15 @@ Not a candidate — recorded. Moody remembers putting the name in the Goblet and
 - **Every one of those costs Crouch grip** (DIV-086), which is why the hold is frayed by the Third Task and why the office goes wrong.
 - **The confession pays it in one line:** *I had to keep his voice down all year — he was dying to tell them he put the name in.* The reader recontextualises every shrug at once.
 
+**Settled: the flask is spent** *(DIV-097)*
+
+It is whisky, and after the First Task Moody pours Harry a measure of it in his office. Everyone suspects the obvious thing, a second person drinks it and stays himself, and the clue is disposed of in half a page — which is also the book telling the rereader that the props are clean this year and the man is where to look. **It is also what makes the Butterbeer work:** the rule that Moody pours his own arrives there as a drill aimed at Harry, so the tell breaks something the reader heard him teach rather than something a narrator explained. Written out in [the-flask](../scenes/b4/the-flask.md).
+
 **Also on the table:**
 
 - **The trunk.** Seven locks, and one of them is never opened in front of anybody.
 - **The eye.** It sees through wood, so it can see into his own trunk — and he looks at it, and looks away. The problem becomes the clue.
 - **The Imperius lesson,** pressed far harder than the curriculum asks for, with Harry the only one who throws it off, in front of a man who cannot. Whether that is Moody leaving a trail or the curse letting him indulge a hobby should stay unsettled on the page.
-- **The flask.** Innocent now. Whether that is the joke (everyone suspects the obvious thing and it is only whisky) or whether it carries something is open.
 - **The lessons themselves,** since the reader can never be sure which were his — and there was never a list to sort, only permission (DIV-096).
 
 ### Q-117 · Lucius's answer to the ferret (DIV-086, DIV-095)
@@ -873,6 +876,15 @@ Not in B3: she is looking straight at it when she half-offers it at the lap pill
 - **Author's lean: B7**, once she has come to terms with what it meant. There is no room in B6.
 - **What makes it tellable** is that by then the sentence has been falsified by the facts of their life. She can only say it out loud at the point where it is manifestly absurd, which is also the only point where she could bear to.
 - **It may never be spent,** and that is an acceptable outcome. The lake is the payoff; this would be a bonus.
+
+### Q-138 · Does the drink ever come back? (DIV-097, DIV-096)
+
+The beat closes on its own page and needs nothing (DIV-097). What is open is whether anything is ever made of it afterwards, and the author's lean is **sparingly, if at all** — its value is as a thing Harry keeps.
+
+- **Whether he tells Dracaena.** Not a scene: a confidence, the kind the relationship is actually built out of, and she would have an opinion about a teacher handing a fourteen-year-old spirits. Cheap and available; also entirely droppable.
+- **Whether it reaches Lucius.** It is a true item for a Ministry file on an Auror who has already assaulted his daughter, and it is the only one he would not have to invent (Q-117, parked). The cost is that it needs a route, and the only plausible route runs through Dracaena, who would not hand her father a weapon against Harry's favourite teacher — so this probably stays unused.
+- **Whether B5 touches it.** Moody is in the Order with Molly Weasley in the room, and what he did in November is the smallest and most sayable piece of what he spent the year doing. If it comes back anywhere, here is the place, in one line, and it must not turn into a row about alcohol — the thing being measured is what he thinks a child is for.
+- **Harry must never regret it**, in any version. He is pleased with it at the time and still pleased with it afterwards, and the reader does the unease on his behalf.
 
 ## Answered
 
