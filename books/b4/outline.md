@@ -22,7 +22,7 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 🔒 locked; everything else here is settled.
 
 - At the World Cup the veela don't touch Harry: he's already in love without knowing it. DIV-037
-- Harry never asks Cho. She's a rival only in Dracaena's head, who saw the veela leave him cold and assumes it's Cho. DIV-041
+- Harry never asks Cho, and Cho is nothing to anybody. Dracaena saw the veela leave him cold and has decided the girl is Hermione, who is always next to him. DIV-041
 - It is the real Moody all year, under the Imperius, with Crouch Jr asleep in the trunk holding him down. His teaching is genuinely his, which is why Harry's help was real and why Voldemort needed nobody to fake it. DIV-086, [alastor-moody](../../characters/alastor-moody.md)
 - Dracaena draws on Hermione in a corridor and Crouch takes Moody over to bounce her down it as a ferret: his one unforced act of the year, and the reader's best clue. Harry carries her to the hospital wing unasked, in front of the school. DIV-095, DIV-086, Q-117
 - The Duelling Club stays open, and the visiting students join. Harry beats a Durmstrang student who has taken an interest in Dracaena, too aggressively, and Rita Skeeter gets her ammunition. DIV-028, DIV-029, [durmstrang-challenger](../../scenes/b4/durmstrang-challenger.md)

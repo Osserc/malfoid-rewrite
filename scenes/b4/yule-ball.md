@@ -20,9 +20,10 @@ divergences: [DIV-004, DIV-013, DIV-019, DIV-041, DIV-095]
 2. *(settled)* She accepts. If *Potter* can step outside the script, so can she. She half-believes the boy who beat Voldemort twice, killed a Basilisk and drove off a horde of Dementors might really be her prince.
 3. 🔒 They go to the ball together.
 4. 🔒 Something here turns their relationship. What, exactly, is open.
-5. *(settled)* **The socks** (canon, kept). Moody admires Harry's socks; Harry says Dobby gave them to him. Funny on the night, and the only reason the beat days later can exist: Moody asks after Dobby in passing, Harry mentions he is minding an elf called Winky in the castle, and **Moody startles** (Q-114, DIV-086).
+5. *(settled)* **Hermione comes in on Krum's arm** (canon, kept, and now load-bearing). The girl Dracaena has spent four months believing Harry is in love with arrives on another man's arm, in public, on the one night Dracaena is on his — **the rival taken off the board without a word being said about it** (DIV-041). She is not gracious about it and does not have to be; the relief is enormous and entirely private. *(open)* Whether she lets any of it show.
+6. *(settled)* **The socks** (canon, kept). Moody admires Harry's socks; Harry says Dobby gave them to him. Funny on the night, and the only reason the beat days later can exist: Moody asks after Dobby in passing, Harry mentions he is minding an elf called Winky in the castle, and **Moody startles** (Q-114, DIV-086).
    - *(open)* **Dracaena's reaction.** Incensed that he wore peasant socks and that she never noticed; or genuinely impressed, since our Dobby is no caricature; or nothing said at all and a small smile to herself, because her old servant is alive and happy (Q-098, Q-114).
-6. *(settled)* Their first kiss.
+7. *(settled)* Their first kiss.
 
 ## The second dance *(draft)*
 

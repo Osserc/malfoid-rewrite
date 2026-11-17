@@ -48,7 +48,7 @@ Still open: Ron, Dumbledore, anyone else. Track in [reveals.md](reveals.md).
 
 ### Q-008 · How do they end up at the Yule Ball together? (DIV-004)
 
-*Partly answered:* Harry asks and she accepts (DIV-013). He asks because Sirius planted the idea (DIV-019). They kiss for the first time at the Ball. Harry never asks Cho (DIV-041).
+*Partly answered:* Harry asks and she accepts (DIV-013). He asks because Sirius planted the idea (DIV-019). They kiss for the first time at the Ball. Harry never asks Cho, and the only rival is the one Dracaena has invented out of Hermione — who arrives on Krum's arm (DIV-041).
 
 Still open: where the relationship stands going in and coming out, and the knock-on effects for Parvati, Pansy and Ron. Going in, Harry has already shown his jealousy by beating a Durmstrang student at the Duelling Club (DIV-029).
 
@@ -146,13 +146,15 @@ Which year she starts, how she justifies it at home ("know your enemy"?), when L
 
 ### Q-021 · What are they to each other in B5? (DIV-013)
 
-A secret couple, secret friends, something unnamed? Who knows? What happens with Cho? In B4 she was only ever a rival in Dracaena's head (DIV-041). And what about the DA bust, where canon Draco is the one who catches Harry?
+A secret couple, secret friends, something unnamed? Who knows? And what about the DA bust, where canon Draco is the one who catches Harry?
 
 *Partly answered:* a secret couple that fools no one. They stage fights in front of Umbridge. From April 1996, when the Inquisitorial Squad forms (canon), she uses its privileges to take Harry to Hogsmeade on "errands", as her errand boy: their secret dates ([the-pear-perfume](../scenes/b5/the-pear-perfume.md)).
 
 *The Squad is a toy, not a job.* She's living the dream, and she has no intention of doing Umbridge's policing, least of all anything that would get Harry into real trouble. What the badge is for is leverage to invent excuses: errands to run, rules to catch him breaking, pretexts to bully him with. So canon's bust can't turn on her catching him.
 
-Who knows, Cho, and who catches the DA instead, are still open.
+*Cho is settled* (DIV-041): nothing has ever been planted between her and Harry, so whatever she tries in B5 is hers alone, goes nowhere, and is not on Harry's or Dracaena's radar for a moment. Whether it happens on the page at all is a scene question, not a relationship one.
+
+Who knows, and who catches the DA instead, are still open.
 
 ### Q-022 · What does she feed Lucius? (DIV-013)
 
@@ -324,11 +326,11 @@ Wizarding Britain is shrinking, and Voldemort's war made it worse. After the war
 The veela dazzle Ron and half the stadium, and leave Harry cold.
 
 *Partly answered:*
-- **Dracaena** notices. She knows the rule, so she knows he's in love, but she has no way of knowing it's with her. She assumes it's Cho (DIV-041).
+- **Dracaena** notices. She knows the rule, so she knows he's in love, but she has no way of knowing it's with her. She assumes it's Hermione, who is sitting with him (DIV-041).
 - **The married men.** The rule makes a test of every man in the Top Box. Arthur Weasley and Lucius Malfoy are unmoved.
 
 Still open:
-- **Hermione.** She's more perceptive, and might already work something out.
+- **Hermione.** She's more perceptive, and might already work something out — which would be its own joke, since she is the girl Dracaena has just decided he is in love with (DIV-041).
 - **Narcissa.** She's in the Top Box too. Does she notice, and is it where her "of course it's him" comes from ([the-green-dress](../scenes/b4/the-green-dress.md))?
 - **A joke.** Some *other* husband in the box gives himself away. Who?
 
@@ -836,6 +838,13 @@ The ferret incident now turns on Hermione Granger provoking Dracaena badly enoug
 - **It cannot be an insult she could shrug off.** Dracaena is untouchable by design — her father built that (DIV-030) — and the only opinion that reaches her is Harry's. So whatever Hermione says has to be about *him*, or about her and him, whether or not Hermione knows what she is doing with it.
 - **Hermione is a rival for him in Dracaena's head** and has no idea she is in a contest ([hermione-granger](../characters/hermione-granger.md)). The cleanest version is therefore true, said without malice, and unbearable.
 - It also has to leave Hermione in the right: she is not to be a bully here, and the reader should be with her for the length of the sentence and with nobody at all a moment later.
+
+**The author's candidate, and Claude would close the question on it:** *Hermione tells her she is never going to take Harry, because she is a nasty and vile person.*
+
+- **It is true, and it is not a slur.** Hermione says it in heat, about character, and she is right — the reader has three books of evidence and is with her entirely for the length of the sentence.
+- **Dracaena hears a different sentence.** *Take* lands as *take from me.* A moral claim arrives as a possessive one, which is the whole Hermione misreading compressed into one word (DIV-041).
+- **It is the only kind of thing that can reach her.** She is untouchable by design and the single opinion that can hurt her is Harry's — and here the girl who is always at his side has just claimed to speak for it. So she is not insulted, she is *threatened*, and told to her face by the rival that she has already lost. That is why she draws rather than answering.
+- **And the reader is with nobody a moment later**, as required: she is bounced down a corridor as an animal for it, by a teacher, in front of the school.
 
 ### Q-132 · Where the "all silent in here" line goes (DIV-095, DIV-089)
 

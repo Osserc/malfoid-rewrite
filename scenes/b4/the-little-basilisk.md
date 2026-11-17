@@ -26,7 +26,7 @@ Romance in the dream (DIV-013), and more of Fleur. Her way of repaying Harry for
 3. *(settled)* Dracaena arrives. Fleur stages the pantomime: she shields "her Arry" from the villainess, concedes to "a fierce dragon" and sweeps off to the Beauxbatons at the Ravenclaw table.
 4. *(settled)* Dracaena takes her win. She kisses Harry in front of the Hall and drags him out by his tie.
 5. *(settled)* Alone, she sees through it ("that devious woman") and knows she owes Fleur something nice. *(draft)* A potion of her own brewing. She covers with a show of jealousy; he finds it endearing, and hugs her.
-6. *(settled)* On the way to Potions he asks what Fleur meant about her tricks. Dracaena knows the rule, blushes and deflects. Since the World Cup she's known he loves someone, and feared it was Cho (DIV-041); now it's plain that it's her. He has no idea what he's told her.
+6. *(settled)* On the way to Potions he asks what Fleur meant about her tricks. Dracaena knows the rule, blushes and deflects. Since the World Cup she's known he loves someone, and feared it was Hermione (DIV-041); now it's plain that it's her. He has no idea what he's told her.
 7. *(settled)* Ron and Hermione catch up and complain. She starts to call Hermione "Mudblood" and turns it into "muffin head": Harry won't stand for slurs against his friend ([dracaena-malfoy](../../characters/dracaena-malfoy.md)).
 
 ## Must keep

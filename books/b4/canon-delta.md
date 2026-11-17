@@ -30,7 +30,7 @@ Not beats, but true all through the book:
 | 3 | The Weasleys collect Harry by Floo, wreck the Dursleys' fireplace, and leave Dudley with a swollen tongue | keep | | |
 | 4 | The Burrow, then the walk to the Portkey with the Diggorys | keep | Cedric is introduced here and dies in June. Worth the weight | |
 | 5 | The World Cup campsite: Ministry wizards failing at Muggle clothes, Bagman, Crouch, Winky holding a seat | keep | Her terror of heights now reads as an elf a long way from her demesne and weakening with distance | DIV-075 |
-| 6 | The Top Box: the veela dance, and Harry is as affected as every other male in the stadium | **alter** | The veela don't touch him. He's already in love and doesn't know it. Arthur and Lucius are unmoved too. Dracaena, in the box, sees it and works out that he loves someone — and assumes it's Cho | DIV-037, DIV-041, Q-050 |
+| 6 | The Top Box: the veela dance, and Harry is as affected as every other male in the stadium | **alter** | The veela don't touch him. He's already in love and doesn't know it. Arthur and Lucius are unmoved too. Dracaena, in the box, sees it and works out that he loves someone — and assumes it's Hermione, who is sitting with him | DIV-037, DIV-041, Q-050 |
 | 7 | Ireland win; Krum catches the Snitch anyway | keep | Our rules turn his choice from vanity into sense: with the match lost he ends it to stop the bleeding, and takes the Snitch off Lynch as the one contest still open to him. The scene teaches the reader the closing move. She approves of the calculation; Harry is appalled you'd end your own match while losing | DIV-066, Q-080 |
 | 8 | That night: Death Eaters torment the Muggle campsite family, the Dark Mark goes up, Winky is found with Harry's stolen wand and Crouch sacks her | keep | **Load-bearing.** The sacking is a death sentence and Crouch knows it, as everyone does. He is telling his elf to go and kill herself, in public, and nobody finds it remarkable | DIV-075, DIV-077 |
 | 9 | Back at the Burrow; the Prophet's coverage; Rita Skeeter named for the first time | keep | | |
@@ -61,7 +61,7 @@ Not beats, but true all through the book:
 | # | Canon beat | Verdict | Our version / notes | Refs |
 |---|---|---|---|---|
 | 23 | The Ball is announced; McGonagall gives dancing lessons; the champions must open the dancing with a partner | keep | | |
-| 24 | Harry asks Cho, who is already going with Cedric. He ends up with Parvati, and Ron with Padma | **cut** | He never asks Cho. Sirius plants the idea of asking Dracaena, and she's the only one he asks. Cho is a rival only in Dracaena's head | DIV-019, DIV-041, Q-008 |
+| 24 | Harry asks Cho, who is already going with Cedric. He ends up with Parvati, and Ron with Padma | **cut** | He never asks Cho, and nothing is ever planted between them. Sirius plants the idea of asking Dracaena, and she's the only one he asks. **The only rival is the one Dracaena invents out of Hermione** — who arrives on Krum's arm, which takes her off the board in public on the same night | DIV-019, DIV-041, Q-008 |
 | 25 | Hermione goes with Krum, to Ron's fury | keep | | |
 | 26 | The Ball itself; Ron and Hermione's row ends the evening | **alter** | Ron and Hermione's row stands. 🔒 The Ball is the turning point for Harry and Dracaena: the deal is one dance, he asks for a second, she raises the tempo, and it ends in their first kiss | DIV-004, DIV-013 |
 | 27 | Hagrid's half-giant parentage is exposed by Rita, and Dumbledore talks him back to work | keep | | |

@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's friend and housemate in Gryffindor. Second to Dracaena in Potions, and hates her for it.
 **Canon baseline:** Hermione Granger. Anything not overridden follows canon.
-**Changes from canon:** DIV-011, DIV-012, DIV-018, DIV-021, DIV-049, DIV-063, DIV-069, DIV-073, DIV-074, DIV-095
+**Changes from canon:** DIV-011, DIV-012, DIV-018, DIV-021, DIV-041, DIV-049, DIV-063, DIV-069, DIV-073, DIV-074, DIV-095
 
 ## Core *(draft)*
 
@@ -16,6 +16,8 @@ status: draft
 - **Lie she believes:** that being useful and being loved are the same thing.
 
 **She is not a love interest and never becomes one, and there is no triangle.** Her grip on Harry is a sister's: he is scrawny, he is miserable, and she has decided both are hers to fix. It is affectionate and it is suffocating, and he resents it while being grateful for it.
+
+**And she is taken for one anyway, by exactly one person** *(settled)* · DIV-041. Dracaena has watched her feed him, make him work under her eye, have his broom confiscated for his own good and slap people on his behalf, and has concluded the obvious thing. She is wrong, the misreading is entirely one-way, and **nobody in seven books ever corrects it.** It is also quietly the cruellest joke the story plays on her: being mistaken for somebody's beloved is the one thing her usefulness has never actually bought her, and she never finds out it happened.
 
 No divergence is needed for any of this — it is a reading of canon Hermione, and canon beats run on it. The Firebolt in B3 is this engine at full throttle: she would rather be right about his safety than liked, and it costs her the friendship for weeks.
 
@@ -41,7 +43,7 @@ Canon default.
 
 - Harry Potter: her friend. She can't resonate with him: friendship isn't enough (DIV-021).
 - [Ron Weasley](ron-weasley.md): canon default.
-- [Dracaena Malfoy](dracaena-malfoy.md): her rival from the first Potions lesson, where Dracaena shows her up (DIV-011). *(settled)* **In the first week of B4 she says something that makes Dracaena draw on her in public** — a rival for Harry in Dracaena's head who has no idea she is in a contest — and the corridor ends with Harry carrying Dracaena away (DIV-095, Q-131). The first "Mudblood" is B1, in the Dessendre corridor, and she takes it in silence (DIV-074). Taunts her for dropping Muggle Studies (DIV-012). From B4 she stops slurring her, for Harry's sake. In B6 she calls Hermione "Mudblood" again, plenty, to hurt her ([dracaena-malfoy](dracaena-malfoy.md)). *(settled)* In B7 Hermione treats her with kid gloves anyway. She's perceptive, and knows Dracaena wasn't herself in B6, and still isn't: from the Ball to the end of B5 she was not too hostile for a year and a half. At Shell Cottage, her sealing spell saves Narcissa's medicine, and Dracaena starts treating her as a person for good ([narcissa-malfoy](narcissa-malfoy.md)).
+- [Dracaena Malfoy](dracaena-malfoy.md): her rival from the first Potions lesson, where Dracaena shows her up (DIV-011). *(settled)* **She is the rival in Dracaena's head** from the World Cup until Fleur's line, and has no idea she is in a contest (DIV-041). **In the first week of B4 she says something that makes Dracaena draw on her in public**, and the corridor ends with Harry carrying Dracaena away (DIV-095, Q-131). The first "Mudblood" is B1, in the Dessendre corridor, and she takes it in silence (DIV-074). Taunts her for dropping Muggle Studies (DIV-012). From B4 she stops slurring her, for Harry's sake. In B6 she calls Hermione "Mudblood" again, plenty, to hurt her ([dracaena-malfoy](dracaena-malfoy.md)). *(settled)* In B7 Hermione treats her with kid gloves anyway. She's perceptive, and knows Dracaena wasn't herself in B6, and still isn't: from the Ball to the end of B5 she was not too hostile for a year and a half. At Shell Cottage, her sealing spell saves Narcissa's medicine, and Dracaena starts treating her as a person for good ([narcissa-malfoy](narcissa-malfoy.md)).
 - Crookshanks: canon default.
 
 ## The elves *(draft)* · DIV-075, DIV-077

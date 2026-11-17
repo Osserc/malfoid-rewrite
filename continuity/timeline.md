@@ -64,7 +64,7 @@ _Marauders era, the first war. Not yet worked out._
 
 ## B4 · 1994–95
 
-- **1994-08**: Quidditch World Cup. The veela don't touch Harry: he's already in love without knowing it. Dracaena notices, and assumes it's Cho. Arthur and Lucius are unmoved too. DIV-037, DIV-041, Q-050
+- **1994-08**: Quidditch World Cup. The veela don't touch Harry: he's already in love without knowing it. Dracaena notices, and assumes it's Hermione, who is sitting with him. Arthur and Lucius are unmoved too. DIV-037, DIV-041, Q-050
 - **1994-08, late**: Alastor Moody is taken at his own house and put under the Imperius Curse. Barty Crouch Jr goes into the trunk under the Draught of Living Death and holds him there for ten months. Voldemort's one contribution is the refinement that lets Crouch wear him as well as steer him. DIV-086
 - **1994-09, early**: Dracaena draws on Hermione Granger in a crowded corridor; Crouch takes Moody over to transfigure her into a ferret and bounce her down it — no plan value, pure spite against Lucius. His only unforced act of the year. Harry carries her to the hospital wing unasked. DIV-095, DIV-086, Q-117
 - **Between the visitors' arrival (1994-10-30) and the Yule Ball**: at the Duelling Club, Harry beats a Durmstrang student who has taken an interest in Dracaena, too aggressively. Rita Skeeter gets her ammunition. DIV-029

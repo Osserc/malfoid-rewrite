@@ -5,7 +5,7 @@ placement:      # tentative: the first weeks of term, September 1994
 pov: Harry
 characters: [harry-potter, dracaena-malfoy, hermione-granger, ron-weasley, alastor-moody, minerva-mcgonagall]
 threads: [harry-dracaena, house-unity]
-divergences: [DIV-095, DIV-086, DIV-074]
+divergences: [DIV-095, DIV-086, DIV-074, DIV-041]
 sketch:
 ---
 
@@ -19,8 +19,8 @@ Canon's beat, re-aimed. It still delivers the reader's best clue to what is wear
 
 ## Beats
 
-1. *(settled)* **Hermione says something to her, and she sees red.** The provocation is Hermione's and it works. Exactly what she says: **Q-131.**
-2. *(settled)* **She goes for Hermione, in the open, in front of a crowd.** No ambush, no back turned — she is not hiding it, which is the only version of this she would do. **She is still vicious to everybody who is not Harry.** Hermione is a rival for him in her own head, Hermione is not him, and Hermione is Muggle-born and therefore barely a person to her yet (DIV-074). Three reasons stacked, and the third is the one she would admit to.
+1. *(settled)* **Hermione says something to her, and she sees red.** The provocation is Hermione's and it works. Exactly what she says: **Q-131**, where the author's candidate leads — *you are never going to take Harry, because you are a nasty and vile person.* True, said in heat, and about character; **Dracaena hears *take* as *take from me***, which is the whole misreading in one word (DIV-041). Not insulted — threatened, and told she has lost by the girl who is always at his side.
+2. *(settled)* **She goes for Hermione, in the open, in front of a crowd.** No ambush, no back turned — she is not hiding it, which is the only version of this she would do. **She is still vicious to everybody who is not Harry.** Hermione is the rival in her head (DIV-041), Hermione is not him, and Hermione is Muggle-born and therefore barely a person to her yet (DIV-074). Three reasons stacked, and the third is the only one she would admit to.
 3. *(settled)* **Crouch takes Moody over and transfigures her** — his one unforced act of the year, no plan value in it, spite at Lucius Malfoy spent on Lucius Malfoy's daughter (DIV-086).
 4. *(settled)* **Harry laughs.** Briefly and honestly: she makes a very fine ferret. This is not him enjoying her being punished — he is not reading an assault on a girl, he is looking at a small white animal where his rival was standing.
 5. *(settled)* **Then the bouncing, and it stops being funny at once.** What Harry feels is horror, and it is specific: *that is her.* He has no framework for it and does not examine it, which is the point — the reader is ahead of him, as usual (DIV-037).
