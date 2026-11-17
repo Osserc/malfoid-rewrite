@@ -705,6 +705,9 @@ Canon rewarded the rereader with the flask, the tongue and the ferret. The disgu
 
 - **The rule it breaks is canon's own.** Moody eats and drinks nothing he has not made with his own hands — the reason the flask works as a clue in the original. Ours inverts it: the tell is the one time he doesn't.
 - **A smell from his schooldays gets him** on an outing to Hogsmeade, and he gives in and takes Moody over to have it himself. Not planned, no advantage in it, no plan value at all — the same register as the ferret (DIV-086).
+- **The tell is that he does not check it** *(settled)*. Moody's guard has an off-switch marked *among allies* and the books show it — he sniffs a chicken leg at Grimmauld and eats it, with half a nose — so *drinking something he did not pour* is covered and would leak. **A public house is not that room.** He is among strangers, the mug came out of a stranger's hands, and he takes it without doing the one thing he personally taught Harry to do (DIV-097). His own trust-but-verify is broken in front of the boy he gave it to.
+- **Harry sees the whole exchange and misreads it** *(settled)*. He is under the Cloak at the next table, he has had the lecture in November, and he is the one person in Britain equipped to notice — and what he files it under is *even the best of them slip sometimes; we aren't so different*. **Affection, not suspicion**, which is the reader's reaction too, and which makes it worse on the reread for both of them at once.
+- **Placement: after the First Task**, necessarily, since the rule has to be armed before it can be broken (DIV-097). Canon's Three Broomsticks scene is spring, so nothing moves.
 - **Butterbeer, settled.** No need to engineer a plate of something when a drink does the whole job. A grizzled Auror putting away a mug of a children's drink reads as a bout of nostalgia and nothing worse — **to the reader it says our Moody is not a stick in the mud about vigilance quite all the time**, which is a likeable thing to learn about him, and then they find out it was a rare Crouch moment and it curdles.
 - **Placement:** the Three Broomsticks, in the canon scene with Hagrid that the author recalls. If it turns out to be food after all, the recipe can be Rosmerta's from years back, or her predecessor's that she learned.
 
@@ -727,7 +730,7 @@ Not a candidate — recorded. Moody remembers putting the name in the Goblet and
 
 **Settled: the flask is spent** *(DIV-097)*
 
-It is whisky, and after the First Task Moody pours Harry a measure of it in his office. Everyone suspects the obvious thing, a second person drinks it and stays himself, and the clue is disposed of in half a page — which is also the book telling the rereader that the props are clean this year and the man is where to look. **It is also what makes the Butterbeer work:** the rule that Moody pours his own arrives there as a drill aimed at Harry, so the tell breaks something the reader heard him teach rather than something a narrator explained. Written out in [the-flask](../scenes/b4/the-flask.md).
+It is whisky, and after the First Task Moody pours Harry a measure of it in his office. Everyone suspects the obvious thing, a second person drinks it and stays himself, and the clue is disposed of in half a page — which is also the book telling the rereader that the props are clean this year and the man is where to look. **It is also what makes the Butterbeer work:** the verb *check* is planted there, as a drill aimed at Harry, so the tell breaks something the reader heard him teach rather than something a narrator explained. Written out in [the-flask](../scenes/b4/the-flask.md).
 
 **Also on the table:**
 
@@ -877,16 +880,33 @@ Not in B3: she is looking straight at it when she half-offers it at the lap pill
 - **What makes it tellable** is that by then the sentence has been falsified by the facts of their life. She can only say it out loud at the point where it is manifestly absurd, which is also the only point where she could bear to.
 - **It may never be spent,** and that is an acceptable outcome. The lake is the payoff; this would be a bonus.
 
-### Q-138 · Does the drink ever come back? (DIV-097, DIV-096)
+### Q-139 · Does Harry deliver the apology to Dracaena? (DIV-100, DIV-095)
 
-The beat closes on its own page and needs nothing (DIV-097). What is open is whether anything is ever made of it afterwards, and the author's lean is **sparingly, if at all** — its value is as a thing Harry keeps.
+Moody asks Harry to pass it on rather than going to her himself (DIV-100). Everything after that is open, and it is a better scene than the original apology would have been.
 
-- **Whether he tells Dracaena.** Not a scene: a confidence, the kind the relationship is actually built out of, and she would have an opinion about a teacher handing a fourteen-year-old spirits. Cheap and available; also entirely droppable.
-- **Whether it reaches Lucius.** It is a true item for a Ministry file on an Auror who has already assaulted his daughter, and it is the only one he would not have to invent (Q-117, parked). The cost is that it needs a route, and the only plausible route runs through Dracaena, who would not hand her father a weapon against Harry's favourite teacher — so this probably stays unused.
-- **Whether B5 touches it.** Moody is in the Order with Molly Weasley in the room, and what he did in November is the smallest and most sayable piece of what he spent the year doing. If it comes back anywhere, here is the place, in one line, and it must not turn into a row about alcohol — the thing being measured is what he thinks a child is for.
-- **Harry must never regret it**, in any version. He is pleased with it at the time and still pleased with it afterwards, and the reader does the unease on his behalf.
+- **Whether he delivers it at all.** He might sit on it for a long time, and sitting on it is in character: he has no idea what it would do to her and no particular wish to find out.
+- **Where it lands if he does.** She has no form for receiving amends — conceding and getting nothing back is not a transaction she can process ([dracaena-malfoy](../characters/dracaena-malfoy.md), DIV-095) — so an apology she cannot repay, relayed by the boy, from the man who bounced her down a corridor, is the most awkward gift in the series.
+- **The timing is hostile.** In B5 she is running the spy cover for her father (DIV-013), which is the worst possible year to be handed an Auror's conscience.
+- **Whether Moody ever says it to her face** depends on where she is standing at the end of B5, and **that is not decided**: her being at the Department of Mysteries is an idea in [inbox](../inbox.md) with a known snag — fighting Death Eaters in front of Bellatrix is open treason, which collides with DIV-015. Nothing here should be built on it.
+
+### Q-140 · How much of the axis is on the page, and does Moody ever work out the bill? (DIV-099, DIV-100)
+
+The alignment is settled and so is its losing (DIV-099). What is open is the dosage, and the one question underneath it.
+
+- **How much of the Order's argument the reader actually watches.** Canon keeps most of it off the page or behind a door, and B5 does not need a committee scene.
+- **Whether Moody ever connects his own teaching to the Ministry.** Harry leads a raid because two men he trusts have told him what he is, and Sirius dies in it. **Moody is the one person in the house capable of reading that**, and the author's lean should be decided rather than left to arrive: he says it once and never again, or it never surfaces and the reader carries it alone.
+- **And what it does to him in B6–B7 if he does.** He goes to his death in the Seven Potters flight either way; whether he goes knowing is a different man in the same chair.
 
 ## Answered
+
+### Q-138 · Does the drink ever come back? (DIV-097, DIV-096)
+
+*Answered: once, at Grimmauld Place, in front of Molly Weasley.* Recorded in **DIV-098**, [the-prefect-party](../scenes/b5/the-prefect-party.md).
+
+- Sirius tries to slip Harry a Firewhisky at the prefect party and Moody butts in fondly — *gave you a taste for that stuff, eh, Potter?* — **not confessing, reminiscing**, because in his own accounting it was one of the better things he did that year.
+- **Molly lands on the one memory he is using as proof he did right by the boy,** which is the floor under the laugh, and he defends it because it is the part he is sure of (DIV-100).
+- **Harry never regrets it**, in any version. He was pleased at the time and he is pleased now, and the reader does the unease on his behalf.
+- **The Lucius route stays dead.** A Ministry file on a teacher who gave a champion spirits would be the only true item in it, but the only road to it runs through Dracaena, who will not arm her father against Harry's favourite teacher (Q-117).
 
 ### Q-134 · How far the Cho subplot runs in B5 (DIV-041, DIV-013)
 

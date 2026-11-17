@@ -17,6 +17,7 @@ divergences: [DIV-004, DIV-013, DIV-019, DIV-041, DIV-095]
 ## Beats
 
 1. *(settled)* Harry asks her (DIV-013). Sirius planted the idea, going only on their one encounter in B3 (DIV-019). She's the only one he asks: no Cho first (DIV-041).
+   - **What Sirius actually says** *(settled)* · DIV-101: with Slytherin women you either hit the jackpot or an early grave — and either way it is worth it. **He is talking about his own family**, his mother and his cousins, and telling Harry to go for it anyway. Moody reaches the same verdict after the lake in the opposite register, and Harry takes this one.
 2. *(settled)* She accepts. If *Potter* can step outside the script, so can she. She half-believes the boy who beat Voldemort twice, killed a Basilisk and drove off a horde of Dementors might really be her prince.
 3. 🔒 They go to the ball together.
 4. 🔒 Something here turns their relationship. What, exactly, is open.

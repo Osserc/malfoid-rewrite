@@ -188,9 +188,9 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 - **Status:** settled
 - **Canon:** Sirius has no part in Harry's Yule Ball plans.
-- **Ours:** Sirius plants the idea of asking Dracaena to the Ball in Harry's head. He hasn't seen her since their one encounter in B3 and goes entirely on that.
+- **Ours:** Sirius plants the idea of asking Dracaena to the Ball in Harry's head. He hasn't seen her since their one encounter in B3 and goes entirely on that. **What he says when he does it is DIV-101.**
 - **Home:** [scenes/b4/yule-ball.md](../scenes/b4/yule-ball.md)
-- **Ripples:** Q-008
+- **Ripples:** Q-008 · DIV-101
 
 ### DIV-020 · Occlumency: the Malfoys, and Snape's lessons
 
@@ -1222,18 +1222,83 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 ### DIV-097 · B4: Moody gives Harry a drink after the First Task
 
-- **Status:** settled (the beat, and what it is for). Draft: the staging, and whether it is ever spoken of again (Q-138).
+- **Status:** settled, including the lesson and the shout. Open: how much of the debrief is on the page.
 - **Canon:** Moody's hip flask holds Polyjuice Potion, and the hourly nip is the clue the reader is meant to catch on a reread. Nobody else ever drinks from it.
 - **Ours:** it is whisky, and on the evening of the First Task he pours Harry a measure of it in his office.
   - **It is the only way to dispose of the flask.** Ours is innocent (DIV-086), but a reader who knows the original is watching it regardless, and Moody drinking from it proves nothing — the twist is that it *looks* like nothing. **A second person drinking it and staying himself is the only version that settles it on the page**, and the alarm it buys first is the biggest free beat in the book: for about a line, every reader of canon is certain Harry Potter has just drunk Polyjuice Potion.
   - **And it is an honest signpost.** Having spent the loudest tell the original has, the book has told the rereader where not to look: the props are clean this year, and what gives the man away is the man (Q-114).
   - **The trunk is in the room, and nothing is made of it.** The thing to suspect is twelve feet away, asleep. The joke pays twice, and only the second time hurts.
-  - **It plants the rule the real tell breaks.** Moody eats and drinks nothing he has not poured himself — canon states it as exposition; here it arrives as a drill aimed at Harry, in the warmest scene the two of them have. So the Butterbeer at Hogsmeade does not tick like a checklist item; it breaks a rule the reader heard him teach (Q-114).
+  - **It plants the word the real tell breaks, and the word is *check*.** Not *pour* — the rule he teaches is trust but verify, stated as a drill aimed at Harry in the warmest scene the two of them have. So the Butterbeer at Hogsmeade is not a man drinking something he did not make; **it is a man taking a stranger's drink without doing the thing he personally taught the boy to do** (Q-114).
   - **He treats Harry as a colleague back from a job, and means it.** The scene is a debrief, not congratulation: what he did right, what he did late, what would have killed him against something that could think. **He is the first adult all year to treat the dragon as an engagement Harry survived** rather than an ordeal Harry was put through, and the whisky is the end of that sentence, not a treat. His frame is the Auror office and not a school, which is why the boy's age never arises.
+  - **The shout is the scene.** Harry drinks, nothing happens to him, and *CONSTANT VIGILANCE* nearly puts him off the chair — then the dressing-down: dead twice over, he could have been handed poison just then, **he should have checked it, rookie mistake.** Harry's defence is sound and still not enough (*you drank it too, sir*; an antidote beforehand is a classic trick), and it closes on the blessing — *do that, and you'll go far*. **It also discharges the Polyjuice scare as a laugh** instead of letting it fizzle: the reader braced for the wrong reason and got startled anyway.
   - **No mischief in it.** No *don't tell Dumbledore* and no shared crime. If he offers it as a transgression it is a cheap gag; he offers it as procedure, and the comedy is the gap between his frame and a castle's. The gesture is warm, sincere, entirely his own, and indefensible, all at once.
-  - **It is DIV-096 in a single image.** What the year leaves in Harry is permission rather than a syllabus, and this is the social half of *spells are weapons*: adult standing he has not earned and should not want, handed over by the most decorated Auror in Britain, in the year he is being hunted. Nobody else in the castle offers him that, which is why he loves the man.
-  - **The lesson and the gesture contradict each other, and neither is false.** He hands over a drink the boy did not pour and tells him never to take one *(the exchange itself is proposed, not settled — [the-flask](../scenes/b4/the-flask.md), beat 6)*. On a reread it is the bitterest line in the book: the one teacher whose care is real is the instrument that delivers him to the headstone, and he says so himself, as a joke, in November.
+  - **It is DIV-096 in a single image**, and the doctrine gets said aloud in it: *spells are weapons, Potter. Hit them first, hit them hard, and you won't be an easy target when you go down.* **Not *if*** — the gallows humour is the character and the fatalism is what Harry absorbs without noticing. What the year leaves in him is permission rather than a syllabus, and the whisky is the social half of it: adult standing he has not earned and should not want, handed over by the most decorated Auror in Britain, in the year he is being hunted. Nobody else in the castle offers him that, which is why he loves the man.
+  - **The offer is sincere and the test is real, and they are the same act.** Not a trick dressed as a gift and not a gift spoiled by a trick: full marks would have been Harry casting to detect, finding nothing, drinking, and Moody approving. **He cannot hand the boy anything without turning it into a drill, and he means both halves.** His own vigilance has an off-switch marked *among allies* and he knows it — the man sniffs a chicken leg at Grimmauld and eats it, with half a nose — so what he is really demonstrating is that the rule has exceptions.
+  - **And the first exception is him.** What Harry takes out of the room is *you are safe with me*, which is true, and which is not true for the five hours of the year when Crouch is riding him — and Harry will never be able to sort which was which. **It is the real man's doing and not the thing in the trunk's**, which is far worse than hanging the breach on Crouch: Moody is complicit in his own instrument-hood without committing a single bad act. On a reread it is the bitterest thing in the book, and he does it smiling, in November.
   - **It is the real Moody throughout.** No take-over, no plan value, nothing Crouch wants from it. Another thing Harry will never be able to sort out afterwards, except that this one he can: it was his.
 - **Why:** canon's flask is the one clue our premise makes useless, and leaving it lying innocent in the background wastes it. Spending it deliberately buys a scare, a signpost and the setup for the tell that replaces it, and gets the year's clearest picture of what Moody actually gives Harry for the price of half a page.
 - **Home:** [scenes/b4/the-flask.md](../scenes/b4/the-flask.md)
-- **Ripples:** Q-114, Q-138, Q-117 · DIV-086, DIV-096, DIV-087 · [characters/alastor-moody.md](../characters/alastor-moody.md) · [characters/harry-potter.md](../characters/harry-potter.md) · [books/b4/canon-delta.md](../books/b4/canon-delta.md) · [books/b4/outline.md](../books/b4/outline.md) · [continuity/timeline.md](timeline.md)
+- **Ripples:** Q-114, Q-138 (answered), Q-117 · DIV-086, DIV-096, DIV-087, DIV-098, DIV-100 · [characters/alastor-moody.md](../characters/alastor-moody.md) · [characters/harry-potter.md](../characters/harry-potter.md) · [books/b4/canon-delta.md](../books/b4/canon-delta.md) · [books/b4/outline.md](../books/b4/outline.md) · [continuity/timeline.md](timeline.md)
+
+### DIV-098 · B5: the prefect party, the Firewhisky and the Order photograph
+
+- **Status:** settled
+- **Canon:** at the celebration for Ron and Hermione's badges, Moody — a man who has known Harry a few days — produces a photograph of the original Order and hands him his dead parents, naming the murdered as he goes. Mrs Weasley is later found losing to a Boggart that wears her family's corpses, and Lupin destroys it.
+- **Ours:** both halves turn, because ours taught the boy for a year.
+  - **Sirius tries to slip Harry a Firewhisky**, in the spirit of the evening and partly to see what happens — **and Moody butts in fondly**: *gave you a taste for that stuff, eh, Potter?* (DIV-097).
+  - **He is not confessing.** He is reminiscing, with no notion that he has handed Molly Weasley an indictment, because in his own accounting that night was one of the better things he did all year. Sirius is delighted and makes it worse; Molly goes off like a boiler.
+  - **The laugh has a floor under it.** She has landed on the one memory he is using as proof he did right by the boy, and he will defend it to the last precisely because it is the part he is sure of. The reader, who knows what else he did that year, watches him pick the smallest possible hill (DIV-100).
+  - **And it is the axis in public for the first time:** two men and a drink on one side, a mother on the other (DIV-099).
+  - **The photograph is aimed at the room, not at Harry.** Ours would not put James and Lily into the boy's hands as an opener — he has debriefed him, drilled him and poured him whisky, and he knows exactly what he is holding. **He gets it out because he is in a nostalgic mood**, and works through the old Order one by one, and *his* nostalgia means saying precisely how each of them was taken apart.
+  - **Harry is the one who leaves.** He gets as far as his parents and goes, and Moody is still going when he does. **This is not tact and not tenderness**: it is an old soldier enjoying himself in a room full of people who loved the same dead, and it is the same tin ear that bounced a schoolgirl down a corridor and thought it just.
+  - **Canon's chain is otherwise untouched.** Harry finds Molly alone with the Boggart, and Lupin dispatches it. *The echo is free: Moody is naming how his friends died in one room while she is looking at her children's bodies in the next.*
+- **Why:** canon's photograph beat depends on Moody barely knowing Harry, which our B4 spends a year destroying. Re-aiming it keeps every piece of the sequence, keeps the man tactless rather than making him kind, and lets the whisky come back once — in front of the one person guaranteed to object — without a scene being built to hold it (Q-138).
+- **Home:** [scenes/b5/the-prefect-party.md](../scenes/b5/the-prefect-party.md)
+- **Ripples:** Q-138 (answered), Q-140 · DIV-086, DIV-095, DIV-097, DIV-099, DIV-100 · [characters/alastor-moody.md](../characters/alastor-moody.md) · [books/b5/outline.md](../books/b5/outline.md) · [continuity/timeline.md](timeline.md)
+
+### DIV-099 · B5: the Sirius–Moody axis
+
+- **Status:** settled (the alignment, and that it loses). Draft: how much of it is on the page, and whether Moody ever connects it to the Ministry (Q-140).
+- **Canon:** the Order's argument about how much to tell Harry runs roughly as a reckless godfather against a protective mother, with Lupin mediating. Moody has no particular stake in it.
+- **Ours:** Moody is on Sirius's side of it, for his own reasons, and the two of them together are the loudest voice in the house.
+  - **It follows from B4 and cannot be avoided.** A man who ran a debrief, taught a doctrine and poured the boy a drink for a job well done cannot turn round six months later and argue that he is a child who should be told nothing (DIV-096, DIV-097).
+  - **His reason is a defence mechanism, and the reader should be able to see it.** *I made a soldier of him, and it is the one thing I did right last year.* Everything else he did in 1994–95 ended at a headstone; this is the single piece he can hold up, so he holds it up hard.
+  - **He has the service record to argue from, and it is genuinely frightening:** a dragon, a lake, a maze stocked to kill, three champions carrying a Tournament's charge, and then Voldemort — plus a castle stormed by Dementors two years before that (DIV-081). Put on a desk, it is a better record than most of his former colleagues ever had.
+  - **It raises the argument out of temperament.** Molly is no longer up against one reckless man but two professionals with the boy's file open, which makes her harder to dismiss and much more desperate, not less sympathetic. **She is also right.**
+  - **And it loses.** Harry is kept in the dark regardless, because that is B5's engine. What the axis buys is that his fury gets a target: competent adults said tell him and were overruled, so he is a man being managed rather than a boy sulking.
+  - **Lupin is the voice of reason** and does not resolve it. He can see that both sides are right and says the minimum, which is what he is for (Q-136).
+  - **Neither of them is actually looking at Harry, and that is the point.** Sirius sees James; Moody sees a soldier. Both are failures of sight dressed as faith, which is how Harry stays the loneliest person in a house full of people who agree with him.
+  - **The bill comes due at the Ministry.** He leads a raid because two men he trusts have told him what he is, and Sirius dies in it. Permission, invoiced (DIV-096, Q-140).
+- **Why:** it makes the Order's split structural instead of temperamental, it gives Moody's guilt a shape that is self-serving rather than penitent, it keeps Harry isolated while surrounding him with allies, and it hands B5's catastrophe a cause that was planted in B4 rather than one that arrives with the plot.
+- **Home:** [characters/alastor-moody.md](../characters/alastor-moody.md)
+- **Ripples:** Q-140 · DIV-081, DIV-086, DIV-096, DIV-097, DIV-098, DIV-100, DIV-101 · [books/b5/outline.md](../books/b5/outline.md) · [characters/harry-potter.md](../characters/harry-potter.md)
+
+### DIV-100 · B5: Moody apologises for the ferret
+
+- **Status:** settled (what he says, and that he refuses the excuse). Open: placement, and the relay to Dracaena (Q-139).
+- **Canon:** the ferret was Crouch's act in Moody's body, and the real Moody never speaks of it to anyone.
+- **Ours:** ours did it — remembers doing it, and remembers having thought it just (DIV-086, DIV-095) — and some time in B5, once he has had the months to work out what the year actually was, he says so to Harry.
+  - **What he says is *I failed you both*.** Not the Imperius Curse and not self-flagellation about having enjoyed it. **His shame is professional, not moral:** he was taken at his own house before term began, and he should have fought it off, and a schoolgirl was bounced down a corridor because he did not.
+  - **It is airtight, because he did throw Crouch off in the end.** Dumbledore's office is proof that it could be done, which turns every month he did not do it into a failure he can measure. His one heroic act of the year is the evidence that indicts him.
+  - **It is also a veiled apology for the whole year** — the Goblet, the Portkey, the graveyard, Cedric Diggory — delivered sideways, about a corridor, because that is the piece small enough to say out loud.
+  - **Harry hands him the excuse and he will not take it.** *It wasn't you, you were under the Imperius* — which is, word for word, the defence Lucius Malfoy walked free on, offered to him by the Malfoy girl's boy, and he declines it (Q-117).
+  - **It is a sentence, not a speech.** He admits defeat and leaves. If it runs longer he turns pitiable, and he must not; **he is not asking to be forgiven and does not wait to find out whether he is.**
+  - **And he asks Harry to pass it on to her**, because he is not going to seek out a Death Eater's daughter and because he is a coward about exactly one thing. **Whether Harry ever delivers it, and when, is Q-139.**
+  - **It does not soften the axis** — it is the same instinct. In his own accounting he failed the boy by not treating him as a combatant soon enough, which is precisely the wrong lesson, and the reader can see that and Harry cannot (DIV-099).
+- **Why:** the apology canon never has to write is the one our Moody owes, and the two obvious versions are both unusable — pleading the Imperius makes him Lucius, and relishing the memory makes him a monster he isn't. Taking responsibility for the defeat rather than the act is the only version in character, and it quietly indicts the thing he is proudest of.
+- **Home:** [characters/alastor-moody.md](../characters/alastor-moody.md)
+- **Ripples:** Q-139, Q-117, Q-140 · DIV-086, DIV-095, DIV-097, DIV-098, DIV-099 · [characters/harry-potter.md](../characters/harry-potter.md) · [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md) · [books/b5/outline.md](../books/b5/outline.md)
+
+### DIV-101 · Both men give Harry the same verdict on Dracaena
+
+- **Status:** settled
+- **Canon:** no adult assesses Harry's romantic life, and nobody has an opinion about a Malfoy.
+- **Ours:** the two men who end up on the same side about everything else arrive at the same verdict about her, independently, in different registers — and neither of them disapproves, which isolates them from every other adult in the books.
+  - **Moody assesses.** *Malfoy's spawn, eh. She'll either be the death of you or your greatest asset* — threat assessment, not morality, offered the way he would brief anyone. **Placement: after the lake**, when the whole school has watched a Malfoy claim Harry Potter in public and a paranoid Auror would have to think about it operationally (DIV-038).
+  - **Sirius blesses.** *With Slytherin women you either hit the jackpot or an early grave — either way, it's worth it.* **He is talking about his own family**: the Blacks are Slytherin women, he means his mother and his cousins, and he is telling Harry to go for it anyway. **It goes where it already belongs** — it is how he plants the Yule Ball (DIV-019).
+  - **The difference between the two lines is the axis in miniature.** Moody says *or* and means a warning; Sirius says *either way* and means a blessing. **Harry hears the same sentence twice and takes the second one**, which is the shape of everything that happens to him in B5 (DIV-099).
+  - **Moody's half is wrong in the one way that counts.** The Malfoy to be frightened of is the father, and the father is the one who opens Harry a way out of the graveyard (DIV-057).
+  - **And both halves come true.** She is the death of him and his greatest asset: she is the reason he is on a headstone and the reason he walks off the field in B7 with her wand in his hand (🔒 DIV-006).
+- **Why:** it gives the axis a root a year before B5 needs it, it hands DIV-019 the dialogue it has been missing, and it puts the series' thesis about her into the mouths of two men who are each half right and neither of whom is looking at her at all.
+- **Home:** [scenes/b4/yule-ball.md](../scenes/b4/yule-ball.md) (Sirius) · [characters/alastor-moody.md](../characters/alastor-moody.md) (Moody)
+- **Ripples:** DIV-006, DIV-019, DIV-038, DIV-057, DIV-099 · [books/b4/canon-delta.md](../books/b4/canon-delta.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)

@@ -13,39 +13,47 @@ sketch:
 
 ## Purpose
 
-Half a page, three jobs.
+**It burns canon's loudest clue, on the page, in front of everybody.** The flask is the thing every reader of the original is watching, and Moody drinking from it settles nothing. **A second person drinking it and staying himself is the only version that disposes of it** (DIV-097) — and the shout gives the reader's held breath somewhere to go, so the alarm is spent as a laugh instead of fizzling. They were right to be frightened of the flask and wrong about why, which is the book's whole clue structure in miniature.
 
-**It burns canon's loudest clue, on the page, in front of everybody.** The flask is the thing every reader of the original is watching, and Moody drinking from it settles nothing — a reader who knows the twist simply nods. **A second person drinking it and staying himself is the only version that disposes of it** (DIV-097). The beat exists so the rereader is told, early and in plain sight, that the props are innocent this year and the tells are in the man (DIV-086, Q-114).
+**It plants the word the Butterbeer breaks.** Not *pour* — ***check***. The rule Moody teaches here is trust but verify, and the tell at the Three Broomsticks is a man taking a stranger's drink without doing it (Q-114).
 
-**It plants the rule the real tell breaks.** The Butterbeer at Hogsmeade only lands if the reader knows that Moody eats and drinks nothing he has not poured himself. Canon states that as exposition; here it arrives as a drill, aimed at Harry, in the warmest scene the two of them have. When the same man puts away a mug somebody else drew for him, it is not a checklist item ticking — it is a rule the reader heard him teach, being broken (Q-114).
+**It is DIV-096 in a single gesture.** The doctrine with no spell in it: adult standing he has not earned, handed over by the most decorated Auror in Britain, in the year he is being hunted. Nobody else in the castle offers him that.
 
-**And it is DIV-096 in a single gesture.** What the year leaves in Harry is permission, not a syllabus. A measure of whisky for a fourteen-year-old who has survived an engagement is the social half of *spells are weapons*: Harry is not a pupil to him, he is a man back from a job. **Nobody else in the castle gives him that**, which is why he loves Moody, and which is exactly what the year does to him.
+**And it teaches Harry that he is safe with Moody**, which is true, and untrue. That is the scene's real payload — see *Must keep*.
 
 ## Beats
 
-1. **Moody tells him to come up when Pomfrey has done with him.** Said in passing, as an instruction rather than an invitation, with the enclosure still emptying.
+1. **Moody tells him to come up when Pomfrey has done with him.** An instruction, not an invitation, with the enclosure still emptying.
 2. **The office.** The trunk is against the wall and nothing whatever is made of it. *The reader's eyes are on the desk.*
-3. **The debrief, and it is a real one.** Not congratulation — an accounting. What Harry did right, what he did late, what would have killed him against something that could think. **He is reviewing an operation**, in the tone he would use with a colleague, and he is the first adult all year to treat the dragon as a thing that happened to Harry rather than a thing Harry was put through.
-4. **Then the flask, and no ceremony about it.** Ogden's Old Firewhisky, and he is particular about it: he does not drink anything he has not poured himself, and he does not pour rubbish. **He offers it as procedure, not as mischief** — a man who has come back off a job gets a drink, and the fact that this one is fourteen does not arise, because Moody's frame is the Auror office and not a school.
-5. **Harry takes it.** *(The beat the scene exists for.)* He drinks, it burns, his eyes water, and **nothing happens to him at all.**
-6. **The catch-out** *(proposed — Claude's, cut it if it is a line too many)*. Moody tells him, pleasantly, never to take a drink he did not pour himself. *You just gave me one.* **Aye. And you shouldn't have taken it.** The drill is how he does affection: the lesson and the gesture contradict each other and neither of them is false, and nobody in the room remarks on it.
-   - **On a reread it is the worst line in the book.** The one man Harry was right to trust is the one who hands him to the graveyard, and he says so himself, as a joke, in November.
-7. **Then down to the party, late, with whisky in him, and he does not say where he has been.** Gryffindor Tower is a children's party and he has just been treated as something else. *He is pleased with himself about it, which is the point.*
+3. **"Well done, Potter."** And then the debrief, run exactly as if Harry were a new Auror back off his first job: what he did right, what he did late, what would have killed him against something that could think. **He is the first adult all year to treat the dragon as an engagement Harry survived** rather than an ordeal he was put through.
+4. **The doctrine, in his own register** *(DIV-096)*: *spells are weapons, Potter. Hit them first, hit them hard, and you won't be an easy target when you go down.* **Not *if*.** The gallows humour is the character; the fatalism is what Harry absorbs without noticing.
+5. **Then the flask, with no ceremony.** Ogden's Old Firewhisky. He takes a swig and offers it across — *for a job well done* — as procedure rather than mischief, because his frame is the Auror office and not a school, and the boy's age never arises.
+6. **Harry drinks.** It burns, his eyes water, he coughs — and **nothing whatever happens to him.** *(The beat the scene exists for.)*
+7. **"CONSTANT VIGILANCE!"** Harry nearly goes off the chair.
+8. **The lecture.** He'd have been dead twice over if Moody had been a Dark wizard: he could have handed him poison just then and Harry would have swallowed it. **He should have checked it.** Rookie mistake.
+9. **Harry's defence, and it is sound.** *But you drank it too, sir — you'd have died as well.* **"Good thinking."** And then: an antidote taken beforehand, which is a classic trick, so the reasoning is correct and still not enough. **Harry is never made to look stupid in this scene.**
+10. **The rule, and the blessing.** *Never accept something you don't know where it's been.* Then the smile: **do that, and you'll go far.**
+11. **The full-marks version he had in his head** — and it should be visible to the reader, whether or not he says it: Harry casts to detect, finds nothing, drinks, and Moody approves. **The offer was sincere and the test was real at the same time.** Not a trick dressed as a gift and not a gift spoiled by a trick: one act. He cannot hand the boy anything without turning it into a drill, and he meant both halves.
+12. **Then down to the party, late, with whisky in him, and he does not say where he has been.** Gryffindor Tower is a children's party and he has just been treated as something else. *He is pleased with himself about it, which is the point.*
 
 ## Must keep
 
-- **It is the real Moody, start to finish.** Crouch stays asleep; there is no take-over in this scene and no reason for one. The warmth is genuine, the lesson is genuine, and both belong to the man who is also the instrument (DIV-086).
-- **No wink and no conspiracy.** No *don't tell Dumbledore*, no shared crime. Moody thinks it correct. If he offers it as a transgression the beat is a cheap gag; the comedy is the gap between his frame and a school's.
-- **One measure, and Harry is not drunk.** It is not a comic drunk scene and it has no aftermath. It opens and closes on the same page.
+- **It is the real Moody, start to finish.** Crouch stays asleep; no take-over and no reason for one. The warmth is genuine, the lesson is genuine, and both belong to the man who is also the instrument (DIV-086).
+- **The reward is sincere and the test is real, and they are the same act.** If he is only playing a prank, the scene is a cheap gag; if he is only being kind, there is nothing to teach. He means it twice.
+- **The word *check* has to be explicit.** The Three Broomsticks depends on it (Q-114).
+- **He is teaching Harry that the rule has exceptions**, and the first exception is him. *You are safe with me.* It is true — and in the five hours of the year when Crouch is riding him it is not, and Harry will never be able to sort which was which. **This is the year's cruelty in miniature, and it is the real man's doing, not Crouch's**, which is far worse than hanging the breach on the thing in the trunk.
+- **No mischief and no conspiracy.** No *don't tell Dumbledore*, no shared crime. Moody thinks it correct, and the comedy is the gap between his frame and a castle's.
+- **One measure, and Harry is not drunk.** Not a comic drunk scene, no aftermath, no hangover.
 - **The trunk is in the room and nothing is said about it.** The reader is watching the wrong container.
-- **The flask is never anything but whisky**, here or later. The joke does not get taken back (DIV-097).
+- **The flask is never anything but whisky**, here or later.
 
 ## What it sets up
 
-- **The Butterbeer at Hogsmeade.** The rule is stated here so that breaking it reads (Q-114, [alastor-moody](../../characters/alastor-moody.md)).
-- **The graveyard, and everything after it.** Harry is handed a soldier's standing by the most decorated Auror in Britain, in the year he is being hunted, and wears it like a borrowed jacket (DIV-096, [harry-potter](../../characters/harry-potter.md)).
-- **Moody's guilt.** He fed the boy, drilled him, debriefed him and delivered him. This is the scene the reader will remember when he is told what he spent the year doing (DIV-086).
+- **The Butterbeer at Hogsmeade.** *Check* is planted here so that not checking reads there — and Harry, who watches the whole exchange from under the Cloak, misreads it as the best of them slipping sometimes (Q-114, [alastor-moody](../../characters/alastor-moody.md)).
+- **Grimmauld Place, a year later.** Sirius tries to get Harry a Firewhisky at the prefect party and Moody says he already has the taste for it, in front of Molly Weasley (DIV-098, [the-prefect-party](../b5/the-prefect-party.md)).
+- **The sphinx, and the bathroom.** *Hit them first* is the permission Harry acts on in the maze and reaches for in B6 (DIV-096).
+- **Moody's guilt.** He fed the boy, drilled him, debriefed him and delivered him — and told him he was safe. This is the scene the reader will remember when he admits what he spent the year doing (DIV-100).
 
 ## Open
 
-Q-138 (whether it is ever spoken of again — Dracaena, Lucius's file, B5) · the catch-out line in beat 6, which is a proposal and not settled · whether Dracaena notices anything on him that evening, which costs a line and is not required
+Whether the full-marks version at beat 11 is said aloud or left for the reader · how much of the debrief at beat 3 is on the page
