@@ -41,7 +41,7 @@ Canon's flight, with Moody's death fought for instead of reported. Mundungus, Ha
 
 - **The arc, ended.** The prefect party with his ego intact (DIV-098), the apology where it first cracked (DIV-100), the Ministry where he watched what he had done (DIV-099, Q-140), and this. **He keeps making the same mistake and it keeps costing somebody else — and the one time the correction lands, it costs him.**
 - **The vigil at the Burrow.** Canon grieves a hard old man who died badly. Ours grieves the man who made Harry what he is, did real harm doing it, and then spent his life keeping a promise — all three at once, with no way to sort them.
-- **The graves.** Harry buries Winky, the first elf grave in Britain (DIV-077). Harry buries Dobby (DIV-050). Harry buries Mad-Eye Moody's eye. **He is the one who buries what everybody else leaves lying**, and nobody ever remarks on it.
+- **A grave of a kind.** The Order recovers nothing of him — no body, nothing to bury — so the eye off Umbridge's door is all there is, and Harry buries that. **Left as a fact of the scene, not a motif**: it is not to be echoed or called back elsewhere.
 
 ## Open
 
