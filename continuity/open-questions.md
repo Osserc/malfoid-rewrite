@@ -78,6 +78,8 @@ In canon the curse rebounds because of the Elder Wand's allegiance. If love is t
 
 *Partly answered:* allegiance is purged (DIV-024). The Elder Wand keeps lore of its own and passes by blood, through killing, so Voldemort killing Snape is the correct move, and pointless. Only the idea is set.
 
+**Inherited from DIV-103:** canon starts the hunt because Harry's wand beats Lucius's borrowed one in the Seven Potters chase — and we no longer have that beat, because Moody's stand is what gets Harry out and the allegiance logic behind it is gone anyway. **So the hunt needs its own reason to start.** The author's standing lean: *Voldemort wanted the thing already*, and this is the year he finally moves on it — an ambition acted on rather than a reaction to a defective wand. To be settled with the rest of the wand lore.
+
 Still open:
 - **The canon chain breaks.** Grindelwald stole the wand from Gregorovitch without killing him, and Dumbledore beat Grindelwald without killing him. Options floated:
   - A general "violence" rule, so stealing counts. Risk: disarming is violence too, which brings the disarming chain back, starting with Dracaena disarming Dumbledore on the tower.
@@ -194,6 +196,8 @@ How does she get the Ministry to send the Dementors to the lake? Floated so far:
 ### Q-027 · Wand rules after the purge (DIV-024)
 
 With allegiance gone, what does "the wand chooses the wizard" mean now? Also: how wands work in general, wandless magic (overlaps Q-015), and what's left of canon's other wand-bond lore, such as twin cores and Priori Incantatem (B4) and the holly wand acting on its own in B7. Deferred: the author plans to write down the rules of magic, wands and wandless magic.
+
+**One piece got cheaper.** The holly wand acting on its own existed to save Harry in the Seven Potters chase and to start the Elder Wand hunt. **Moody's last stand now does the saving** (DIV-103) and the hunt's trigger moved to Q-011, so the beat can simply go, rather than needing a replacement built for it.
 
 *Author's direction, for that session:*
 - **Wands** are both a crutch and a precision instrument: they focus magic and allow finer control.
@@ -880,24 +884,30 @@ Not in B3: she is looking straight at it when she half-offers it at the lap pill
 - **What makes it tellable** is that by then the sentence has been falsified by the facts of their life. She can only say it out loud at the point where it is manifestly absurd, which is also the only point where she could bear to.
 - **It may never be spent,** and that is an acceptable outcome. The lake is the payoff; this would be a bonus.
 
-### Q-139 · Does Harry deliver the apology to Dracaena? (DIV-100, DIV-095)
+### Q-139 · The apology, and when it moves (DIV-100, DIV-095)
 
-Moody asks Harry to pass it on rather than going to her himself (DIV-100). Everything after that is open, and it is a better scene than the original apology would have been.
+**Held by the author in both directions**, 2026-11-17: when Moody says it to Harry, and when Harry passes it to her. Moody asks Harry to relay it rather than going to her himself (DIV-100), and it is a better scene than the direct version would have been.
 
-- **Whether he delivers it at all.** He might sit on it for a long time, and sitting on it is in character: he has no idea what it would do to her and no particular wish to find out.
+- **The author's lean on the first half: before term** — the summer at Grimmauld, four months on from the graveyard. **It comes before the Ministry, not after.** The ferret and Sirius are two separate failures and folding them into one beat costs DIV-099 its second rung.
+- **If it is before term, it sits beside the prefect party**, which is the same fortnight and the opposite mood. **The ordering is part of what is held:** apology first makes the party a man who has just admitted one failure and is clinging harder to the one thing he is sure of; party first makes the apology the moment the clinging stops working (DIV-098).
+- **The relay then has the whole year**, with furniture already in place: from April she takes him to Hogsmeade on Inquisitorial Squad "errands" (DIV-013, [the-pear-perfume](../scenes/b5/the-pear-perfume.md)). **An apology from Mad-Eye Moody handed over on a date disguised as official business** is about as awkward as the series gets. **It must land inside B5** — settled by the author; it does not become a dead man's message.
+
+- **Whether he sits on it first**, and for how long. Sitting on it is in character: he has no idea what it would do to her and no particular wish to find out.
 - **Where it lands if he does.** She has no form for receiving amends — conceding and getting nothing back is not a transaction she can process ([dracaena-malfoy](../characters/dracaena-malfoy.md), DIV-095) — so an apology she cannot repay, relayed by the boy, from the man who bounced her down a corridor, is the most awkward gift in the series.
 - **The timing is hostile.** In B5 she is running the spy cover for her father (DIV-013), which is the worst possible year to be handed an Auror's conscience.
-- **Whether Moody ever says it to her face** depends on where she is standing at the end of B5, and **that is not decided**: her being at the Department of Mysteries is an idea in [inbox](../inbox.md) with a known snag — fighting Death Eaters in front of Bellatrix is open treason, which collides with DIV-015. Nothing here should be built on it.
-
-### Q-140 · How much of the axis is on the page, and does Moody ever work out the bill? (DIV-099, DIV-100)
-
-The alignment is settled and so is its losing (DIV-099). What is open is the dosage, and the one question underneath it.
-
-- **How much of the Order's argument the reader actually watches.** Canon keeps most of it off the page or behind a door, and B5 does not need a committee scene.
-- **Whether Moody ever connects his own teaching to the Ministry.** Harry leads a raid because two men he trusts have told him what he is, and Sirius dies in it. **Moody is the one person in the house capable of reading that**, and the author's lean should be decided rather than left to arrive: he says it once and never again, or it never surfaces and the reader carries it alone.
-- **And what it does to him in B6–B7 if he does.** He goes to his death in the Seven Potters flight either way; whether he goes knowing is a different man in the same chair.
+- **Whether Moody ever says it to her face** depends on where she is standing at the end of B5, and **that is not decided**: her being at the Department of Mysteries is an idea in [inbox](../inbox.md) with a known snag — fighting Death Eaters in front of Bellatrix is open treason, which collides with DIV-015. Nothing here should be built on it. **He is in that fight himself** (DIV-099), so if she is there too, they are in the same room.
 
 ## Answered
+
+### Q-140 · Does Moody ever work out the bill? (DIV-099, DIV-100, DIV-103)
+
+*Answered: yes, standing in it.* Recorded in **DIV-099**, **DIV-103**.
+
+- **Canon already puts him in the rescue party at the Department of Mysteries**, where Dolohov drops him in one move. Ours is a terror there — which pays the promise the Moody file has been carrying since Dumbledore's office — **and it changes nothing.** Sirius dies a few feet away.
+- **So it is not news he is told, it is something he watched.** *I called a teenager a fellow veteran to keep my own ego intact, and it has killed his godfather.* He made a child soldier and called it a fighting chance.
+- **He does not keep his cool about it**, and the correction arrives too late to be worth anything.
+- **It is the third of four rungs**: the prefect party with the ego intact (DIV-098), the apology where it first cracks (DIV-100), the Ministry, and the Seven Potters, where he applies the correction once and it kills him (DIV-103).
+- **How much of the Order's argument the reader actually watches stays open**, and B5 does not need a committee scene.
 
 ### Q-138 · Does the drink ever come back? (DIV-097, DIV-096)
 

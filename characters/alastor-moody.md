@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Defence Against the Dark Arts, 1994–95. Harry's best teacher, and the instrument that delivers him to the graveyard.
 **Canon baseline:** retired Auror. In canon he spends the whole of B4 starved in his own trunk while Barty Crouch Jr wears his face, and arrives as a character only in the last chapter.
-**Changes from canon:** DIV-086, DIV-095, DIV-096, DIV-097, DIV-098, DIV-099, DIV-100, DIV-101.
+**Changes from canon:** DIV-086, DIV-095, DIV-096, DIV-097, DIV-098, DIV-099, DIV-100, DIV-101, DIV-102, DIV-103.
 
 ## The year
 
@@ -15,6 +15,7 @@ status: draft
 - **He is not hollowed out.** The curse does not run him like a puppet; it supplies compliance and, with it, contentment. He is recognisably, entirely himself — paranoid, foul-tempered, brilliant, and a little mad already, which is the whole reason nobody looks twice.
 - **There is no lost time.** He remembers everything he did, including the things Crouch did wearing him, and remembers having had good reasons at the time. That is the Imperius working as canon describes it, and it is what makes the end unbearable: he remembers *wanting to*.
 - **He fights it, all year.** He surfaces, and Crouch is always a few feet away to put him back under. The grip is maintained, not cast once — which is why Crouch has to be in the castle at all (DIV-086).
+- **The teaching is a ladder, not a lecture.** Four rungs across the year, each one handing over more than the last (DIV-102).
 - **The one thing he can still do, he does.** He drills the class on resisting the Imperius Curse harder than the curriculum asks for, repeatedly, and Harry is the only one who throws it off. Whether that is the man leaving a trail or the curse letting him indulge a hobby is never settled on the page (Q-114).
 
 ## The lessons *(settled)* · DIV-096
@@ -23,7 +24,8 @@ He makes the boy formidable, sincerely, and the damage is in the framing rather 
 
 - **He teaches him nothing to be ashamed of and gives him permission for everything.** Harry has improvised past every problem since he was eleven; what the year removes is the apology.
 - **The Conjunctivitis Curse is not even his.** The chain runs Krum, then Sirius approving it, then Harry deciding to learn it. Moody's contribution is the climate (DIV-096).
-- **He says the doctrine out loud after the First Task:** *spells are weapons, Potter. Hit them first, hit them hard, and you won't be an easy target when you go down.* **Not *if*.** The gallows humour is how he talks; the fatalism is the part Harry absorbs without noticing (DIV-097, [the-flask](../scenes/b4/the-flask.md)).
+- **He says the doctrine out loud in the spring**, when he walks in on the Conjunctivitis practice and approves instead of reprimanding: *spells are weapons, Potter. Hit them first, hit them hard, and you won't be an easy target when you go down.* **Not *if*.** The gallows humour is how he talks; the fatalism is the part Harry absorbs without noticing (DIV-102).
+- **He does it in four rungs across the year, not in one scene** *(DIV-102)*: the drink after the First Task; the flask thrown back at the lake in February; the stamp on the Conjunctivitis Curse in the spring, which is where the doctrine lands; and nothing at all before the maze, so that whatever Harry does in there is his. **He calls him *junior Auror* throughout**, as an address rather than a joke.
 - **The whisky is the same doctrine with no spell in it** — a colleague's drink for a boy back off a job, offered as procedure and not as mischief, and the only regard of that kind anyone in the castle offers him. **He also teaches the boy that the rule has exceptions, and that he is one of them** (DIV-097).
 
 - **And none of it is Crouch's doing**, which is the cruelty of it. The lessons are the real man's and they are good lessons, and they are also the thing Harry reaches for in a bathroom in B6 (DIV-043).
@@ -58,14 +60,21 @@ He drilled the boy and delivered him, and Cedric Diggory is dead. He knows the h
 - **It follows from B4 and cannot be avoided.** A man who ran a debrief and poured the boy a drink for a job well done cannot argue six months later that he is a child who should be told nothing.
 - **He has the file to argue from:** a dragon, a lake, a maze stocked to kill, three charged champions, Voldemort, and a castle stormed by Dementors two years before that (DIV-081). It is a better record than most of his old colleagues ever had.
 - **And they lose**, with Lupin as the voice of reason who settles nothing (Q-136). Harry stays in the dark, and the only thing the axis buys him is the knowledge that competent adults said otherwise and were overruled.
-- **He is not looking at Harry either.** Sirius sees James; he sees a soldier. **The bill arrives at the Ministry** (DIV-099, Q-140).
+- **He is not looking at Harry either.** Sirius sees James; he sees a soldier.
+- **The bill arrives at the Ministry, and he is standing in it.** Canon already puts him in the rescue party, where Dolohov drops him in one move; **ours is a terror there**, which is where the promise above gets paid — **and it changes nothing.** Sirius dies a few feet away. *I called a teenager a fellow veteran to keep my own ego intact, and it has killed his godfather.* **He does not keep his cool about it** (DIV-099, Q-140).
 - **In public, first, over a drink:** at the prefect party he mentions the Firewhisky in front of Molly Weasley, entirely fondly, and the room divides along the line it will keep all year (DIV-098, [the-prefect-party](../scenes/b5/the-prefect-party.md)).
 
 ### The apology *(settled)* · DIV-100
 
 **"I failed you both."** Not the Imperius Curse and not penitence about having enjoyed it: **his shame is professional.** He was taken at his own house before term began and he should have fought it off, and a schoolgirl went down a corridor as a ferret because he did not — **and he knows it could be done, because he did it in the end**, which turns every month he did not into a failure he can measure.
 
-It is a sentence, not a speech. Harry offers him the excuse — *you were under the Imperius* — which is word for word Lucius Malfoy's defence, handed to him by the Malfoy girl's boy, and **he declines it** (Q-117). Then he leaves; he is not asking to be forgiven and does not wait to find out whether he is. He asks Harry to pass it to her rather than going himself (Q-139).
+**When he says it is held** *(Q-139)*; the author's lean is before term, at Grimmauld, four months on from the graveyard — **before the Ministry, not after**, because the ferret and Sirius are two separate failures. It is a sentence, not a speech. Harry offers him the excuse — *you were under the Imperius* — which is word for word Lucius Malfoy's defence, handed to him by the Malfoy girl's boy, and **he declines it** (Q-117). Then he leaves; he is not asking to be forgiven and does not wait to find out whether he is. He asks Harry to pass it to her rather than going himself (Q-139).
+
+### The last stand *(settled)* · DIV-103
+
+**The Seven Potters.** Mundungus bolts and he takes it in stride — he brought the man knowing exactly what he was — then turns and fights, and **he is a terror**: the only time in seven books the reader sees him work with nothing on him. When Harry's Expelliarmus gives him away, **he makes Voldemort deal with him**, and that window is how Harry and Hagrid get out. Voldemort kills him, and he has done precisely what he said he would at the briefing: *I'll get you to the destination, Potter, if it's the last thing I do.*
+
+**It is the correction, applied once.** The man who spent a year calling Harry a junior Auror dies getting him carried out like a boy. His eye is never recovered; Harry takes it off Umbridge's door and carries it until he can bury it properly ([the-seven-potters](../scenes/b7/the-seven-potters.md)).
 
 ## Relationships
 
@@ -81,9 +90,10 @@ It is a sentence, not a speech. Harry offers him the excuse — *you were under 
 | Book | Start | Turn | End |
 |---|---|---|---|
 | B4 | Taken at his house before term and put under | The year, held | Throws Crouch out in Dumbledore's office |
-| B5 | The prefect party: the Firewhisky in front of Molly (DIV-098) | On Sirius's side of the argument about Harry, and overruled (DIV-099) | *I failed you both*, and the relay to Dracaena (DIV-100, Q-139) |
-| B6–B7 | Canon | | |
+| B5 | *I failed you both* — placement held, lean before term (DIV-100, Q-139). The prefect party: the Firewhisky in front of Molly (DIV-098) | On Sirius's side of the argument about Harry, and overruled (DIV-099) | The Ministry: a terror, and it changes nothing. Sirius dies a few feet away (DIV-099, Q-140) |
+| B6 | Order work, carrying it | — | — |
+| B7 | The Seven Potters: the promise at the briefing | A terror, and he makes Voldemort deal with him | Killed by Voldemort, having done exactly what he said. The eye goes home with Harry (DIV-103) |
 
 ## Open questions
 
-Q-114 (the clue chain) · Q-117 (Lucius's answer to the ferret, parked) · Q-139 (does Harry deliver the apology) · Q-140 (the dosage of the axis, and whether he ever works out the bill)
+Q-114 (the clue chain) · Q-117 (Lucius's answer to the ferret, parked) · Q-139 (the apology's timing, held in both directions) · Q-011 and Q-029 (what the Elder Wand hunt runs on, now that his last stand replaces canon's exit)

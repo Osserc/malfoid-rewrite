@@ -22,6 +22,7 @@ Canon's evening at Grimmauld Place, kept whole and turned twice. Sirius, Molly, 
 1. **Sirius tries to get Harry a Firewhisky**, in the spirit of the evening and largely to see what happens.
 2. **Moody butts in, fondly.** *Gave you a taste for that stuff, eh, Potter?* — **and he is not confessing.** He is reminiscing, with no idea he has just handed Molly Weasley an indictment, because in his own accounting it was one of the better things he did that year.
 3. **Sirius is delighted** and makes it worse on purpose. **Molly goes off like a boiler.**
+   - **If it needs to go off harder, he calls him *junior Auror***, which is his form of address from the year before (DIV-102). It is the axis stated in two words, in front of the boy's mother in all but name.
 4. **The floor under the laugh:** she lands on the one memory Moody is using as proof he did right by the boy. He will defend the whisky to the last, precisely because it is the part he is sure of — and the reader, who knows what else he did that year, watches him pick the smallest possible hill (DIV-100).
 5. **The photograph, and it is aimed at the room.** Canon has him put James and Lily into Harry's hands as an opener; ours has taught the boy for a year and cannot do that. **He gets it out because he is in a nostalgic mood**, and he works through the old Order one by one — and the nostalgia is Moody's sort, which means he says exactly how each of them was taken apart.
 6. **Harry is the one who leaves.** He gets as far as his parents and goes, and nobody much notices, because Moody is still going. **The morbidity is the point:** this is not tenderness and it is not tact, it is an old soldier enjoying himself in a room full of people who loved the same dead.
@@ -42,4 +43,4 @@ Canon's evening at Grimmauld Place, kept whole and turned twice. Sirius, Molly, 
 
 ## Open
 
-How much of the Order argument is in this room and how much waits for Q-140.
+How much of the Order argument is in this room · **where the apology sits relative to this scene (Q-139)** — the author's lean is that Moody apologises before term, which is the same fortnight. Apology first makes this a man who has just admitted one failure and is clinging harder to the one thing he is sure of; this first makes the apology the moment the clinging stops working.

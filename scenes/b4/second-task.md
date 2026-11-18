@@ -23,6 +23,7 @@ Shows, in front of the whole school, who Harry would miss most. It comes two mon
 4. *(settled)* She's elated at being his treasure. She keeps her edge, but from here she's dreaming (DIV-013).
 5. *(settled)* At the surface she clings to him and berates him for being stupid. Hagrid has to pry her off (DIV-038).
 6. *(settled)* When Fleur comes to thank Harry with a hug, Dracaena shoves her away, calls her a slag, claims him as hers and kisses him in front of the whole school. It isn't their first kiss: that was at the Ball (DIV-038).
+7. *(settled)* **Coming up to the castle, Moody calls Harry over and throws him the flask** — *for a job well done!* Harry checks it with a detection charm he looked up himself, drinks, and throws it back, and is told he was only dead once this time (DIV-097, [the-flask](the-flask.md)). **A page at most, and Dracaena is waiting through all of it.** Moody says nothing about her; that comes later (DIV-101).
 
 ## Must keep
 
