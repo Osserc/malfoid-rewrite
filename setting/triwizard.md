@@ -16,6 +16,7 @@ Three of the finest young witches and wizards alive spend a year pouring themsel
 - **The prize is the pot.** The victor absorbs it and keeps it for life. Not Dumbledore — the difference between a good wizard and a great one, a lifetime's practice handed over in an afternoon. Past champions are remembered for what they went on to do, and that is why. The thousand Galleons is the part they print in the programme.
 - **Which is why teenagers enter a competition with a death toll.** Not the gold and not the glory. Who would not want to be the greatest wizard of the age?
 - **Lethal is the yield.** You cannot harvest a safe tournament. The danger is not tradition dragging its feet; the danger is the instrument. The 1994 committee had to find a way to get the yield without the corpses, which nobody had managed before, and they are answerable for how they went about it.
+- **So a reformed Tournament makes a smaller pot,** and the committee knew it. That is the hinge the whole plan turns on: it is the reason a fourth champion was needed at all (*The fourth champion*, below). **The humane reform is what put a child in the fire.**
 - **It is awarded raw and takes time to settle.** Until it has settled into the victor it can still be drawn out of them; afterwards it is simply part of them, and taking it would mean taking the wizard apart. That window is measured in minutes, and the whole plan is built to fit inside it.
 - **It takes one claimant.** The Goblet will not split a charge and does not recognise a tie. **Claiming is not the same as touching:** the pot goes to whoever claimed the Cup, while the Portkey carries whoever happens to be in contact with it. The two come apart in the maze, and the inch between them decides which of two boys is the spare (DIV-089).
 
@@ -25,6 +26,7 @@ The Goblet names champions and binds them. Canon never says what the binding con
 
 - **A bound champion owes a contribution.** One who competes pays it by competing. One who refuses cannot, so the Goblet takes it out of the body instead — **all of it.** Not a year's worth: a champion who will not commit is stripped of their magic entirely and banished from the wizarding world, no ifs and no buts.
 - **It is collection, not punishment.** The Goblet is not angry and is not making an example. It is balancing a ledger, and that is worse.
+- **And a debt settled is not a windfall.** What the Goblet takes in forfeit goes to squaring the account; none of it is yield and none of it reaches the pot. Stripping a wizard entirely is simply what it costs to collect from somebody who will not pay any other way. **A field entered in order to refuse would therefore make nothing**, and the only way to raise a charge is still to hold a contest and have people fight in it.
 - **It knows the difference between being stopped and giving up,** and it will not be tricked by a champion who goes through the motions. Which is what the officials are actually for: the judges and the scores exist to witness contribution, not to award points. A champion dragged out of the lake by grindylows has paid. One who walks away has not.
 - **It is exactly what it says it is.** No secret, no Dark under-layer, no loophole Dumbledore failed to find. An impartial arbiter with no mercy and no discretion — which is precisely why it will take a fourteen-year-old's magic without blinking, and why it does not care in the slightest that he was entered falsely. Its honesty is the horror. *(Deliberately not built as legend-versus-mechanism: that shape belongs to Lustrum and to* Arceo *(DIV-080, DIV-084), and a third would be a tic.)*
 
@@ -36,10 +38,22 @@ What he wants most is a body back, and the Goblet's hoard is too good an occasio
 
 - **The Cup is the only possible vector.** The charge peaks when the Cup is claimed and must be taken before it settles, so the plan needs the victor at that instant — and the Cup is the one object in the world guaranteed to be touched by him then. Snatching him off a Hogsmeade street gets Voldemort blood and nothing else.
 - **Crouch's orders are one sentence: send me the Goblet's magic.** Make the Cup a Portkey before the maze is sealed, and whoever claims it arrives with the charge still loose in them. **One man can guarantee that.** No man could guarantee a fourteen-year-old winning a tournament, which is precisely why the plan never asks him to.
-- **Potter is the bonus.** Entering his name costs the base plan nothing and buys a chance at the premium outcome; teaching him shortens the odds (DIV-086). If he loses, Voldemort rises anyway, out of somebody else. Vain and petty, and still not a man who stakes everything on a boy winning a footrace.
+- **Potter is the bonus.** His name costs nothing the fourth slot was not already costing, and buys a chance at the premium outcome. If he loses, Voldemort rises anyway, out of somebody else. Vain and petty, and still not a man who stakes everything on a boy winning a footrace.
 - **Nobody rigs the Tournament,** therefore. Crouch spends the year teaching rather than sabotaging, Fleur and Krum are left their dignity, and **the victory is Harry's.** The trap is that his genuine victory is the key — and that it was never the only key.
 - **The charge is fuel, and the ritual burns it.** Voldemort leaves the graveyard with a body and no permanent gain. Harry leaves it stripped of the only prize that would ever have meant anything to him, and keeps the gold he does not want (DIV-062).
 - **He is handed it at the moment it cannot save him.** The pot lands in him when the victory resolves: the greatest surge of power he will ever feel, arriving while he is bound to a headstone with a dead boy three feet away and his wand out of reach. Then it is drawn out of him.
+
+### The fourth champion *(settled)* · DIV-087
+
+**It is arithmetic first, and vanity only second.**
+
+Voldemort does the sum on a Tournament that has had the corpses taken out of it. Lethal is the yield; the 1994 committee has spent a year making the Tasks survivable; **three champions in a de-lethalised contest will not make a pot worth burning in the ritual.** He needs a fourth contributor — *the field has to be bigger because the danger is smaller.*
+
+- **A fourth school is the only way to get one,** and only one name can go under it. So, having to enter somebody, he enters Potter. **The slot is the requirement; the name in it is the indulgence.**
+- **Once is all the Goblet will wear.** Confound it about the shape of the field and it accepts what it is told, because it is an arbiter and not a sceptic. Do it twice and it throws the whole contest out. There is no version of this with eight champions and a bigger pot, which is why nobody in six hundred years has run one.
+- **So the teaching is part of the base plan, not a flourish.** A fourteen-year-old is the weakest contributor he could have picked, and he picked him anyway out of spite — which means the hoard he needs is now resting partly on a boy. Making Harry formidable does not only shorten the odds of the premium outcome; **it feeds the pot, Task by Task.** The best teacher in Britain spends the year fattening the harvest, sincerely, for nothing, under a curse (DIV-086, DIV-105).
+- **And Crouch says all of it in the confession,** which is where the reader gets the arithmetic — one more line in an office already full of them (DIV-086).
+- **It changes nothing for Harry, and is not meant to.** He was not picked for being special: the slot existed either way, and a fourth child was going into that maze whatever happened. **But that is not what his guilt is made of.** What he cannot get past is that he did not get out of it, and a boy died because he stayed in (DIV-092). The arithmetic is for the reader, and no character is ever to offer it to him as consolation.
 
 ## The finish *(settled)* · DIV-089
 

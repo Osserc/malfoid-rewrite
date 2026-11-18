@@ -59,6 +59,12 @@ The spell's rules live in [magic](../setting/magic.md). What belongs to her:
 - **Why she cannot simply solve things with it.** Lustrum is an offensive siege weapon: you drop it on a position you do not occupy. At Hogwarts in B7 she is standing inside the target, with her own people in the burn — hands dirty, and the wounded among them the most flammable things on the field. That, not any weakness in the spell, is why there is almost nowhere on that ground she can put it down. She still casts, precisely and small, and raw — she has no vicewick by then and chose not to make a second one (Q-113). DIV-023.
 - **Why she laughs at the siege.** It is the one night of her life when the thing she loves doing is also, unambiguously, the right thing to do — the enemy outside the walls, an empty lawn, and nobody of hers inside the burn. She has never had it clean before and never will again.
 
+## The corridor *(settled)* · DIV-095, DIV-079
+
+**September 1994: she draws on Alastor Moody.** Canon gives her a reprimand; ours puts her wand on an Auror in a crowded corridor and demands he put the girl back. **It feeds the legend she has spent the summer denying** — she broke the siege in June, laughed where the whole school could hear it, and has been threatening detention to anyone who mentions it ever since (DIV-079, DIV-081). Four months later she does this, in public, without hesitating.
+
+And because Harry carries Dracaena off, Moody cannot march her down to Snape as he does in canon — **so she takes Moody to Snape instead.** Offstage, a thing that happened, never dramatised. He never does anything remotely like it again, so it reads as an intervention that worked. It was not one and could not have been ([the-ferret](../scenes/b4/the-ferret.md), DIV-086).
+
 ## Voice
 
 Clipped, exact, Scottish. Under fire she gets shorter and politer, and the politeness is the warning sign. Her taunts are courteous ("Would that you had been in the field") and land harder for it.

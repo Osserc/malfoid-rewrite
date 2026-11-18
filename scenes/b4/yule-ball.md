@@ -17,6 +17,8 @@ divergences: [DIV-004, DIV-013, DIV-019, DIV-041, DIV-095]
 ## Beats
 
 1. *(settled)* Harry asks her (DIV-013). Sirius planted the idea, going only on their one encounter in B3 (DIV-019). She's the only one he asks: no Cho first (DIV-041).
+   - **The socks, and the flinch** *(settled)* · DIV-101, DIV-095: after the balcony, going back in to dance, **Moody admires Harry's socks in passing** — canon's joke, kept whole. **Dracaena stiffens against Harry's arm, and lets go of it when he walks away.** Harry feels the grip change, does not understand it, and loses the moment before he can ask. It is the only time the corridor surfaces between the Ball and the lake, and the conversation Moody starts here finishes days later with Winky ([which-one-is-real](which-one-is-real.md), Q-114).
+   - **What Sirius actually says** *(settled)* · DIV-101: with Slytherin women you either hit the jackpot or an early grave — and either way it is worth it. **He is talking about his own family**, his mother and his cousins, and telling Harry to go for it anyway. Moody reaches the same verdict after the lake in the opposite register, and Harry takes this one.
 2. *(settled)* She accepts. If *Potter* can step outside the script, so can she. She half-believes the boy who beat Voldemort twice, killed a Basilisk and drove off a horde of Dementors might really be her prince.
 3. 🔒 They go to the ball together.
 4. 🔒 Something here turns their relationship. What, exactly, is open.

@@ -88,6 +88,14 @@ Open: Q-084.
 
 *(settled)* DIV-054. She skips the B6 Apparition lessons. She's in no state for them, and she believes the only escape from Voldemort is to carry out the mission, so she doesn't bother (DIV-015). In B7 she can't Apparate and doesn't learn: Harry dances her away instead ([apparate-dancing](../scenes/b7/apparate-dancing.md)). After the war she learns, so as not to be outdone, and still makes him dance her, because she enjoys it.
 
+## The two times reality touched her *(settled)* · DIV-095, DIV-015
+
+**The corridor in September 1994 is the first time another person ever did violence to her body**, and the Mark is the second. She has duelled since she was twelve and Hermione Granger once slapped her (DIV-069); neither is this. Crouch beats her half to death through Moody's hands and she comes back bleeding and in shock, and **the discovery is not that it hurt — it is that she is not exempt.**
+
+- **What she does with it is latch on to Harry and refuse to let go** ([the-ferret](../scenes/b4/the-ferret.md)). Not romance: she is valuing, under shock, and for once correctly. The one Slytherin reflex she cannot switch off is the ledger, and it points at the boy who held off a horde of Dementors for her and killed a basilisk at twelve.
+- **She would deny it afterwards**, is humiliated by it, and refuses to count it — so it concedes nothing, and the balcony is still three months of silence away.
+- **Dreams were kinder than the facts both times, and both times she had no say.** It is the same lesson twice, and the second one is burned into her arm ([sleeping-beauty](../threads/sleeping-beauty.md)).
+
 ## The Mark
 
 *(settled)* DIV-015. Unlike canon Draco, she's never proud of it. She's ashamed of it and feels defiled, and it reminds her constantly of the chains that hold her. In the hollow weeks she won't let Harry touch her ([sleeping-beauty](../threads/sleeping-beauty.md)).
@@ -147,6 +155,8 @@ The morning after the Third Task, Harry says he should have pulled out of the To
 - **It is the exact mirror of his blindness.** He has no framework in which a Malfoy means any of it ([harry-potter](harry-potter.md)); she has no framework in which she is wantable. Both of them are looking straight at the evidence and both have the wrong filing system, which is the engine of the whole thing and the reason it takes until the Ball.
 - **It is why the carry confuses her** rather than delighting her, and why the small, awkward conversation that follows it does not resolve anything (DIV-095).
 - **And it is what the balcony is for.** *Am I allowed to dream, Harry? Someone like me?* is this, asked out loud, three months later ([yule-ball](../scenes/b4/yule-ball.md)).
+- **The one thing that can get past it is a referee.** She can refuse a kindness, a gift and an amends, because her ledger has no form for any of them — **but she cannot refuse a verdict from an instrument that gains nothing by lying.** The Goblet looks at Harry Potter and names her (🔒 DIV-005), and *Potter is like that with everybody* stops being available to her. **That is what finally makes her brave enough to ask** ([which-one-is-real](../scenes/b4/which-one-is-real.md), DIV-104, DIV-087).
+- **And what corrects her is a fact, not a reassurance:** he was furious with her when he picked her up out of that corridor, and did it anyway. She had assumed it was reflexive decency, which is exactly why it was worth nothing to her (DIV-104).
 
 ## The tsundere engine
 

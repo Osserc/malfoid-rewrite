@@ -21,6 +21,7 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 
 🔒 locked, *(draft)* draft; everything else here is settled.
 
+- The Seven Potters: Mundungus bolts, Moody fights and is a terror, and when the Expelliarmus gives Harry away he makes Voldemort deal with him — which is how Harry and Hagrid get out. Voldemort kills him, having told the room at the briefing exactly what he intended to do. **The Order never recovers anything of him**, eye included. DIV-103, [the-seven-potters](../../scenes/b7/the-seven-potters.md)
 - Burbage pleads with Snape and with Dracaena before she's killed. DIV-016, [charity-burbage](../../scenes/b7/charity-burbage.md)
 - At Christmas, Harry and Hermione raid Malfoy Manor with Dobby, looking for a way to destroy the locket. Harry breaks off to apologise to Dracaena; she decides to fight and asks him to get her family out. DIV-049, DIV-052, [malfoy-manor](../../scenes/b7/malfoy-manor.md)
 - Ron comes back into the raid through the Deluminator. The sword stays at Hogwarts for Neville. DIV-051, [malfoy-manor](../../scenes/b7/malfoy-manor.md)

@@ -6,6 +6,8 @@ Undecided points and ripples from decisions already made. IDs are permanent. Whe
 
 **Retired, never reuse:** Q-095 — Kreacher asking to be re-anchored to Harry, struck as underbaked. What replaced it is Q-100.
 
+**Retired, never reuse:** Q-142 — whether the fourth champion's arithmetic lands on Harry. Struck by the author the day it was opened: it does not matter to him why he was entered. What he cannot get past is that he did not get out, and a boy died because he stayed in, and the answer to that is hers and not the Goblet's (DIV-087, DIV-092).
+
 ## Open
 
 ### Q-001 · What does being a daughter change for Dracaena? (DIV-001)
@@ -77,6 +79,8 @@ Still open: how the reconciliation goes, and what Ron makes of the relationship 
 In canon the curse rebounds because of the Elder Wand's allegiance. If love is the mechanism, what's left of the allegiance chain and of the Hallows plot?
 
 *Partly answered:* allegiance is purged (DIV-024). The Elder Wand keeps lore of its own and passes by blood, through killing, so Voldemort killing Snape is the correct move, and pointless. Only the idea is set.
+
+**Inherited from DIV-103:** canon starts the hunt because Harry's wand beats Lucius's borrowed one in the Seven Potters chase — and we no longer have that beat, because Moody's stand is what gets Harry out and the allegiance logic behind it is gone anyway. **So the hunt needs its own reason to start.** The author's standing lean: *Voldemort wanted the thing already*, and this is the year he finally moves on it — an ambition acted on rather than a reaction to a defective wand. To be settled with the rest of the wand lore.
 
 Still open:
 - **The canon chain breaks.** Grindelwald stole the wand from Gregorovitch without killing him, and Dumbledore beat Grindelwald without killing him. Options floated:
@@ -194,6 +198,8 @@ How does she get the Ministry to send the Dementors to the lake? Floated so far:
 ### Q-027 · Wand rules after the purge (DIV-024)
 
 With allegiance gone, what does "the wand chooses the wizard" mean now? Also: how wands work in general, wandless magic (overlaps Q-015), and what's left of canon's other wand-bond lore, such as twin cores and Priori Incantatem (B4) and the holly wand acting on its own in B7. Deferred: the author plans to write down the rules of magic, wands and wandless magic.
+
+**One piece got cheaper.** The holly wand acting on its own existed to save Harry in the Seven Potters chase and to start the Elder Wand hunt. **Moody's last stand now does the saving** (DIV-103) and the hunt's trigger moved to Q-011, so the beat can simply go, rather than needing a replacement built for it.
 
 *Author's direction, for that session:*
 - **Wands** are both a crutch and a precision instrument: they focus magic and allow finer control.
@@ -705,13 +711,18 @@ Canon rewarded the rereader with the flask, the tongue and the ferret. The disgu
 
 - **The rule it breaks is canon's own.** Moody eats and drinks nothing he has not made with his own hands — the reason the flask works as a clue in the original. Ours inverts it: the tell is the one time he doesn't.
 - **A smell from his schooldays gets him** on an outing to Hogsmeade, and he gives in and takes Moody over to have it himself. Not planned, no advantage in it, no plan value at all — the same register as the ferret (DIV-086).
+- **The tell is that he does not check it** *(settled)*. Moody's guard has an off-switch marked *among allies* and the books show it — he sniffs a chicken leg at Grimmauld and eats it, with half a nose — so *drinking something he did not pour* is covered and would leak. **A public house is not that room.** He is among strangers, the mug came out of a stranger's hands, and he takes it without doing the one thing he personally taught Harry to do (DIV-097). His own trust-but-verify is broken in front of the boy he gave it to.
+- **Harry sees the whole exchange and misreads it** *(settled)*. He is under the Cloak at the next table, he has had the lecture in November, and he is the one person in Britain equipped to notice — and what he files it under is *even the best of them slip sometimes; we aren't so different*. **Affection, not suspicion**, which is the reader's reaction too, and which makes it worse on the reread for both of them at once.
+- **Placement: after the First Task**, necessarily, since the rule has to be armed before it can be broken (DIV-097). Canon's Three Broomsticks scene is spring, so nothing moves.
 - **Butterbeer, settled.** No need to engineer a plate of something when a drink does the whole job. A grizzled Auror putting away a mug of a children's drink reads as a bout of nostalgia and nothing worse — **to the reader it says our Moody is not a stick in the mud about vigilance quite all the time**, which is a likeable thing to learn about him, and then they find out it was a rare Crouch moment and it curdles.
 - **Placement:** the Three Broomsticks, in the canon scene with Hagrid that the author recalls. If it turns out to be food after all, the recipe can be Rosmerta's from years back, or her predecessor's that she learned.
 
 **Candidate: Winky's name.** *(the author's)*
 
-- **The way in is canon's own joke, kept:** at the Yule Ball, Moody admires Harry's socks and Harry says they came from Dobby. We keep the exchange whole, because it is funny and because it is the only reason the next beat can exist.
-- **Why he asks is the good part.** He knows Dobby is the Malfoy elf, and a paranoid Auror wants to know why a Malfoy creature is handing Harry Potter socks. The question is perfectly in character for the real man, which is what makes it safe cover — and it is the question that walks him into the tell.
+- **The way in is canon's own joke, kept:** at the Yule Ball, Moody admires Harry's socks. We keep the exchange whole, because it is funny and because it is the only reason the next beat can exist. *(Dracaena stiffens against Harry's arm while he does it and lets go when he walks away — DIV-101, DIV-095.)*
+- **It is now link three of four** *(settled)*. The chain runs **cavorting with the enemy → the warning about the Malfoy girl → and why is the Malfoy elf giving you socks? → Dobby is minding another elf, Winky → the startle** (DIV-101). **No trigger is needed: he was at the Ball and watched the whole thing**, and he admired the socks himself. The few days before he acts are deliberate — he sits on what he saw, decides it is a problem, and then moves.
+- **Why he asks is the good part, and the chain makes it better.** He knows Dobby is the Malfoy elf, and a paranoid Auror wants to know why a Malfoy creature is handing Harry Potter socks. **Coming out of a warning about the Malfoy girl it stops being a convenient opening and becomes the next sentence in an argument already about that family** — and it is the question that walks him into the tell.
+- **And Harry is arguing about his girlfriend while it happens**, which is a far better reason to miss the startle than being oblivious.
 - **The startle comes days later,** when Harry answers that Dobby is in the castle minding another elf — Winky. **Moody startles, very slightly, and covers it.**
 - **The real Moody has no reason to know the name. Barty Crouch Jr has every reason:** she was his family's elf. A reader who remembers whose elf she was has the whole thing from one word.
 - **It re-homes what Winky was carrying in canon** (Q-094). She confirmed the secret as a witness there; here she gives it away as a name, without ever being in the room.
@@ -725,12 +736,15 @@ Not a candidate — recorded. Moody remembers putting the name in the Goblet and
 - **Every one of those costs Crouch grip** (DIV-086), which is why the hold is frayed by the Third Task and why the office goes wrong.
 - **The confession pays it in one line:** *I had to keep his voice down all year — he was dying to tell them he put the name in.* The reader recontextualises every shrug at once.
 
+**Settled: the flask is spent** *(DIV-097)*
+
+It is whisky, and after the First Task Moody pours Harry a measure of it in his office. Everyone suspects the obvious thing, a second person drinks it and stays himself, and the clue is disposed of in half a page — which is also the book telling the rereader that the props are clean this year and the man is where to look. **It is also what makes the Butterbeer work:** the verb *check* is planted there, as a drill aimed at Harry, so the tell breaks something the reader heard him teach rather than something a narrator explained. Written out in [the-flask](../scenes/b4/the-flask.md).
+
 **Also on the table:**
 
 - **The trunk.** Seven locks, and one of them is never opened in front of anybody.
 - **The eye.** It sees through wood, so it can see into his own trunk — and he looks at it, and looks away. The problem becomes the clue.
-- **The Imperius lesson,** pressed far harder than the curriculum asks for, with Harry the only one who throws it off, in front of a man who cannot. Whether that is Moody leaving a trail or the curse letting him indulge a hobby should stay unsettled on the page.
-- **The flask.** Innocent now. Whether that is the joke (everyone suspects the obvious thing and it is only whisky) or whether it carries something is open.
+- **The Imperius lesson is *not* a tell** *(settled, DIV-105)*. He casts the curse on students because you cannot learn to beat a thing you have never felt, and he would do it in any year whatever. There is no trail and no hobby to weigh — **the irony is the reader's and the evidence is nil**, which is better than a clue that needed an explanation propped under it. Harry throwing it off in front of a man who cannot stays in, as the thing that decides Moody on him (DIV-105).
 - **The lessons themselves,** since the reader can never be sure which were his — and there was never a list to sort, only permission (DIV-096).
 
 ### Q-117 · Lucius's answer to the ferret (DIV-086, DIV-095)
@@ -854,6 +868,7 @@ Open: where in the window it sits, and what it looks like.
 - **Claude's lean: after the Second Task**, which is what seals the permission the Ball gave (🔒 DIV-005, [dracaena-malfoy](../characters/dracaena-malfoy.md)). She has been claimed in public by then and has nothing left to protect, which is the cheapest moment in the book for her to concede anything.
 - **The quietest candidate is the kitchens** ([the-kitchens](../scenes/b4/the-kitchens.md)), where she and Hermione stand in the same room and watch Winky die. No declaration required.
 - **It must be small.** A Malfoy does not make speeches about reform, and the beat is a sentence at most.
+- **It is not the March conversation**, which sits nearby and is about the carry and about Moody, not about Hermione ([which-one-is-real](../scenes/b4/which-one-is-real.md), DIV-104). The two must not be collapsed: one is her being reassured, the other is her conceding something.
 - **It is made to Harry, about his friends, and Hermione is never told** — not then and not later. If she apologised to Hermione in B4, Shell Cottage would have nothing left to do, and Shell Cottage is where Hermione becomes a person to her, by way of a debt rather than a change of heart (DIV-077, Q-096).
 
 ### Q-136 · Lupin's debt, and the end of B3 (DIV-017)
@@ -874,7 +889,47 @@ Not in B3: she is looking straight at it when she half-offers it at the lap pill
 - **What makes it tellable** is that by then the sentence has been falsified by the facts of their life. She can only say it out loud at the point where it is manifestly absurd, which is also the only point where she could bear to.
 - **It may never be spent,** and that is an acceptable outcome. The lake is the payoff; this would be a bonus.
 
+### Q-139 · The apology, and when it moves (DIV-100, DIV-095)
+
+**Half answered, 2026-11-18.** Moody says it **the night they bring Harry out of Privet Drive** — the old routine on the way, the flight, Grimmauld, and a hand on the shoulder as the boy is sent upstairs. He asks Harry to relay it rather than going to her himself, and he is downstairs vouching for him inside the hour (DIV-100).
+
+**Still open: when Harry passes it on.**
+
+- **It lands inside B5** — settled; it does not become a dead man's message.
+- **The author's lean on placement:** the spring, with furniture already in place — from April she takes him to Hogsmeade on Inquisitorial Squad "errands" (DIV-013, [the-pear-perfume](../scenes/b5/the-pear-perfume.md)). **An apology from Mad-Eye Moody handed over on a date disguised as official business** is about as awkward as the series gets.
+- **It lands on a girl who spent a year hating him for an act he did not commit** (DIV-104), from a man who owes her one for a different failure than she thinks (DIV-086). Neither of them will ever have the whole shape of it.
+
+- **Whether he sits on it first**, and for how long. Sitting on it is in character: he has no idea what it would do to her and no particular wish to find out.
+- **Where it lands if he does.** She has no form for receiving amends — conceding and getting nothing back is not a transaction she can process ([dracaena-malfoy](../characters/dracaena-malfoy.md), DIV-095) — so an apology she cannot repay, relayed by the boy, from the man who bounced her down a corridor, is the most awkward gift in the series.
+- **The timing is hostile.** In B5 she is running the spy cover for her father (DIV-013), which is the worst possible year to be handed an Auror's conscience.
+- **Whether Moody ever says it to her face** depends on where she is standing at the end of B5, and **that is not decided**: her being at the Department of Mysteries is an idea in [inbox](../inbox.md) with a known snag — fighting Death Eaters in front of Bellatrix is open treason, which collides with DIV-015. Nothing here should be built on it. **He is in that fight himself** (DIV-099), so if she is there too, they are in the same room.
+
 ## Answered
+
+### Q-141 · Does Harry ever learn why Moody left? (DIV-106, DIV-100)
+
+*Answered: yes, from Moody, to his face, in the last week of term.* Recorded in **DIV-106**, [the-flask](../scenes/b4/the-flask.md).
+
+Harry finds him packing and is told plainly why he is going, and **does not protest, because the man is right and he knows it.** There was never a reason to withhold it, and withholding it would have made the scene a mystery instead of a discharge. **He does not offer the Imperius excuse here** — that takes the summer, and when he does offer it in August it is Lucius Malfoy's defence, handed to Moody by the Malfoy girl's boy (DIV-100). Where he builds that position is not settled; her letters are the obvious candidate (DIV-065).
+
+### Q-140 · Does Moody ever work out the bill? (DIV-099, DIV-100, DIV-103)
+
+*Answered: yes, standing in it.* Recorded in **DIV-099**, **DIV-103**.
+
+- **Canon already puts him in the rescue party at the Department of Mysteries**, where Dolohov drops him in one move. Ours is a terror there — which pays the promise the Moody file has been carrying since Dumbledore's office — **and it changes nothing.** Sirius dies a few feet away.
+- **So it is not news he is told, it is something he watched.** *I called a teenager a fellow veteran to keep my own ego intact, and it has killed his godfather.* He made a child soldier and called it a fighting chance.
+- **He does not keep his cool about it**, and the correction arrives too late to be worth anything.
+- **It is the third of four rungs**: the prefect party with the ego intact (DIV-098), the apology where it first cracks (DIV-100), the Ministry, and the Seven Potters, where he applies the correction once and it kills him (DIV-103).
+- **How much of the Order's argument the reader actually watches stays open**, and B5 does not need a committee scene.
+
+### Q-138 · Does the drink ever come back? (DIV-097, DIV-096)
+
+*Answered: once, at Grimmauld Place, in front of Molly Weasley.* Recorded in **DIV-098**, [the-prefect-party](../scenes/b5/the-prefect-party.md).
+
+- Sirius tries to slip Harry a Firewhisky at the prefect party and Moody butts in fondly — *gave you a taste for that stuff, eh, Potter?* — **not confessing, reminiscing**, because in his own accounting it was one of the better things he did that year.
+- **Molly lands on the one memory he is using as proof he did right by the boy,** which is the floor under the laugh, and he defends it because it is the part he is sure of (DIV-100).
+- **Harry never regrets it**, in any version. He was pleased at the time and he is pleased now, and the reader does the unease on his behalf.
+- **The Lucius route stays dead.** A Ministry file on a teacher who gave a champion spirits would be the only true item in it, but the only road to it runs through Dracaena, who will not arm her father against Harry's favourite teacher (Q-117).
 
 ### Q-134 · How far the Cho subplot runs in B5 (DIV-041, DIV-013)
 
