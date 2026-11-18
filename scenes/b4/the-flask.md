@@ -1,17 +1,17 @@
 ---
 status: draft
 book: 4
-placement:      # two scenes: the evening of the First Task (24 November 1994) and coming up from the lake (24 February 1995)
+placement:      # three scenes: the evening of the First Task (24 November 1994), coming up from the lake (24 February 1995), and the last week of term (late June 1995)
 pov: Harry
 characters: [harry-potter, alastor-moody]
 threads: []
-divergences: [DIV-097, DIV-102, DIV-096, DIV-086]
+divergences: [DIV-097, DIV-102, DIV-096, DIV-086, DIV-106]
 sketch:
 ---
 
 # The Flask
 
-Two scenes, one motif: a lesson, and then the lesson passed. Rungs one and two of the year's four (DIV-102).
+Three scenes, one motif: a lesson, the lesson passed, and the lesson closed. Rungs one and two of the year's four (DIV-102), and then a farewell that is not a rung at all (DIV-106).
 
 ## Purpose
 
@@ -47,6 +47,16 @@ Two scenes, one motif: a lesson, and then the lesson passed. Rungs one and two o
 4. **And that is the year's reading instruction, said out loud and missed.** Harry watched the flask and stopped watching the man who handed it to him. **The flask is the misdirection; Moody is the target.** True tactically, true of the book, and true of what happens in June.
 5. **Moody says nothing whatever about Dracaena.** He said all of that in December, days after the Ball (DIV-101). **She holds on to Harry harder throughout**, and tells him why within the week ([which-one-is-real](which-one-is-real.md), DIV-104).
 
+## Beats · the last week of term
+
+**The farewell** (DIV-106). Moody has resigned and Harry does not know it. **Shorter than November, warmer than February, and it hands over nothing.**
+
+1. **He catches Harry somewhere ordinary**, with the year over and the castle emptying.
+2. **"I never gave you a prize for winning the tournament."** Offered dry, with the flask already out — and it is the only prize anybody offers him all June. The gold is in the Weasleys' hands and the charge was burned in a graveyard ([the-train-home](the-train-home.md), DIV-062, DIV-087).
+3. **Harry checks it without being told to, and without taking his eyes off him.** Wand out, the charm he looked up in February, nothing in it, drink. **No shout this time.**
+4. **"You made it this time, Potter. Full marks."** And he leaves. *That is the whole scene.*
+5. **He does not say he is going.** Harry works it out later, or doesn't (Q-141). **Nothing about the Imperius, nothing about the name in the Goblet, no apology** — that is a year away and belongs to somebody else's scene (DIV-100).
+
 ## Must keep
 
 - **It is the real Moody, start to finish.** Crouch stays asleep; no take-over and no reason for one. The warmth is genuine, the lesson is genuine, and both belong to the man who is also the instrument (DIV-086).
@@ -57,6 +67,9 @@ Two scenes, one motif: a lesson, and then the lesson passed. Rungs one and two o
 - **One measure, and Harry is not drunk.** Not a comic drunk scene, no aftermath, no hangover.
 - **The trunk is in the room and nothing is said about it.** The reader is watching the wrong container.
 - **The flask is never anything but whisky**, here or later.
+- **Harry never keeps it.** In June he hands it straight back, and it goes out of the castle with Moody and is never seen again (DIV-103, DIV-106). The eye stays the only object of his that anybody ever carries.
+- **The June scene is not a rung** (DIV-102). The handover finished before the maze; this only marks that it finished. Nothing is taught in it and no doctrine is said aloud.
+- **Harry does not know it is a goodbye until it is over.** If he knows going in, the scene turns into a leaving speech, and the man does not make speeches.
 - **February is a page at most**, and it is warm. No lecture, no shout, no reversal — he set a test in November and the boy passed it, and that is the whole beat.
 - **Two drinks, not one.** A single swig in a lifetime is sad; a habit between the two of them is something Molly Weasley can be furious about (DIV-098).
 
@@ -67,7 +80,8 @@ Two scenes, one motif: a lesson, and then the lesson passed. Rungs one and two o
 - **Rung three, in the spring.** Moody walks in on the Conjunctivitis practice and approves instead of reprimanding, and *that* is where the doctrine goes — *hit them first, hit them hard, and you won't be an easy target when you go down* (DIV-102, DIV-096).
 - **The Malfoy stay-behind**, days after the Ball and so between rungs one and two, and the *junior Auror* address that runs through all of it (DIV-101, DIV-102).
 - **Moody's guilt.** He fed the boy, drilled him, debriefed him and delivered him — and told him he was safe. This is the scene the reader will remember when he admits what he spent the year doing (DIV-100).
+- **The resignation, and Grimmauld a year later.** *Full marks* is a leaving certificate and only one of them knows it, so the reunion at the prefect party lands on a man who graduated the boy and then disappeared without a word (DIV-106, DIV-098).
 
 ## Open
 
-Whether the full-marks version at beat 11 is said aloud or left for the reader · how much of the debrief at beat 3 is on the page
+Whether the full-marks version at beat 11 is said aloud or left for the reader · how much of the debrief at beat 3 is on the page · whether Harry is told in June that Moody is not coming back (Q-141)

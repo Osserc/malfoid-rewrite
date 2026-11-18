@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Defence Against the Dark Arts, 1994–95. Harry's best teacher, and the instrument that delivers him to the graveyard.
 **Canon baseline:** retired Auror. In canon he spends the whole of B4 starved in his own trunk while Barty Crouch Jr wears his face, and arrives as a character only in the last chapter.
-**Changes from canon:** DIV-086, DIV-095, DIV-096, DIV-097, DIV-098, DIV-099, DIV-100, DIV-101, DIV-102, DIV-103.
+**Changes from canon:** DIV-086, DIV-095, DIV-096, DIV-097, DIV-098, DIV-099, DIV-100, DIV-101, DIV-102, DIV-103, DIV-105, DIV-106.
 
 ## The year
 
@@ -17,6 +17,26 @@ status: draft
 - **He fights it, all year.** He surfaces, and Crouch is always a few feet away to put him back under. The grip is maintained, not cast once — which is why Crouch has to be in the castle at all (DIV-086).
 - **The teaching is a ladder, not a lecture.** Four rungs across the year, each one handing over more than the last (DIV-102).
 - **The one thing he can still do, he does.** He drills the class on resisting the Imperius Curse harder than the curriculum asks for, repeatedly, and Harry is the only one who throws it off. Whether that is the man leaving a trail or the curse letting him indulge a hobby is never settled on the page (Q-114).
+
+## The doctrine *(settled)* · DIV-105
+
+**Aggression, as a professional conclusion rather than a temperament.** Counter-curses are well and good, and by the time you need one you are already losing: a step behind, reacting, depending on the other man to have made a mistake. **So you go first and you go hard.** The enemy will not be kind and will not wait for you to finish your shield.
+
+- **His body is the evidence and he teaches from it.** The leg, the nose, the eye — all of it bought defending, by a younger man who thought that was the job. He changed policy afterwards and **he buried fewer of his own.** That is a casualty record, not a feeling, and it is what makes *CONSTANT VIGILANCE* a syllabus rather than a catchphrase: always ready, always prepared, always first. **Showing a room of fourteen-year-olds his injuries as a teaching aid is entirely in character and entirely indefensible.**
+- **He is right, and the book never refutes him.** The cost is not that the doctrine is wrong. It is that he is handing it to a child, and a man who has reduced himself to a function cannot see why that would matter (DIV-096, DIV-008).
+- **He is finite, and he has done the arithmetic.** Not spent — he is as dangerous as he has ever been, and the reader sees it three times (DIV-086, DIV-099, DIV-103) — but old, wounded, not improving, and one man. He is going to die in this war.
+- **Which makes the plan succession.** The four rungs of the year are a handover, not a mentorship (DIV-102), and the classroom is the sane version of the same project: a hundred children a year for as long as he lasts (DIV-106).
+- **His whole self-valuation is the count.** What he is worth is how many Dark wizards he has taken off the board, and the only way that number rises after he is gone is through somebody else. **It is also the ledger that the one good thing he does for Harry never appears on.**
+
+### Why it is Harry *(settled)* · DIV-105
+
+Three reasons, mundane on purpose. **No prophecy and no Chosen One:** he does not need one and is never given one.
+
+- **The debt.** He put the boy's name in the Goblet and remembers having had a reason at the time (DIV-086). He cannot explain it, cannot undo it, and keeps nearly saying it and being stopped — so he does the one thing left and makes the boy survivable. **The teaching is restitution**, and nobody is ever told so.
+- **The dead.** He sees the Potters in him, and he is an inventory of people he outlived. Harry is the only name on that list he can still do something about. It is the same register as the Order photograph a year later, which is why that scene reads as continuous with this one (DIV-098).
+- **The evidence.** The boy throws off the Imperius in his classroom when nobody else in the room can, then walks off a dragon in one piece and well. **The First Task is the trigger**, which is why the handover starts that evening and not in September (DIV-097, DIV-102). The rest is file: three years of it, plus a castle stormed by Dementors (DIV-081).
+- **And he is receptive**, which is the saddest part of the arrangement. Nobody has ever treated him as a colleague, so when somebody finally does he takes it with both hands.
+- **The bitter one is the Imperius.** The thing that makes him choose Harry is the boy's resistance to the curse riding him as he watches (Q-114).
 
 ## The lessons *(settled)* · DIV-096
 
@@ -48,6 +68,22 @@ The tells are not villainy. **They are a frightened young man coming up for air 
 It is the hand on the wand wavering, not a speech. He is the reason Harry is alive at the end of the night, and the first thing he is told afterwards is what he spent the year doing.
 
 **It prefigures what he is in the Order.** He loses to the Death Eaters twice in canon and is mostly a cautionary tale; here the reader has watched him break a hold that no one else in Britain could have broken, and B5 gets to show what he can actually do.
+
+## He takes himself out
+
+*(settled)* · DIV-106. **He meant to stay** — not a year's favour to an old friend, but the form his succession could take (DIV-105) — and at the end of term he resigns, and nobody makes him.
+
+- **The shame is professional**, and it is the same shame as the apology (DIV-100). A Death Eater lived inside him in this castle for ten months; he taught a hundred children *constant vigilance* with a hand on his throat; a champion is dead. **He knows it could be done, because he did it in the end.** A man carrying that does not stand in front of that class again.
+- **Dumbledore asks him to stay and he refuses.** The castle has a real Defence teacher for the first time in years and loses him to his own conscience. **The jinx's instrument is the man himself**, and the Ministry walks into a vacancy nobody had to engineer.
+- **It is what makes B5 inevitable.** He gives up the sane version of passing the torch and keeps the insane one: the single boy. **The fixation is what is left when the classroom goes** (DIV-099).
+
+### The last drink *(settled)* · DIV-106
+
+*I never gave you a prize for winning the tournament.* The flask held out; **Harry's eyes never leaving him** while he casts, finds nothing, drinks, and hands it straight back. *You made it this time, Potter. Full marks.* Then he goes.
+
+- **Harry keeps nothing.** The flask leaves with him and is never recovered, like everything else of his (DIV-103) — the eye stays the only object of his that anybody carries.
+- **It closes the object's year:** poured for him in November, thrown to him in February, offered outright in June ([the-flask](../scenes/b4/the-flask.md), DIV-097).
+- **Harry does not know it is a goodbye until it is over**, and is never told why (Q-141). *Full marks* is a leaving certificate, and only one of them knows it.
 
 ## Afterwards
 
@@ -82,18 +118,18 @@ He drilled the boy and delivered him, and Cedric Diggory is dead. He knows the h
 - Sirius Black: not friends, and on the same side of everything that matters in B5. They reach the same verdict about the Malfoy girl independently, in opposite registers (DIV-101), and they lose the same argument together (DIV-099).
 - [Dracaena Malfoy](dracaena-malfoy.md): he transfigured her and thought it just, he owes her an apology he will not deliver in person, and his professional read of her is that she will be the death of Harry or his greatest asset (DIV-100, DIV-101).
 - [Minerva McGonagall](minerva-mcgonagall.md): he knows what she was in the first war and respects her for it, and he is the one person who can allude to it in company. He is himself when he says it — the beat belongs to the real man, not to Crouch.
-- Albus Dumbledore: an old friend who tested him on arrival with something only the two of them knew, and got it right, because he is Moody.
+- Albus Dumbledore: an old friend who tested him on arrival with something only the two of them knew, and got it right, because he is Moody. **He asks him to stay at the end of the year and is refused** — the only other person who knows why the post falls vacant (DIV-106, Q-141).
 - Barty Crouch Jr: asleep in his trunk, holding him down, for ten months.
 
 ## Arc by book
 
 | Book | Start | Turn | End |
 |---|---|---|---|
-| B4 | Taken at his house before term and put under | The year, held | Throws Crouch out in Dumbledore's office |
-| B5 | *I failed you both*, the night they bring Harry out of Privet Drive (DIV-100). The prefect party: the Firewhisky in front of Molly (DIV-098) | On Sirius's side of the argument about Harry, and overruled (DIV-099) | The Ministry: a terror, and it changes nothing. Sirius dies a few feet away (DIV-099, Q-140) |
+| B4 | Taken at his house before term and put under. **He means to stay and says so** (DIV-106) | The year, held, as a handover (DIV-105, DIV-102) | Throws Crouch out in Dumbledore's office — then resigns, and gives Harry the last drink: *full marks* (DIV-106) |
+| B5 | Out of the classroom by his own hand, with one pupil left (DIV-106). *I failed you both*, the night they bring Harry out of Privet Drive (DIV-100). The prefect party: the Firewhisky in front of Molly (DIV-098) | On Sirius's side of the argument about Harry, and overruled (DIV-099) | The Ministry: a terror, and it changes nothing. Sirius dies a few feet away (DIV-099, Q-140) |
 | B6 | Order work, carrying it | — | — |
 | B7 | The Seven Potters: the promise at the briefing | A terror, and he makes Voldemort deal with him | Killed by Voldemort, having done exactly what he said. The eye goes home with Harry (DIV-103) |
 
 ## Open questions
 
-Q-114 (the clue chain) · Q-117 (Lucius's answer to the ferret, parked) · Q-139 (the apology's timing, held in both directions) · Q-011 and Q-029 (what the Elder Wand hunt runs on, now that his last stand replaces canon's exit)
+Q-114 (the clue chain) · Q-117 (Lucius's answer to the ferret, parked) · Q-139 (the apology's timing, held in both directions) · Q-141 (whether Harry ever learns why he left) · Q-011 and Q-029 (what the Elder Wand hunt runs on, now that his last stand replaces canon's exit)

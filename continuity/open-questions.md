@@ -902,6 +902,24 @@ Not in B3: she is looking straight at it when she half-offers it at the lap pill
 - **The timing is hostile.** In B5 she is running the spy cover for her father (DIV-013), which is the worst possible year to be handed an Auror's conscience.
 - **Whether Moody ever says it to her face** depends on where she is standing at the end of B5, and **that is not decided**: her being at the Department of Mysteries is an idea in [inbox](../inbox.md) with a known snag — fighting Death Eaters in front of Bellatrix is open treason, which collides with DIV-015. Nothing here should be built on it. **He is in that fight himself** (DIV-099), so if she is there too, they are in the same room.
 
+### Q-141 · Does Harry ever learn why Moody left? (DIV-106, DIV-100)
+
+He is handed *full marks* and no reason, and then the man is gone ([the-flask](../scenes/b4/the-flask.md)). Settled that Moody does not say it in June; open is whether it reaches Harry at all, and whether even *he is not coming back* is on the page in B4.
+
+- **Never** is the author's standing lean and the cheapest option. Harry spends the summer assuming the jinx, or the Ministry, or that an old Auror got bored of children — and then gets the truth sideways a few weeks later, when Moody says *I failed you both* about something else entirely (DIV-100). **The reader joins the two up; Harry never does.**
+- **From Moody, in B5** costs the apology scene its focus. That scene is about the ferret and about her, and a second confession inside it crowds the one that matters.
+- **From Dumbledore**, who asked him to stay and was refused and is the only other person who knows (DIV-106). Available if B5 ever needs it, and it would arrive in the year Harry trusts Dumbledore least.
+- **What it changes if he does learn it:** the man who taught him that there is always a move made himself the exception, and quit. That is a thing Harry could use against him in B5 and is exactly the kind of thing he never says out loud.
+
+### Q-142 · Does the arithmetic land on Harry? (DIV-087, DIV-086, DIV-092)
+
+Crouch's confession carries the fourth champion's sum — three champions in a de-lethalised Tournament would not have made a pot worth burning, so a fourth was needed, and once was all the Goblet would wear ([triwizard](../setting/triwizard.md)). **The reader gets it there.** Whether Harry takes it in is open: he is an hour out of the graveyard, with Cedric Diggory dead, in a room full of people explaining his year to him.
+
+- **It is the one fact that complicates what he decides about Cedric.** He settles on *if I had not been in it, Cedric would have won* (DIV-092). The confession says he was not picked because he was special — he was picked because the pot was light, and **the fourth slot existed whether or not it had his name on it.** A fourth champion was going into that maze either way.
+- **If it lands in the office,** it lands at the worst possible moment and he can do nothing with it, which is this book's standing habit (the charge, DIV-087).
+- **If it does not,** it stays available and nobody on our side ever thinks to say it to him — the same pattern as the false premise nobody corrects (DIV-092, Q-124).
+- Either way **it is never consolation**, and no character is permitted to offer it as one.
+
 ## Answered
 
 ### Q-140 · Does Moody ever work out the bill? (DIV-099, DIV-100, DIV-103)
