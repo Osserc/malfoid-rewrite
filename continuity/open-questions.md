@@ -6,6 +6,8 @@ Undecided points and ripples from decisions already made. IDs are permanent. Whe
 
 **Retired, never reuse:** Q-095 — Kreacher asking to be re-anchored to Harry, struck as underbaked. What replaced it is Q-100.
 
+**Retired, never reuse:** Q-142 — whether the fourth champion's arithmetic lands on Harry. Struck by the author the day it was opened: it does not matter to him why he was entered. What he cannot get past is that he did not get out, and a boy died because he stayed in, and the answer to that is hers and not the Goblet's (DIV-087, DIV-092).
+
 ## Open
 
 ### Q-001 · What does being a daughter change for Dracaena? (DIV-001)
@@ -742,7 +744,7 @@ It is whisky, and after the First Task Moody pours Harry a measure of it in his 
 
 - **The trunk.** Seven locks, and one of them is never opened in front of anybody.
 - **The eye.** It sees through wood, so it can see into his own trunk — and he looks at it, and looks away. The problem becomes the clue.
-- **The Imperius lesson,** pressed far harder than the curriculum asks for, with Harry the only one who throws it off, in front of a man who cannot. Whether that is Moody leaving a trail or the curse letting him indulge a hobby should stay unsettled on the page.
+- **The Imperius lesson is *not* a tell** *(settled, DIV-105)*. He casts the curse on students because you cannot learn to beat a thing you have never felt, and he would do it in any year whatever. There is no trail and no hobby to weigh — **the irony is the reader's and the evidence is nil**, which is better than a clue that needed an explanation propped under it. Harry throwing it off in front of a man who cannot stays in, as the thing that decides Moody on him (DIV-105).
 - **The lessons themselves,** since the reader can never be sure which were his — and there was never a list to sort, only permission (DIV-096).
 
 ### Q-117 · Lucius's answer to the ferret (DIV-086, DIV-095)
@@ -902,25 +904,13 @@ Not in B3: she is looking straight at it when she half-offers it at the lap pill
 - **The timing is hostile.** In B5 she is running the spy cover for her father (DIV-013), which is the worst possible year to be handed an Auror's conscience.
 - **Whether Moody ever says it to her face** depends on where she is standing at the end of B5, and **that is not decided**: her being at the Department of Mysteries is an idea in [inbox](../inbox.md) with a known snag — fighting Death Eaters in front of Bellatrix is open treason, which collides with DIV-015. Nothing here should be built on it. **He is in that fight himself** (DIV-099), so if she is there too, they are in the same room.
 
+## Answered
+
 ### Q-141 · Does Harry ever learn why Moody left? (DIV-106, DIV-100)
 
-He is handed *full marks* and no reason, and then the man is gone ([the-flask](../scenes/b4/the-flask.md)). Settled that Moody does not say it in June; open is whether it reaches Harry at all, and whether even *he is not coming back* is on the page in B4.
+*Answered: yes, from Moody, to his face, in the last week of term.* Recorded in **DIV-106**, [the-flask](../scenes/b4/the-flask.md).
 
-- **Never** is the author's standing lean and the cheapest option. Harry spends the summer assuming the jinx, or the Ministry, or that an old Auror got bored of children — and then gets the truth sideways a few weeks later, when Moody says *I failed you both* about something else entirely (DIV-100). **The reader joins the two up; Harry never does.**
-- **From Moody, in B5** costs the apology scene its focus. That scene is about the ferret and about her, and a second confession inside it crowds the one that matters.
-- **From Dumbledore**, who asked him to stay and was refused and is the only other person who knows (DIV-106). Available if B5 ever needs it, and it would arrive in the year Harry trusts Dumbledore least.
-- **What it changes if he does learn it:** the man who taught him that there is always a move made himself the exception, and quit. That is a thing Harry could use against him in B5 and is exactly the kind of thing he never says out loud.
-
-### Q-142 · Does the arithmetic land on Harry? (DIV-087, DIV-086, DIV-092)
-
-Crouch's confession carries the fourth champion's sum — three champions in a de-lethalised Tournament would not have made a pot worth burning, so a fourth was needed, and once was all the Goblet would wear ([triwizard](../setting/triwizard.md)). **The reader gets it there.** Whether Harry takes it in is open: he is an hour out of the graveyard, with Cedric Diggory dead, in a room full of people explaining his year to him.
-
-- **It is the one fact that complicates what he decides about Cedric.** He settles on *if I had not been in it, Cedric would have won* (DIV-092). The confession says he was not picked because he was special — he was picked because the pot was light, and **the fourth slot existed whether or not it had his name on it.** A fourth champion was going into that maze either way.
-- **If it lands in the office,** it lands at the worst possible moment and he can do nothing with it, which is this book's standing habit (the charge, DIV-087).
-- **If it does not,** it stays available and nobody on our side ever thinks to say it to him — the same pattern as the false premise nobody corrects (DIV-092, Q-124).
-- Either way **it is never consolation**, and no character is permitted to offer it as one.
-
-## Answered
+Harry finds him packing and is told plainly why he is going, and **does not protest, because the man is right and he knows it.** There was never a reason to withhold it, and withholding it would have made the scene a mystery instead of a discharge. **He does not offer the Imperius excuse here** — that takes the summer, and when he does offer it in August it is Lucius Malfoy's defence, handed to Moody by the Malfoy girl's boy (DIV-100). Where he builds that position is not settled; her letters are the obvious candidate (DIV-065).
 
 ### Q-140 · Does Moody ever work out the bill? (DIV-099, DIV-100, DIV-103)
 

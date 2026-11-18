@@ -16,7 +16,7 @@ status: draft
 - **There is no lost time.** He remembers everything he did, including the things Crouch did wearing him, and remembers having had good reasons at the time. That is the Imperius working as canon describes it, and it is what makes the end unbearable: he remembers *wanting to*.
 - **He fights it, all year.** He surfaces, and Crouch is always a few feet away to put him back under. The grip is maintained, not cast once — which is why Crouch has to be in the castle at all (DIV-086).
 - **The teaching is a ladder, not a lecture.** Four rungs across the year, each one handing over more than the last (DIV-102).
-- **The one thing he can still do, he does.** He drills the class on resisting the Imperius Curse harder than the curriculum asks for, repeatedly, and Harry is the only one who throws it off. Whether that is the man leaving a trail or the curse letting him indulge a hobby is never settled on the page (Q-114).
+- **He drills the class on resisting the Imperius Curse, repeatedly**, and Harry is the only one who throws it off. **This is the doctrine and not a mystery** — he puts the curse on students because you cannot learn to beat a thing you have never felt, and he would do it whether or not he were under one himself (DIV-105). **The irony belongs to the reader; it is not a trail he is leaving** (Q-114).
 
 ## The doctrine *(settled)* · DIV-105
 
@@ -24,6 +24,8 @@ status: draft
 
 - **His body is the evidence and he teaches from it.** The leg, the nose, the eye — all of it bought defending, by a younger man who thought that was the job. He changed policy afterwards and **he buried fewer of his own.** That is a casualty record, not a feeling, and it is what makes *CONSTANT VIGILANCE* a syllabus rather than a catchphrase: always ready, always prepared, always first. **Showing a room of fourteen-year-olds his injuries as a teaching aid is entirely in character and entirely indefensible.**
 - **He is right, and the book never refutes him.** The cost is not that the doctrine is wrong. It is that he is handing it to a child, and a man who has reduced himself to a function cannot see why that would matter (DIV-096, DIV-008).
+- **So he casts the Imperius on students**, because you cannot learn to beat a thing you have never felt. No further explanation is needed and none is offered.
+- **And the doctrine has a limit, drawn with a professional's reasoning rather than a decent man's.** He would never put the Cruciatus on a student — not because it is Dark, since he does not grade spells that way, but because it cannot be resisted and cannot be trained against, so there is nothing in it but hurting a child. **He demonstrates all three on spiders and casts exactly one of them on people.**
 - **He is finite, and he has done the arithmetic.** Not spent — he is as dangerous as he has ever been, and the reader sees it three times (DIV-086, DIV-099, DIV-103) — but old, wounded, not improving, and one man. He is going to die in this war.
 - **Which makes the plan succession.** The four rungs of the year are a handover, not a mentorship (DIV-102), and the classroom is the sane version of the same project: a hundred children a year for as long as he lasts (DIV-106).
 - **His whole self-valuation is the count.** What he is worth is how many Dark wizards he has taken off the board, and the only way that number rises after he is gone is through somebody else. **It is also the ledger that the one good thing he does for Harry never appears on.**
@@ -33,10 +35,11 @@ status: draft
 Three reasons, mundane on purpose. **No prophecy and no Chosen One:** he does not need one and is never given one.
 
 - **The debt.** He put the boy's name in the Goblet and remembers having had a reason at the time (DIV-086). He cannot explain it, cannot undo it, and keeps nearly saying it and being stopped — so he does the one thing left and makes the boy survivable. **The teaching is restitution**, and nobody is ever told so.
-- **The dead.** He sees the Potters in him, and he is an inventory of people he outlived. Harry is the only name on that list he can still do something about. It is the same register as the Order photograph a year later, which is why that scene reads as continuous with this one (DIV-098).
+- **The dead.** He sees the Potters in him, and he is an inventory of people he outlived. Same register as the Order photograph a year later, which is why that scene reads as continuous with this one (DIV-098).
+  - **There are two of them in this castle.** Frank and Alice Longbottom were Aurors and were in the Order, and he knows exactly what was done to them, so Neville is on the same list. **He is not a candidate in 1994** — the boy who melts cauldrons is four years short of the one who holds the line (DIV-025) — and Moody does not pick on potential. **Neville gets the kindness and Harry gets the handover**: the gentleness after the Unforgivables lesson is the real man's and is entirely sincere, and it is as far as it goes. He dies without seeing what Neville turns into.
 - **The evidence.** The boy throws off the Imperius in his classroom when nobody else in the room can, then walks off a dragon in one piece and well. **The First Task is the trigger**, which is why the handover starts that evening and not in September (DIV-097, DIV-102). The rest is file: three years of it, plus a castle stormed by Dementors (DIV-081).
 - **And he is receptive**, which is the saddest part of the arrangement. Nobody has ever treated him as a colleague, so when somebody finally does he takes it with both hands.
-- **The bitter one is the Imperius.** The thing that makes him choose Harry is the boy's resistance to the curse riding him as he watches (Q-114).
+- **The bitter part.** The thing that decides him is the boy throwing off the curse that is riding Moody as he watches (Q-114).
 
 ## The lessons *(settled)* · DIV-096
 
@@ -58,7 +61,7 @@ The tells are not villainy. **They are a frightened young man coming up for air 
 - **The flask is innocent, and it is spent proving it.** After the First Task he pours Harry a measure of Firewhisky, every reader of canon has a very bad second, nothing whatever happens — and then *CONSTANT VIGILANCE*, and the lecture that plants the word *check*. The offer is sincere and the test is real and they are the same act (DIV-097, [the-flask](../scenes/b4/the-flask.md)).
 - **He startles at the name Winky.** Days after the Yule Ball he asks after Dobby — in character, since a paranoid Auror wants to know why the Malfoy elf is handing Harry Potter socks — and Harry answers that Dobby is in the castle minding another elf. Moody has no reason at all to know the name. Crouch has every reason: she was his family's elf.
 - **He keeps nearly saying who did it.** He remembers putting the name in the Goblet and remembers thinking he had a reason, so he would say so if it came up — and all year he opens his mouth about the culprit and then shrugs it off. That is Crouch silencing him for a split second at a time, spending grip he cannot spare (DIV-086). The confession names it in one line.
-- And the ones already on the table: the seventh lock, the eye that can see into his own trunk and looks away, and the Imperius lesson pressed far harder than the curriculum asks.
+- And the ones already on the table: the seventh lock, and the eye that can see into his own trunk and looks away. **The Imperius drills are not among them** — they are simply what the man teaches (DIV-105).
 - **The ferret is not a tell at all, and that is worse.** Harry files the cruelty under *that is how Moody does things* and goes on to love the man — so the one act of the year he has to excuse is the only one that was not Moody's (DIV-095).
 
 ## He takes himself back
@@ -77,13 +80,19 @@ It is the hand on the wand wavering, not a speech. He is the reason Harry is ali
 - **Dumbledore asks him to stay and he refuses.** The castle has a real Defence teacher for the first time in years and loses him to his own conscience. **The jinx's instrument is the man himself**, and the Ministry walks into a vacancy nobody had to engineer.
 - **It is what makes B5 inevitable.** He gives up the sane version of passing the torch and keeps the insane one: the single boy. **The fixation is what is left when the classroom goes** (DIV-099).
 
+- **He is perfectly well.** Canon's Moody comes out of the trunk half-starved; ours walked the castle all year and nothing was ever done to his body. **No hospital wing and no convalescence** — he is on his feet and clearing a classroom within days of the Third Task (DIV-086).
+
 ### The last drink *(settled)* · DIV-106
 
-*I never gave you a prize for winning the tournament.* The flask held out; **Harry's eyes never leaving him** while he casts, finds nothing, drinks, and hands it straight back. *You made it this time, Potter. Full marks.* Then he goes.
+**Harry finds him packing**, in the Defence classroom and not the office: the dark detectors coming off the walls, the room being handed back.
 
+- **He tells him he is going, and why.** No evasion and no softening — a Death Eater lived inside him here for ten months, he taught a hundred children *constant vigilance* with a hand on his throat, and a boy is dead.
+- **Harry does not protest, because the man is right and he knows it.** That is the scene's shape, and it is what keeps it from being Lupin's goodbye a year on ([the-flask](../scenes/b4/the-flask.md)).
+- **He does not offer the Imperius excuse here**, although he will in August (DIV-100). **He has not had time**: days after the graveyard, with no month alone to turn it over and no sight yet of the man doing the Order's work. In June he agrees with an adult who sounds certain; by Privet Drive he has built a position, and it turns out to be Lucius Malfoy's.
+- **Then the flask.** *I never gave you a prize for winning the tournament.* **Harry's eyes never leave him** while he casts, finds nothing, drinks, and hands it straight back.
+- **"You made it this time, Potter. Full marks."** **And Harry hears the subtext:** *I have nothing left to teach you.* Not praise — a discharge, and the loneliest thing anybody says to him all year.
 - **Harry keeps nothing.** The flask leaves with him and is never recovered, like everything else of his (DIV-103) — the eye stays the only object of his that anybody carries.
-- **It closes the object's year:** poured for him in November, thrown to him in February, offered outright in June ([the-flask](../scenes/b4/the-flask.md), DIV-097).
-- **Harry does not know it is a goodbye until it is over**, and is never told why (Q-141). *Full marks* is a leaving certificate, and only one of them knows it.
+- **It closes the object's year:** poured for him in November, thrown to him in February, offered outright in June (DIV-097).
 
 ## Afterwards
 
@@ -118,18 +127,18 @@ He drilled the boy and delivered him, and Cedric Diggory is dead. He knows the h
 - Sirius Black: not friends, and on the same side of everything that matters in B5. They reach the same verdict about the Malfoy girl independently, in opposite registers (DIV-101), and they lose the same argument together (DIV-099).
 - [Dracaena Malfoy](dracaena-malfoy.md): he transfigured her and thought it just, he owes her an apology he will not deliver in person, and his professional read of her is that she will be the death of Harry or his greatest asset (DIV-100, DIV-101).
 - [Minerva McGonagall](minerva-mcgonagall.md): he knows what she was in the first war and respects her for it, and he is the one person who can allude to it in company. He is himself when he says it — the beat belongs to the real man, not to Crouch.
-- Albus Dumbledore: an old friend who tested him on arrival with something only the two of them knew, and got it right, because he is Moody. **He asks him to stay at the end of the year and is refused** — the only other person who knows why the post falls vacant (DIV-106, Q-141).
+- Albus Dumbledore: an old friend who tested him on arrival with something only the two of them knew, and got it right, because he is Moody. **He asks him to stay at the end of the year and is refused** (DIV-106).
 - Barty Crouch Jr: asleep in his trunk, holding him down, for ten months.
 
 ## Arc by book
 
 | Book | Start | Turn | End |
 |---|---|---|---|
-| B4 | Taken at his house before term and put under. **He means to stay and says so** (DIV-106) | The year, held, as a handover (DIV-105, DIV-102) | Throws Crouch out in Dumbledore's office — then resigns, and gives Harry the last drink: *full marks* (DIV-106) |
+| B4 | Taken at his house before term and put under. **He means to stay and says so** (DIV-106) | The year, held, as a handover (DIV-105, DIV-102) | Throws Crouch out in Dumbledore's office — then resigns, tells Harry why to his face, and gives him the last drink: *full marks* (DIV-106) |
 | B5 | Out of the classroom by his own hand, with one pupil left (DIV-106). *I failed you both*, the night they bring Harry out of Privet Drive (DIV-100). The prefect party: the Firewhisky in front of Molly (DIV-098) | On Sirius's side of the argument about Harry, and overruled (DIV-099) | The Ministry: a terror, and it changes nothing. Sirius dies a few feet away (DIV-099, Q-140) |
 | B6 | Order work, carrying it | — | — |
 | B7 | The Seven Potters: the promise at the briefing | A terror, and he makes Voldemort deal with him | Killed by Voldemort, having done exactly what he said. The eye goes home with Harry (DIV-103) |
 
 ## Open questions
 
-Q-114 (the clue chain) · Q-117 (Lucius's answer to the ferret, parked) · Q-139 (the apology's timing, held in both directions) · Q-141 (whether Harry ever learns why he left) · Q-011 and Q-029 (what the Elder Wand hunt runs on, now that his last stand replaces canon's exit)
+Q-114 (the clue chain) · Q-117 (Lucius's answer to the ferret, parked) · Q-139 (the apology's timing, held in both directions) · Q-011 and Q-029 (what the Elder Wand hunt runs on, now that his last stand replaces canon's exit)
