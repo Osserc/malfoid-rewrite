@@ -45,7 +45,7 @@ Two scenes, one motif: a lesson, and then the lesson passed. Rungs one and two o
 2. **Harry grins, draws his wand and casts a detection charm he looked up in his own time.** Nothing in it. **He drinks, without coughing — much — and throws it back.**
 3. **The verdict is a compliment wearing a criticism.** *You were only dead once this time, Potter, you're improving. Next time, eyes on the target instead of the misdirection — oldest trick in the book.*
 4. **And that is the year's reading instruction, said out loud and missed.** Harry watched the flask and stopped watching the man who handed it to him. **The flask is the misdirection; Moody is the target.** True tactically, true of the book, and true of what happens in June.
-5. **Moody says nothing whatever about Dracaena.** The assessment comes later, in its own scene, after a lesson (DIV-101).
+5. **Moody says nothing whatever about Dracaena.** He said all of that in December, days after the Ball (DIV-101). **She holds on to Harry harder throughout**, and tells him why within the week ([which-one-is-real](which-one-is-real.md), DIV-104).
 
 ## Must keep
 
@@ -65,7 +65,7 @@ Two scenes, one motif: a lesson, and then the lesson passed. Rungs one and two o
 - **The Butterbeer at Hogsmeade.** *Check* is planted here so that not checking reads there — and Harry, who watches the whole exchange from under the Cloak, misreads it as the best of them slipping sometimes (Q-114, [alastor-moody](../../characters/alastor-moody.md)).
 - **Grimmauld Place, a year later.** Sirius tries to get Harry a Firewhisky at the prefect party and Moody says he already has the taste for it, in front of Molly Weasley (DIV-098, [the-prefect-party](../b5/the-prefect-party.md)).
 - **Rung three, in the spring.** Moody walks in on the Conjunctivitis practice and approves instead of reprimanding, and *that* is where the doctrine goes — *hit them first, hit them hard, and you won't be an easy target when you go down* (DIV-102, DIV-096).
-- **The Malfoy stay-behind**, between the two, and the *junior Auror* address that runs through all of it (DIV-101, DIV-102).
+- **The Malfoy stay-behind**, days after the Ball and so between rungs one and two, and the *junior Auror* address that runs through all of it (DIV-101, DIV-102).
 - **Moody's guilt.** He fed the boy, drilled him, debriefed him and delivered him — and told him he was safe. This is the scene the reader will remember when he admits what he spent the year doing (DIV-100).
 
 ## Open

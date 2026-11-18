@@ -717,8 +717,10 @@ Canon rewarded the rereader with the flask, the tongue and the ferret. The disgu
 
 **Candidate: Winky's name.** *(the author's)*
 
-- **The way in is canon's own joke, kept:** at the Yule Ball, Moody admires Harry's socks and Harry says they came from Dobby. We keep the exchange whole, because it is funny and because it is the only reason the next beat can exist.
-- **Why he asks is the good part.** He knows Dobby is the Malfoy elf, and a paranoid Auror wants to know why a Malfoy creature is handing Harry Potter socks. The question is perfectly in character for the real man, which is what makes it safe cover — and it is the question that walks him into the tell.
+- **The way in is canon's own joke, kept:** at the Yule Ball, Moody admires Harry's socks. We keep the exchange whole, because it is funny and because it is the only reason the next beat can exist. *(Dracaena stiffens against Harry's arm while he does it and lets go when he walks away — DIV-101, DIV-095.)*
+- **It is now link three of four** *(settled)*. The chain runs **cavorting with the enemy → the warning about the Malfoy girl → and why is the Malfoy elf giving you socks? → Dobby is minding another elf, Winky → the startle** (DIV-101). **No trigger is needed: he was at the Ball and watched the whole thing**, and he admired the socks himself. The few days before he acts are deliberate — he sits on what he saw, decides it is a problem, and then moves.
+- **Why he asks is the good part, and the chain makes it better.** He knows Dobby is the Malfoy elf, and a paranoid Auror wants to know why a Malfoy creature is handing Harry Potter socks. **Coming out of a warning about the Malfoy girl it stops being a convenient opening and becomes the next sentence in an argument already about that family** — and it is the question that walks him into the tell.
+- **And Harry is arguing about his girlfriend while it happens**, which is a far better reason to miss the startle than being oblivious.
 - **The startle comes days later,** when Harry answers that Dobby is in the castle minding another elf — Winky. **Moody startles, very slightly, and covers it.**
 - **The real Moody has no reason to know the name. Barty Crouch Jr has every reason:** she was his family's elf. A reader who remembers whose elf she was has the whole thing from one word.
 - **It re-homes what Winky was carrying in canon** (Q-094). She confirmed the secret as a witness there; here she gives it away as a name, without ever being in the room.
@@ -864,6 +866,7 @@ Open: where in the window it sits, and what it looks like.
 - **Claude's lean: after the Second Task**, which is what seals the permission the Ball gave (🔒 DIV-005, [dracaena-malfoy](../characters/dracaena-malfoy.md)). She has been claimed in public by then and has nothing left to protect, which is the cheapest moment in the book for her to concede anything.
 - **The quietest candidate is the kitchens** ([the-kitchens](../scenes/b4/the-kitchens.md)), where she and Hermione stand in the same room and watch Winky die. No declaration required.
 - **It must be small.** A Malfoy does not make speeches about reform, and the beat is a sentence at most.
+- **It is not the March conversation**, which sits nearby and is about the carry and about Moody, not about Hermione ([which-one-is-real](../scenes/b4/which-one-is-real.md), DIV-104). The two must not be collapsed: one is her being reassured, the other is her conceding something.
 - **It is made to Harry, about his friends, and Hermione is never told** — not then and not later. If she apologised to Hermione in B4, Shell Cottage would have nothing left to do, and Shell Cottage is where Hermione becomes a person to her, by way of a debt rather than a change of heart (DIV-077, Q-096).
 
 ### Q-136 · Lupin's debt, and the end of B3 (DIV-017)
@@ -886,11 +889,13 @@ Not in B3: she is looking straight at it when she half-offers it at the lap pill
 
 ### Q-139 · The apology, and when it moves (DIV-100, DIV-095)
 
-**Held by the author in both directions**, 2026-11-17: when Moody says it to Harry, and when Harry passes it to her. Moody asks Harry to relay it rather than going to her himself (DIV-100), and it is a better scene than the direct version would have been.
+**Half answered, 2026-11-18.** Moody says it **the night they bring Harry out of Privet Drive** — the old routine on the way, the flight, Grimmauld, and a hand on the shoulder as the boy is sent upstairs. He asks Harry to relay it rather than going to her himself, and he is downstairs vouching for him inside the hour (DIV-100).
 
-- **The author's lean on the first half: before term** — the summer at Grimmauld, four months on from the graveyard. **It comes before the Ministry, not after.** The ferret and Sirius are two separate failures and folding them into one beat costs DIV-099 its second rung.
-- **If it is before term, it sits beside the prefect party**, which is the same fortnight and the opposite mood. **The ordering is part of what is held:** apology first makes the party a man who has just admitted one failure and is clinging harder to the one thing he is sure of; party first makes the apology the moment the clinging stops working (DIV-098).
-- **The relay then has the whole year**, with furniture already in place: from April she takes him to Hogsmeade on Inquisitorial Squad "errands" (DIV-013, [the-pear-perfume](../scenes/b5/the-pear-perfume.md)). **An apology from Mad-Eye Moody handed over on a date disguised as official business** is about as awkward as the series gets. **It must land inside B5** — settled by the author; it does not become a dead man's message.
+**Still open: when Harry passes it on.**
+
+- **It lands inside B5** — settled; it does not become a dead man's message.
+- **The author's lean on placement:** the spring, with furniture already in place — from April she takes him to Hogsmeade on Inquisitorial Squad "errands" (DIV-013, [the-pear-perfume](../scenes/b5/the-pear-perfume.md)). **An apology from Mad-Eye Moody handed over on a date disguised as official business** is about as awkward as the series gets.
+- **It lands on a girl who spent a year hating him for an act he did not commit** (DIV-104), from a man who owes her one for a different failure than she thinks (DIV-086). Neither of them will ever have the whole shape of it.
 
 - **Whether he sits on it first**, and for how long. Sitting on it is in character: he has no idea what it would do to her and no particular wish to find out.
 - **Where it lands if he does.** She has no form for receiving amends — conceding and getting nothing back is not a transaction she can process ([dracaena-malfoy](../characters/dracaena-malfoy.md), DIV-095) — so an apology she cannot repay, relayed by the boy, from the man who bounced her down a corridor, is the most awkward gift in the series.

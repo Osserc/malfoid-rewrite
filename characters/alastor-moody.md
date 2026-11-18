@@ -68,7 +68,7 @@ He drilled the boy and delivered him, and Cedric Diggory is dead. He knows the h
 
 **"I failed you both."** Not the Imperius Curse and not penitence about having enjoyed it: **his shame is professional.** He was taken at his own house before term began and he should have fought it off, and a schoolgirl went down a corridor as a ferret because he did not — **and he knows it could be done, because he did it in the end**, which turns every month he did not into a failure he can measure.
 
-**When he says it is held** *(Q-139)*; the author's lean is before term, at Grimmauld, four months on from the graveyard — **before the Ministry, not after**, because the ferret and Sirius are two separate failures. It is a sentence, not a speech. Harry offers him the excuse — *you were under the Imperius* — which is word for word Lucius Malfoy's defence, handed to him by the Malfoy girl's boy, and **he declines it** (Q-117). Then he leaves; he is not asking to be forgiven and does not wait to find out whether he is. He asks Harry to pass it to her rather than going himself (Q-139).
+**He says it the night they bring Harry out of Privet Drive** — the old routine restored on the way, a security question that proves nothing because nobody ever impersonated him, then the flight, and a hand on the shoulder at Grimmauld as the boy is sent upstairs. **And he is downstairs vouching for him inside the hour**, which is the whole character: he is not torn, he thinks both things are true, and he is right about both. It is a sentence, not a speech. Harry offers him the excuse — *you were under the Imperius* — which is word for word Lucius Malfoy's defence, handed to him by the Malfoy girl's boy, and **he declines it** (Q-117). Then he leaves; he is not asking to be forgiven and does not wait to find out whether he is. He asks Harry to pass it to her rather than going himself; when Harry does is Q-139. **It lands on a girl who has spent a year hating him for an act he did not commit** (DIV-104).
 
 ### The last stand *(settled)* · DIV-103
 
@@ -90,7 +90,7 @@ He drilled the boy and delivered him, and Cedric Diggory is dead. He knows the h
 | Book | Start | Turn | End |
 |---|---|---|---|
 | B4 | Taken at his house before term and put under | The year, held | Throws Crouch out in Dumbledore's office |
-| B5 | *I failed you both* — placement held, lean before term (DIV-100, Q-139). The prefect party: the Firewhisky in front of Molly (DIV-098) | On Sirius's side of the argument about Harry, and overruled (DIV-099) | The Ministry: a terror, and it changes nothing. Sirius dies a few feet away (DIV-099, Q-140) |
+| B5 | *I failed you both*, the night they bring Harry out of Privet Drive (DIV-100). The prefect party: the Firewhisky in front of Molly (DIV-098) | On Sirius's side of the argument about Harry, and overruled (DIV-099) | The Ministry: a terror, and it changes nothing. Sirius dies a few feet away (DIV-099, Q-140) |
 | B6 | Order work, carrying it | — | — |
 | B7 | The Seven Potters: the promise at the briefing | A terror, and he makes Voldemort deal with him | Killed by Voldemort, having done exactly what he said. The eye goes home with Harry (DIV-103) |
 
