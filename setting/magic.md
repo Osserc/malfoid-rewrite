@@ -12,11 +12,13 @@ Spellcasting is technical. Wand motions draw "radicals" that combine into spells
 
 Design still open (Q-015): which radicals exist, how they combine, what incantations add, how nonverbal and wandless casting work, and what makes a spell hard.
 
-## The two forces *(direction)* · DIV-113
+## Joining and separating *(direction)* · DIV-113
 
-**The system is Empedoclean in shape.** Behind the radicals there are two forces: one that **joins what is separate**, and one that **separates what is joined**. They are directions, not moral grades, and neither is on anybody's side.
+**The system is Empedoclean in shape.** Behind the radicals there is something that **joins what is separate** and something that **separates what is joined**. They are directions, not moral grades, and neither is on anybody's side.
 
-**The vocabulary is not fixed** (Q-150). Empedocles calls them Love and Strife and that is where this comes from, but nothing is committed to those words — not here and certainly not on the page. Same rule as *the leash* and *the collar* (DIV-084): bible shorthand that must never reach the manuscript.
+**They have no names** *(settled)*. Empedocles is where the shape comes from, and *Love* and *Strife* are convenience only — never on the page, and not in the bible's final form either. What matters is what happens.
+
+**And they may not be forces at all.** The honest version may be that there is no second thing in the world doing this, and that joining and separating are simply **how magic answers intent** — a way of categorising its reactions rather than an ontology. Deciding that is deciding how magic works at all (Q-015), so nothing below commits to the stronger claim.
 
 Design open with the rest of the system (Q-015). What the frame already decides:
 

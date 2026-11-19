@@ -30,6 +30,12 @@ Canon's quarrel mends and the three part at King's Cross as friends. Ours opens 
 - **Into B5.** Canon's summer silence at Privet Drive now sits on an injury from the year before, on both sides. How it mends is open (Q-010).
 - **What he never learns.** The twins' shop money came to them dressed as an investment so they could take it, and the framing was Dracaena's idea (DIV-062). Fred and George take the word literally and spend years repaying an investor who never wanted repaying.
 
+## Covered by Hermione *(settled)* · DIV-108
+
+**He attacks and she covers him.** Moody's interposition is pure technique and costs almost no power, so it is hers; he is a pure-blood with the power and without the finesse ([society](../setting/society.md)). Each of them does the half the other cannot, and **it is the first thing in the series the two of them are mechanically good at together.**
+
+- **It does not work with Harry.** He is too unruly and chaotic to be covered, and she would only get in his way. Full entry: [hermione-granger](hermione-granger.md), DIV-108.
+
 ## Voice
 
 Canon default.

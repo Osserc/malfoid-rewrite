@@ -942,6 +942,7 @@ Both techniques are settled; none of their appearances are placed.
 - **Dracaena's shield** needs planting well before B7, and the Duelling Club is the obvious home (DIV-028). Which bout, and whether Harry ever names what she is doing.
 - **Her private failure** — the girl who hunted for the shape that stops the green one and found there is not one. Powerful, and easy to overplay. Whether it is ever on the page, and in whose POV.
 - **B5 and B7.** The DA drilling it, with Balthier Thynne the obvious partner (DIV-082), and the Battle of Hogwarts using the castle as ammunition.
+- **Where Harry's Protego-bounce lands** (DIV-108): his own invention, one bout won off her with it, and her loathing of it. It is a different beat from the interposition arc and may well be earlier.
 - **Who raises the objection** in Moody's lesson — fire that snakes around cover. **Not Harry**, who takes to the technique rather than arguing with it. Hermione is the obvious candidate and may be too obvious.
 - **Whether transparent cover is in that lesson or saved.** It is the refinement, and spending it immediately costs the later moment.
 - **Where Dracaena concedes** (DIV-109). *The clean version:* she grants the technique on her own in B4, on the evidence, and still refuses to credit Moody until his apology reaches her in B5 (DIV-100, Q-139).
@@ -992,14 +993,12 @@ Interposition is half a doctrine. *You do not stand still* needs a *how*, and it
 
 Also open: what a man with one leg does about his own mobility, which the class will certainly wonder about and which he will certainly have an answer to.
 
-### Q-150 · What the two forces are called (DIV-113)
-
-The frame is Empedoclean and the names *Love* and *Strife* are where it comes from, but **nothing is committed to that vocabulary** — fixing the language now would fossilise it.
-
-The same rule as *the leash* and *the collar* (DIV-084): bible shorthand that must never reach the manuscript. What the story calls them, if it names them at all, is parked with the magic rework (Q-015). **The safest answer may be that nothing in the books names them**, since no character has the correct model anyway (DIV-113).
-
 
 ## Answered
+
+### Q-150 · What the two forces are called (DIV-113)
+
+*Answered: they have no names, and do not need any.* Empedocles is where the shape comes from; *Love* and *Strife* are convenience only, never on the page and not in the bible's final form. **What the story needs is what they do.** The author's further note, carried into DIV-113 and parked with Q-015: they may not be forces at all — joining and separating could simply be how magic answers intent, a categorisation rather than an ontology, and settling that means settling how magic works in the first place. Recorded in **DIV-113**, [magic](../setting/magic.md).
 
 ### Q-141 · Does Harry ever learn why Moody left? (DIV-106, DIV-100)
 

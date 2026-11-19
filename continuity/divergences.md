@@ -1489,7 +1489,9 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   **What it does for people other than Harry.**
 
   - **Hermione can do this.** It is pure technique and costs almost no power — the first fighting skill in the series she is actually built for. She is still not a fighter, and Dracaena, Harry and Ron all outclass her in a duel, but she now has something to drill that makes her useful *in* a fight rather than only before one.
-  - **Harry has a field day with it.** It is the missing piece of his style: he already improvises, and this hands him the environment (DIV-028). *The variant he does not get is bouncing his own spells off placed Protegos — it looks like missing on purpose, and it is out.*
+  - **And it pairs her with Ron.** **He attacks and she covers him.** He is a pure-blood and has the power ([society](../setting/society.md)); what he lacks is finesse, and she is nothing but finesse — so each of them is doing the half the other cannot. **It does not work with Harry**, who is too unruly and chaotic to be covered: she would only get in his way. The first thing in the series the two of them are mechanically good at together.
+  - **Harry has a field day with it.** It is the missing piece of his style: he already improvises, and this hands him the environment (DIV-028).
+  - **And he invents his own variant: bouncing his own spells off placed Protegos.** Nobody taught him this and it is entirely his. **It wins him exactly one bout against her, and she hates it more than any defeat in the series** — it looks like missing on purpose, and being beaten by it is being beaten by a clown. **That is her taste firing, not her pride** (DIV-070): it is not that he was better, it is that it was *undignified*. Where it lands is Q-144.
   - **It gives the DA a spine in B5**, with Balthier Thynne the obvious partner: a seventh-year Slytherin who is genuinely good at Transfiguration and has joined (DIV-082). Nola watching Balty turn out to be the useful one in the room is free, and warm.
   - **He teaches it to the whole class, and it is his biggest contribution.** **Not a fifth rung, and DIV-102 is untouched**: the four private handovers stand and nothing precedes the maze. This is the classroom version of the succession (DIV-106), so the thing of his that outlives him is the one he gave away to everybody — and it appears on his own ledger nowhere (DIV-105).
   - **Harry finishes Krum with it** (Q-123): the eye that reads the draw is the Duelling Club's, the ground is Moody's.
@@ -1564,10 +1566,11 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 ### DIV-113 · The two forces (direction)
 
-- **Status:** the principle is settled; the design is open (Q-015). **Author's direction, not a worked system** — it belongs with DIV-007 and DIV-008, and the author should say whether it is locked. **The vocabulary is not fixed** (Q-150).
+- **Status:** the principle is settled; the design is open (Q-015). **Author's direction, not a worked system** — it belongs with DIV-007 and DIV-008, and the author should say whether it is locked. **They have no names** (Q-150, answered), **and they may not be forces at all.**
 - **Canon:** magic has no stated physics. Dark magic is bad because it is bad, love protects because love protects, and the two never meet in a single frame.
 - **Ours:** **the system is Empedoclean in shape.** Behind the radicals there are two forces: one that **joins what is separate**, and one that **separates what is joined**. They are directions, not moral grades, and neither is on anybody's side.
-  - **Names are bible shorthand only.** Empedocles calls them Love and Strife and that is where this comes from, but **nothing is committed to those words** — not in the bible's final form and certainly not on the page. Fixing the language now would fossilise it (Q-150). The same rule as *the leash* and *the collar* (DIV-084): shorthand that must never reach the manuscript.
+  - **They have no names, and do not need any** *(settled, Q-150)*. Empedocles is where the shape comes from and the words *Love* and *Strife* are convenience only — never in the bible's final form and never on the page. What matters is what happens, not what it is called.
+  - **And they may not be forces at all.** The honest version may be that there is no second thing in the world doing any of this, and that joining and separating are simply **how magic answers intent** — a way of categorising its reactions rather than an ontology. **Deciding that is deciding how magic works at all** (Q-015), so nothing here commits to the stronger claim.
   - **Dark magic is the separating force channelled**, which is DIV-084 restated at the level it operates on: intent to harm is not a category the universe is marking, it is an alignment. **And what you channel does to you what it does to everything** — which answers Q-027 by definition. Why do the Dark Arts crack the soul? Because separating things is the entire function of what you are drawing on, and you are a thing.
   - **A Horcrux is the endpoint**, not an exotic ritual: that force finally applied to yourself, on purpose.
   - **The Killing Curse is it concentrated to a point** and projected whole, which is also why it cannot hold together at distance (DIV-107).
@@ -1577,7 +1580,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **Neither force is on anybody's side.** Not a reward for virtue and not a punishment for vice. Lustrum's rule is the model and it is not negotiable: *it makes no judgement of anybody; it counts spells* (DIV-080). **That we win by doing things right is what the book argues, not how the world works** ([themes](../core/themes.md)).
 - **Why:** it is the frame the author has been building towards, and it unifies what is already written — the intent rule, the cracked soul, Lustrum's accounting, resonance, Horcruxes and the locked ending — under one engine instead of five assertions.
 - **Home:** [setting/magic.md](../setting/magic.md)
-- **Ripples:** Q-015, Q-027, Q-146, Q-150 · DIV-006, DIV-007, DIV-008, DIV-021, DIV-080, DIV-084, DIV-107, DIV-110, DIV-112 · [core/themes.md](../core/themes.md)
+- **Ripples:** Q-015, Q-027, Q-146, Q-150 (answered) · DIV-006, DIV-007, DIV-008, DIV-021, DIV-080, DIV-084, DIV-107, DIV-110, DIV-112 · [core/themes.md](../core/themes.md)
 
 ### DIV-114 · B7: Harry holds the Horcrux in front of himself
 
