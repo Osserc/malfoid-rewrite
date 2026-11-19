@@ -110,13 +110,23 @@ Canon already treats love as magic through Lily's sacrifice. How do we make it w
 
 *Also answered:* Harry's sacrifice in the forest protects no one (DIV-026).
 
-Still open: how resonance relates to love as sacrifice, meaning Lily's protection. Also, why does Lily's sacrifice protect Harry when his protects no one? Readers who know canon will ask.
+*Also answered (DIV-110):* **Lily's protection is not sacrifice and never was.** Godric's Hollow is a configuration — the filthiest caster alive projecting his whole self (DIV-107) at a perfect null, through a body in the path — and the reaction maimed him and left part of him in Harry. Nothing was rewarded, every mother alive could have done it, and none ever got the chance because he does not do his own killing. The question "why her and not his" dissolves: neither of them was ever protected by dying.
+
+Still open: how resonance relates to any of it, and whether Love-as-a-force (DIV-113) makes the two the same mechanism at different scales.
 
 ### Q-015 · Designing the radical system (DIV-007)
 
 Which radicals exist, how they combine, what incantations add, how nonverbal and wandless casting work, and what makes a spell hard.
 
 Fixed point: Apparition takes no wand ([magic](../setting/magic.md), DIV-054).
+
+**The rework now has a spec rather than a blank page.** Whatever system gets built has to produce:
+
+- **Love and Strife as the two forces behind the radicals** (DIV-113), neither of them judging anybody.
+- **A range limit on the Killing Curse** that falls out of concentrated Strife failing to cohere at distance, rather than being bolted on (DIV-107).
+- **Innocence as a null quantity** — an absence of accumulated magic, not a virtue — consistent with what Lustrum already finds in small children (DIV-080, DIV-110).
+- **A draw long enough to be read**, since both the Killing Curse's telegraph (DIV-107) and interposition (DIV-108) depend on a spell being legible while it is being made, as resonance already does (DIV-021).
+- **Prophecy**, defused: Q-146.
 
 ### Q-016 · What is the pureblood point? (DIV-008)
 
@@ -197,7 +207,11 @@ How does she get the Ministry to send the Dementors to the lake? Floated so far:
 
 ### Q-027 · Wand rules after the purge (DIV-024)
 
-With allegiance gone, what does "the wand chooses the wizard" mean now? Also: how wands work in general, wandless magic (overlaps Q-015), and what's left of canon's other wand-bond lore, such as twin cores and Priori Incantatem (B4) and the holly wand acting on its own in B7. Deferred: the author plans to write down the rules of magic, wands and wandless magic.
+With allegiance gone, what does "the wand chooses the wizard" mean now? Also: how wands work in general, wandless magic (overlaps Q-015), and what's left of canon's other wand-bond lore, such as the holly wand acting on its own in B7. Deferred: the author plans to write down the rules of magic, wands and wandless magic.
+
+*Partly answered (DIV-111):* **twin cores are out as a mechanism and stay in as a red herring.** The graveyard runs on the Horcrux, not the wands; Voldemort and Dumbledore both believe the wand explanation and are both wrong. **Prior Incantato, the forensic charm, is untouched** and still reads Crouch Sr's murder off Moody's wand (Q-114).
+
+*Also answered (DIV-113):* why the Dark Arts crack the soul — Strife separates, and the caster is a thing.
 
 **One piece got cheaper.** The holly wand acting on its own existed to save Harry in the Seven Potters chase and to start the Elder Wand hunt. **Moody's last stand now does the saving** (DIV-103) and the hunt's trigger moved to Q-011, so the beat can simply go, rather than needing a replacement built for it.
 
@@ -381,6 +395,8 @@ In canon, King's Cross is mostly Dumbledore explaining: the Horcrux in Harry and
 - **What it still has to explain**, now that the Hallows and the protection are gone. Ties in with Q-014: why Lily's sacrifice protected Harry when his protects no one.
 - **Does she ever learn** he came back for her? Does he tell her?
 - **How he knows** she's fighting alone: he sees her, senses her through resonance, or something else (Q-062, answered).
+
+*New weight (DIV-114):* **Harry now arrives here having executed a gamble rather than having obeyed an instruction**, and he is unconscious because he was joined to the thing that took the curse. So the scene keeps its mechanism without canon's blood, and **Dumbledore has real work to do** — the conversation is no longer consoling a boy for having died on command. What it explains, and how much, is part of this question.
 
 ### Q-063 · Their meeting at the Manor (DIV-049, DIV-052)
 
@@ -782,6 +798,10 @@ Settled that he wins outright and hard, that it costs him, and that his edge is 
 - **And the finish it implies, which the author is *not* sold on.** Harry does not block — he spoils the draw, so the other man's spell arrives malformed or not at all. It half-works on her because she is too precise to be put off, and works outright on Krum because a drilled hand cannot change its mind halfway. Attractive because Krum is then beaten by his own excellence rather than diminished, and because Flitwick, who drilled clean form into the boy for three years, is in the stands watching him win by ruining other people's. **Parked as an option.**
 - Whatever replaces it has to show rather than tell, which is the whole point of the change (DIV-090).
 
+*Partly answered (DIV-108) — and it amends the constraint above.* **The finish is Moody's interposition**: Harry puts ground between himself and the spell rather than meeting it. **The split keeps the win hers.** The decisive edge is still the Duelling Club's — three years against the castle's cleanest technician are what let him read Krum's draw early enough for any of this to be possible — and Moody supplies only the tool he reaches for once he has seen it. **The eye is hers; the ground is Moody's.** *The author proposed the Krum use directly; the "rather than out of Moody's lessons" line above predates it and is superseded to exactly this extent.*
+
+Still open: the staging, and whether the legibility candidate above is the form the read takes.
+
 ### Q-124 · What the Diggorys say (DIV-092, DIV-089)
 
 The visit stays and its purpose is now closure for Cedric's parents, with Dracaena running the room ([the-diggorys](../scenes/b4/the-diggorys.md), DIV-092). **The gold is out of it.** What is left open is the dialogue, and both of canon's load-bearing lines are unusable:
@@ -904,7 +924,81 @@ Not in B3: she is looking straight at it when she half-offers it at the lap pill
 - **The timing is hostile.** In B5 she is running the spy cover for her father (DIV-013), which is the worst possible year to be handed an Auror's conscience.
 - **Whether Moody ever says it to her face** depends on where she is standing at the end of B5, and **that is not decided**: her being at the Department of Mysteries is an idea in [inbox](../inbox.md) with a known snag — fighting Death Eaters in front of Bellatrix is open treason, which collides with DIV-015. Nothing here should be built on it. **He is in that fight himself** (DIV-099), so if she is there too, they are in the same room.
 
+### Q-143 · The Killing Curse's numbers, and what is legible from outside (DIV-107)
+
+Three things the mechanism leaves unfixed, and scenes will need all of them.
+
+- **The range.** "Duelling range, not battlefield range" is the decision; the actual figure is not. It has to serve the graveyard, the Great Hall and the Seven Potters without being measured out loud on the page.
+- **How long the caster is hollow**, and whether it scales with distance thrown. Longer is better for the defender and worse for anyone relying on Voldemort to stay terrifying.
+- **Is the hollow moment readable?** If a trained duellist can see that the other man has just spent himself, that is an enormous tactical fact — and it is the obvious thing for Moody to teach alongside interposition (DIV-108). *Lean: yes, to the trained eye, and he teaches it.*
+
+Downstream of the magic rework (Q-015), but not blocked by it.
+
+### Q-144 · Where interposition and the wand-tip shield land on the page (DIV-108, DIV-109)
+
+Both techniques are settled; none of their appearances are placed.
+
+- **Moody's lesson in B4.** Which class, what he demonstrates it against, and whether the glass barrier is in that scene or saved. **It is not a fifth rung** (DIV-102), so it is classroom material and Harry is one of a hundred.
+- **Dracaena's shield** needs planting well before B7, and the Duelling Club is the obvious home (DIV-028). Which bout, and whether Harry ever names what she is doing.
+- **Her private failure** — the girl who hunted for the shape that stops the green one and found there is not one. Powerful, and easy to overplay. Whether it is ever on the page, and in whose POV.
+- **B5 and B7.** The DA drilling it, with Balthier Thynne the obvious partner (DIV-082), and the Battle of Hogwarts using the castle as ammunition.
+- **Where Harry's Protego-bounce lands** (DIV-108): his own invention, one bout won off her with it, and her loathing of it. It is a different beat from the interposition arc and may well be earlier.
+- **Who raises the objection** in Moody's lesson — fire that snakes around cover. **Not Harry**, who takes to the technique rather than arguing with it. Hermione is the obvious candidate and may be too obvious.
+- **Whether transparent cover is in that lesson or saved.** It is the refinement, and spending it immediately costs the later moment.
+- **Where Dracaena concedes** (DIV-109). *The clean version:* she grants the technique on her own in B4, on the evidence, and still refuses to credit Moody until his apology reaches her in B5 (DIV-100, Q-139).
+- **And whether any of it happens in the Duelling Club at all.** Flitwick's is a noble art with rules; he can think the technique correct and still object to it on his piste, which would move Harry's practice and the bout she wins somewhere private. *Lean: yes, he objects, and it is characterful rather than petty.*
+
+### Q-145 · What the graveyard procession shows (DIV-111, DIV-107)
+
+*Partly answered (DIV-111):* **what triggers it is settled.** The fragment lashes out blindly at being fired on, the recoil runs back along both wands, and that one event locks them, forces the procession out and stops the curse. The twin cores are the conduit and the thing everybody wrongly blames.
+
+**Still open: what actually comes out.** Leading candidate, not adopted — it is not the wand's history but the curse's. What a Killing Curse turned back on itself produces is what that curse has done, so Voldemort's victims are dragged out of the thing he killed them with. That would make one mechanism carry the moral cost of the spell, the set piece, and the reason he would go up like a torch under Lustrum (DIV-080): every person he has killed is still in him, and for a minute everyone can see them.
+
+Which shades, in what order, how much they can say, and whether Cedric's request still works the same.
+
+
+### Q-146 · What prophecy is, once defused (DIV-112)
+
+The principle is settled — it enabled and did not cause. The mechanics are not. Is it foresight at all? A reading of the two forces (DIV-113)? Suggestion dressed as revelation? And what does the Department of Mysteries plot become when the orb is worthless: the same plot with the reader knowing better, or a changed one?
+
+Parked with the magic rework (Q-015).
+
+### Q-147 · The forest: the technique, and the conflict it opens (DIV-114, DIV-022, DIV-048)
+
+*Answered (DIV-114):* **Harry knows what he is and uses it.** He holds the fragment in front of himself — functionally, not physically — and makes it take the curse. He is not the lamb; he goes in to take something off Voldemort, banking on how Horcruxes work. His death still protects nobody (DIV-026, untouched).
+
+**Still open, and the first one is a conflict the author has to settle:**
+
+- **⚠ DIV-022 and DIV-048 were written for the other Harry.** DIV-022 has him marching to his death with only a faint hope that Dumbledore is wrong; DIV-048 frames his whole arc as starting from *dying for the purpose Dumbledore handed him*. Both are settled, so both stand as written and neither has been touched. **One of them has to move.** The arc survives either way — he still chooses to come back for her, and that is still not for the job — but the starting point changes from obedience to a gamble. Flagged in [before-the-forest](../scenes/b7/before-the-forest.md) and [kings-cross](../scenes/b7/kings-cross.md).
+- **How he holds it.** *Lean: will, not a spell.* Canon runs on will for throwing off the Imperius and for Occlumency, and a named spell would need a radical string and would make the thing teachable, which it must not be.
+- **How he comes to know he is one**, and how he learns enough about Horcruxes to bet on this. Canon uses Snape's memories; ours has to supply the mechanics too, and Q-148 is the other half of it.
+- **How sure he is.** Good odds, not a sure thing — but the scene is worthless if the reader can tell he will live. How much of the odds reach the page.
+- **Whether he tells her.** "She doesn't know exactly what's going to happen" survives either way, and may be stronger if he has a plan and still cannot promise her anything.
+
+
+### Q-148 · Who arrives at the correct model? (DIV-111, DIV-112, DIV-110)
+
+Dumbledore believes the brother wands and bets everything on a prophecy; Voldemort blames the instrument and never suspects his own project. Both are wrong, and the ending cannot turn on luck — so somebody on our side has to get close to what is actually happening.
+
+**The obvious candidate is Dracaena.** She already works out resonance alone, by research, and tells nobody (DIV-021, Q-028), and the old houses keep their own records where the open stacks have nothing (DIV-072, DIV-080). That would make the one person in Britain with an accurate picture of reality the one nobody would ever think to ask.
+
+Open: how much she actually gets, when, and whether she ever tells Harry.
+
+
+### Q-149 · Moody's mobility teaching (DIV-108)
+
+Interposition is half a doctrine. *You do not stand still* needs a *how*, and it is not designed.
+
+**The constraint is firm:** he cannot simply be a walking fortress, and flashy magical movement would demote brooms as transport and turn duels into spectacle. **These are meant to be battles of wits, not of athletics.** Whatever he teaches has to stay unglamorous and mostly mundane — footwork, angles, breaking line of sight, using what is already in the room — with magic doing less of it than the reader expects.
+
+Also open: what a man with one leg does about his own mobility, which the class will certainly wonder about and which he will certainly have an answer to.
+
+
 ## Answered
+
+### Q-150 · What the two forces are called (DIV-113)
+
+*Answered: they have no names, and do not need any.* Empedocles is where the shape comes from; *Love* and *Strife* are convenience only, never on the page and not in the bible's final form. **What the story needs is what they do.** The author's further note, carried into DIV-113 and parked with Q-015: they may not be forces at all — joining and separating could simply be how magic answers intent, a categorisation rather than an ontology, and settling that means settling how magic works in the first place. Recorded in **DIV-113**, [magic](../setting/magic.md).
 
 ### Q-141 · Does Harry ever learn why Moody left? (DIV-106, DIV-100)
 

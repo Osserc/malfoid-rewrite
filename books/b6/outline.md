@@ -31,6 +31,7 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 - That night Harry follows her to the Hospital Wing and attacks Crabbe and Goyle when they bar his way. He screams at Snape, and gets detention. He's banned from Quidditch, one way or another, and eventually tells his friends. Q-057
 - Four days later Harry slips into the Hospital Wing. She casts him as the Dark Lord's like, and his last hope dies. [after-sectumsempra](../../scenes/b6/after-sectumsempra.md)
 - Gryffindor take the Quidditch Cup with Harry out for the final, the mirror of her hollow Cup in B5. DIV-067, Q-057
+- McGonagall tells Harry to keep up Transfiguration if he means to be an Auror, because they use it. She is describing Moody's cover technique and never says so; the reader works it out. [minerva-mcgonagall](../../characters/minerva-mcgonagall.md)
 - On the night of the cave, on the walk to Hogsmeade, Dumbledore says something cryptic to Harry about her. DIV-044, [dumbledores-counsel](../../scenes/b6/dumbledores-counsel.md)
 
 ## Acts

@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Defence Against the Dark Arts, 1994–95. Harry's best teacher, and the instrument that delivers him to the graveyard.
 **Canon baseline:** retired Auror. In canon he spends the whole of B4 starved in his own trunk while Barty Crouch Jr wears his face, and arrives as a character only in the last chapter.
-**Changes from canon:** DIV-086, DIV-095, DIV-096, DIV-097, DIV-098, DIV-099, DIV-100, DIV-101, DIV-102, DIV-103, DIV-105, DIV-106.
+**Changes from canon:** DIV-086, DIV-095, DIV-096, DIV-097, DIV-098, DIV-099, DIV-100, DIV-101, DIV-102, DIV-103, DIV-105, DIV-106, DIV-108.
 
 ## The year
 
@@ -52,6 +52,24 @@ He makes the boy formidable, sincerely, and the damage is in the framing rather 
 - **The whisky is the same doctrine with no spell in it** — a colleague's drink for a boy back off a job, offered as procedure and not as mischief, and the only regard of that kind anyone in the castle offers him. **He also teaches the boy that the rule has exceptions, and that he is one of them** (DIV-097).
 
 - **And none of it is Crouch's doing**, which is the cruelty of it. The lessons are the real man's and they are good lessons, and they are also the thing Harry reaches for in a bathroom in B6 (DIV-043).
+
+## Interposition *(settled)* · DIV-108
+
+**His biggest contribution, and he never knows it.** Shields do not stop the Unforgivables; mass does. It is an advanced technique rather than a trick — real Transfiguration, at speed, under fire, in the right place (DIV-107, DIV-108).
+
+**How he gets there:** he watches Flitwick's Duelling Club and does not recognise it as fighting. Tame, decorous, conducted standing still. So he takes the theory into his own classroom.
+
+- **Posture before technique.** *You do not stand in the open and you do not stand still.* Move, and keep something between you and the other man.
+- **Shields and counters leave you on the back foot**, and a counter-curse requires you to already know the answer. A block works every time, including against the things that have no answer.
+- **He concedes that both have their place**, which is what keeps him credible: bouncing something back is sometimes right, and countering keeps your own offence up. **What he objects to is the instinct** — meeting a Dark wizard head-on, matching him spell for spell, against a repertoire you have never seen, when being wrong once is permanent.
+- **He points at a wound to make the point.** *This is what I got for trying to counter the —.* The body is the syllabus again (DIV-105), and this time it is an argument rather than a warning.
+- **The demonstration is asked for, not volunteered.** Somebody wants to know what a man who cannot dodge is supposed to do about any of it, so he shows them: he floats a desk, turns it to stone in the air, and puts it where the spell was going. **The leg is the reason the technique exists and he makes no speech about it.** Transparent cover is the refinement, because he will not give up seeing what the other man is doing — whether that is in this lesson or later is Q-144.
+- **A student finds the hole in it.** Fire that snakes around cover, and it does: trap it with geometry, which is a very high ceiling and which he demonstrates, or move and accept being singed. **Not Harry**, who takes to the technique rather than arguing with it (Q-144).
+- **Mobility is the other half and is not designed** (Q-149). He cannot simply be a walking fortress, and flashy magical movement would demote brooms and turn duels into spectacle.
+- **He teaches it to the whole class.** **Not a fifth rung, and DIV-102 is untouched** — the four private handovers stand and nothing precedes the maze. This is the classroom version of the succession (DIV-106), so the thing of his that outlives him is the one he gave away to everybody, and Harry receives it as one of a hundred. **It appears on his own ledger nowhere** (DIV-105).
+- **Harry finishes Krum with it** (Q-123): the eye that reads the draw is the Duelling Club's, the ground is his. From B5 the DA has it, and at Hogwarts in B7 the castle is ammunition rather than scenery.
+- **And it is what kills him.** In the air over Surrey there is no mass to raise and nothing to get behind (DIV-103).
+
 
 ## What gives him away *(settled)* · Q-114
 
@@ -123,7 +141,7 @@ He drilled the boy and delivered him, and Cedric Diggory is dead. He knows the h
 
 ## Relationships
 
-- [Harry Potter](harry-potter.md): his pupil, honestly. What he taught Harry works, and the boy can never sort which parts were Crouch's. What he actually handed over was permission (DIV-096) — and, after the First Task, the belief that he was safe with him (DIV-097). By B5 he is one of the two men arguing that the boy is a grown man (DIV-099).
+- [Harry Potter](harry-potter.md): his pupil, honestly. What he taught Harry works, and the boy can never sort which parts were Crouch's. What he actually handed over was permission (DIV-096) and, from the front of a classroom without meaning it for him in particular, interposition (DIV-108) — and, after the First Task, the belief that he was safe with him (DIV-097). By B5 he is one of the two men arguing that the boy is a grown man (DIV-099).
 - Sirius Black: not friends, and on the same side of everything that matters in B5. They reach the same verdict about the Malfoy girl independently, in opposite registers (DIV-101), and they lose the same argument together (DIV-099).
 - [Dracaena Malfoy](dracaena-malfoy.md): he transfigured her and thought it just, he owes her an apology he will not deliver in person, and his professional read of her is that she will be the death of Harry or his greatest asset (DIV-100, DIV-101).
 - [Minerva McGonagall](minerva-mcgonagall.md): he knows what she was in the first war and respects her for it, and he is the one person who can allude to it in company. He is himself when he says it — the beat belongs to the real man, not to Crouch.
@@ -134,11 +152,11 @@ He drilled the boy and delivered him, and Cedric Diggory is dead. He knows the h
 
 | Book | Start | Turn | End |
 |---|---|---|---|
-| B4 | Taken at his house before term and put under. **He means to stay and says so** (DIV-106) | The year, held, as a handover (DIV-105, DIV-102) | Throws Crouch out in Dumbledore's office — then resigns, tells Harry why to his face, and gives him the last drink: *full marks* (DIV-106) |
+| B4 | Taken at his house before term and put under. **He means to stay and says so** (DIV-106) | The year, held, as a handover (DIV-105, DIV-102). Interposition goes to the whole class, and is the thing of his that lasts (DIV-108) | Throws Crouch out in Dumbledore's office — then resigns, tells Harry why to his face, and gives him the last drink: *full marks* (DIV-106) |
 | B5 | Out of the classroom by his own hand, with one pupil left (DIV-106). *I failed you both*, the night they bring Harry out of Privet Drive (DIV-100). The prefect party: the Firewhisky in front of Molly (DIV-098) | On Sirius's side of the argument about Harry, and overruled (DIV-099) | The Ministry: a terror, and it changes nothing. Sirius dies a few feet away (DIV-099, Q-140) |
 | B6 | Order work, carrying it | — | — |
-| B7 | The Seven Potters: the promise at the briefing | A terror, and he makes Voldemort deal with him | Killed by Voldemort, having done exactly what he said. The eye goes home with Harry (DIV-103) |
+| B7 | The Seven Potters: the promise at the briefing | A terror, and he makes Voldemort deal with him | Killed by Voldemort, having done exactly what he said — in the air, where his own lesson cannot reach (DIV-103, DIV-108). The eye goes home with Harry |
 
 ## Open questions
 
-Q-114 (the clue chain) · Q-117 (Lucius's answer to the ferret, parked) · Q-139 (the apology's timing, held in both directions) · Q-011 and Q-029 (what the Elder Wand hunt runs on, now that his last stand replaces canon's exit)
+Q-114 (the clue chain) · Q-117 (Lucius's answer to the ferret, parked) · Q-139 (the apology's timing, held in both directions) · Q-144 (where interposition lands on the page) · Q-149 (his mobility teaching) · Q-011 and Q-029 (what the Elder Wand hunt runs on, now that his last stand replaces canon's exit)

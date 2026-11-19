@@ -49,9 +49,30 @@ It's a subplot, not a structural change. Harry and Dracaena carry it at full str
 
 The series ends with love working as actual magic: resonance (DIV-021). It's literally the power of love, and only love, since friendship isn't enough (why: *The thesis*, above). Together, Harry and Dracaena are never disarmed: they're each other's strength. That only lands if it has been a theme, and a rule, all along. See Q-014 and Q-028.
 
+*(direction)* **And it is a force rather than a sentiment** — Love and Strife, joining and separating (DIV-113). A Horcrux is one person divided; resonance is two people joined. Voldemort's project and theirs are the same physics run in opposite directions.
+
+### Virtue is the argument, not the mechanism *(settled)*
+
+**We win because we are more virtuous — narratively, not in-universe.** That is what the rewrite is saying, and the point it is making: that it is worth doing things right. It is never how the world works. Nothing in the magic rewards anybody for being good, Love is not on our side, and Strife is not a punishment. The model is Lustrum, which makes no judgement of anybody and only counts spells (DIV-080).
+
+**Keep the two apart on the page.** The moment virtue becomes an input to the magic, we have rebuilt cosmic fiat favouring the good with new vocabulary, which is the thing this rewrite exists to get away from (DIV-112). Harry and Dracaena win because of what they are to each other, not because they deserve to.
+
 ## The Chosen One isn't enough *(settled)* · DIV-026
 
 Harry opens the way to Voldemort's destruction, but he can't destroy him alone, and his death in the forest protects no one. Everyone has to play their part: Dracaena, Neville, the DA, even the Malfoys (their role: Q-032). If any of them fails, it's over. They're all inspired by Harry, but being the Chosen One isn't enough, and he was never really chosen in the first place. Neville holding the line is the clearest case (DIV-025).
+
+### The prophecy enabled it; it did not cause it *(settled)* · DIV-112
+
+**It did exactly one thing: it got Voldemort to do his own killing, once.** He believed it, so he went to the cottage personally instead of sending the people he sends. Everything after that is mechanics (DIV-110). **It would have happened anyway, the first time he decided a child was worth his personal attention.**
+
+- **So nothing in this story is ordained.** The series never says *this happened because it was meant to*. It says *this happened because these people were in this configuration, and at this time because these two were uniquely suited to it*. That is the difference between our metaphysics and authorial fiat, and it is most of why the Chosen One dynamic is gone.
+- **It is not a cheat retired quietly. It is a theme paid out.** B5 becomes a year of men killing each other over a sentence that never meant anything, and Sirius dies for a recording. The Ministry, the Order and Voldemort all treat it as the hinge of the war; it was only ever the thing that put one man in one nursery.
+- **And it is the first brick out of Dumbledore.** He did not have secret wisdom. He had a worse theory of reality than the one the world actually runs on, and he bet a child on it.
+- How prophecy works at all, once defused, and what B5's plot becomes: **Q-146**.
+
+### Voldemort caused all of it *(settled)*
+
+The engine of the whole series is one man trying to bend reality to his whims and being maimed by the attempt. He played with his soul until it was unstable; he used the foulest spell in existence himself, on a pristine target, through a woman who had put herself in the way; the reaction maimed him and handed parts of himself to the boy; and those parts are what keeps letting the boy out by the skin of his teeth (DIV-110, DIV-111). **No coincidences of wandmaking, no destiny, and no technicalities.** It needed a very specific set of circumstances, and it could in principle happen again — it had never happened before only because he sends followers, and this once he went himself.
 
 ## By book
 
@@ -63,4 +84,4 @@ Harry opens the way to Voldemort's destruction, but he can't destroy him alone, 
 | B4 | *(draft)* Wanting is allowed, and winning costs. He is given permission to want it (DIV-089), takes it, and decides he is a misfortune — and what he gets back is not absolution but being wanted (DIV-092) |
 | B5 | _open_ |
 | B6 | _open_ |
-| B7 | _open_. Candidate: refusing despair. Canon's B7 is about accepting death. Ours turns on her keeping faith where in B6 she gave in (DIV-015, DIV-022), and on Harry choosing to live: he walks to his death for Dumbledore's plan, and at King's Cross goes back for her, not for the job (DIV-048) |
+| B7 | _open_. Candidate: refusing despair. **The forest is no longer a sacrifice** (DIV-114): Harry knows what he is and holds the Horcrux in front of himself. He goes in to take something off Voldemort. The collision with DIV-022 and DIV-048 is Q-147. Canon's B7 is about accepting death. Ours turns on her keeping faith where in B6 she gave in (DIV-015, DIV-022), and on Harry choosing to live: he walks to his death for Dumbledore's plan, and at King's Cross goes back for her, not for the job (DIV-048) |

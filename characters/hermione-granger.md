@@ -31,6 +31,9 @@ No divergence is needed for any of this — it is a reading of canon Hermione, a
 
 Weaker than most pure-bloods, as a rule for Muggle-borns ([society](../setting/society.md)). She makes up for it with immense technical skill, and excels at charms and enchantments that need precision rather than power: the brains of the operation and a support, not the magical muscle. Dracaena wipes the floor with her at the Duelling Club ([duelling-club](../threads/duelling-club.md)). She can't easily take someone along when she Apparates, least of all when she's already spent ([apparate-dancing](../scenes/b7/apparate-dancing.md)).
 
+- **Interposition** *(settled)* · DIV-108. Moody's cover technique is pure Transfiguration and costs almost no power, which makes it **the first fighting skill in the series she is actually built for**. She is still not a fighter — Dracaena, Harry and Ron all outclass her in a duel — but she finally has something to drill that makes her useful *in* a fight rather than only before one.
+  - **It pairs her with Ron.** **He attacks and she covers him.** He has the power and lacks the finesse; she is nothing but finesse. **It does not work with Harry**, who is too unruly to be covered — she would only get in his way. The first thing she and Ron are mechanically good at together.
+
 ## Voice
 
 Canon default.

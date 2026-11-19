@@ -65,6 +65,13 @@ The spell's rules live in [magic](../setting/magic.md). What belongs to her:
 
 And because Harry carries Dracaena off, Moody cannot march her down to Snape as he does in canon — **so she takes Moody to Snape instead.** Offstage, a thing that happened, never dramatised. He never does anything remotely like it again, so it reads as an intervention that worked. It was not one and could not have been ([the-ferret](../scenes/b4/the-ferret.md), DIV-086).
 
+## Transfiguration and the Aurors
+
+**In B6 she tells Harry to keep studying with her if he means to be an Auror, because they use it.** Canon's careers advice is a formality; ours has something real behind it, since Moody's cover technique is Transfiguration done at speed under fire (DIV-108).
+
+**No divergence, because none of this is on the page.** She never explains it that way and never mentions Moody; it lands as a stern woman pushing her own subject. The reader who has sat through Moody's lesson can do the arithmetic, and that is the whole of it.
+
+
 ## Voice
 
 Clipped, exact, Scottish. Under fire she gets shorter and politer, and the politeness is the warning sign. Her taunts are courteous ("Would that you had been in the field") and land harder for it.
