@@ -65,6 +65,14 @@ The spell's rules live in [magic](../setting/magic.md). What belongs to her:
 
 And because Harry carries Dracaena off, Moody cannot march her down to Snape as he does in canon — **so she takes Moody to Snape instead.** Offstage, a thing that happened, never dramatised. He never does anything remotely like it again, so it reads as an intervention that worked. It was not one and could not have been ([the-ferret](../scenes/b4/the-ferret.md), DIV-086).
 
+## Transfiguration and the Aurors *(settled)* · DIV-108
+
+**In B6 she tells Harry to keep studying with her if he means to be an Auror, because they use it.** Canon's careers advice is a formality; ours has something behind it. Moody's cover technique is Transfiguration done at speed under fire, and it is the only defence there is against the Killing Curse (DIV-107) — so the subject she has taught for forty years is, quietly, the one that keeps Aurors alive.
+
+- **She does not explain it that way** and does not mention Moody. It lands as a stern woman pushing her own subject, and it is not.
+- **It pays off a year of Harry finally applying himself** to a class he has coasted in since he was eleven ([harry-potter](harry-potter.md)).
+- **And it is the second time she is quietly the war in the room** without saying so, after the asides (DIV-079).
+
 ## Voice
 
 Clipped, exact, Scottish. Under fire she gets shorter and politer, and the politeness is the warning sign. Her taunts are courteous ("Would that you had been in the field") and land harder for it.

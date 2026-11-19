@@ -12,19 +12,22 @@ Spellcasting is technical. Wand motions draw "radicals" that combine into spells
 
 Design still open (Q-015): which radicals exist, how they combine, what incantations add, how nonverbal and wandless casting work, and what makes a spell hard.
 
-## Love and Strife *(direction)* · DIV-113
+## The two forces *(direction)* · DIV-113
 
-**Magic is Empedoclean.** Behind the radicals there are two forces: **Love**, which joins what is separate, and **Strife**, which separates what is joined. They are directions, not moral grades, and neither is on anybody's side.
+**The system is Empedoclean in shape.** Behind the radicals there are two forces: one that **joins what is separate**, and one that **separates what is joined**. They are directions, not moral grades, and neither is on anybody's side.
+
+**The vocabulary is not fixed** (Q-150). Empedocles calls them Love and Strife and that is where this comes from, but nothing is committed to those words — not here and certainly not on the page. Same rule as *the leash* and *the collar* (DIV-084): bible shorthand that must never reach the manuscript.
 
 Design open with the rest of the system (Q-015). What the frame already decides:
 
-- **Dark magic is Strife channelled.** That is *Dark magic runs on intent* (DIV-084) restated at the level it operates on: intent to harm is not a category the universe is marking, it is an alignment. **And what you channel does to you what it does to everything**, which answers Q-027 by definition — the Dark Arts crack the soul because separating things is the whole function of what you are drawing on, and you are a thing.
-- **A Horcrux is the endpoint**, not an exotic ritual: Strife finally applied to yourself, on purpose.
-- **The Killing Curse is Strife concentrated to a point** and projected whole, which is also why it cannot hold together at distance (DIV-107).
-- **Resonance is the inverse, and this is the keystone.** **A Horcrux is one person divided; resonance is two people joined** (DIV-021). The same physics, run in opposite directions — so Voldemort's project and Harry and Dracaena's are mechanical mirror images, and Love is a term in the equation rather than a sentiment bolted onto the ending (🔒 DIV-006). It is also why *only love, and friendship is not enough* stops being arbitrary: Love here is a named force with a job.
+- **Dark magic is the separating force channelled.** That is *Dark magic runs on intent* (DIV-084) restated at the level it operates on: intent to harm is not a category the universe is marking, it is an alignment. **And what you channel does to you what it does to everything**, which answers Q-027 by definition — the Dark Arts crack the soul because separating things is the whole function of what you are drawing on, and you are a thing.
+- **A Horcrux is the endpoint**, not an exotic ritual: that force finally applied to yourself, on purpose.
+- **The Killing Curse is it concentrated to a point** and projected whole, which is also why it cannot hold together at distance (DIV-107).
+- **Resonance is the inverse, and this is the keystone.** **A Horcrux is one person divided; resonance is two people joined** (DIV-021). The same physics, run in opposite directions — so Voldemort's project and Harry and Dracaena's are mechanical mirror images, and the joining force is a term in the equation rather than a sentiment bolted onto the ending (🔒 DIV-006). It is also why *only love, and friendship is not enough* stops being arbitrary.
 - **The stolen edge follows** (DIV-021): she reaches for union and touches a fragment whose entire nature is division, so of course it hurts her.
 - **Nobody in the story knows any of this.** The cast has folk theories — brother wands, sacrifice, prophecy, righteous fire — and they are all wrong. The reader gets the physics; the characters get superstition. **The house pattern holds** (DIV-080): the legend and the mechanism are two different things, and no character ever delivers the correct metaphysics as a lecture.
-- **Love is not a reward for virtue.** Lustrum's rule is the model and it is not negotiable: it makes no judgement of anybody, it counts spells. **That it is worth doing things right is what the book argues, not how the world works** ([themes](../core/themes.md)).
+- **Neither force is a reward.** Lustrum's rule is the model and it is not negotiable: it makes no judgement of anybody, it counts spells. **That it is worth doing things right is what the book argues, not how the world works** ([themes](../core/themes.md)).
+
 
 ## Time 🔒 · DIV-002
 
@@ -120,6 +123,7 @@ Canon's own rule, never stated as one: the curse that tortures does not work on 
 - **Nothing stops it, because it is not scaled like a spell.** Shields are built against castings; this is a whole person arriving at once. It goes through Protego and through any ward ever devised, and it does not need to strike anywhere in particular — it envelops rather than hits.
 - **No travel time inside its reach, and nothing whatever outside it.** Wand, word, green light, and the man drops. Past its range the projection cannot hold itself together and dissipates entirely: no falloff, no wounding at the edge, nothing arrives. **Duelling range, not battlefield range** (Q-143).
 - **It needs an unobstructed path through matter, not an unobstructed view.** Seeing is targeting; matter is the wall. A pane of conjured glass stops it dead and still lets the caster watch you through it. **The pinnacle of the Dark Arts goes through every shield ever devised and is stopped by a plank** — alien, not weak.
+- **It is a wave with a small field, not a point.** It pushes forward and spreads a little, which is why it only has to reach you *somewhere* and why it has never cared about clothing. **So it does not see thin material at all** — cloth, paper, a leaf. **Stopping it takes mass**, and some materials take the load better than others. **Nobody survives this by wrapping up in a blanket**: the defence is a Transfiguration problem, not a prop (DIV-108).
 - **So the enemy has to close.** That is the staging of every confrontation with Voldemort in seven books: a man walking towards you through the spells being thrown at him, because the only way to use the best thing he has is to be near. He cannot snipe and never could.
 - **The caster is empty while it is out.** No magic to cast with and none to defend with, for as long as the projection takes to go and return, longer the further it travels. Casting it means voluntarily being nothing for a moment, and almost everyone experiences that as a small death. **That, and not conscience, is why nobody spams it.**
 - **Which makes it an ambush weapon or a group weapon, never a solo one.** Somebody has to hold the line while you are hollow. It is one of the reasons Voldemort keeps followers — and the one time he went alone, it ruined him (DIV-110).
@@ -131,6 +135,8 @@ Canon's own rule, never stated as one: the curse that tortures does not work on 
 
 Canon locks the wands because they share a core and calls it Priori Incantatem. **Ours has nothing to do with the wands.** Voldemort casts the foulest spell in existence at a piece of himself — the most mutilated soul there is — lodged inside a boy who at that moment can think of nothing but the girl he will not see again. It is Godric's Hollow's little brother, with the same cause: **he is firing his whole self into his own worst work.**
 
+- **What actually happens.** Harry does not know what he is, so the fragment is not being used — **it is lashing out blindly at being fired on**, and the recoil runs back along both wands. **Two pieces of the same soul repelling each other.** That one event locks the wands, forces the procession out, and stops the curse.
+- **The twin cores are the conduit, not the cause.** The connection is visibly between the two wands and the shared core is real, so the wrong answer is irresistible and nobody checks.
 - **It is the stain that holds, not the love.** Harry holds on to the wand for her; what actually resists is the fragment. **That ordering is load-bearing** — if love beats the Killing Curse here, the locked ending is a repeat with better lighting (🔒 DIV-006). In B7 the fragment is gone, only the holding-on is left, and it is enough because there are two of them.
 - **The twin cores stay in the story as the wrong answer.** They are real, Ollivander says so in B1, and the explanation is authoritative and entirely mistaken. **Voldemort blames the instrument** — which is exactly what canon's Voldemort does, so his wand-swapping and the Elder Wand hunt survive as his error rather than as machinery (DIV-024). He spends two books chasing the wrong variable.
 - **Dumbledore believes it too.** The darkest wizard of the age and the greatest misdiagnose the same event the same way, because neither can conceive that the answer is what Voldemort did to himself.
@@ -138,15 +144,26 @@ Canon locks the wands because they share a core and calls it Priori Incantatem. 
 - **Prior Incantato is untouched.** The forensic charm that reads a wand's last castings is a different thing sharing a name in canon, and we keep it (DIV-086, Q-114).
 - What the procession shows, and whose shades come out: **Q-145**.
 
+### The forest *(settled)* · DIV-114
+
+**The graveyard again, on purpose.** By B7 Harry knows what he is, and he takes hold of the fragment and holds it in front of himself — not physically, functionally — forcing it to stay where it is and take the curse.
+
+- **How he does it is open** (Q-147). *Lean: will, not a spell* — canon already runs on will for throwing off the Imperius and for Occlumency, and a named spell would make it teachable, which it must not be.
+- **It is not safe.** He has to get a grip on a piece of Voldemort's soul that does not want to be held, while being fired on, and he is betting on a theory. Good odds, not a sure thing.
+- **The connection keeps the aftermath.** He is joined to the thing that takes the curse, so he goes down with it — unconscious, and at King's Cross (DIV-048, Q-061).
+- **Voldemort is doing him the favour**, and never knows it (DIV-111). **Harry's death still protects nobody** (DIV-026).
+
 ## Interposition *(settled)* · DIV-108
 
-**The answer to what shields cannot stop is matter.** Raise the floor, conjure a wall, pull the ground up and stand behind it. A real school of defence, taught and drilled, and the only thing in the world that answers the Killing Curse.
+**You move, and you use cover.** Matter answers what shields cannot, the Killing Curse included. An advanced technique, not a reflex anyone can reach for.
 
-- **It is not an upgrade to Protego and does not compete with it.** A shield is faster, cheaper and better against everything a shield works on. Interposition is for the things it does not: the Unforgivables, and anything that goes through.
-- **It is not free.** Transfiguring ground into a barrier, at speed, under fire, in the right place, is hard magic done fast — a skilled wizard's technique, not a trick. Half of it is reading the draw early enough to be behind something when it finishes.
-- **Moody's version is the leg,** and the barrier is transparent so that he never loses sight of the other man: matter stops the curse and seeing costs nothing, so he takes both. **He teaches it to the whole class**, which is where Harry gets it — his file has the rest ([alastor-moody](../characters/alastor-moody.md), DIV-106).
-- **Harry beats Krum with it** (Q-123): the eye is the Duelling Club's, the ground is Moody's.
-- **It changes what a battle looks like.** From B5 the DA has it; at Hogwarts in B7 the castle is ammunition rather than scenery.
+- **It takes real Transfiguration, at speed, under fire, in the right place.** **Mass is the requirement** — the curse ignores cloth, paper or a leaf and needs heft to stop (DIV-107) — and some materials take the load better than others.
+- **So the ceiling is Transfiguration.** It is what finally makes Harry apply himself to the subject, and what puts something behind McGonagall's B6 advice that Aurors use it.
+- **It is not an upgrade to Protego and does not compete with it.** A shield is faster, cheaper and better against everything a shield works on, and **if you know the answer a counter or a shield is the stronger move** — you can afford not to defend, and keep the other man answering you. Interposition is for the things with no answer, and for when you do not know it.
+- **Its limits are real.** Fire that snakes around cover does exactly that: you trap it with geometry, which is a very high ceiling, or you move and accept being singed.
+- **It costs almost no power, so it is technique rather than strength** — which is why Hermione can do it, and why it is the first fighting skill in the series she is built for.
+- **How Moody arrives at it and how he teaches it:** [alastor-moody](../characters/alastor-moody.md), DIV-108. **Where it lands on the page:** Q-144. **Mobility, the other half, is not designed:** Q-149.
+
 
 ## Love as magic
 

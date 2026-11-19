@@ -396,6 +396,8 @@ In canon, King's Cross is mostly Dumbledore explaining: the Horcrux in Harry and
 - **Does she ever learn** he came back for her? Does he tell her?
 - **How he knows** she's fighting alone: he sees her, senses her through resonance, or something else (Q-062, answered).
 
+*New weight (DIV-114):* **Harry now arrives here having executed a gamble rather than having obeyed an instruction**, and he is unconscious because he was joined to the thing that took the curse. So the scene keeps its mechanism without canon's blood, and **Dumbledore has real work to do** — the conversation is no longer consoling a boy for having died on command. What it explains, and how much, is part of this question.
+
 ### Q-063 · Their meeting at the Manor (DIV-049, DIV-052)
 
 How Harry's apology turns into her waking. Needs brainstorming.
@@ -939,13 +941,20 @@ Both techniques are settled; none of their appearances are placed.
 - **Moody's lesson in B4.** Which class, what he demonstrates it against, and whether the glass barrier is in that scene or saved. **It is not a fifth rung** (DIV-102), so it is classroom material and Harry is one of a hundred.
 - **Dracaena's shield** needs planting well before B7, and the Duelling Club is the obvious home (DIV-028). Which bout, and whether Harry ever names what she is doing.
 - **Her private failure** — the girl who hunted for the shape that stops the green one and found there is not one. Powerful, and easy to overplay. Whether it is ever on the page, and in whose POV.
-- **B5 and B7.** The DA drilling it, and the Battle of Hogwarts using the castle as ammunition.
+- **B5 and B7.** The DA drilling it, with Balthier Thynne the obvious partner (DIV-082), and the Battle of Hogwarts using the castle as ammunition.
+- **Who raises the objection** in Moody's lesson — fire that snakes around cover. **Not Harry**, who takes to the technique rather than arguing with it. Hermione is the obvious candidate and may be too obvious.
+- **Whether transparent cover is in that lesson or saved.** It is the refinement, and spending it immediately costs the later moment.
+- **Where Dracaena concedes** (DIV-109). *The clean version:* she grants the technique on her own in B4, on the evidence, and still refuses to credit Moody until his apology reaches her in B5 (DIV-100, Q-139).
+- **And whether any of it happens in the Duelling Club at all.** Flitwick's is a noble art with rules; he can think the technique correct and still object to it on his piste, which would move Harry's practice and the bout she wins somewhere private. *Lean: yes, he objects, and it is characterful rather than petty.*
 
 ### Q-145 · What the graveyard procession shows (DIV-111, DIV-107)
 
-With the twin cores gone, the shades need their own reason to come out. **Leading candidate, not adopted:** it is not the wand's history but the curse's — what comes out of a Killing Curse turned back on itself is what that curse has done, so Voldemort's victims are dragged out of the thing he killed them with. That would make one mechanism carry the moral cost of the spell, the set piece, and the reason he would go up like a torch under Lustrum (DIV-080): every person he has killed is still in him, and for a minute everyone can see them.
+*Partly answered (DIV-111):* **what triggers it is settled.** The fragment lashes out blindly at being fired on, the recoil runs back along both wands, and that one event locks them, forces the procession out and stops the curse. The twin cores are the conduit and the thing everybody wrongly blames.
 
-Open either way: which shades, in what order, how much they can say, and whether Cedric's request still works the same.
+**Still open: what actually comes out.** Leading candidate, not adopted — it is not the wand's history but the curse's. What a Killing Curse turned back on itself produces is what that curse has done, so Voldemort's victims are dragged out of the thing he killed them with. That would make one mechanism carry the moral cost of the spell, the set piece, and the reason he would go up like a torch under Lustrum (DIV-080): every person he has killed is still in him, and for a minute everyone can see them.
+
+Which shades, in what order, how much they can say, and whether Cedric's request still works the same.
+
 
 ### Q-146 · What prophecy is, once defused (DIV-112)
 
@@ -953,13 +962,18 @@ The principle is settled — it enabled and did not cause. The mechanics are not
 
 Parked with the magic rework (Q-015).
 
-### Q-147 · Harry's posture walking into the forest (DIV-026, DIV-111, DIV-110)
+### Q-147 · The forest: the technique, and the conflict it opens (DIV-114, DIV-022, DIV-048)
 
-The author's standing objection: sacrifice is the antithesis of what this rewrite argues, and Harry is not the lamb. DIV-026 already holds that his death protects nobody, so nothing in the ledger needs changing — **only his motive going in.**
+*Answered (DIV-114):* **Harry knows what he is and uses it.** He holds the fragment in front of himself — functionally, not physically — and makes it take the curse. He is not the lamb; he goes in to take something off Voldemort, banking on how Horcruxes work. His death still protects nobody (DIV-026, untouched).
 
-**What DIV-111 makes available:** Voldemort never learns Harry is a Horcrux, and insists on doing it personally. The forest is therefore the same mistake as Godric's Hollow, offered to him a second time. That reframes the walk as bait in a trap the man has already proved he cannot resist — offensive rather than sacrificial.
+**Still open, and the first one is a conflict the author has to settle:**
 
-The hard part is the cost. If Harry knows he will live, the scene is worthless. *Lean: he knows it will destroy the fragment and does not know he survives it, so he goes to take something off Voldemort rather than to offer something up.* Also open: who else knows, and whether anyone works it out before he goes. Touches [themes](../core/themes.md) B7 and DIV-048.
+- **⚠ DIV-022 and DIV-048 were written for the other Harry.** DIV-022 has him marching to his death with only a faint hope that Dumbledore is wrong; DIV-048 frames his whole arc as starting from *dying for the purpose Dumbledore handed him*. Both are settled, so both stand as written and neither has been touched. **One of them has to move.** The arc survives either way — he still chooses to come back for her, and that is still not for the job — but the starting point changes from obedience to a gamble. Flagged in [before-the-forest](../scenes/b7/before-the-forest.md) and [kings-cross](../scenes/b7/kings-cross.md).
+- **How he holds it.** *Lean: will, not a spell.* Canon runs on will for throwing off the Imperius and for Occlumency, and a named spell would need a radical string and would make the thing teachable, which it must not be.
+- **How he comes to know he is one**, and how he learns enough about Horcruxes to bet on this. Canon uses Snape's memories; ours has to supply the mechanics too, and Q-148 is the other half of it.
+- **How sure he is.** Good odds, not a sure thing — but the scene is worthless if the reader can tell he will live. How much of the odds reach the page.
+- **Whether he tells her.** "She doesn't know exactly what's going to happen" survives either way, and may be stronger if he has a plan and still cannot promise her anything.
+
 
 ### Q-148 · Who arrives at the correct model? (DIV-111, DIV-112, DIV-110)
 
@@ -968,6 +982,21 @@ Dumbledore believes the brother wands and bets everything on a prophecy; Voldemo
 **The obvious candidate is Dracaena.** She already works out resonance alone, by research, and tells nobody (DIV-021, Q-028), and the old houses keep their own records where the open stacks have nothing (DIV-072, DIV-080). That would make the one person in Britain with an accurate picture of reality the one nobody would ever think to ask.
 
 Open: how much she actually gets, when, and whether she ever tells Harry.
+
+
+### Q-149 · Moody's mobility teaching (DIV-108)
+
+Interposition is half a doctrine. *You do not stand still* needs a *how*, and it is not designed.
+
+**The constraint is firm:** he cannot simply be a walking fortress, and flashy magical movement would demote brooms as transport and turn duels into spectacle. **These are meant to be battles of wits, not of athletics.** Whatever he teaches has to stay unglamorous and mostly mundane — footwork, angles, breaking line of sight, using what is already in the room — with magic doing less of it than the reader expects.
+
+Also open: what a man with one leg does about his own mobility, which the class will certainly wonder about and which he will certainly have an answer to.
+
+### Q-150 · What the two forces are called (DIV-113)
+
+The frame is Empedoclean and the names *Love* and *Strife* are where it comes from, but **nothing is committed to that vocabulary** — fixing the language now would fossilise it.
+
+The same rule as *the leash* and *the collar* (DIV-084): bible shorthand that must never reach the manuscript. What the story calls them, if it names them at all, is parked with the magic rework (Q-015). **The safest answer may be that nothing in the books names them**, since no character has the correct model anyway (DIV-113).
 
 
 ## Answered

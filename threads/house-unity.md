@@ -69,7 +69,7 @@ The thread needs its ugliness owned by somebody, or Slytherin's cruelty reads as
 | B3 | The Defence exam: she is excellent on the course and never comes out of the Boggart trunk. Lupin takes her out and hands her to Pansy, who doesn't ask; Daphne gets her first ammunition and uses it in front of the queue (DIV-093, DIV-094) | [the-trunk](../scenes/b3/the-trunk.md) |
 | B3 | The final: she's the only Slytherin playing clean, cheers for Gryffindor in front of her own stands, screams at her own Beater and calls him inbred, then takes Potter's hand on the pitch. The first crack between her and her house, and it is written home about (DIV-069, DIV-070, Q-081) | [the-quidditch-final](../scenes/b3/the-quidditch-final.md) |
 | B4 | | |
-| B5 | Some Slytherins join the DA: Pansy (Dracaena's friend), and Balthier and Nola in their last year | [b5/outline](../books/b5/outline.md) |
+| B5 | Some Slytherins join the DA: Pansy (Dracaena's friend), and Balthier and Nola in their last year. **Balthier's Transfiguration makes him the best in the room at Moody's cover technique**, and Nola is delighted about it (DIV-108) | [b5/outline](../books/b5/outline.md) |
 | B6 | | |
 | B7 | Pansy and others refuse the evacuation and fight, alongside Slughorn. Balthier and Nola, out of school, come back for it | [final-duel](../scenes/b7/final-duel.md) |
 

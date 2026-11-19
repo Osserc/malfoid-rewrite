@@ -33,7 +33,11 @@ He drills the spells that can be cast clean — Expelliarmus, Stupefy, Protego, 
 
 She shields on the point of her wand — coin-sized Protegos placed exactly where the incoming spell will be — so she pricks curses out of the air and bounces them back, spending almost nothing. It is where the reader sees that she is the better technician, and it is the thing the Killing Curse goes straight through (DIV-107). Full entry: [dracaena-malfoy](../characters/dracaena-malfoy.md). Planting it: Q-144.
 
-**The other school is Moody's**, and she would call it uncouth: put matter in the way (DIV-108). Harry has both by the end of B4, which is how he beats Krum (Q-123).
+**The other school is Moody's**: move, and put matter in the way (DIV-108). **Her objection is not taste but concession** — using cover admits the other duellist is better, and with a pin-shield and a wide knowledge of counters she usually does know the answer. She scoffs, Harry tries it on her and she overcomes it, he perfects it, and the mature version beats Krum (Q-123). Full entry: [dracaena-malfoy](../characters/dracaena-malfoy.md).
+
+***(open)* Whether any of this happens in the club.** Flitwick's is a noble art with rules, and he can think Moody's technique correct and still not want it dragged over his piste — which would push Harry's practice, and the bout where she overcomes him, somewhere private. Q-144.
+
+**And Moody watches a session**, does not recognise it as fighting, and takes the theory back to his own classroom. That is where interposition comes from (DIV-108).
 
 ## The trophies, and the two hoards *(settled)* · DIV-059
 
