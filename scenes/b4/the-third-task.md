@@ -47,7 +47,6 @@ Nobody yields, because nobody knows where the Goblet draws the line between bein
 11. *(settled)* **Touch is not claim.** The Portkey carries whoever is in contact; the charge goes to whoever claimed. Cedric's hand is on Harry's ankle and not on the handle, and that inch is why he is the spare.
 12. *(settled)* **They think the Task is still running.** The charge takes minutes to settle and is churning in Harry the whole time, so neither of them reads the graveyard as the end of anything. The boys' misreading and Voldemort's window are the same fact.
 13. *(settled)* **Their last exchange is about the bout.** Then canon, at speed.
-    - **The duel in the graveyard does not run on the wands** (DIV-111). Voldemort fires the foulest spell there is at a piece of himself inside Harry, and the reaction is Godric's Hollow's little brother. **It is the stain that holds, not the love** — Harry holds on to the wand for her, and the fragment is what resists. The brother wands stay in the story as the explanation everyone believes and nobody checks. What the procession shows: Q-145.
 14. *(settled)* **The echo asks for two things:** take him back to his father, and well done. The congratulation is Cedric accepting that he lost. Harry can neither refuse it nor believe it.
 
 ## What the school sees

@@ -2,6 +2,8 @@
 
 Undecided points and ripples from decisions already made. IDs are permanent. When a question is answered, move it to **Answered** with a one-line answer and a link to where it's written out.
 
+**Retired, never reuse:** Q-145, Q-146, Q-147, Q-148, Q-150 — the graveyard procession, prophecy once defused, the forest technique, who arrives at the correct model, and the naming of the two forces. All moot with DIV-110 to DIV-114 (reverted 2026-11-19). The entries are in the git history.
+
 **Retired, never reuse:** Q-045, Q-046, Q-047, Q-049, Q-054 — all moot with the trio split (reverted 2026-10-27). The one live item carried on as Q-071. The entries are in the git history.
 
 **Retired, never reuse:** Q-095 — Kreacher asking to be re-anchored to Harry, struck as underbaked. What replaced it is Q-100.
@@ -110,9 +112,7 @@ Canon already treats love as magic through Lily's sacrifice. How do we make it w
 
 *Also answered:* Harry's sacrifice in the forest protects no one (DIV-026).
 
-*Also answered (DIV-110):* **Lily's protection is not sacrifice and never was.** Godric's Hollow is a configuration — the filthiest caster alive projecting his whole self (DIV-107) at a perfect null, through a body in the path — and the reaction maimed him and left part of him in Harry. Nothing was rewarded, every mother alive could have done it, and none ever got the chance because he does not do his own killing. The question "why her and not his" dissolves: neither of them was ever protected by dying.
-
-Still open: how resonance relates to any of it, and whether Love-as-a-force (DIV-113) makes the two the same mechanism at different scales.
+Still open: how resonance relates to love as sacrifice, meaning Lily's protection. Also, why does Lily's sacrifice protect Harry when his protects no one? Readers who know canon will ask.
 
 ### Q-015 · Designing the radical system (DIV-007)
 
@@ -122,11 +122,8 @@ Fixed point: Apparition takes no wand ([magic](../setting/magic.md), DIV-054).
 
 **The rework now has a spec rather than a blank page.** Whatever system gets built has to produce:
 
-- **Love and Strife as the two forces behind the radicals** (DIV-113), neither of them judging anybody.
-- **A range limit on the Killing Curse** that falls out of concentrated Strife failing to cohere at distance, rather than being bolted on (DIV-107).
-- **Innocence as a null quantity** — an absence of accumulated magic, not a virtue — consistent with what Lustrum already finds in small children (DIV-080, DIV-110).
+- **A range limit on the Killing Curse** that falls out of the projection failing to cohere at distance, rather than being bolted on (DIV-107).
 - **A draw long enough to be read**, since both the Killing Curse's telegraph (DIV-107) and interposition (DIV-108) depend on a spell being legible while it is being made, as resonance already does (DIV-021).
-- **Prophecy**, defused: Q-146.
 
 ### Q-016 · What is the pureblood point? (DIV-008)
 
@@ -208,10 +205,6 @@ How does she get the Ministry to send the Dementors to the lake? Floated so far:
 ### Q-027 · Wand rules after the purge (DIV-024)
 
 With allegiance gone, what does "the wand chooses the wizard" mean now? Also: how wands work in general, wandless magic (overlaps Q-015), and what's left of canon's other wand-bond lore, such as the holly wand acting on its own in B7. Deferred: the author plans to write down the rules of magic, wands and wandless magic.
-
-*Partly answered (DIV-111):* **twin cores are out as a mechanism and stay in as a red herring.** The graveyard runs on the Horcrux, not the wands; Voldemort and Dumbledore both believe the wand explanation and are both wrong. **Prior Incantato, the forensic charm, is untouched** and still reads Crouch Sr's murder off Moody's wand (Q-114).
-
-*Also answered (DIV-113):* why the Dark Arts crack the soul — Strife separates, and the caster is a thing.
 
 **One piece got cheaper.** The holly wand acting on its own existed to save Harry in the Seven Potters chase and to start the Elder Wand hunt. **Moody's last stand now does the saving** (DIV-103) and the hunt's trigger moved to Q-011, so the beat can simply go, rather than needing a replacement built for it.
 
@@ -395,8 +388,6 @@ In canon, King's Cross is mostly Dumbledore explaining: the Horcrux in Harry and
 - **What it still has to explain**, now that the Hallows and the protection are gone. Ties in with Q-014: why Lily's sacrifice protected Harry when his protects no one.
 - **Does she ever learn** he came back for her? Does he tell her?
 - **How he knows** she's fighting alone: he sees her, senses her through resonance, or something else (Q-062, answered).
-
-*New weight (DIV-114):* **Harry now arrives here having executed a gamble rather than having obeyed an instruction**, and he is unconscious because he was joined to the thing that took the curse. So the scene keeps its mechanism without canon's blood, and **Dumbledore has real work to do** — the conversation is no longer consoling a boy for having died on command. What it explains, and how much, is part of this question.
 
 ### Q-063 · Their meeting at the Manor (DIV-049, DIV-052)
 
@@ -948,43 +939,6 @@ Both techniques are settled; none of their appearances are placed.
 - **Where Dracaena concedes** (DIV-109). *The clean version:* she grants the technique on her own in B4, on the evidence, and still refuses to credit Moody until his apology reaches her in B5 (DIV-100, Q-139).
 - **And whether any of it happens in the Duelling Club at all.** Flitwick's is a noble art with rules; he can think the technique correct and still object to it on his piste, which would move Harry's practice and the bout she wins somewhere private. *Lean: yes, he objects, and it is characterful rather than petty.*
 
-### Q-145 · What the graveyard procession shows (DIV-111, DIV-107)
-
-*Partly answered (DIV-111):* **what triggers it is settled.** The fragment lashes out blindly at being fired on, the recoil runs back along both wands, and that one event locks them, forces the procession out and stops the curse. The twin cores are the conduit and the thing everybody wrongly blames.
-
-**Still open: what actually comes out.** Leading candidate, not adopted — it is not the wand's history but the curse's. What a Killing Curse turned back on itself produces is what that curse has done, so Voldemort's victims are dragged out of the thing he killed them with. That would make one mechanism carry the moral cost of the spell, the set piece, and the reason he would go up like a torch under Lustrum (DIV-080): every person he has killed is still in him, and for a minute everyone can see them.
-
-Which shades, in what order, how much they can say, and whether Cedric's request still works the same.
-
-
-### Q-146 · What prophecy is, once defused (DIV-112)
-
-The principle is settled — it enabled and did not cause. The mechanics are not. Is it foresight at all? A reading of the two forces (DIV-113)? Suggestion dressed as revelation? And what does the Department of Mysteries plot become when the orb is worthless: the same plot with the reader knowing better, or a changed one?
-
-Parked with the magic rework (Q-015).
-
-### Q-147 · The forest: the technique, and the conflict it opens (DIV-114, DIV-022, DIV-048)
-
-*Answered (DIV-114):* **Harry knows what he is and uses it.** He holds the fragment in front of himself — functionally, not physically — and makes it take the curse. He is not the lamb; he goes in to take something off Voldemort, banking on how Horcruxes work. His death still protects nobody (DIV-026, untouched).
-
-**Still open, and the first one is a conflict the author has to settle:**
-
-- **⚠ DIV-022 and DIV-048 were written for the other Harry.** DIV-022 has him marching to his death with only a faint hope that Dumbledore is wrong; DIV-048 frames his whole arc as starting from *dying for the purpose Dumbledore handed him*. Both are settled, so both stand as written and neither has been touched. **One of them has to move.** The arc survives either way — he still chooses to come back for her, and that is still not for the job — but the starting point changes from obedience to a gamble. Flagged in [before-the-forest](../scenes/b7/before-the-forest.md) and [kings-cross](../scenes/b7/kings-cross.md).
-- **How he holds it.** *Lean: will, not a spell.* Canon runs on will for throwing off the Imperius and for Occlumency, and a named spell would need a radical string and would make the thing teachable, which it must not be.
-- **How he comes to know he is one**, and how he learns enough about Horcruxes to bet on this. Canon uses Snape's memories; ours has to supply the mechanics too, and Q-148 is the other half of it.
-- **How sure he is.** Good odds, not a sure thing — but the scene is worthless if the reader can tell he will live. How much of the odds reach the page.
-- **Whether he tells her.** "She doesn't know exactly what's going to happen" survives either way, and may be stronger if he has a plan and still cannot promise her anything.
-
-
-### Q-148 · Who arrives at the correct model? (DIV-111, DIV-112, DIV-110)
-
-Dumbledore believes the brother wands and bets everything on a prophecy; Voldemort blames the instrument and never suspects his own project. Both are wrong, and the ending cannot turn on luck — so somebody on our side has to get close to what is actually happening.
-
-**The obvious candidate is Dracaena.** She already works out resonance alone, by research, and tells nobody (DIV-021, Q-028), and the old houses keep their own records where the open stacks have nothing (DIV-072, DIV-080). That would make the one person in Britain with an accurate picture of reality the one nobody would ever think to ask.
-
-Open: how much she actually gets, when, and whether she ever tells Harry.
-
-
 ### Q-149 · Moody's mobility teaching (DIV-108)
 
 Interposition is half a doctrine. *You do not stand still* needs a *how*, and it is not designed.
@@ -995,10 +949,6 @@ Also open: what a man with one leg does about his own mobility, which the class 
 
 
 ## Answered
-
-### Q-150 · What the two forces are called (DIV-113)
-
-*Answered: they have no names, and do not need any.* Empedocles is where the shape comes from; *Love* and *Strife* are convenience only, never on the page and not in the bible's final form. **What the story needs is what they do.** The author's further note, carried into DIV-113 and parked with Q-015: they may not be forces at all — joining and separating could simply be how magic answers intent, a categorisation rather than an ontology, and settling that means settling how magic works in the first place. Recorded in **DIV-113**, [magic](../setting/magic.md).
 
 ### Q-141 · Does Harry ever learn why Moody left? (DIV-106, DIV-100)
 

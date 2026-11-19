@@ -6,7 +6,7 @@ status: draft
 
 **Role:** protagonist.
 **Canon baseline:** canon Harry, harsher than the original, and in love with Dracaena Malfoy.
-**Changes from canon:** DIV-004–006, DIV-009, DIV-015, DIV-017–019, DIV-021–023, DIV-026, DIV-028, DIV-029, DIV-032, DIV-037–039, DIV-041, DIV-043–052, DIV-058–063, DIV-065–069, DIV-072, DIV-073, DIV-089–092, DIV-095, DIV-096, DIV-105, DIV-106, DIV-108, DIV-110, DIV-111, DIV-112
+**Changes from canon:** DIV-004–006, DIV-009, DIV-015, DIV-017–019, DIV-021–023, DIV-026, DIV-028, DIV-029, DIV-032, DIV-037–039, DIV-041, DIV-043–052, DIV-058–063, DIV-065–069, DIV-072, DIV-073, DIV-089–092, DIV-095, DIV-096, DIV-105, DIV-106, DIV-108
 
 The romance itself lives in [threads/harry-dracaena.md](../threads/harry-dracaena.md); this file is what he is, not what happens between them.
 

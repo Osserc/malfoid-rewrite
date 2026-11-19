@@ -40,8 +40,6 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 - 🔒 Harry and Dracaena duel Voldemort together with her wand; their "love" rebounds the Killing Curse. DIV-006, [final-duel](../../scenes/b7/final-duel.md)
 - The Killing Curse is a projection: unblockable, short-ranged, and it leaves the caster empty. Nobody shields it; the castle's matter is the defence, and the Great Hall is fought with the building. DIV-107, DIV-108
 - Moody dies in the air, where interposition cannot reach him. DIV-103, DIV-108
-- Voldemort never learns Harry is a Horcrux, and blames the wands to the end. DIV-111
-- In the forest Harry holds the Horcrux in front of himself and makes it take the curse. He knows what he is and is using it; it is a gamble, not a sacrifice. **Collides with DIV-022 and DIV-048 as written** — see Q-147. DIV-114
 
 ## Acts
 
