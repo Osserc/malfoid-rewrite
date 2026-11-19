@@ -12,6 +12,20 @@ Spellcasting is technical. Wand motions draw "radicals" that combine into spells
 
 Design still open (Q-015): which radicals exist, how they combine, what incantations add, how nonverbal and wandless casting work, and what makes a spell hard.
 
+## Love and Strife *(direction)* · DIV-113
+
+**Magic is Empedoclean.** Behind the radicals there are two forces: **Love**, which joins what is separate, and **Strife**, which separates what is joined. They are directions, not moral grades, and neither is on anybody's side.
+
+Design open with the rest of the system (Q-015). What the frame already decides:
+
+- **Dark magic is Strife channelled.** That is *Dark magic runs on intent* (DIV-084) restated at the level it operates on: intent to harm is not a category the universe is marking, it is an alignment. **And what you channel does to you what it does to everything**, which answers Q-027 by definition — the Dark Arts crack the soul because separating things is the whole function of what you are drawing on, and you are a thing.
+- **A Horcrux is the endpoint**, not an exotic ritual: Strife finally applied to yourself, on purpose.
+- **The Killing Curse is Strife concentrated to a point** and projected whole, which is also why it cannot hold together at distance (DIV-107).
+- **Resonance is the inverse, and this is the keystone.** **A Horcrux is one person divided; resonance is two people joined** (DIV-021). The same physics, run in opposite directions — so Voldemort's project and Harry and Dracaena's are mechanical mirror images, and Love is a term in the equation rather than a sentiment bolted onto the ending (🔒 DIV-006). It is also why *only love, and friendship is not enough* stops being arbitrary: Love here is a named force with a job.
+- **The stolen edge follows** (DIV-021): she reaches for union and touches a fragment whose entire nature is division, so of course it hurts her.
+- **Nobody in the story knows any of this.** The cast has folk theories — brother wands, sacrifice, prophecy, righteous fire — and they are all wrong. The reader gets the physics; the characters get superstition. **The house pattern holds** (DIV-080): the legend and the mechanism are two different things, and no character ever delivers the correct metaphysics as a lecture.
+- **Love is not a reward for virtue.** Lustrum's rule is the model and it is not negotiable: it makes no judgement of anybody, it counts spells. **That it is worth doing things right is what the book argues, not how the world works** ([themes](../core/themes.md)).
+
 ## Time 🔒 · DIV-002
 
 Time-Turners do not exist. Whether any other time magic exists: Q-004.
@@ -92,12 +106,47 @@ Who traded it, and the consequences: [azkaban](../problems/azkaban.md), DIV-084.
 
 ## Dark Magic runs on intent *(draft)* · DIV-084
 
-Canon's own rule, never stated as one: the curse that tortures does not work on righteous anger, only on genuinely wanting to cause pain. We make it general. **Dark Magic is powered by what the caster wants, not by what the caster knows.** Technique helps; appetite is the requirement.
+Canon's own rule, never stated as one: the curse that tortures does not work on righteous anger, only on genuinely wanting to cause pain. We make it general. **Dark Magic is powered by what the caster wants, not by what the caster knows.** Technique helps; appetite is the requirement. *(What it is underneath: Strife channelled — DIV-113.)*
 
 - **It explains Macnair.** A brute with no scholarship takes a defensive spell and makes it a yoke, because the only qualification was wanting it that way. It is also why nobody decent ever found the trick: you have to want it first, and most people never do.
 - **It explains Umbridge** doing the same thing twelve years later with no more training than he had (DIV-085).
 - **It is not a licence.** Power still runs in lines ([society](society.md)) and the Dark Arts still crack the seal and let ambient magic in, at a price (Q-027). Intent decides whether dark magic *takes*, not how strong you are.
 - **It decides what Lustrum can see.** The fire burns Dark magic present in a person, so the intent rule is what sorts a curse from a martial spell at the moment of casting — and what makes almost everybody flammable, since a curse you took leaves the same residue as one you threw (*Lustrum*, above).
+
+## The Killing Curse *(settled)* · DIV-107
+
+**It is not a spell the caster throws. It is the caster, thrown.** Avada Kedavra projects the caster's entire magic out of the body, which then has to come back. Every other property follows from that.
+
+- **Nothing stops it, because it is not scaled like a spell.** Shields are built against castings; this is a whole person arriving at once. It goes through Protego and through any ward ever devised, and it does not need to strike anywhere in particular — it envelops rather than hits.
+- **No travel time inside its reach, and nothing whatever outside it.** Wand, word, green light, and the man drops. Past its range the projection cannot hold itself together and dissipates entirely: no falloff, no wounding at the edge, nothing arrives. **Duelling range, not battlefield range** (Q-143).
+- **It needs an unobstructed path through matter, not an unobstructed view.** Seeing is targeting; matter is the wall. A pane of conjured glass stops it dead and still lets the caster watch you through it. **The pinnacle of the Dark Arts goes through every shield ever devised and is stopped by a plank** — alien, not weak.
+- **So the enemy has to close.** That is the staging of every confrontation with Voldemort in seven books: a man walking towards you through the spells being thrown at him, because the only way to use the best thing he has is to be near. He cannot snipe and never could.
+- **The caster is empty while it is out.** No magic to cast with and none to defend with, for as long as the projection takes to go and return, longer the further it travels. Casting it means voluntarily being nothing for a moment, and almost everyone experiences that as a small death. **That, and not conscience, is why nobody spams it.**
+- **Which makes it an ambush weapon or a group weapon, never a solo one.** Somebody has to hold the line while you are hollow. It is one of the reasons Voldemort keeps followers — and the one time he went alone, it ruined him (DIV-110).
+- **He is the fastest and surest caster of it alive, and the aptitude is the damage.** A man already in pieces is long used to not being whole, so the hollow moment does not frighten him as it frightens everybody else. Inside his reach, anyone who drops their guard is finished. **His being best at it and his losing are the same fact.**
+- **There is no clean casting, ever, by anyone.** The spell has no second use, so under DIV-084 there is no other way to cast it: you launder your whole being through malice and not all of it comes back. **One casting marks a person permanently** — the heaviest single residue there is, and what makes any Death Eater worth the name a pyre under Lustrum (DIV-080).
+- **And it cannot be cast in a flinch.** The longest, least forgiving radical string in the Dark Arts (DIV-007), so it is a decision held visibly for seconds in front of whoever is watching. **Nobody has ever killed with it by accident.**
+
+### The graveyard, and the red herring *(settled)* · DIV-111
+
+Canon locks the wands because they share a core and calls it Priori Incantatem. **Ours has nothing to do with the wands.** Voldemort casts the foulest spell in existence at a piece of himself — the most mutilated soul there is — lodged inside a boy who at that moment can think of nothing but the girl he will not see again. It is Godric's Hollow's little brother, with the same cause: **he is firing his whole self into his own worst work.**
+
+- **It is the stain that holds, not the love.** Harry holds on to the wand for her; what actually resists is the fragment. **That ordering is load-bearing** — if love beats the Killing Curse here, the locked ending is a repeat with better lighting (🔒 DIV-006). In B7 the fragment is gone, only the holding-on is left, and it is enough because there are two of them.
+- **The twin cores stay in the story as the wrong answer.** They are real, Ollivander says so in B1, and the explanation is authoritative and entirely mistaken. **Voldemort blames the instrument** — which is exactly what canon's Voldemort does, so his wand-swapping and the Elder Wand hunt survive as his error rather than as machinery (DIV-024). He spends two books chasing the wrong variable.
+- **Dumbledore believes it too.** The darkest wizard of the age and the greatest misdiagnose the same event the same way, because neither can conceive that the answer is what Voldemort did to himself.
+- **And he never learns Harry is a Horcrux.** Not in B5, not in B7, not at the end. **So the forest is the same mistake twice**: he destroys his own Horcrux by accident, for the second time, for the same reason — because he insisted on doing it personally.
+- **Prior Incantato is untouched.** The forensic charm that reads a wand's last castings is a different thing sharing a name in canon, and we keep it (DIV-086, Q-114).
+- What the procession shows, and whose shades come out: **Q-145**.
+
+## Interposition *(settled)* · DIV-108
+
+**The answer to what shields cannot stop is matter.** Raise the floor, conjure a wall, pull the ground up and stand behind it. A real school of defence, taught and drilled, and the only thing in the world that answers the Killing Curse.
+
+- **It is not an upgrade to Protego and does not compete with it.** A shield is faster, cheaper and better against everything a shield works on. Interposition is for the things it does not: the Unforgivables, and anything that goes through.
+- **It is not free.** Transfiguring ground into a barrier, at speed, under fire, in the right place, is hard magic done fast — a skilled wizard's technique, not a trick. Half of it is reading the draw early enough to be behind something when it finishes.
+- **Moody's version is the leg,** and the barrier is transparent so that he never loses sight of the other man: matter stops the curse and seeing costs nothing, so he takes both. **He teaches it to the whole class**, which is where Harry gets it — his file has the rest ([alastor-moody](../characters/alastor-moody.md), DIV-106).
+- **Harry beats Krum with it** (Q-123): the eye is the Duelling Club's, the ground is Moody's.
+- **It changes what a battle looks like.** From B5 the DA has it; at Hogwarts in B7 the castle is ammunition rather than scenery.
 
 ## Love as magic
 
@@ -107,7 +156,19 @@ Canon's own rule, never stated as one: the curse that tortures does not work on 
 
 Harry's death in the forest protects no one. Unlike canon, it doesn't stop Voldemort's spells from taking hold on the defenders. It opens the way to Voldemort's destruction, but everyone still has to play their part (see [themes](../core/themes.md)).
 
-Lily's protection is canon. Why her sacrifice protects and his doesn't, and how resonance relates to both, is open: Q-014.
+Why her sacrifice worked and his doesn't is no longer a question about sacrifice at all: see *Godric's Hollow* below (DIV-110). How resonance relates to either is still open: Q-014.
+
+### Godric's Hollow *(settled)* · DIV-110
+
+**A configuration, not a reward.** Nothing judged anybody and nobody was protected for being good. Three quantities met at one point and the result was a reaction.
+
+- **The filthiest caster alive**, projecting his entire self (DIV-107), carrying more accumulated Strife than anyone in Britain and a soul already deliberately broken into pieces.
+- **A perfect null.** A small child has worked no magic and has had none worked on it — not an innocent nature, simply nothing there. **Our magic already treats this as a quantity:** it is why Lustrum finds nothing at all in a small child (DIV-080), and it is what the old stories about unicorns were always describing.
+- **A body in the path.** Not a shield and not a bargain: the projection has to pass through whatever is between, and she was between.
+- **The reaction maimed him and handed part of him to the boy.** His whole magic was outside his body and in contact with Harry when it went wrong. **A piece staying behind is not an accident that needed arranging; it would have been remarkable if none had.** This is where Harry's Horcrux comes from.
+- **Every mother alive could have done what Lily did.** None ever got the chance, because Voldemort does not do his own killing — and a follower is merely a murderer, not a lifetime's sediment of Dark magic with a soul in pieces. **The one time he walked up to a small child personally, this happened.** Nobody is insulted and nothing is unrepeatable in principle.
+- **It is not what happens in B7.** Godric's Hollow is a chemical accident; the final duel is two people doing something on purpose (🔒 DIV-006), and the locked ending stays singular because of it.
+- **Why he was in the room at all:** the prophecy, which did that one thing and nothing else (DIV-112).
 
 ### Resonance *(settled)* · DIV-021
 

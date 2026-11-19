@@ -38,6 +38,9 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 - *(draft)* Some Slytherins refuse the evacuation and fight, alongside Slughorn. DIV-055, [house-unity](../../threads/house-unity.md)
 - Harry's death in the forest protects no one: everyone has to play their part. DIV-026
 - 🔒 Harry and Dracaena duel Voldemort together with her wand; their "love" rebounds the Killing Curse. DIV-006, [final-duel](../../scenes/b7/final-duel.md)
+- The Killing Curse is a projection: unblockable, short-ranged, and it leaves the caster empty. Nobody shields it; the castle's matter is the defence, and the Great Hall is fought with the building. DIV-107, DIV-108
+- Moody dies in the air, where interposition cannot reach him. DIV-103, DIV-108
+- Voldemort never learns Harry is a Horcrux, and blames the wands to the end. DIV-111
 
 ## Acts
 

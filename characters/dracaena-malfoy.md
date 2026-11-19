@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Harry's rival and his tsundere love interest. 🔒 DIV-001
 **Canon baseline:** Draco Malfoy. Anything not overridden follows canon Draco, adjusted for the knock-on effects of her being a daughter (Q-001).
-**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–032, DIV-038–041, DIV-043, DIV-045–047, DIV-049, DIV-052, DIV-054, DIV-058–061, DIV-064, DIV-065, DIV-069–071, DIV-095
+**Changes from canon:** DIV-001, DIV-003–006, DIV-009–018, DIV-020–023, DIV-027–032, DIV-038–041, DIV-043, DIV-045–047, DIV-049, DIV-052, DIV-054, DIV-058–061, DIV-064, DIV-065, DIV-069–071, DIV-095, DIV-109
 
 ## Core
 
@@ -67,6 +67,17 @@ Open: Q-084.
 - **Her perfume.** She brews her own pear perfume, the one Harry picked for her in B5, adding a new note to every batch and daring him to name it. She still wears it in B6 ([the-pear-perfume](../scenes/b5/the-pear-perfume.md)).
 - **Why not paintings?** The same mindset pointed at someone else's art. She has the true Dessendre story — from family memory, not from a library, because the old houses keep their own — and reads it as a failed experiment rather than a warning: a technique that nearly worked, used badly. She says it out loud in B1, at eleven, about strangers: Aline got what she was after and merely had to ration her time better (DIV-073). It is why the Mirror ruins her in B6 — the one thing she can't approach with a method, and she cannot ration her own visits either ([painted-life](../setting/painted-life.md), DIV-072, Q-085).
 - **Mama's medicine.** She takes over brewing it in Snape's stead in B7, at Shell Cottage, a tangible sign of how far she's come. Hermione's sealing spell lets her brew a whole batch ([narcissa-malfoy](narcissa-malfoy.md), Q-041).
+
+## Duelling: the wand-tip shield *(settled)* · DIV-109
+
+**She shields on the point of her wand.** Not a wall in front of her body — a Protego the size of a coin, made at the tip and put exactly where the incoming spell is going to be, so that she pricks curses out of the air and turns them aside. It is the cheapest possible way to block anything, and it is only available to someone with absolute control over the shape and placement of her own magic.
+
+- **It is the character in one piece of technique.** She spends nothing and wastes nothing; she puts the right thing in the right place at the right instant. The duelling form of the same precision that makes her the best potioneer in the castle (DIV-011) and the better technician of the two (DIV-028).
+- **It conserves her,** which matters in a long fight and matters more against anyone stronger. She bounces things back off it, and does, which is how she gloats.
+- **And it cannot touch the Killing Curse.** Nothing scaled like a shield can (DIV-107). **The one incoming thing in the world her art has no answer to is the only one that matters**, and she knows it perfectly well.
+- **She has certainly tried.** A girl who can prick a curse off a wand tip has sat alone with the problem and hunted for the shape that stops the green one, and there is not one. Whether that is ever on the page: Q-144.
+- **It is her ceiling again** (DIV-070). She loses the B3 final to an improvisation she finds distasteful, she loses in B5 to something her code does not price, and the Dark Arts' one unanswerable spell is the thing her technique cannot reach. **Moody's school of mud and rubble is exactly what she would call *uncouth*** (DIV-108), which is why Harry takes to it in an afternoon and she never would.
+- **So B7 is not a better shield.** She cannot block it, so she answers it instead — Expelliarmus, her wand, his hand over hers (🔒 DIV-006). **The thing that beats the Killing Curse is not a defence. It is two people.**
 
 ## Occlumency
 
@@ -258,4 +269,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-028, Q-030–Q-032, Q-035–Q-038, Q-041–Q-044, Q-050–Q-052, Q-067–Q-069, Q-072, Q-073, Q-075, Q-081–Q-086, Q-096, Q-098, Q-101
+Q-001, Q-003, Q-007, Q-008, Q-009, Q-013, Q-018–Q-023, Q-025, Q-028, Q-030–Q-032, Q-035–Q-038, Q-041–Q-044, Q-050–Q-052, Q-067–Q-069, Q-072, Q-073, Q-075, Q-081–Q-086, Q-096, Q-098, Q-101, Q-144

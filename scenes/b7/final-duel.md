@@ -42,6 +42,8 @@ All beats are *(settled)*, part of DIV-023, unless marked 🔒 or *(draft)*.
 14. He tries Legilimency. Dracaena wraps Harry's mind in hers, and Voldemort finds nothing but her love for Harry. It's a callback to B5 (canon), when he can't stay in Harry's mind once it fills with love.
 15. He's on the back foot, then cornered.
 16. 🔒 Their Expelliarmus meets his Killing Curse, and their "love" rebounds it onto him. It's their signature spell. He dies for good.
+    - **It is the payoff of four books of it being unanswerable.** Her art cannot block it and never could (DIV-109); the thing that beats it is not a defence but two people. And because the curse is the caster projected whole (DIV-107), what comes back at him is himself.
+    - **He dies not knowing why.** He has blamed the instrument since the graveyard and never suspected his own project (DIV-111).
 
 ### Neville's line
 

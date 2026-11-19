@@ -6,7 +6,7 @@ status: draft
 
 **Role:** protagonist.
 **Canon baseline:** canon Harry, harsher than the original, and in love with Dracaena Malfoy.
-**Changes from canon:** DIV-004–006, DIV-009, DIV-015, DIV-017–019, DIV-021–023, DIV-026, DIV-028, DIV-029, DIV-032, DIV-037–039, DIV-041, DIV-043–052, DIV-058–063, DIV-065–069, DIV-072, DIV-073, DIV-089–092, DIV-095, DIV-096, DIV-105, DIV-106
+**Changes from canon:** DIV-004–006, DIV-009, DIV-015, DIV-017–019, DIV-021–023, DIV-026, DIV-028, DIV-029, DIV-032, DIV-037–039, DIV-041, DIV-043–052, DIV-058–063, DIV-065–069, DIV-072, DIV-073, DIV-089–092, DIV-095, DIV-096, DIV-105, DIV-106, DIV-108, DIV-110, DIV-111, DIV-112
 
 The romance itself lives in [threads/harry-dracaena.md](../threads/harry-dracaena.md); this file is what he is, not what happens between them.
 
@@ -110,7 +110,8 @@ The warning aimed at him is not Aline's but Renoir's — the man who went into t
 - **Flying.** A wild instrument suits him. He wins when he stops managing it (DIV-068).
 - **Sacrifice.** His death in the forest protects nobody (DIV-026).
 - **The charge, B4.** Bound by the Goblet on pain of his magic, he carries the Tournament's charge as it grows through the year — spells landing harder than he means them to, and **Dracaena notices before he does**, because she is the one who knows his magic best (DIV-087, DIV-028). It buys him nothing he wants: he is strongest, most watched and most hounded in the year he cannot make himself ask one girl a question. It is awarded to him in the graveyard, bound to a headstone with his wand out of reach, and drawn straight back out for the ritual. **It never settles, so it leaves no mark**: there is no drained Harry in B5 and nothing to convalesce from, and the book is never allowed to blame his temper on his magic (Q-122, dropped). What he keeps is knowing what it was.
-- **No shape.** His edge against anyone trained, and the reason he beats Krum: three years against the best technician in the castle have made him a reader of other people's casting, and left his own unreadable. She gave him that by being perfect at him, bout after bout, since they were twelve — how often the club actually meets is deliberately uncommitted (DIV-028, DIV-089, Q-127). How it works on the page is **Q-123**.
+- **No shape.** His edge against anyone trained, and the reason he beats Krum: three years against the best technician in the castle have made him a reader of other people's casting, and left his own unreadable. She gave him that by being perfect at him, bout after bout, since they were twelve — how often the club actually meets is deliberately uncommitted (DIV-028, DIV-089, Q-127). How it works on the page is **Q-123**: the read is hers, the finish is Moody's ground (DIV-108).
+- **Interposition.** Matter in the way of what shields cannot stop (DIV-108). He gets it from the front of a classroom, as one of a hundred, and it is the only tangible thing Moody leaves him. He finishes Krum with it, teaches it to the DA in B5, and fights the Battle of Hogwarts with the castle.
 - **What Moody taught him** was real, and some of it was Crouch's, and he can never sort which (DIV-086). The boy who was told that spells are only weapons is the boy who uses one out of a book he doesn't understand in B6 — see *Permission, and what it buys* above (DIV-096, DIV-043).
 - **And in B5 two men tell him he is a grown one.** Sirius sees James, Moody sees the soldier he made, and neither of them is looking at Harry — which is how he stays the loneliest person in a house full of allies, and why the Ministry happens (DIV-099, Q-140). The same two give him the same verdict on Dracaena, a year apart and in opposite registers, and he takes Sirius's (DIV-101).
 

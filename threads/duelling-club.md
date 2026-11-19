@@ -29,6 +29,12 @@ He drills the spells that can be cast clean — Expelliarmus, Stupefy, Protego, 
 - **He never explains it that way,** and nobody asks. He is also, quietly, the man who built a vicewick.
 - **It gives Harry's Expelliarmus a reason.** Canon never justifies his signature spell as anything but sentiment. Ours makes it the one thing you can cast forever and stay clean — which is what the series ends on, against a man who is nothing but accumulated stain (🔒 DIV-006).
 
+## Her technique *(settled)* · DIV-109
+
+She shields on the point of her wand — coin-sized Protegos placed exactly where the incoming spell will be — so she pricks curses out of the air and bounces them back, spending almost nothing. It is where the reader sees that she is the better technician, and it is the thing the Killing Curse goes straight through (DIV-107). Full entry: [dracaena-malfoy](../characters/dracaena-malfoy.md). Planting it: Q-144.
+
+**The other school is Moody's**, and she would call it uncouth: put matter in the way (DIV-108). Harry has both by the end of B4, which is how he beats Krum (Q-123).
+
 ## The trophies, and the two hoards *(settled)* · DIV-059
 
 At some point the bouts acquire a forfeit: the loser gives the winner a trophy, something of their own. It starts as her challenge at the last duel of their second year, and she wins it, taking his Gryffindor scarf. *(Not Christmas: canon puts the club's first meeting on 17 December, so by the holidays there is no rivalry yet for a forfeit to come out of.)*
@@ -50,7 +56,7 @@ At some point the bouts acquire a forfeit: the loser gives the winner a trophy, 
 | B3 | A regular fixture. She leaves the lap-pillow scene with the skip in her step she has after beating him | [lap-pillow](../scenes/b3/lap-pillow.md) |
 | B3 | The trophies go public at the Quidditch final: each turns up wearing one of the other's gloves, played as a joke by both and never mentioned again. Harry catches the Snitch wearing hers (DIV-059, DIV-069, Q-073) | [the-quidditch-final](../scenes/b3/the-quidditch-final.md) |
 | B4 | Stays open; Durmstrang and Beauxbatons students join. **Krum keeps coming, because he is curious whether the boy can actually do it** (DIV-090). The Durmstrang challenger, whom Krum is glad to see beaten (DIV-029) | [durmstrang-challenger](../scenes/b4/durmstrang-challenger.md) |
-| B4 | **The club's real payoff:** in the maze Harry beats the Durmstrang champion with what three years against her technique gave him — no shape of his own, and a reader's eye for everyone else's (DIV-089, Q-123) | [the-third-task](../scenes/b4/the-third-task.md) |
+| B4 | **The club's real payoff:** in the maze Harry beats the Durmstrang champion with what three years against her technique gave him — no shape of his own, and a reader's eye for everyone else's. He reads the draw with what she taught him and answers it with Moody's ground (DIV-089, DIV-108, Q-123) | [the-third-task](../scenes/b4/the-third-task.md) |
 | B5 | Umbridge shuts it down, one of her first acts. They're both miffed | |
 | B6 | Flitwick reopens it. Harry offers it as a date; she refuses, and they break up (DIV-015). Their next duel is Sectumsempra (DIV-043) | [the-breakup](../scenes/b6/the-breakup.md) |
 | B7 | | |
@@ -70,4 +76,4 @@ At some point the bouts acquire a forfeit: the loser gives the winner a trophy, 
 
 ## Open
 
-Q-028 (Flitwick and resonance) · Q-073 (planting the trophies) · Q-123 (how the club's years cash out against Krum) · Q-127 (how often it meets, and whether every bout is collected)
+Q-028 (Flitwick and resonance) · Q-073 (planting the trophies) · Q-123 (how the club's years cash out against Krum) · Q-127 (how often it meets, and whether every bout is collected) · Q-144 (planting her wand-tip shield)
