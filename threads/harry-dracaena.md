@@ -34,6 +34,16 @@ Harry never asks Cho Chang to the Ball, and Dracaena is the only person he asks.
 
 Why Harry never asks Cho at all: asking Ravenclaw's Seeker first and only then Dracaena would cheapen the invitation. With Dracaena the outcome is inevitable, and he has been primed all summer.
 
+## The fake love triangle *(draft)* · DIV-118
+
+**Everybody thinks Harry and Hermione are together, for three years, and Rita Skeeter is the last one to the story rather than the source of it.** There is no triangle. The point of it is that Dracaena's jealousy has to be a *reasonable* reading of the evidence, and the cheapest proof of that is sensible people making the identical mistake: Molly Weasley in B2, Lindsay Madison in B3, the school throughout, Dracaena from the World Cup, and the Prophet in November.
+
+- **Always the same evidence, and it is Hermione's hands.** Never ambiguous behaviour — one girl's affection in plain sight, read as a different kind.
+- **She never notices**, in three years, from anybody.
+- **Rita amplifies rather than invents**, which is what makes the article bite: she is right about what everyone can see and wrong only about what it means.
+- **It gives Dracaena a permanent phrase.** *Your* **other** *girlfriend* — fear first, and afterwards the scathing way to say Hermione Granger once she has given up the slur for Harry's sake ([the-little-basilisk](../scenes/b4/the-little-basilisk.md), DIV-041).
+- **It ends at the Yule Ball, for everyone at once.** How, and Krum's part in it: Q-153.
+
 ## The leak *(draft)* · DIV-117
 
 **His side of this has to be visible to the reader and invisible to him,** and the device that does it is a running gag: absorbed enough, he says the thought out loud and is certain he only thought it. Somebody always hears, and he never believes them.
@@ -84,6 +94,7 @@ Canon's isolation stands and gets worse. The people who claim to be protecting h
 | B1–B3 | His feats slowly repair her opinion of him (DIV-013) | |
 | B2 on | Flitwick's Duelling Club: evenly matched, they learn to read each other and come to enjoy the fights (DIV-028) | [duelling-club](duelling-club.md) |
 | B2 on | They always watch each other's Quidditch matches, and mark each other on the pitch: with the Snitch cut down to 30, Seekers are each other's job (DIV-066) | [quidditch](quidditch.md) |
+| B3 | Diagon Alley, before term: Lindsay asks after the princess and Harry vents in forensic detail, then will not let her agree with him (DIV-119, DIV-117) | [the-robe-shop](../scenes/b3/the-robe-shop.md) |
 | B3 | Potions: she makes him her servant and is strangely sweet under the barbs (DIV-017) | [potions-servant](../scenes/b3/potions-servant.md) |
 | B3 | She stops doing the Dementor impression at him after facing her own Boggart, and never says why. He registers only the absence (DIV-017) | [remedial-boggart](../scenes/b3/remedial-boggart.md) |
 | B3 | The Defence exam: she fails the Boggart in public and he doesn't know what to make of it, between Ron gloating and Hermione digging (DIV-017) | [the-trunk](../scenes/b3/the-trunk.md) |

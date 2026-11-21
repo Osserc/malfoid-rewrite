@@ -50,6 +50,7 @@ _Marauders era, the first war. Not yet worked out._
 ## B3 · 1993–94
 
 - **From about 1993**: The post-war cohorts reach Hogwarts, and each Sorting runs a little longer than the last. DIV-035
+- **1993-08, the day before term**: Diagon Alley. Harry forgot robes; Lindsay ribs him about Hermione, asks after the princess, and gets her answer. DIV-119, DIV-117, DIV-118
 - **1993-09**: The hippogriff lesson. She milks the injury for weeks: the match delay, the Potions servant. She sits out her class's Boggart lesson in her sling. DIV-017
 - **Autumn 1993**, after the November swarm drops Harry off his broom: she does the Dementor impression at him herself. DIV-017
 - **Late autumn 1993**, once the sling comes off and before the Ravenclaw match: the remedial Boggart lesson, alone with Lupin. It is Harry, telling her he wishes he'd never met her. She freezes, understands none of it, and tells no one. The order is now load-bearing — the lesson has to fall between the swarm and the prank, or the prank loses its cause. DIV-017, [remedial-boggart](../scenes/b3/remedial-boggart.md)

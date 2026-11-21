@@ -21,6 +21,7 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 
 🔒 locked; everything else here is settled.
 
+- Flourish & Blotts: Harry comes out of Knockturn Alley filthy and Hermione throws herself at him and checks him over. Molly Weasley reads it as a girlfriend and is delighted — the first instance of the fake triangle, and she holds the position for three years. DIV-118
 - After Lockhart's disastrous session, Flitwick takes over the Duelling Club. Harry and Dracaena become regular, evenly matched opponents. DIV-028, [duelling-club](../../threads/duelling-club.md)
 - The sock. Canon's trick stands; freeing Dobby starts to kill him, he begs Harry to keep him, and Harry accepts as a friend rather than a master. Nobody witnesses the only working remedy in a thousand years. DIV-076, DIV-075, [the-sock](../../scenes/b2/the-sock.md)
 - Lucius discards the sock carelessly and Dobby catches it; he knew what it meant, does not raise a hand to Harry, and leaves him a warning he can't read. The Manor goes cold from that night and he never connects the two. DIV-076, [house-elves](../../setting/house-elves.md)

@@ -109,6 +109,14 @@ What B4 leaves him with, and the shape his guilt takes from then on. Every other
 - **It is the only reliable leak in the series.** He cannot say what he wants on purpose and does not know he wants it, so the only evidence that ever escapes him escapes by accident — which makes the gag the instrument by which his friends work him out long before he does.
 - **Ration it:** once a book at most, never in a scene carrying weight. Where it lands after B4: Q-152.
 
+### Nobody else gets to say it *(draft)*
+
+**A separate tell, and not the same thing as the leak:** he knows perfectly well he is speaking. He can complain about her at any length — and does — and the instant somebody else agrees with him he turns on them.
+
+- **The first and smallest** is the robe shop in B3. He has run her down for a solid minute, Lindsay says the girl sounds like a right piece of work, and he corrects her on the spot. *She's not. She's just—* and stops (DIV-119).
+- **The largest is Montague**, and it costs him Quidditch for life (DIV-067). Same reflex, two books and one enormous price apart, and the text never joins them up.
+- **It is not chivalry and he would deny it was anything.** The complaint and the defence feel identical from the inside, which is why he never notices he has done two opposite things in a row.
+
 ## Harsher than canon *(draft)* · Q-024
 
 Angrier and more willing to hurt people than the original, with his Horcrux playing a larger part in it. Visible in the Durmstrang duel, which he wins too hard (DIV-029); in Montague (DIV-067); in going cold when Ron goes through his trunk, and leaving with her without answering the accusation (DIV-063); in forcing his way past Crabbe and Goyle at the hospital wing door; and in a sixth year spent furious. How much is the Horcrux and how much is him is Q-024.

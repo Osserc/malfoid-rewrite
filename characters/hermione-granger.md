@@ -49,6 +49,15 @@ Canon default.
 - [Dracaena Malfoy](dracaena-malfoy.md): her rival from the first Potions lesson, where Dracaena shows her up (DIV-011). *(settled)* **She is the rival in Dracaena's head** from the World Cup until Fleur's line, and has no idea she is in a contest (DIV-041). *(settled)* **In the first week of B4 she tells her she will never take Harry because she is a nasty and vile person** — true, said in heat, and heard by Dracaena as *take from me*. She draws on her for it, is bounced down the corridor as a ferret, and Harry carries her away (DIV-095). Hermione is in the right for the length of the sentence, and is never told what Harry said in the hospital wing afterwards. The first "Mudblood" is B1, in the Dessendre corridor, and she takes it in silence (DIV-074). Taunts her for dropping Muggle Studies (DIV-012). From B4 she stops slurring her, for Harry's sake. In B6 she calls Hermione "Mudblood" again, plenty, to hurt her ([dracaena-malfoy](dracaena-malfoy.md)). *(settled)* In B7 Hermione treats her with kid gloves anyway. She's perceptive, and knows Dracaena wasn't herself in B6, and still isn't: from the Ball to the end of B5 she was not too hostile for a year and a half. At Shell Cottage, her sealing spell saves Narcissa's medicine, and Dracaena starts treating her as a person for good ([narcissa-malfoy](narcissa-malfoy.md)).
 - Crookshanks: canon default.
 
+## Everybody thinks she is his girlfriend *(draft)* · DIV-118
+
+**For three years, and she never once notices.** Molly Weasley from B2, Lindsay Madison in B3, the school throughout, Dracaena from the World Cup, and the *Daily Prophet* in November of B4.
+
+- **It is always her own hands that do it.** She feeds him, makes him work beside her, has his broom confiscated for his own good, slaps people on his behalf, throws herself at him when he comes out of Knockturn Alley filthy and checks him over. Nothing ambiguous is ever involved: it is her affection, in plain sight, read as a different kind.
+- **It is her tragedy from the other side.** Being taken for a lover is the one thing her usefulness has never got her, and nobody ever tells her it is happening.
+- **What it costs her is nothing she could ever name.** She does all of it for him, and what the world hands back is a different label for the same work. She is not slighted, not mocked and never corrected — just permanently misfiled, by people who are fond of her. That is the whole of it, and it wants no scene to pay it off.
+- **The joke is never at her expense,** always at the expense of whoever is getting it wrong. If a scene lands as Hermione being ridiculous, it is the wrong scene.
+
 ## The elves *(draft)* · DIV-075, DIV-077
 
 Hers is the win. The noble houses buried their own shame so completely that nobody alive knows there was anything to bury, and she is the one who digs it up — not from a document, from a hole in the evidence. Elves enter the record abruptly, fully formed, already in service, with no origin, no habitat, no young and no natural history. A species with no natural history is not a species. She finds the shape of the cover-up and never finds the deed.

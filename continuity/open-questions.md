@@ -8,6 +8,8 @@ Undecided points and ripples from decisions already made. IDs are permanent. Whe
 
 **Retired, never reuse:** Q-095 — Kreacher asking to be re-anchored to Harry, struck as underbaked. What replaced it is Q-100.
 
+**Retired, never reuse:** Q-153 — how the fake triangle ends. Never an open point: it dies at the Yule Ball in every head at once, whatever the fallout, and nothing in it turns on Krum's role (DIV-118).
+
 **Retired, never reuse:** Q-142 — whether the fourth champion's arithmetic lands on Harry. Struck by the author the day it was opened: it does not matter to him why he was entered. What he cannot get past is that he did not get out, and a boy died because he stayed in, and the answer to that is hers and not the Goblet's (DIV-087, DIV-092).
 
 ## Open
@@ -942,7 +944,6 @@ Also open: what a man with one leg does about his own mobility, which the class 
 ### Q-152 · Where else does Harry say it out loud? (DIV-117)
 
 The gag is established at the World Cup. Once a book at most, never in a scene that is carrying weight, and never twice on the same note. Candidates are wide open; the useful ones are the moments where the leak costs him something, or where the person who hears it is the wrong person.
-
 
 ## Answered
 
