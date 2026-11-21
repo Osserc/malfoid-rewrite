@@ -34,8 +34,9 @@ _Marauders era, the first war. Not yet worked out._
 
 ## B1 · 1991–92
 
-- **1991-07-31**: Diagon Alley. Harry and Dracaena meet at Madam Malkin's. DIV-009
-- **1991-08**: Dracaena reads the Muggle books Narcissa obtained for her. DIV-010
+- **1991-07-31**: Diagon Alley. Harry and Dracaena meet at Madam Malkin's. DIV-009, DIV-115
+- **1991-07-31, evening**: the Manor. Dracaena tells her parents she has made a friend and asks for the Muggle books; Narcissa sends Dobby, and Lucius lets it go. DIV-009, DIV-010
+- **1991-08**: Dracaena reads the Muggle books. DIV-010
 - **1991-09-01**: Hogwarts Express. Harry rejects her; her grudge begins. DIV-009
 - **1991-09**: First Potions lesson. Snape has her answer the questions Harry can't, the Draught of Living Death among them. Hermione blurts out the third answer and loses points; Dracaena outdoes her. DIV-011, DIV-031
 
@@ -69,6 +70,7 @@ _Marauders era, the first war. Not yet worked out._
 ## B4 · 1994–95
 
 - **1994-08**: Quidditch World Cup. The veela don't touch Harry: he's already in love without knowing it. Dracaena notices, and assumes it's Hermione, who is sitting with him. Arthur and Lucius are unmoved too. DIV-037, DIV-041, Q-050
+- **1994-08, the Top Box**: from the stands Harry says out loud that it's no wonder Dracaena is that pretty, and is sure he only thought it. Then Lucius presents his wife; Harry calls her a queen, Narcissa dissolves and holds out her hand for a proper greeting, and he kisses it without reading it. Dracaena sulks. DIV-116, DIV-117
 - **1994-08, late**: Alastor Moody is taken at his own house and put under the Imperius Curse. Barty Crouch Jr goes into the trunk under the Draught of Living Death and holds him there for ten months. Voldemort's one contribution is the refinement that lets Crouch wear him as well as steer him. DIV-086
 - **1994-09, early**: Dracaena draws on Hermione Granger in a crowded corridor; Crouch takes Moody over to transfigure her into a ferret and beat her half to death down it — no plan value, pure spite against Lucius. His only unforced act of the year, and an assault rather than a prank: she comes back bleeding and in shock. **McGonagall draws on an Auror to stop it**, and afterwards takes him to Snape herself. Harry carries her to the hospital wing unasked, furious with her the whole way; **she will not let go of him**, and Pomfrey works around it. Once she is mended he tells her what she did was hideous. She concedes nothing; she carries it, unanswered, to the Yule Ball. DIV-095, DIV-079, DIV-074, DIV-086, Q-117, Q-135
 - **Between the visitors' arrival (1994-10-30) and the Yule Ball**: at the Duelling Club, Harry beats a Durmstrang student who has taken an interest in Dracaena, too aggressively. Rita Skeeter gets her ammunition. DIV-029
@@ -81,6 +83,7 @@ _Marauders era, the first war. Not yet worked out._
 - **Autumn 1994 (tentative)**: Hooch's flying lesson. Harry and Dracaena spend an hour among the first years bickering about technique; the school decides they are married. Then Krum's Feint: Cedric and Cho pull out earliest, then Dracaena, then Harry, then Krum. Fleur watches from the stands, miffed. DIV-091, Q-126
 - **1994–95, placement open (Q-128)**: Dracaena gives Harry permission to want to win the Tournament rather than survive it. A wake-up call, not an instruction. DIV-089, DIV-066
 - **December 1994, before the Ball**: Dracaena's owls home. Lucius suspects, and Narcissa confirms it and takes Harry's side. DIV-040
+- **December 1994, after the owls**: Hogsmeade, on an out-of-term permit Narcissa arranges through Snape. Lindsay Madison brings up the dress Narcissa chose — not the one Dracaena asked for — and fits it on her by magic. DIV-115, DIV-040
 
 - **1994-12-25**: Yule Ball. Harry asks, Dracaena accepts. Their first kiss. DIV-004, DIV-013
 - **Right after the Ball**: Rita Skeeter prints that they went together. DIV-040

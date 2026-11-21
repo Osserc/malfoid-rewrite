@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Dracaena's father. A Death Eater, and a skilled Occlumens.
 **Canon baseline:** Lucius Malfoy. Anything not overridden follows canon.
-**Changes from canon:** DIV-013, DIV-020, DIV-030, DIV-031, DIV-037, DIV-040, DIV-047, DIV-052, DIV-053, DIV-057, DIV-060, DIV-068, DIV-069
+**Changes from canon:** DIV-009, DIV-013, DIV-020, DIV-030, DIV-031, DIV-037, DIV-040, DIV-047, DIV-052, DIV-053, DIV-057, DIV-060, DIV-068, DIV-069
 
 ## Core
 
@@ -42,6 +42,18 @@ How his marriage works and what he knows about his daughter: Q-019 (the author h
 ### The sheltering
 
 *(settled)* He isn't resentful about having a daughter rather than a son. He thinks a daughter is too precious and fragile, and should be somewhat sheltered. But he's up against two formidable opponents: his doting wife, and his beloved daughter, who almost always gets her way ([dracaena-malfoy](dracaena-malfoy.md)). When she wants to fly, he has to give in, and sneaks in his condition: no training without supervision. When she makes the Slytherin team on merit he celebrates by buying the whole side Nimbus 2001s, purely to show off — which is why people say she bought her place, and why her housemates owe her something they'd rather forget (Q-081). He celebrates achievement and does not console failure: there is no new broom after she loses the B3 final, and she wouldn't want one (DIV-068, DIV-069). As the years pass his worries ease, because he sees how capable she is, but he stays very protective. He's strict, and *(settled)* **she is not afraid of him**: when he puts his foot down and she can't walk all over him, what it produces is anger, not fear. Over Buckbeak she doesn't defy him to his face, she goes around him (🔒 DIV-003). Her B3 Boggart is Harry, not him ([remedial-boggart](../scenes/b3/remedial-boggart.md), DIV-017). How sheltering her squares with the rest of his story: Q-036.
+
+### The boy from the robe shop *(settled)* · DIV-009
+
+**He has known about Harry Potter since his daughter was eleven, and he has never once managed to decide what to think about it.** She comes back from Diagon Alley on 31 July 1991 announcing she has made a friend, and he dislikes the sound of him at once: a boy she met unsupervised, of no known family, raised somewhere among Muggles. The consolation is thin and he takes it anyway — she asked, and both the boy's parents were magic, so a half-blood at worst.
+
+- **It is the first person she ever chose.** Every friend she has was selected out of his own connections — Parkinson, Greengrass, Nott, and the two little trolls the Crabbes and Goyles produced, kept about her for muscle. This one is hers, and he cannot vet what he did not arrange.
+- **Then the train, and he learns who it was.** She comes home from the Hogwarts Express with the boy's name and the grudge, and he is left genuinely divided. **His daughter close to Harry Potter would be worth a very great deal** — to the family, and one day to the Dark Lord — and she has gone and spoiled it inside a month.
+- **And he is quietly, enormously relieved, for a reason that has nothing to do with any of that.** She is not close to the boy she chose, so she is still **his**. It is a father's jealousy and he would never once name it as one.
+- **She does not stop talking about Potter. Ever.** Not for six years. Every letter, every holiday, every meal: what Potter did, what Potter got away with, how insufferable Potter is, at length and in detail, by a girl who is certain she is complaining. Lucius has the boy's entire school career narrated to him by his own daughter. **Narcissa works out what she is listening to long before he does**, which is why at the Ball one of them is choosing a dress to go with Harry and the other is asking questions (DIV-040).
+- **So B4 is not a surprise so much as a bill.** When the owl says *Hogwarts' champion* without saying which, his suspicion has three years of dinner-table evidence behind it, and his wife only confirms what he already feared and half wanted.
+
+It is the same conflict that runs the rest of him: the Dark Lord's claim on his house against everything else he wants for it (DIV-030).
 
 ## Occlumency
 
@@ -85,14 +97,14 @@ Canon default.
 ## Relationships
 
 - [Dracaena Malfoy](dracaena-malfoy.md): his only child.
-- [Narcissa Malfoy](narcissa-malfoy.md): his wife. She forgave him for the curse; he never forgave himself (DIV-030, Q-019). The veela leave him unmoved at the World Cup (DIV-037).
+- [Narcissa Malfoy](narcissa-malfoy.md): his wife. She forgave him for the curse; he never forgave himself (DIV-030, Q-019). The veela leave him unmoved at the World Cup (DIV-037) — the Potter boy does not leave his wife unmoved in the same hour, and she teases him with it for years. **She teases him in public and always has, and he bears it**, which is the warmest thing anybody sees a Malfoy do in four books (DIV-116).
 - [Severus Snape](severus-snape.md): his protégé since Snape's Sorting, and among the few Snape calls a friend. After school, books by owl and paid commissions. Lucius pays him to brew Narcissa's medicine, and trusts no one else with it (DIV-030). He let Snape take Dracaena on as a pupil at five (DIV-031). Snape teaches her Occlumency in summer 1995 (DIV-020).
 
 ## Arc by book
 
 | Book | Start | Turn | End |
 |---|---|---|---|
-| B1 | | | |
+| B1 | | Hears about a boy from a robe shop, and cannot vet what he did not arrange (DIV-009) | Learns from the train that the boy was Harry Potter, and that she lost him inside a month |
 | B2 | | Harry tricks him into freeing Dobby; he knows what that means and does it anyway (DIV-076) | The Manor begins to go cold, and he never connects the two |
 | B3 | | Has Buckbeak condemned, fuelled by Dracaena's play-acting (DIV-017) | |
 | B4 | | Learns she's going to the Ball with Potter; Narcissa takes Harry's side (DIV-040). In the graveyard he takes back her ribbon and Stuns Avery to open Harry a way out (DIV-057) | Finds them asleep together on the train and declines to see it ([the-train-home](../scenes/b4/the-train-home.md)). Orders her to cut ties; she refuses, citing Harry's silence about him (DIV-047), and he comes up with the spy strategy (DIV-013, DIV-040) |

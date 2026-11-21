@@ -34,6 +34,14 @@ Harry never asks Cho Chang to the Ball, and Dracaena is the only person he asks.
 
 Why Harry never asks Cho at all: asking Ravenclaw's Seeker first and only then Dracaena would cheapen the invitation. With Dracaena the outcome is inevitable, and he has been primed all summer.
 
+## The leak *(draft)* · DIV-117
+
+**His side of this has to be visible to the reader and invisible to him,** and the device that does it is a running gag: absorbed enough, he says the thought out loud and is certain he only thought it. Somebody always hears, and he never believes them.
+
+- **It starts at the World Cup**, before he has even met Narcissa: *no wonder Dracaena is that pretty, then*, to Ron and Hermione, who round on him (DIV-116).
+- **It is how his friends get there first.** He cannot say what he wants on purpose and does not know he wants it, so the only evidence that ever escapes him escapes by accident. The gag is the plot's instrument as well as its joke.
+- **Ration it:** once a book at most, never in a scene carrying weight, never twice on the same note. Where it lands after B4: Q-152.
+
 ## Dumbledore's blessing *(settled)* · DIV-046
 
 He approves of them, and encourages them more than once. What he says each time is open.
@@ -70,7 +78,7 @@ Canon's isolation stands and gets worse. The people who claim to be protecting h
 
 | Book | Beat | Where |
 |---|---|---|
-| B1 | Madam Malkin's: he's awestruck, she's flattered, it sours. He comes away thinking she's cruel (DIV-009) | [madam-malkins](../scenes/b1/madam-malkins.md) |
+| B1 | Madam Malkin's: he's awestruck, she's charmed — then the tale turns out to be Muggle and she checks his blood before she'll keep the compliment. She leaves delighted; he comes away thinking she's cruel (DIV-009) | [madam-malkins](../scenes/b1/madam-malkins.md) |
 | B1 | The train: he refuses her over Ron. Her grudge begins: she'll prove he's nothing special | [hogwarts-express](../scenes/b1/hogwarts-express.md) |
 | B1 | First Potions lesson: Snape has her answer every question Harry can't (DIV-011, DIV-031) | [uncle-severus](../scenes/b1/uncle-severus.md) |
 | B1–B3 | His feats slowly repair her opinion of him (DIV-013) | |
@@ -83,7 +91,7 @@ Canon's isolation stands and gets worse. The people who claim to be protecting h
 | B3 | The Quidditch final: she plays clean, loses fairly, and is left alone on the pitch. He goes back, crouches and offers the hand she offered on the train (DIV-009, DIV-069). They fly off together and both get detention. The mask is back on by morning, and he can't make sense of it (Q-082) | [the-quidditch-final](../scenes/b3/the-quidditch-final.md) |
 | B3 | She spies on his Patronus lessons and studies the charm for him. The lap-pillow scene, which becomes his Patronus memory (DIV-018) | [lap-pillow](../scenes/b3/lap-pillow.md) |
 | B3 | 🔒 She saves Buckbeak (DIV-003). At the lake she confesses the swarm is her fault, his Patronus saves them all with a first flicker of resonance, and she flies Buckbeak to Sirius (DIV-018). His opinion of her turns | [buckbeak-rescue](../scenes/b3/buckbeak-rescue.md) |
-| B4 | The World Cup: the veela don't touch him. He's in love before he knows it (DIV-037). She notices, and assumes it's Hermione — who is sitting right next to him (DIV-041) | |
+| B4 | The World Cup: the veela don't touch him. He's in love before he knows it (DIV-037). She notices, and assumes it's Hermione — who is sitting right next to him (DIV-041). In the same hour he says it out loud to Ron and Hermione without knowing it (DIV-117), then calls her mother a queen and charms her flat (DIV-116) | [the-top-box](../scenes/b4/the-top-box.md) |
 | B4 | The first week: she draws on Hermione in a corridor and Crouch beats her half to death down it as a ferret — bleeding, spitting blood, in shock. McGonagall draws on Moody. Harry carries her to the hospital wing unasked, in front of everybody, furious with her the whole way, and **she will not let go of him**: the first time anyone ever did violence to her body, and she latches on to the one person she reads as protection. Once she is mended he tells her what she did was hideous. She answers nothing, decides the carry meant nothing because he is like that with everyone, and carries the charge to Christmas (DIV-095, DIV-079, Q-135) | [the-ferret](../scenes/b4/the-ferret.md) |
 | B4 | Sirius plants the idea of asking her, in his own register: with Slytherin women it is the jackpot or an early grave, and either way it is worth it — he means his mother and his cousins (DIV-019, DIV-101) | [yule-ball](../scenes/b4/yule-ball.md) |
 | B4 | The Durmstrang challenger: Harry beats a rival for her attention, too hard. She's delighted he's jealous, and would never use anyone to provoke him (DIV-029) | [durmstrang-challenger](../scenes/b4/durmstrang-challenger.md) |

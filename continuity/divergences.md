@@ -80,18 +80,29 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 
 - **Status:** settled
 - **Canon:** Draco brags about brooms and houses, asks about Harry's family and sneers at Hagrid. Harry gets out before giving his surname, disliking him.
-- **Ours:** Sunlight on her hair reminds Harry of Disney's *Sleeping Beauty*, which he once watched in secret from behind the living-room door. When she asks who he is, he blurts out whether she's Sleeping Beauty. Then he notices she doesn't have the princess's purple eyes, and tells her hers are pretty too. She's had plenty of compliments, but never one this sincere and awestruck. It sours when she learns it's a Muggle story: flustered, she changes the subject by sneering at Hagrid. Harry leaves thinking the "princess" is cruel, and regrets being nice. Neither learns the other's name.
+- **Ours:** sunlight on her hair reminds Harry of Disney's *Sleeping Beauty*, watched once in secret from the living-room doorway, the one time Aunt Petunia forgot to lock the cupboard. She opens an eye and asks whether he's for Hogwarts too, and he blurts out whether she's Sleeping Beauty. He goes up on tiptoe to check, finds her eyes aren't the princess's purple, and tells her hers are pretty too. She has had a great many compliments and never one this sincere or this awestruck, and she wants to keep it.
+  - **The encounter starts well, and nothing in the first half is a feint.** She is charmed, he is disarmed, and the reader watches something good happen before anything spoils it.
+  - **Then it has to be laundered.** The tale turns out to be Muggle, so the compliment becomes a thing she is not allowed to own. She doesn't lash out: she goes cold and starts checking. Who taught him Muggle stories, what happened to his parents, were they *our* kind. The instant he says both of them were magic she warms straight back up, delighted, and offers to bring him up to speed. **The snobbery is the price of keeping the compliment** — if it comes from a real wizard she may have it. The reasoning runs backwards, and it is exactly her.
+  - **Hagrid is incidental, which is what makes it worse.** He turns up at the window, she repeats her father's opinion of him almost absently, and never notices the boy beside her go cold. There is no moment in the scene where she knows she has lost him.
+  - **No names, and not by accident.** She asks for his name last, and the shop's clerk has him off the stool and away to the counter before he can answer (DIV-115).
+  - **She goes home delighted:** *Mama! I made a new friend!* Her parents hear about him that evening, which is what makes the train a wound rather than a snub (DIV-010, [hogwarts-express](../scenes/b1/hogwarts-express.md)). What it does to her father: [lucius-malfoy](../characters/lucius-malfoy.md).
+  - **Harry leaves thinking the princess is cruel,** and regrets being nice.
+- **Why:** the souring has to leave her happy, or she can't go home and say it. A girl who knows she's been caught is lashing out; this one is simply being herself in front of someone who has stopped listening. It also puts the Muggle books' motive on the page (DIV-010), and shows the engine that runs her for seven books: when a thing she wants turns out not to be allowed, she finds a way to be allowed it rather than giving it up.
 - **Home:** [scenes/b1/madam-malkins.md](../scenes/b1/madam-malkins.md)
-- **Ripples:** DIV-010 · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md)
+- **Ripples:** DIV-010, DIV-040, DIV-115 · Q-150 · [threads/sleeping-beauty.md](../threads/sleeping-beauty.md) · [threads/harry-dracaena.md](../threads/harry-dracaena.md) · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md)
 
-### DIV-010 · Dracaena's secret Muggle books
+### DIV-010 · Dracaena's Muggle books
 
 - **Status:** settled
 - **Canon:** Draco shows no interest in anything Muggle.
-- **Ours:** She wants to know what the boy saw. Narcissa has a contact fetch "a lot" of Muggle books: many versions of Sleeping Beauty, other fairy tales, even a picture book of the Disney film. She reads them before term starts and begins casting herself and the boy as a fairy tale. Fairy tales become her gateway to Muggle novels (wizards are a small minority and don't write many) and eventually to Muggle Studies (DIV-012). She tuts at the Muggles who get real magic wrong.
-- **Why:** A gradual way out of her bigotry. And it's cute.
+- **Ours:** she wants to know what the boy saw, and asks for the books outright that same evening, in front of both parents. Narcissa sends Dobby for them (Q-018, answered): many versions of Sleeping Beauty, other fairy tales, even a picture book of the Disney film. She reads them before term starts and begins casting herself and the boy as a fairy tale. Fairy tales become her gateway to Muggle novels (wizards are a small minority and don't write many) and eventually to Muggle Studies (DIV-012). She tuts at the Muggles who get real magic wrong.
+  - **Nothing is hidden, and she isn't sneaking anywhere.** It is far too early in her life for that, and she has no reason to: she has just established to her own satisfaction that the boy was a proper wizard, which is the thing that made the story keepable at all (DIV-009).
+  - **Lucius acquiesces because Narcissa wants to indulge her daughter**, not because he is persuaded of anything. That is the entire transaction, and it is the house in miniature (DIV-030).
+  - **Which puts the whole Muggle line on his ledger from the start.** Muggle Studies in B3 is then an escalation of something long permitted rather than a rebellion (DIV-012, Q-020).
+  - **And it is Dobby** — which is a footnote next to everything else he does for that house. When Harry frees him in B2 the books are the least of what the Malfoys lose (DIV-076).
+- **Why:** a gradual way out of her bigotry. And it's cute.
 - **Home:** [threads/sleeping-beauty.md](../threads/sleeping-beauty.md)
-- **Ripples:** Q-016, Q-018, Q-019 · [continuity/reveals.md](reveals.md) · [problems/house-elves.md](../problems/house-elves.md)
+- **Ripples:** Q-018 answered · Q-016, Q-019, Q-020 · DIV-030, DIV-076 · [continuity/reveals.md](reveals.md) · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md) · [characters/narcissa-malfoy.md](../characters/narcissa-malfoy.md) · [problems/house-elves.md](../problems/house-elves.md)
 
 ### DIV-011 · Dracaena is gifted and brave
 
@@ -374,11 +385,11 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Canon:** Draco takes Pansy Parkinson to the Ball, and Lucius has nothing to find out.
 - **Ours:**
   - **Two owls.** Before the Ball, Dracaena writes home twice. Her father hears she'll be attending with Hogwarts' champion: Hogwarts has two, and she doesn't say which. Her mother is asked for the backless green dress.
-  - **The Manor.** Lucius grows suspicious and questions Narcissa, who confirms it while she goes through their daughter's wardrobe for a dress to go with Harry. She plays Harry's advocate: he's a good prospect for Dracaena, and she has soured on the Death Eaters. Lucius is annoyed, but reluctantly sees her point. Narcissa sends a more modest dress.
+  - **The Manor.** Lucius grows suspicious and questions Narcissa, who confirms it while she goes through their daughter's wardrobe for a dress to go with Harry. She plays Harry's advocate: he's a good prospect for Dracaena, and she has soured on the Death Eaters. Lucius is annoyed, but reluctantly sees her point. **Narcissa sends a dress of her own choosing, and a dressmaker with it** — Lindsay Madison, to Hogsmeade, on a permit arranged through Snape ([the-fitting](../scenes/b4/the-fitting.md), DIV-115).
   - **The Prophet.** Right after the Ball, Rita Skeeter prints that they went together. She'd jump at the chance.
   - **End of B4.** Lucius orders her to cut ties with Potter, and she adamantly refuses, throwing Harry's silence about him back at him (DIV-047). He resigns himself to protecting her from herself: the "keeping tabs on Potter" cover (DIV-013), and Snape's Occlumency lessons (DIV-020).
 - **Home:** [characters/lucius-malfoy.md](../characters/lucius-malfoy.md) · the Manor scene: [scenes/b4/the-green-dress.md](../scenes/b4/the-green-dress.md)
-- **Ripples:** Q-022, Q-038, Q-039 · DIV-004, DIV-013, DIV-020, DIV-047 · [characters/narcissa-malfoy.md](../characters/narcissa-malfoy.md) · [continuity/reveals.md](reveals.md)
+- **Ripples:** Q-022, Q-038, Q-039 · DIV-004, DIV-013, DIV-020, DIV-047, DIV-115 · [characters/narcissa-malfoy.md](../characters/narcissa-malfoy.md) · [continuity/reveals.md](reveals.md)
 
 ### DIV-041 · The rival in her head is Hermione
 
@@ -1522,3 +1533,51 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Home:** [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md)
 - **Ripples:** Q-144 · DIV-006, DIV-011, DIV-021, DIV-028, DIV-070, DIV-107, DIV-108 · [threads/duelling-club.md](../threads/duelling-club.md) · [scenes/b7/final-duel.md](../scenes/b7/final-duel.md)
 
+### DIV-115 · Lindsay Madison, and the shop that can't say no
+
+- **Status:** draft
+- **Canon:** Madam Malkin fits Harry while Draco stands on the next stool. She has an assistant in later books who never speaks. There are no American witches anywhere in the series.
+- **Ours:** **Lindsay Madison**, an American witch in her twenties, is Madam Malkin's clerk, and the fourth person in the room at the first meeting.
+  - **She is the witness.** Harry has no idea what has just happened to him. She does, from the first cold question, and she can't stop it — all she can do is step between them, get him off the stool, and tell him afterwards that some folks get awful passionate about the subject of a person's birth. Her *tch* is the reader's permission to be angry on his behalf while he is still working it out.
+  - **She knows exactly who he is, and keeps her voice down about it.** Her eyes go to the scar in the first minute. What she does is wink, ruffle his hair and say she gets stared at all the time, and that is the last anyone in the shop hears of it. **Everyone at the Leaky Cauldron was kind to him** — kind *because* he was Harry Potter, which is the thing he is already sick of. She is the first adult who is kind to him without making it about that, and the restraint is the kindness.
+  - **The fringe stays down.** She does not get him to stop hiding it and does not try, which is also why the girl by the window never works out who she is talking to (DIV-009).
+  - **Look.** Tall, pitch-black hair knotted up with oversized dressmaker's pins, a close-cut sable robe of crow feathers — a walking crow, and frightening to an eleven-year-old until she opens her mouth. Frightening again on the way out.
+  - **Voice.** A Southern drawl carried in word choice and rhythm, never in phonetic spelling: *git*, *sugar*, *darlin'*, *little bitty*, *I declare*, *carry him on over*, *some folks get awful…*. Eye-dialect is out — it reads as mockery and ages badly.
+  - **The shop's economics,** which is the real reason she earns a ledger entry. After the Malfoys go she asks why they don't simply refuse them, and Madam Malkin shows her the blank cheque: *they don't even write the price themselves*. The old families keep the Alley afloat and school robes don't. **The pure-blood case stated from the losing side, in book one, with nobody arguing it** (DIV-008).
+  - **She is imported labour,** which is quiet evidence for a Britain that is shrinking (DIV-035). Never spelled out.
+  - **B4:** Narcissa sends her to Hogsmeade with the Yule Ball dress, and she has forgotten nothing ([the-fitting](../scenes/b4/the-fitting.md), Q-150 answered).
+- **Why:** the scene needs an adult who sees it happen, Harry needs one warm face before the world turns cold on him, and four lines of shopkeeper do more for DIV-008 than a page of argument would. And she is far too good to spend once.
+- **Home:** [characters/lindsay-madison.md](../characters/lindsay-madison.md)
+- **Ripples:** Q-150 answered · DIV-008, DIV-009, DIV-035, DIV-040 · [scenes/b1/madam-malkins.md](../scenes/b1/madam-malkins.md) · [scenes/b4/the-green-dress.md](../scenes/b4/the-green-dress.md) · [scenes/b4/the-fitting.md](../scenes/b4/the-fitting.md) · [characters/_roster.md](../characters/_roster.md)
+
+### DIV-116 · B4: Harry charms Narcissa at the World Cup
+
+- **Status:** settled
+- **Canon:** Harry meets Lucius and Draco in the Top Box. Narcissa is present, says nothing, and nothing whatever passes between her and Harry. She is dour in all her appearances.
+- **Ours:** Harry is introduced to Narcissa Malfoy and, with no idea on earth what he is doing, charms her flat. She responds by having a lark at everyone's expense, chiefly her husband's and her daughter's.
+  - **The warm-up, from across the stands.** Ron or Hermione points out the Malfoys, and says that must be Narcissa, Malfoy's mother. Harry says *no wonder Dracaena is that pretty, then.* His friends round on him; he has no idea what they mean, because he is certain he only thought it (DIV-117).
+  - **The introduction.** Lucius presents his wife to the box. The niceties pass, and then Harry notices she has not stopped looking at him. *You must be Harry Potter, then. My daughter has been regaling me with tales of your accomplishments* — which is true, and is the four years of complaining Lucius has been listening to, delivered back as a compliment.
+  - **The queen.** He blurts it out, exactly as he blurted out the other one three years earlier (DIV-009). **Queen, not empress**, because it pairs with princess ([sleeping-beauty](../threads/sleeping-beauty.md)).
+  - **And she goes.** Giggling, helplessly, leaning on her husband in front of the Minister for Magic and half the box.
+  - **The hand.** Still laughing, she holds it out: *well, now I want a proper greeting.* **He doesn't clock that it wasn't a request** — he can feel he is meant to, so he does it — and that finishes her off completely.
+  - **The fallout, all comedy.** Dracaena sulks, because *she* is supposed to be the princess and has never once got anything like it. Lucius is exasperated by his wife's antics, and comes out of the scene well for it: **she is known for teasing him affectionately in public, and he bears it**, which is the warmest thing anybody sees a Malfoy do in four books.
+  - **Narcissa is much less dour than canon's**, and the series was already there — this is where it is first shown rather than asserted ([narcissa-malfoy](../characters/narcissa-malfoy.md)).
+  - **Under the comedy, it is where the alliance starts.** Narcissa is Harry's ally in all but name for the rest of the series, and this is the reason: not politics, not strategy, nothing to do with the Dark Lord. She met the boy once and liked him (Q-039).
+  - **Same hour as the veela** (DIV-037). The boy nothing can touch is undone by nothing at all, and flattens her mother with it, while her daughter watches.
+- **Why:** it makes Narcissa's alliance something the reader watched begin instead of something the bible asserts; it shows Harry's charm working on somebody who is not Dracaena, which is what stops it being a romance convenience; and it is funny.
+- **Home:** [characters/narcissa-malfoy.md](../characters/narcissa-malfoy.md) · the scene: [scenes/b4/the-top-box.md](../scenes/b4/the-top-box.md)
+- **Ripples:** Q-151 answered · Q-039 · DIV-037, DIV-040, DIV-041, DIV-117 · [characters/harry-potter.md](../characters/harry-potter.md) · [characters/dracaena-malfoy.md](../characters/dracaena-malfoy.md) · [characters/lucius-malfoy.md](../characters/lucius-malfoy.md) · [books/b4/outline.md](../books/b4/outline.md)
+
+### DIV-117 · Harry says it out loud
+
+- **Status:** draft
+- **Canon:** nothing like it.
+- **Ours:** **a running gag.** When Harry is absorbed enough — and it is almost always about Dracaena — the thought comes out of his mouth, and he is certain he only thought it. Somebody else always hears.
+  - **The first one is the World Cup:** *no wonder Dracaena is that pretty, then* (DIV-116).
+  - **He never believes he said it.** Challenged, he asks what they are talking about, and means it. There is no embarrassment, because there is no awareness, which is what makes it funny and what makes it evidence.
+  - **It is the same root as the charm** — no self-consciousness at all when he isn't thinking about himself ([harry-potter](../characters/harry-potter.md)). The charm is what it does to her; this is what it does to everyone standing nearby.
+  - **It is the only reliable leak in the series.** He cannot say what he wants out loud on purpose and does not know he wants it, so the only evidence that ever escapes him escapes by accident. **Which means the gag is also the plot's instrument**: it is how his friends work him out long before he does ([harry-dracaena](../threads/harry-dracaena.md), [reveals](reveals.md)).
+  - **Ration it.** Once a book at most, and never where a scene is carrying weight. Where it lands after B4: Q-152.
+- **Why:** the romance needs his side to be visible to the reader while staying invisible to him, and a gag does that in one line where interiority would need a paragraph.
+- **Home:** [characters/harry-potter.md](../characters/harry-potter.md)
+- **Ripples:** Q-152 · DIV-009, DIV-116 · [threads/harry-dracaena.md](../threads/harry-dracaena.md) · [continuity/reveals.md](reveals.md)

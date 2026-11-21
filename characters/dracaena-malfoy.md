@@ -175,7 +175,8 @@ The morning after the Third Task, Harry says he should have pulled out of the To
 
 ## The tsundere engine
 
-- **When she feels exposed, she reaches for snobbery.** This first shows at Madam Malkin's: flustered at being charmed by a Muggle story, she sneers at Hagrid (DIV-009).
+- **When a thing she wants turns out not to be allowed, she launders it rather than give it up.** The founding instance is Madam Malkin's: the compliment she badly wants to keep comes out of a Muggle story, so she interrogates the boy's blood until he passes, and then takes it. The reasoning runs backwards — the compliment was never the Muggles' to give — and it is the shape of everything after it: the fairy tales, the novels, Muggle Studies, and eventually him (DIV-009, DIV-010).
+- **Her snobbery is the price she pays to keep things, not a weapon she reaches for.** She isn't lashing out at Madam Malkin's and she never knows she has lost him. She is cheerful the whole way through, and repeats her father's opinion of Hagrid without once looking up (DIV-009).
 - **She admires competence, daring and valour, and it comes out as contempt.** Her line is "if *Potter* of all people can…" (DIV-013).
 - **Her objections run through taste.** Wrong things are ugly things, which is how a bigot's snobbery becomes the way out of the bigotry, and also the ceiling she can't climb past (DIV-070).
 - **She does the right thing so Potter can't beat her at it** (Q-005, answered).
@@ -183,6 +184,8 @@ The morning after the Third Task, Harry says he should have pulled out of the To
 - **Her hoard.** Every trophy she has won off him at the Duelling Club since their second year, kept on a stand under a Gryffindor banner in a room nobody knows about (DIV-059, DIV-060). He has a smaller one of hers. Neither had ever mentioned it.
 - **She wants to own his happiness.** In B3 she's delighted he has no happy memories, because then she can give him the only one he'll have, and prove his friends couldn't. Never spoken ([lap-pillow](../scenes/b3/lap-pillow.md)).
 - **Theirs is an exclusive game.** She's delighted when he's jealous, but the thought of using anyone to provoke him disgusts her (DIV-029).
+- **Her own mother is not immune.** At the World Cup Harry calls Narcissa a queen without the least idea what he is doing, and Narcissa goes — then holds out a hand to be kissed, for a lark, and he obliges without reading it. Dracaena sulks: *she* is the princess, and she has never once got anything like it. Her mother only giggles (DIV-116).
+- **Nothing in the Malfoy arsenal answers sincerity.** Her training is built for rooms, rivals and advantage; it has no form for someone who is not playing. It is why he gets past her every time without trying, and her mother is no better defended — the difference is that Narcissa is happily married and can simply enjoy it (DIV-116).
 - **She studies him.** She watches all his matches like a hawk and takes overly detailed notes, not all of them technical ([quidditch](../threads/quidditch.md)).
 - **Her tenderness is borrowed.** When she wants to give him something loving, her only model is how her mother loves her ([lap-pillow](../scenes/b3/lap-pillow.md)).
 - **Her soft side leaks when she forgets herself.** The Potions "cooking" daydream, then a scramble to save face (DIV-017). When she beats Harry at the Duelling Club she forgets to gloat: "Did you see that? I won!" (DIV-028).
@@ -235,7 +238,7 @@ Grey eyes (canon default), not the princess's purple. Otherwise canon default, o
 ## Family
 
 - Lucius and Narcissa Malfoy; she is their only child, because a curse meant for her father hit her mother (DIV-030). She loves them both. Her mother is "mama", and her model of love. *(settled)* **She is not afraid of her father.** He's strict, and now and then he puts his foot down and she finds she can't walk all over him — which makes her angry, not frightened. When he won't let the Buckbeak matter go she neither submits nor defies him to his face: she concocts a plan and goes around him (🔒 DIV-003, [buckbeak-rescue](../scenes/b3/buckbeak-rescue.md)). Her B3 Boggart is Harry, not him ([remedial-boggart](../scenes/b3/remedial-boggart.md), DIV-017).
-- Narcissa quietly gets her the Muggle books (DIV-010, Q-018, Q-019), and is Harry's ally inside the house ([narcissa-malfoy](narcissa-malfoy.md)).
+- Narcissa gets her the Muggle books, openly, by sending Dobby (DIV-010, Q-019), and is Harry's ally inside the house ([narcissa-malfoy](narcissa-malfoy.md)).
 - Her mother's curse needs a potion to hold it back. Dracaena learned Potions so she could brew it herself (DIV-030, DIV-031).
 - Narcissa was born a Black, so Sirius is her mother's cousin, and Bellatrix and Andromeda are her aunts (canon default). Relevant to Q-006 and DIV-014.
 

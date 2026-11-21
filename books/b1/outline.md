@@ -21,8 +21,9 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 
 🔒 locked, *(draft)* draft; everything else here is settled.
 
-- Harry and Dracaena meet at Madam Malkin's: "are you Sleeping Beauty?" DIV-009, [madam-malkins](../../scenes/b1/madam-malkins.md)
-- Dracaena reads the Muggle books Narcissa gets her. DIV-010
+- Harry and Dracaena meet at Madam Malkin's: "are you Sleeping Beauty?" It goes well until the tale turns out to be Muggle, and she checks his blood before she'll keep the compliment. The Hagrid jeer is incidental and she never notices she has lost him; she goes home announcing she has made a friend. DIV-009, [madam-malkins](../../scenes/b1/madam-malkins.md)
+- That evening she asks for the Muggle books in front of both parents. Narcissa sends Dobby; Lucius lets it go. DIV-010
+- Lucius hears about the boy the same day, and after the train hears who it was. DIV-009, [lucius-malfoy](../../characters/lucius-malfoy.md)
 - On the train Harry refuses her over Ron; her grudge begins. DIV-009, [hogwarts-express](../../scenes/b1/hogwarts-express.md)
 - First Potions lesson: Snape has her answer the questions Harry can't, the Draught of Living Death among them. Hermione blurts out the third answer, loses points, and is outdone. Framed by Snape's flashback to the Manor, around 1985: mama's medicine and "uncle Severus". DIV-011, DIV-031, [uncle-severus](../../scenes/b1/uncle-severus.md)
 - At the Mirror, Dumbledore names the Dessendres as the case he thinks about, and half tells on himself doing it. DIV-072, DIV-073, [painted-life](../../setting/painted-life.md)

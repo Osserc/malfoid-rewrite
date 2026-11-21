@@ -22,6 +22,9 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 🔒 locked; everything else here is settled.
 
 - At the World Cup the veela don't touch Harry: he's already in love without knowing it. DIV-037
+- In the same hour he says out loud, to Ron and Hermione, that it's no wonder Dracaena is pretty — and is certain he only thought it. DIV-117
+- Then he meets Narcissa, calls her a queen, and charms her flat by accident. She has a lark at her husband's and her daughter's expense, and her alliance with Harry starts there. DIV-116, [the-top-box](../../scenes/b4/the-top-box.md)
+- Before the Ball, Narcissa sends Lindsay Madison to Hogsmeade with a dress of her own choosing. Not the one Dracaena asked for. DIV-115, DIV-040, [the-fitting](../../scenes/b4/the-fitting.md)
 - Harry never asks Cho, and Cho is nothing to anybody. Dracaena saw the veela leave him cold and has decided the girl is Hermione, who is always next to him. DIV-041
 - It is the real Moody all year, under the Imperius, with Crouch Jr asleep in the trunk holding him down. His teaching is genuinely his, which is why Harry's help was real and why Voldemort needed nobody to fake it. DIV-086, [alastor-moody](../../characters/alastor-moody.md)
 - Dracaena draws on Hermione in a corridor and Crouch takes Moody over to beat her half to death down it as a ferret: his one unforced act of the year, and the reader's best clue. **It is an assault, not a prank** — she comes back bleeding and in shock — **and McGonagall draws her wand on an Auror** to stop it. Harry carries her to the hospital wing unasked, furious with her the whole way, and she will not let go of him. Once she is mended he tells her what she did was hideous. She answers nothing and carries it to the Ball. DIV-095, DIV-086, DIV-079, DIV-074, Q-117, Q-135

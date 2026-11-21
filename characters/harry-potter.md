@@ -6,7 +6,7 @@ status: draft
 
 **Role:** protagonist.
 **Canon baseline:** canon Harry, harsher than the original, and in love with Dracaena Malfoy.
-**Changes from canon:** DIV-004–006, DIV-009, DIV-015, DIV-017–019, DIV-021–023, DIV-026, DIV-028, DIV-029, DIV-032, DIV-037–039, DIV-041, DIV-043–052, DIV-058–063, DIV-065–069, DIV-072, DIV-073, DIV-089–092, DIV-095, DIV-096, DIV-105, DIV-106, DIV-108
+**Changes from canon:** DIV-004–006, DIV-009, DIV-116, DIV-117, DIV-015, DIV-017–019, DIV-021–023, DIV-026, DIV-028, DIV-029, DIV-032, DIV-037–039, DIV-041, DIV-043–052, DIV-058–063, DIV-065–069, DIV-072, DIV-073, DIV-089–092, DIV-095, DIV-096, DIV-105, DIV-106, DIV-108
 
 The romance itself lives in [threads/harry-dracaena.md](../threads/harry-dracaena.md); this file is what he is, not what happens between them.
 
@@ -91,6 +91,23 @@ What B4 leaves him with, and the shape his guilt takes from then on. Every other
 - **The premise is false.** He settles on *if I had not been in it, Cedric would have won.* The real final was Harry and Krum, and Krum would most likely have taken the Cup (DIV-089). Nobody ever puts this to him.
 - **He is not told he did nothing wrong,** because the person who answers it will not say that. She says she is glad it was him who made it out alive — not reassurance, not consolation, a flat statement that it was good that he lived, again ([the-diggorys](../scenes/b4/the-diggorys.md)).
 - **And that is the only register that reaches him,** because it is his want exactly: not absolution, not gratitude, not admiration — being wanted, by someone, as himself. The found family gives him belonging; she gives him this ([themes](../core/themes.md)).
+
+## The charm he has no idea he has *(draft)*
+
+**When he isn't thinking about himself, he is disarming, and he never once knows he's doing it.** It only runs when he's not trying — happy, awestruck, or too absorbed to be self-conscious — so it can never be a tactic, and the moment he notices himself doing it, it's gone. He is the opposite of the girl who can work any room she chooses and cannot say one civil sentence to him ([dracaena-malfoy](dracaena-malfoy.md)): **neither of them can do on purpose what the other does without trying.**
+
+- **Madam Malkin's is the first showing.** He asks a stranger whether she's Sleeping Beauty, goes up on tiptoe to check her eyes against the princess's, and tells her hers are pretty too. It isn't flattery and she can tell, which is exactly what makes it unanswerable — nobody has ever paid her a compliment that wasn't really about being a Malfoy (DIV-009).
+- **The B3 final is the same trait at full strength.** He has just won the match of his life, he is happy, and the hand he offers falls out of that. Conscious generosity would read as pity and she would throw it back (DIV-069).
+- **It isn't only for her**, and the World Cup proves it on her mother, which is the one place it has consequences. He calls Narcissa Malfoy a queen, means it, and has no idea he has said anything at all ([narcissa-malfoy](narcissa-malfoy.md), DIV-116).
+- **It runs both ways with the Malfoy women, and neither side has a guard up.** Their whole arsenal is social — the curtsy, the aimed compliment, the rival held politely in reserve — and sincerity is the one thing it was never built to answer. He has nothing against them either: Narcissa holds out a hand and he kisses it because he can feel he is meant to. **Each of them is the other's blind spot.** The difference is that Narcissa is happily married and can simply enjoy it, and does, chiefly at her husband's expense (DIV-116).
+
+### The leak *(draft)* · DIV-117
+
+**The same thing with no charm in it: when he's absorbed enough, the thought comes out of his mouth and he is certain he only thought it.** It is almost always about Dracaena, somebody always hears, and challenged on it he asks what they are talking about and means it.
+
+- **The first is the World Cup**, across the stands, before he has even met Narcissa: *no wonder Dracaena is that pretty, then* (DIV-116).
+- **It is the only reliable leak in the series.** He cannot say what he wants on purpose and does not know he wants it, so the only evidence that ever escapes him escapes by accident — which makes the gag the instrument by which his friends work him out long before he does.
+- **Ration it:** once a book at most, never in a scene carrying weight. Where it lands after B4: Q-152.
 
 ## Harsher than canon *(draft)* · Q-024
 

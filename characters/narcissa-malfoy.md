@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Dracaena's mother, her "mama" and her model of love. Soured on the Death Eaters, and Harry's ally inside the house.
 **Canon baseline:** Narcissa Malfoy, née Black. Anything not overridden follows canon.
-**Changes from canon:** DIV-010, DIV-030, DIV-031, DIV-040, DIV-052, DIV-053, DIV-060, DIV-064
+**Changes from canon:** DIV-116, DIV-010, DIV-030, DIV-031, DIV-040, DIV-052, DIV-053, DIV-060, DIV-064
 
 ## Core
 
@@ -57,20 +57,29 @@ Canon default.
 
 ## Relationships
 
-- [Dracaena Malfoy](dracaena-malfoy.md): her only child. Quietly gets her the Muggle books (DIV-010). Dracaena learned Potions to brew her medicine (DIV-031). Her Sectumsempra scars echo Narcissa's marks (DIV-032).
+- [Dracaena Malfoy](dracaena-malfoy.md): her only child. Gets her the Muggle books, openly, and sends Dobby for them (DIV-010). Dracaena learned Potions to brew her medicine (DIV-031). Her Sectumsempra scars echo Narcissa's marks (DIV-032).
 - [Severus Snape](severus-snape.md): brews the medicine that holds her curse back (DIV-030).
 - [Lucius Malfoy](lucius-malfoy.md): her husband. She has forgiven him for the curse, and uses the guilt he still carries.
-- Harry Potter: her ally in all but name (Q-039).
+- [Harry Potter](harry-potter.md): her ally in all but name (Q-039). **It starts at the World Cup**, where he calls her a queen, means it, and has no idea he has said anything (DIV-116). She likes him from that afternoon and never needs a better reason.
 - Sirius Black, Bellatrix Lestrange, Andromeda Tonks: her cousin and her sisters (canon default).
+
+## Not the dour one *(settled)* · DIV-116
+
+**Canon's Narcissa barely smiles. Ours is the warmest person in that house, and shows it in public.** She teases Lucius affectionately in front of other people and has done for years; he bears it, and it is the warmest thing anybody sees a Malfoy do in four books ([lucius-malfoy](lucius-malfoy.md)).
+
+The World Cup is where it is shown rather than asserted. Harry calls her a queen and she goes — helpless giggling, leaning on her husband in front of the Minister for Magic — and then holds out her hand: *well, now I want a proper greeting.* **It is a lark, at everyone present and chiefly at her husband and her daughter**, and Harry is the instrument. What keeps it clean is that she is happily married and visibly so.
+
+- **She is the model of love Dracaena learns from** ([dracaena-malfoy](dracaena-malfoy.md)), so this is the original of her daughter's tenderness, and the original is funnier and much more confident.
+- **And she is delighted for her**, from the first moment and without reservation, which is why she is choosing a dress to go with Harry three months later while Lucius is still asking questions (DIV-040).
 
 ## Arc by book
 
 | Book | Start | Turn | End |
 |---|---|---|---|
-| B1 | Gets Dracaena her Muggle books (DIV-010) | | |
+| B1 | Sends Dobby for Dracaena's Muggle books, asked for in front of Lucius, who lets it go because she wants it (DIV-010) | | |
 | B2 | | | |
 | B3 | | Gives Dracaena the password to the Malfoy room (DIV-060) | |
-| B4 | | Plays Harry's advocate before the Ball (DIV-040) | |
+| B4 | Meets Harry at the World Cup, is charmed flat, and has a lark at her husband's and her daughter's expense (DIV-116) | Plays Harry's advocate before the Ball, and sends Lindsay Madison to Hogsmeade with a dress of her own choosing (DIV-040, DIV-115) | |
 | B5 | | | |
 | B6 | | | |
 | B7 | | Defects with Lucius during the Manor raid, when her daughter turns (DIV-052). Sees Dobby's true form without understanding it (DIV-050). Recovers at Shell Cottage, where Dracaena brews her medicine | At Hogwarts for the battle, not in the forest: no lie (DIV-052). Fights her sister Bellatrix with Lucius (DIV-053) |

@@ -86,4 +86,4 @@ Then the elf keeps turning up alive, for years, and she is the only person in th
 
 ## Open
 
-Q-098 (when Dracaena works out what Dobby is now) · Q-101 (her reaction to the liberation, and how it sits against the Chamber) · Q-018 (whether Dobby was Narcissa's book courier, and what this cuts off)
+Q-098 (when Dracaena works out what Dobby is now) · Q-101 (her reaction to the liberation, and how it sits against the Chamber) · DIV-010 (Dobby fetched Dracaena's Muggle books, among everything else he does for that house — the books are the least of what they lose)

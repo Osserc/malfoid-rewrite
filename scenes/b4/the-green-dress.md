@@ -21,15 +21,16 @@ Lucius finds out who his daughter is going to the Ball with before the Ball, and
 2. *(settled)* Lucius, suspicious, questions Narcissa. She's going through their daughter's wardrobe, trying to work out which dress would go well with Harry, because of course it's him.
 3. *(settled)* Lucius is annoyed that his wife is calmly matchmaking their daughter with the Dark Lord's sworn enemy.
 4. *(settled)* Narcissa plays Harry's advocate: he's a good prospect for Dracaena in general, and she has soured on the whole Death Eater business ([narcissa-malfoy](../../characters/narcissa-malfoy.md)). Lucius reluctantly sees her point.
-5. *(settled)* Narcissa sends a more modest dress.
+5. *(settled)* Narcissa sends a more modest dress — and a dressmaker with it, to Hogsmeade (DIV-115, [the-fitting](the-fitting.md)). She arranges the out-of-term visit through Snape.
 
 ## Must keep
 
 - The two owls and what each one asks.
 - Lucius interrogates; Narcissa calmly matchmakes, already sure it's Harry.
 - Lucius reluctantly sees her point.
-- The modest dress, from Narcissa.
+- The modest dress, from Narcissa, and the fact that she sends someone to put Dracaena in it.
 
 ## Open
 
 Which dress she wears to the Ball ([yule-ball](yule-ball.md)).
+

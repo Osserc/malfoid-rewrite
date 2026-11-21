@@ -137,14 +137,6 @@ What's the real grievance or truth, and where does it turn into Voldemort's ideo
 
 *Lead (author, draft):* power runs in magical lines, so Muggle-borns are weaker on average, though not worse witches → [society](../setting/society.md).
 
-### Q-018 · Who fetches the books? (DIV-010)
-
-Narcissa is the conduit but would never shop herself. Options:
-
-- Dobby. This commits us on the house elves, and Harry freeing him at the end of B2 would cut off her supply. *(leaning)* He's now carrying her letters to Privet Drive from summer 1995 anyway (DIV-065), which argues for using him here too, and makes the B2 cut-off a beat rather than a problem. *Now unblocked:* the elf rules are settled (DIV-075), he can do it, and the B2 cut-off is sharper than it was — as far as Dracaena and Narcissa know, Potter has just killed their supplier (DIV-076, Q-098).
-- A Squib: someone who moves in both worlds and whom purebloods never look at twice.
-- A bigger swing: Andromeda, Narcissa's disowned sister, married to a Muggle-born.
-
 ### Q-019 · Narcissa and Lucius (DIV-010)
 
 How their marriage works (the author has ideas), why Narcissa indulges the books, and what Lucius knows and when.
@@ -406,7 +398,7 @@ Open:
 ### Q-064 · The raid's open points (DIV-049, DIV-051)
 
 - **What destroys the locket.** Something in the Manor's Dark collection. Canon's means are basilisk venom and Fiendfyre. Who uses it on the locket? In canon, destroying it is Ron's catharsis.
-- **Her room.** How Harry knows the way: she described it once, or Dobby scouts it (the author's lean). If Dobby fetched her Muggle books (Q-018), he knows the room and her.
+- **Her room.** How Harry knows the way: she described it once, or Dobby scouts it (the author's lean). Dobby fetched her Muggle books (DIV-010), so he knows the room and her.
 - **The cellar.** Who's held there. In canon Luna is taken off the train home for Christmas, and Ollivander has been there since the summer. Griphook and Dean are caught with the trio in canon.
 - **Gringotts.** Without the sword, Griphook has nothing to ask for, and Bellatrix never panics over her vault, which is how canon finds the cup. Claude's proposals: the Malfoys supply the lead (Lucius once kept the diary for the Dark Lord, and Narcissa knows her sister), and they pay Griphook in goblin-made heirlooms returned to goblin hands, with no Imperius. The cover holds either way: the Death Eaters have no reason to alert Gringotts (DIV-049).
 - **When Gringotts happens.** *Answered:* at the end of April, as in canon. The break-in tips Voldemort off, and the battle follows that same night, so it can't come straight after Shell Cottage. Still open: what fills February to April (Q-013, Q-065).
@@ -947,8 +939,32 @@ Interposition is half a doctrine. *You do not stand still* needs a *how*, and it
 
 Also open: what a man with one leg does about his own mobility, which the class will certainly wonder about and which he will certainly have an answer to.
 
+### Q-152 · Where else does Harry say it out loud? (DIV-117)
+
+The gag is established at the World Cup. Once a book at most, never in a scene that is carrying weight, and never twice on the same note. Candidates are wide open; the useful ones are the moments where the leak costs him something, or where the person who hears it is the wrong person.
+
 
 ## Answered
+
+### Q-151 · Queen or empress, and does she offer her hand? (DIV-116)
+
+*Answered: queen, and yes.* Recorded in **DIV-116**; the scene is [the-top-box](../scenes/b4/the-top-box.md).
+
+**Queen**, because it pairs with princess and sits inside the Sleeping Beauty motif. **The hand, yes** — *well, now I want a proper greeting* — and it reads as a woman amusing herself because that is exactly what it is: she is having a lark at her husband and her daughter, and Harry is the instrument. The thing that keeps it clean is that she is happily married and visibly so, and that she is known for teasing Lucius affectionately in public.
+
+### Q-150 · Where does Lindsay fit Dracaena for the Ball? (DIV-115, DIV-040)
+
+*Answered: Hogsmeade, on an unscheduled permit, with Narcissa's dress in her hands. Her name is **Lindsay Madison**.* Recorded in **DIV-115** and **DIV-040**; the scene is [the-fitting](../scenes/b4/the-fitting.md).
+
+Sending Dracaena to the Manor or to Diagon Alley doesn't work — the logistics of getting her out of a castle full of guests and back aren't there. Hogsmeade is walkable and already in the students' world, and Narcissa arranges the out-of-term visit through Snape, who is Dracaena's head of house and has been "uncle Severus" since she was five (DIV-031).
+
+Open after it: whether Lindsay is seen again after B4.
+
+### Q-018 · Who fetches the books? (DIV-010)
+
+*Answered: Dobby, and the books are never hidden from anyone.* Recorded in **DIV-010**.
+
+She asks for them outright, in front of both parents, the evening of the meeting. Narcissa sends Dobby; Lucius lets it go because his wife wants to indulge their daughter. The Squib and the Andromeda options are dropped. Fetching books is a footnote next to everything else Dobby does for that house, so B2 is not a supply problem: when Harry frees him, the books are the least of what the Malfoys lose (DIV-076).
 
 ### Q-141 · Does Harry ever learn why Moody left? (DIV-106, DIV-100)
 
