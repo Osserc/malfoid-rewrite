@@ -107,4 +107,4 @@ Tracked in [continuity/reveals.md](../continuity/reveals.md).
 
 ## Open questions
 
-Q-018, Q-019, Q-030, Q-032, Q-036, Q-039, Q-041, Q-044, Q-067, Q-072, Q-096, Q-097, Q-154
+Q-018, Q-019, Q-030, Q-032, Q-036, Q-039, Q-041, Q-044, Q-067, Q-072, Q-096, Q-097

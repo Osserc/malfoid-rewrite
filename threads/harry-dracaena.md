@@ -14,7 +14,7 @@ His side: like canon, he wants little to do with her and regrets ever being kind
 - **Potions:** her strange sweetness weirds him out (DIV-017).
 - **The Dementor impression stops:** she taunted him with it in the autumn, then faced her own Boggart and never did it again. He notices only the absence, and never learns why ([remedial-boggart](../scenes/b3/remedial-boggart.md), DIV-017).
 - **The Defence exam:** he watches her fail a Boggart in front of the whole year, days before the lake — which makes one thing she told him at the lap pillow demonstrably true. Filed, not understood ([the-trunk](../scenes/b3/the-trunk.md), DIV-017).
-- **The Patronus lessons:** she spies on them and studies the charm for him. In the lap-pillow scene he catches her smiling at him. He writes the scene off as a prank and won't count it as a happy memory until the lake, but he keeps going back to that smile and finding it very pretty, which confuses him (DIV-018).
+- **The Patronus lessons:** she spies on them and studies the charm for him. In the lap-pillow scene he catches her smiling at him. He writes the scene off as a prank and won't count it as a happy memory until the lake, but he keeps going back to that smile and finding it very pretty, which confuses him (DIV-018). **It powers the Patronus at the lake, and then Narcissa wears it by accident at the World Cup and he calls her a queen** (DIV-116).
 - **The lake:** it all adds up. She stole Buckbeak to save him, the smile and the Patronus study weren't jokes, and now she's trying to drive the Dementors off herself. There's something more to this girl (DIV-018).
 
 By the World Cup in summer 1994 he's already in love without knowing it. Fresh off the lake, where she saved his godfather, he sees her again and can't explain to himself why he's happy to, and the veela don't touch him (DIV-037). In B4 Sirius plants the idea of asking her to the Ball (DIV-019), and she's the only one he asks: Cho never comes into it, and the only rival is the one Dracaena invents out of Hermione (DIV-041). He can be harsher than canon, with his Horcrux playing a bigger part (Q-024). In B6 he spends the whole year angry over the breakup, and his heart isn't in Dumbledore's lessons. In B7 he breaks off from the Manor raid to apologise to her, sure she no longer wants him (DIV-049). Later he walks to the forest to die for Dumbledore's plan, and at King's Cross he goes back for her, not for the job (DIV-048).
@@ -52,7 +52,9 @@ Why Harry never asks Cho at all: asking Ravenclaw's Seeker first and only then D
 - **B4, September.** The same pattern with a ferret in it: she draws on Hermione, Moody bounces her down a corridor, and Harry carries her to the hospital wing while angrier at her than he has ever been in his life (DIV-095).
 - **B4, February.** He tells her what the carry actually was, and it is the one piece of evidence she cannot argue with, because he was furious and did it anyway (DIV-104, [which-one-is-real](../scenes/b4/which-one-is-real.md)).
 
-**She filed the first one wrong on the day** — Potter defending Granger — which is what she files everything as. Whether it ever surfaces when the February fact lands: Q-154.
+**She filed the first one wrong on the day** — Potter defending Granger — which is what she files everything as, and **she is never given it back** (Q-154, answered). The reader is the only one who ever connects the three.
+
+**Harry gets the only callback, and it is a joke.** In B3 he wrestles the Monster Book shut, is reminded of wrestling her, and remembers it fondly without noticing he does — possibly as B3's one leak, with Lindsay producing a blonde princess across the street the same afternoon (Q-155, DIV-117, DIV-119).
 
 ## The leak *(draft)* · DIV-117
 

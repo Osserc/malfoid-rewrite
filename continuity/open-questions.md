@@ -947,16 +947,30 @@ Also open: what a man with one leg does about his own mobility, which the class 
 
 The gag is established at the World Cup. Once a book at most, never in a scene that is carrying weight, and never twice on the same note. Candidates are wide open; the useful ones are the moments where the leak costs him something, or where the person who hears it is the wrong person.
 
-### Q-154 · Does the bookshop grab ever surface? (DIV-120, DIV-104)
+**One live candidate, and it is earlier rather than later: B3, the bookshop** — *"Dracaena"*, said absently over the Monster Book, to Ron and Hermione (Q-155). B3 has no leak at present, and it would feed the Lindsay scene twenty minutes afterwards (DIV-119).
 
-In B2, Harry grabs **Dracaena** to keep her off Hermione and gets knocked down for it. In September of B4 the same pattern puts her in the hospital wing and he carries her out furious; in February he tells her what that carry was, and it is the one piece of evidence she cannot argue with.
+### Q-155 · B3: the monster book, and Harry's callback to the grab (DIV-120, DIV-117, DIV-119)
 
-- **She has the bookshop in her memory and filed it wrong** — Potter defending Granger — which is what she files everything as ([dracaena-malfoy](../characters/dracaena-malfoy.md)).
-- **The case for leaving it buried:** the reader makes the connection unaided, and DIV-104 is explicit that the conclusion has to be hers and not handed to her. A remembered bookshop would do the work for her.
-- **The case for surfacing it:** it is three years of evidence she has been sitting on, and finding that out about herself is a different and sharper humiliation than being told one fact about one corridor.
-- Claude's lean is buried, with at most a half-line of physical recall she doesn't interpret. The author decides.
+**The author's.** The bookshop grab comes back the following year, from Harry's side, over the Monster Book of Monsters — he wrestles the thing shut and it reminds him of doing the same to Dracaena. **He remembers it fondly and does not notice that he does.** Three versions, escalating:
+
+1. **Plain.** A line at the moment he gets the book from Hagrid. Smallest, safest, and barely registers.
+2. **The shopping trip.** Canon has Ron and Hermione report that the Flourish & Blotts clerk cried when they asked for two copies. The memory lands there, in the same shop it happened in, and his friends ask why he is smiling about monster books. **He shrugs.**
+3. **The leak.** Same staging, but he says *"Dracaena"* absently and marches off towards Madam Malkin's. Ron and Hermione are flabbergasted and say nothing — and twenty minutes later Lindsay Madison independently produces a blonde princess (DIV-119).
+
+**Claude's lean is 3, for a structural reason:** it loads a scene that already exists. DIV-119's beat 6 has Ron seizing on *the other girlfriend — the blonde one* and demanding to know who that is, and that lands far harder if Harry said her name out loud across the street. **Two scenes form a pincer and neither knows it is part of one.**
+
+- **It would be B3's one leak**, which the book currently lacks, so it costs nothing against DIV-117's ration and answers part of Q-152.
+- **It puts the leak and the not-leak twenty minutes apart**, in two different shops. The defensive reflex at Madam Malkin's is explicitly *not* a leak — he knows he is speaking (DIV-119) — and the contrast is the point, but the prose has to keep them crisp (DIV-117).
+- **Hermione's shadow.** She was the one insulted and the one who charged, in that exact shop, a year earlier. A shadow crossing her face as Harry smiles at the memory is free, and it is the only acknowledgement the bookshop ever gets.
+- **Still open:** which version; whether Hermione makes the connection or only remembers the day; and whether it is ever allowed to resurface afterwards. Ordering also needs a look — DIV-119 has Ron and Hermione already in and out of Madam Malkin's earlier that day ([the-robe-shop](../scenes/b3/the-robe-shop.md)).
 
 ## Answered
+
+### Q-154 · Does the bookshop grab ever surface? (DIV-120, DIV-104)
+
+**No — never from Dracaena's POV, and she is never given it.** *Answered by the author 2026-11-22.* The conclusion in February has to be hers, from the corridor alone (DIV-104); a remembered bookshop would do the work for her and blunt it. She keeps the memory, filed wrong as Potter defending Granger, and the reader is the only one who ever connects the two.
+
+**It comes back from Harry's side instead**, a year earlier and as comedy: Q-155.
 
 ### Q-151 · Queen or empress, and does she offer her hand? (DIV-116)
 

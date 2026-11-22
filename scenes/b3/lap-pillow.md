@@ -45,6 +45,8 @@ The scene shows both of them through her: "father" in the Boggart, "mama" in the
 
 Before the lake he still goes back to her smile now and then, and finds it very pretty. It confuses him greatly.
 
+It pays twice: the Patronus at the lake, and then the World Cup, where Narcissa wears the same smile by accident and he calls her a *queen* (DIV-116).
+
 ## Notes on the sketch
 
 - **The taunt** (beat 3) is to be reworked so it reads as her trying to provoke him back into the game, and as the run-up to her offer, with the owning motive underneath.

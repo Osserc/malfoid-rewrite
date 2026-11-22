@@ -25,8 +25,9 @@ Comedy throughout. Nothing in it is played for weight.
 2. **The pounce.** Lucius presents his wife to the box. **She does not ask who Harry is.** What she opens with is family chat, to a boy she has never been presented to, in front of the Minister for Magic: *Mr Potter. My darling daughter has been regaling me with tales of your accomplishments for years. I feel I know you a little already.*
    - The regaling line is true, and it's four years of complaining handed back as a compliment — Lucius has been listening to all of it ([lucius-malfoy](../../characters/lucius-malfoy.md)).
    - *I feel I know you a little already* is a lie with a true bottom. Harry gets as far as half-placing the voice and never gets there.
-3. **The bait.** Her smile widens: *You do have my sympathies. She can be quite a handful.* Thrown on purpose, and it opens a slot: he is supposed to answer a polite apology.
-4. **The flash.** Half a second, not a reverie — her face does something and his brain supplies Dracaena's doing it, grown, **and cross with him**. He never names what happened.
+3. **The bait, and the bait is a smile.** *You do have my sympathies. She can be quite a handful* — with a beautiful smile, thrown on purpose. It opens a slot: he is supposed to answer a polite apology.
+   - **It is the lap-pillow smile** (DIV-018): the one Dracaena gave him in B3, that he wrote off as a prank and kept returning to and finding very pretty, and that became the happy memory powering the Patronus at the lake ([lap-pillow](../b3/lap-pillow.md)). Narcissa wears it for half a second without knowing she has, and it is the link the flash runs on.
+4. **The flash.** Half a second, not a reverie — the smile lands and his brain supplies Dracaena wearing it, grown, **and cross with him**. He never names what happened, and never clocks that he has been carrying that face since March.
 5. **The queen.** What comes out of the slot isn't a conversational move at all — the Madam Malkin's mechanism exactly (DIV-009). Shape, not final wording: *I don't mind. She'll be like you one day.* … *A queen.*
    - *I don't mind* is a confession inside a pleasantry, said in public and heard by nobody.
    - **A statement, not a wish.** Certainty is awe-shaped; hoping is compliment-shaped. Queen, not empress: it pairs with princess.
@@ -42,9 +43,12 @@ The leak from the stands, the *regaling me with tales* line, the bait about her 
 
 **Narcissa stays the hunter.** If she reads as a mirror for a compliment aimed past her at her daughter, the scene is wrong.
 
+**And the smile is Dracaena's win.** Her mother takes the hand-kiss and does not take the smile, because it was her daughter's first and it is still working. Dracaena sulks about the hand with no idea she has already beaten her at the only thing that counted. **Never stated, by anyone, ever.**
+
 ## Open
 
 - **The exact wording of the queen line.** The shape is settled — an answer to the bait, a statement rather than a wish, "queen" in the emphatic position — and the line itself is not.
 - Whether the flash is given any prose at all beyond the half-second, which risks making Harry self-aware.
 - Whether Dracaena's sulk lands here or later, with her mother only giggling at her (DIV-116).
 - The near-recognition of the voice: how light to play it (DIV-120).
+- Whether the prose marks the smile as familiar at all, or leaves the reader to do it. Marking it risks making Harry self-aware; not marking it risks nobody noticing.
