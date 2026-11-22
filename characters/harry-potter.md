@@ -75,6 +75,7 @@ His heart runs well in front of his self-knowledge, and the books use it as evid
 - **The veela don't touch him** at the 1994 World Cup, because he is already in love. He has no idea. Fleur later uses the same rule to read him, and he can't say what she can see (DIV-038).
 - **He can't account for his own happiness** at seeing her again that summer, and doesn't try very hard.
 - **The lap-pillow smile.** He writes the scene off as a prank and then keeps returning to the smile and finding it pretty, which confuses him. He won't count it as a happy memory until the lake — and it is the memory that powers the Patronus that saves everyone (DIV-018).
+  - **It fires once more, two months later.** Narcissa wears the same smile at the World Cup without knowing it, and it is what triggers the half-second of grown Dracaena that the queen line comes out of (DIV-116). **The smile that saved the school in June flattens him in August, and he never identifies it either time.**
 
 ## He doesn't read her *(settled)*
 

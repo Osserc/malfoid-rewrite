@@ -288,7 +288,8 @@ Still open:
 
 ### Q-039 · Narcissa's curse and her alliance (DIV-030)
 
-- **Harry's ally.** It shows in B4, when she confirms Lucius's suspicions before the Ball and plays Harry's advocate (DIV-040). Where else? Candidates: the brooms and the books (DIV-010), the end-of-B4 strategy (DIV-013, Q-022), her B7 lie (Q-032). When does she first meet Harry as more than her daughter's rival?
+- **Harry's ally.** It shows in B4, when she confirms Lucius's suspicions before the Ball and plays Harry's advocate (DIV-040). Where else? Candidates: the brooms and the books (DIV-010), the end-of-B4 strategy (DIV-013, Q-022), her B7 lie (Q-032).
+- *Partly answered (DIV-120):* **she first sees Harry at Flourish & Blotts in B2**, on the floor without his glasses, while she is prising her husband off Arthur Weasley — he never sees her. The alliance itself starts two years later at the World Cup (DIV-116). **What remains open is the gap:** she goes home from that shop having decided the boy is worth watching, and there are two years before the Cup in which nothing is currently written for her. Does anything show in B3, or is the silence the point?
 - **Who cast the curse**, and were they caught? A Death Eater still at large could resurface after Voldemort's return.
 - **Does Dracaena know** why she's an only child? Tracked in [reveals.md](reveals.md).
 
@@ -843,6 +844,7 @@ Settled that he exists and what he is: **a sixth year in B4**, so Balthier and N
 
 The live possibility is that the diary goes to **Dracaena**, on purpose, and what that would mean about Lucius — whether he knows what it is, what he thinks he is buying, and how it sits beside a man driven by fear of losing her. It touches [the-sock](../scenes/b2/the-sock.md), DIV-076 and DIV-050, so nothing should be written that forecloses it.
 
+*Constraint added by DIV-120:* **Narcissa is now in the bookshop**, and she is the one who ends the row. The diary still reaches Ginny's cauldron and **how it gets there is deliberately unwritten** ([flourish-and-blotts](../scenes/b2/flourish-and-blotts.md)). Worth noting when this question is taken up: if the diary were meant for Dracaena, the moment his wife calls the family to order is exactly where a plan could go wrong — which is an opportunity, not an obstacle.
 
 ### Q-132 · Where the "all silent in here" line goes (DIV-095, DIV-089)
 
@@ -945,7 +947,30 @@ Also open: what a man with one leg does about his own mobility, which the class 
 
 The gag is established at the World Cup. Once a book at most, never in a scene that is carrying weight, and never twice on the same note. Candidates are wide open; the useful ones are the moments where the leak costs him something, or where the person who hears it is the wrong person.
 
+**B3's charge is unspent and deliberately so.** The Monster Book callback was considered for it and settled as a private memory instead (Q-155), so the book still has its one leak to place somewhere worth it.
+
 ## Answered
+
+### Q-155 · B3: the monster book, and Harry's callback to the grab (DIV-120)
+
+**Settled by the author 2026-11-22: the plain version, kept private, and it buys a second beat for free.**
+
+**The birthday.** Harry gets the Monster Book from Hagrid on **31 July 1993**, wrestles the thing shut, and thinks of his rival — fondly, alone in a bedroom at Privet Drive, **and without noticing that he does it fondly**. It stays inside his head.
+
+- **Why here and not later.** Canon's alternative is Ron and Hermione *mentioning* the book in Diagon Alley, which means the memory has to arrive while somebody else talks about an object rather than while Harry is fighting one. **He has to be engaging with the thing for the association to be earned.**
+- **It costs no charge.** Pairing it with the robe shop would have spent B3's one leak (DIV-117) in August on a scene that is already plenty fun (DIV-119), so the leak stays live for somewhere it is worth more (Q-152).
+- **Free resonance, costing nothing:** 31 July 1993 is **two years to the day** since Madam Malkin's (DIV-009). Nobody points at it.
+
+**And then the hippogriff lesson, weeks later.** Hagrid tells the class to stroke the spine gently, and **Harry is already primed**. A private laugh at Dracaena as a grumpy cat — easy to picture, because Crookshanks is on the page by then and a white one superimposes on him with no effort. **Two lines at most, entirely interior, then move on.**
+
+- **It is a joke, not a motif.** Her animal is the dragon, and nothing about the cat is ever built on (DIV-027).
+- **Worth knowing while writing it:** that lesson is where she insults Buckbeak, gets clawed and starts the play-acting that condemns him (DIV-017). **The laugh curdles within minutes.** The text need not point at it.
+
+### Q-154 · Does the bookshop grab ever surface? (DIV-120, DIV-104)
+
+**No — never from Dracaena's POV, and she is never given it.** *Answered by the author 2026-11-22.* The conclusion in February has to be hers, from the corridor alone (DIV-104); a remembered bookshop would do the work for her and blunt it. She keeps the memory, filed wrong as Potter defending Granger, and the reader is the only one who ever connects the two.
+
+**It comes back from Harry's side instead**, a year earlier and as comedy: Q-155.
 
 ### Q-151 · Queen or empress, and does she offer her hand? (DIV-116)
 

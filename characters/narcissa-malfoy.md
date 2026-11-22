@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Dracaena's mother, her "mama" and her model of love. Soured on the Death Eaters, and Harry's ally inside the house.
 **Canon baseline:** Narcissa Malfoy, née Black. Anything not overridden follows canon.
-**Changes from canon:** DIV-116, DIV-010, DIV-030, DIV-031, DIV-040, DIV-052, DIV-053, DIV-060, DIV-064
+**Changes from canon:** DIV-116, DIV-120, DIV-010, DIV-030, DIV-031, DIV-040, DIV-052, DIV-053, DIV-060, DIV-064
 
 ## Core
 
@@ -60,15 +60,32 @@ Canon default.
 - [Dracaena Malfoy](dracaena-malfoy.md): her only child. Gets her the Muggle books, openly, and sends Dobby for them (DIV-010). Dracaena learned Potions to brew her medicine (DIV-031). Her Sectumsempra scars echo Narcissa's marks (DIV-032).
 - [Severus Snape](severus-snape.md): brews the medicine that holds her curse back (DIV-030).
 - [Lucius Malfoy](lucius-malfoy.md): her husband. She has forgiven him for the curse, and uses the guilt he still carries.
-- [Harry Potter](harry-potter.md): her ally in all but name (Q-039). **It starts at the World Cup**, where he calls her a queen, means it, and has no idea he has said anything (DIV-116). She likes him from that afternoon and never needs a better reason.
+- [Harry Potter](harry-potter.md): her ally in all but name (Q-039). **She first sees him in B2**, on a bookshop floor, blind, while she is prising her husband off Arthur Weasley — he never sees her (DIV-120). **The alliance starts two years later at the World Cup**, where he calls her a queen, means it, and has no idea he has said anything (DIV-116). She likes him from that afternoon and never needs a better reason.
 - Sirius Black, Bellatrix Lestrange, Andromeda Tonks: her cousin and her sisters (canon default).
 
 ## Not the dour one *(settled)* · DIV-116
 
 **Canon's Narcissa barely smiles. Ours is the warmest person in that house, and shows it in public.** She teases Lucius affectionately in front of other people and has done for years; he bears it, and it is the warmest thing anybody sees a Malfoy do in four books ([lucius-malfoy](lucius-malfoy.md)).
 
-The World Cup is where it is shown rather than asserted. Harry calls her a queen and she goes — helpless giggling, leaning on her husband in front of the Minister for Magic — and then holds out her hand: *well, now I want a proper greeting.* **It is a lark, at everyone present and chiefly at her husband and her daughter**, and Harry is the instrument. What keeps it clean is that she is happily married and visibly so.
+### The bookshop *(draft)* · DIV-120
 
+**It is planted two books early, at Flourish & Blotts in B2, so that the World Cup is a callback and not a claim** ([flourish-and-blotts](../scenes/b2/flourish-and-blotts.md)).
+
+The children start it — Dracaena insults Granger over Harry, Hermione charges her, and Lucius squares up to Arthur Weasley with the Muggle Protection Act as his pretext. Narcissa stops it before blows, and **Hagrid's canon intervention is cut.**
+
+- **What she objects to is the scene, not the sentiment.** She is a Malfoy and no friend of Muggle-borns. She would simply rather not have her family brawling in front of a full shop, and conflict bores her.
+- **The line.** She takes her husband's hand: *My, my. Still so full of vim and vigour. Perhaps I should be more* **diligent** *in my duties.* A wink, and the family is called to order. **He is spared the blush because his colour is already up** from the row.
+- **It is deniable, and on a reread it is not a joke.** She cannot have more children, and the duties she is making light of in public are the ones the curse took (DIV-030). The husband who has never forgiven himself stands there and takes it. **"He bears it" becomes penance.**
+- **It is how she steers him** — his guilt, used lightly, for a laugh, in a bookshop — **and it is the model of love her daughter learns from** ([dracaena-malfoy](dracaena-malfoy.md)). Everything Dracaena later does to Harry starts here.
+- **Three things at once, which is the point of the beat:** she dislikes conflict, she is playful, and she can take a delicate public situation apart without raising her voice. **A Malfoy through and through.**
+- **She gets her look at Harry and he gets nothing.** He is on the floor without his glasses; she takes her time over the boy her daughter will not stop writing about. All he carries away is a voice. **It is the day she starts paying attention** — the start date for DIV-040, where she has worked out what she is listening to long before Lucius has. What she does with the two years in between: Q-039.
+
+### The World Cup *(settled)* · DIV-116
+
+The World Cup is where she goes to work on it. Harry calls her a queen and she goes — helpless giggling, leaning on her husband in front of the Minister for Magic — and then holds out her hand: *well, now I want a proper greeting.* **It is a lark, at everyone present and chiefly at her husband and her daughter**, and Harry is the instrument. What keeps it clean is that she is happily married and visibly so.
+
+- **She sets the trap.** Having seen him once already (DIV-120), she does not need to ask who he is, so she opens with family chat — *my darling daughter has been regaling me with tales of your accomplishments for years; I feel I know you a little already* — and then baits him: *you do have my sympathies, she can be quite a handful.* **That is as knowing as she is allowed to be in public**; anything about the two of them being close would tip her hand to Lucius and detonate her daughter. The knowing version waits for the green dress (DIV-040).
+- **And what she lands is better than a compliment.** The boy answers her apology with *I don't mind — she'll be like you one day. A queen*, and she reads it instantly: **he has just looked at her and seen her daughter in twenty years, and he has no idea he did it.** Proof, in public, before Harry owns any of it. **She is the hunter of that scene, not a mirror for a compliment aimed past her** — which is the whole reason the alliance never needs a second one.
 - **She is the model of love Dracaena learns from** ([dracaena-malfoy](dracaena-malfoy.md)), so this is the original of her daughter's tenderness, and the original is funnier and much more confident.
 - **And she is delighted for her**, from the first moment and without reservation, which is why she is choosing a dress to go with Harry three months later while Lucius is still asking questions (DIV-040).
 
@@ -77,9 +94,9 @@ The World Cup is where it is shown rather than asserted. Harry calls her a queen
 | Book | Start | Turn | End |
 |---|---|---|---|
 | B1 | Sends Dobby for Dracaena's Muggle books, asked for in front of Lucius, who lets it go because she wants it (DIV-010) | | |
-| B2 | | | |
+| B2 | At Flourish & Blotts she breaks up her family's brawl with the Weasleys before it comes to blows, teases Lucius in front of the whole shop, and takes her first look at Harry Potter, who never sees her (DIV-120) | | |
 | B3 | | Gives Dracaena the password to the Malfoy room (DIV-060) | |
-| B4 | Meets Harry at the World Cup, is charmed flat, and has a lark at her husband's and her daughter's expense (DIV-116) | Plays Harry's advocate before the Ball, and sends Lindsay Madison to Hogsmeade with a dress of her own choosing (DIV-040, DIV-115) | |
+| B4 | Finally introduced to Harry at the World Cup, two years after the bookshop (DIV-120); is charmed flat, and has a lark at her husband's and her daughter's expense (DIV-116) | Plays Harry's advocate before the Ball, and sends Lindsay Madison to Hogsmeade with a dress of her own choosing (DIV-040, DIV-115) | |
 | B5 | | | |
 | B6 | | | |
 | B7 | | Defects with Lucius during the Manor raid, when her daughter turns (DIV-052). Sees Dobby's true form without understanding it (DIV-050). Recovers at Shell Cottage, where Dracaena brews her medicine | At Hogwarts for the battle, not in the forest: no lie (DIV-052). Fights her sister Bellatrix with Lucius (DIV-053) |

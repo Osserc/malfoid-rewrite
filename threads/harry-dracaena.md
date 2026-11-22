@@ -14,7 +14,7 @@ His side: like canon, he wants little to do with her and regrets ever being kind
 - **Potions:** her strange sweetness weirds him out (DIV-017).
 - **The Dementor impression stops:** she taunted him with it in the autumn, then faced her own Boggart and never did it again. He notices only the absence, and never learns why ([remedial-boggart](../scenes/b3/remedial-boggart.md), DIV-017).
 - **The Defence exam:** he watches her fail a Boggart in front of the whole year, days before the lake — which makes one thing she told him at the lap pillow demonstrably true. Filed, not understood ([the-trunk](../scenes/b3/the-trunk.md), DIV-017).
-- **The Patronus lessons:** she spies on them and studies the charm for him. In the lap-pillow scene he catches her smiling at him. He writes the scene off as a prank and won't count it as a happy memory until the lake, but he keeps going back to that smile and finding it very pretty, which confuses him (DIV-018).
+- **The Patronus lessons:** she spies on them and studies the charm for him. In the lap-pillow scene he catches her smiling at him. He writes the scene off as a prank and won't count it as a happy memory until the lake, but he keeps going back to that smile and finding it very pretty, which confuses him (DIV-018). **It powers the Patronus at the lake, and then Narcissa wears it by accident at the World Cup and he calls her a queen** (DIV-116).
 - **The lake:** it all adds up. She stole Buckbeak to save him, the smile and the Patronus study weren't jokes, and now she's trying to drive the Dementors off herself. There's something more to this girl (DIV-018).
 
 By the World Cup in summer 1994 he's already in love without knowing it. Fresh off the lake, where she saved his godfather, he sees her again and can't explain to himself why he's happy to, and the veela don't touch him (DIV-037). In B4 Sirius plants the idea of asking her to the Ball (DIV-019), and she's the only one he asks: Cho never comes into it, and the only rival is the one Dracaena invents out of Hermione (DIV-041). He can be harsher than canon, with his Horcrux playing a bigger part (Q-024). In B6 he spends the whole year angry over the breakup, and his heart isn't in Dumbledore's lessons. In B7 he breaks off from the Manor raid to apologise to her, sure she no longer wants him (DIV-049). Later he walks to the forest to die for Dumbledore's plan, and at King's Cross he goes back for her, not for the job (DIV-048).
@@ -44,11 +44,24 @@ Why Harry never asks Cho at all: asking Ravenclaw's Seeker first and only then D
 - **It gives Dracaena a permanent phrase.** *Your* **other** *girlfriend* — fear first, and afterwards the scathing way to say Hermione Granger once she has given up the slur for Harry's sake ([the-little-basilisk](../scenes/b4/the-little-basilisk.md), DIV-041).
 - **It ends at the Yule Ball, for everyone at once.** How, and Krum's part in it: Q-153.
 
+## The grab, and the pattern it starts *(draft)* · DIV-120, DIV-104
+
+**He goes to her when he is angriest at her, and never once notices he has done it.** The pattern runs three times and the text never points at it.
+
+- **B2, Flourish & Blotts.** She calls Hermione his Mudblood girlfriend, Hermione charges her, and **Harry grabs Dracaena** — not his friend, the Malfoy. She throws him off, glasses and all, to get past him at Granger. Comedy, and nobody in the shop reads it ([flourish-and-blotts](../scenes/b2/flourish-and-blotts.md)).
+- **B4, September.** The same pattern with a ferret in it: she draws on Hermione, Moody bounces her down a corridor, and Harry carries her to the hospital wing while angrier at her than he has ever been in his life (DIV-095).
+- **B4, February.** He tells her what the carry actually was, and it is the one piece of evidence she cannot argue with, because he was furious and did it anyway (DIV-104, [which-one-is-real](../scenes/b4/which-one-is-real.md)).
+
+**She filed the first one wrong on the day** — Potter defending Granger — which is what she files everything as, and **she is never given it back** (Q-154, answered). The reader is the only one who ever connects the three.
+
+**Harry gets the only callback, it is a joke, and it never leaves his head** (Q-155). On his birthday he wrestles the Monster Book shut and thinks of his rival — fondly, alone, without noticing that it is fondly. Weeks later Hagrid tells the class to stroke the spine gently and he has a private laugh at her as a grumpy cat, easy to picture with Crookshanks already on the page. **A joke, not a motif: her animal is the dragon** (DIV-027). Minutes later she gets Buckbeak condemned (DIV-017).
+
 ## The leak *(draft)* · DIV-117
 
 **His side of this has to be visible to the reader and invisible to him,** and the device that does it is a running gag: absorbed enough, he says the thought out loud and is certain he only thought it. Somebody always hears, and he never believes them.
 
-- **It starts at the World Cup**, before he has even met Narcissa: *no wonder Dracaena is that pretty, then*, to Ron and Hermione, who round on him (DIV-116).
+- **It starts at the World Cup**, from the stands, before he is introduced to Narcissa: *no wonder Dracaena is that pretty, then*, to Ron and Hermione, who round on him (DIV-116).
+- **The leak is not the blurt.** The leak escapes him and he does not know he spoke; the blurt he says knowingly, to the person's face, with no embarrassment, because he has no self-consciousness — *are you Sleeping Beauty* (DIV-009), *she'll be a queen like you* (DIV-116). The Top Box uses one of each, twenty minutes apart, and neither is ever a scramble or a correction.
 - **It is how his friends get there first.** He cannot say what he wants on purpose and does not know he wants it, so the only evidence that ever escapes him escapes by accident. The gag is the plot's instrument as well as its joke.
 - **Ration it:** once a book at most, never in a scene carrying weight, never twice on the same note. Where it lands after B4: Q-152.
 

@@ -54,6 +54,7 @@ Canon default.
 **For three years, and she never once notices.** Molly Weasley from B2, Lindsay Madison in B3, the school throughout, Dracaena from the World Cup, and the *Daily Prophet* in November of B4.
 
 - **It is always her own hands that do it.** She feeds him, makes him work beside her, has his broom confiscated for his own good, slaps people on his behalf, throws herself at him when he comes out of Knockturn Alley filthy and checks him over. Nothing ambiguous is ever involved: it is her affection, in plain sight, read as a different kind.
+- **Flourish & Blotts is the two halves of it in one minute.** She dusts him down and Molly Weasley files her as his girlfriend; Dracaena calls her exactly that, with the slur attached, and she goes straight for her — **so the same pair of hands supplies the evidence and then the brawl** (DIV-120). She is doing nothing but being fond of a friend in public and then being insulted for it, and the joke is at everybody else's expense, as always.
 - **It is her tragedy from the other side.** Being taken for a lover is the one thing her usefulness has never got her, and nobody ever tells her it is happening.
 - **What it costs her is nothing she could ever name.** She does all of it for him, and what the world hands back is a different label for the same work. She is not slighted, not mocked and never corrected — just permanently misfiled, by people who are fond of her. That is the whole of it, and it wants no scene to pay it off.
 - **The joke is never at her expense,** always at the expense of whoever is getting it wrong. If a scene lands as Hermione being ridiculous, it is the wrong scene.
@@ -84,7 +85,7 @@ Hers is the win. The noble houses buried their own shame so completely that nobo
 | Book | Start | Turn | End |
 |---|---|---|---|
 | B1 | Outdone by Dracaena in the first Potions lesson (DIV-011) | The troll (canon). After the Mirror she appoints herself Harry's keeper; her research turns up the Dessendres, and in the corridor she is called a Mudblood for the first time and says nothing (DIV-073, DIV-074) | |
-| B2 | | | |
+| B2 | Flourish & Blotts: she checks Harry over in public, is called his Mudblood girlfriend for it, and charges Dracaena Malfoy (DIV-120, DIV-118) | | |
 | B3 | Takes Muggle Studies | Drops it (DIV-012). Slaps Dracaena over the jeer at Hagrid, and is right to: she sees the jeer and nothing else (DIV-069) | The lake: her idea to have Dracaena fly Buckbeak to Sirius (DIV-018) |
 | B4 | Provokes Dracaena into drawing on her in the first week, and watches Harry carry her attacker to the hospital wing (DIV-095). Founds S.P.E.W. (canon) | Learns early, from Harry and from Dobby, what freeing an elf does. Winky dies in front of her, with Dracaena there, and her dislike of Crouch settles into hatred (DIV-077) | The second rift: she backs Ron's confrontation on the train, then concedes they were too overprotective — and notices Dracaena didn't acknowledge them at all (DIV-063) |
 | B5 | | Tracks down the elf conspiracy across the year: the hole in the record, never the deed (DIV-075) | The history, and no remedy |

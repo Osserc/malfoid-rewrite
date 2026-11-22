@@ -42,6 +42,7 @@ _Marauders era, the first war. Not yet worked out._
 
 ## B2 · 1992–93
 
+- **1992-08**: Flourish & Blotts. Dracaena calls Hermione Harry's Mudblood girlfriend; Hermione charges her, Harry grabs Dracaena and is knocked down, and Lucius squares up to Arthur. Narcissa stops it with a joke about her marital duties and takes her first look at Harry, who never sees her. Molly files Hermione as his girlfriend. The diary reaches Ginny's cauldron. DIV-120, DIV-118, Q-130
 - **1992-12**: Lockhart's Duelling Club ends in disaster (canon). Afterwards the students petition to keep it open, and Flitwick takes over. Harry and Dracaena become regular, evenly matched opponents. DIV-028
 - **1993-05/06**, end of term: the sock. Lucius discards it carelessly, knowing what that does, and Dobby catches it. Dobby begins to dissolve, begs Harry to keep him, and Harry accepts him as a friend rather than a master — the only time in a thousand years it has worked, witnessed by nobody. He goes to the Burrow, with Harry's vault behind him. Malfoy Manor begins to go cold. DIV-075, DIV-076
 
@@ -50,8 +51,9 @@ _Marauders era, the first war. Not yet worked out._
 ## B3 · 1993–94
 
 - **From about 1993**: The post-war cohorts reach Hogwarts, and each Sorting runs a little longer than the last. DIV-035
+- **1993-07-31**: Privet Drive. Hagrid's Monster Book arrives for Harry's birthday; he wrestles it shut and thinks of Dracaena, fondly and privately, two years to the day since Madam Malkin's. Q-155, DIV-120, DIV-009
 - **1993-08, the day before term**: Diagon Alley. Harry forgot robes; Lindsay ribs him about Hermione, asks after the princess, and gets her answer. DIV-119, DIV-117, DIV-118
-- **1993-09**: The hippogriff lesson. She milks the injury for weeks: the match delay, the Potions servant. She sits out her class's Boggart lesson in her sling. DIV-017
+- **1993-09**: The hippogriff lesson. Hagrid says to stroke the spine gently and Harry has a private laugh at Dracaena as a grumpy cat, minutes before she gets clawed (Q-155, DIV-120). She milks the injury for weeks: the match delay, the Potions servant. She sits out her class's Boggart lesson in her sling. DIV-017
 - **Autumn 1993**, after the November swarm drops Harry off his broom: she does the Dementor impression at him herself. DIV-017
 - **Late autumn 1993**, once the sling comes off and before the Ravenclaw match: the remedial Boggart lesson, alone with Lupin. It is Harry, telling her he wishes he'd never met her. She freezes, understands none of it, and tells no one. The order is now load-bearing — the lesson has to fall between the swarm and the prank, or the prank loses its cause. DIV-017, [remedial-boggart](../scenes/b3/remedial-boggart.md)
 - **Spring 1994**, the Ravenclaw match: Crabbe and Goyle pull the fake-Dementor prank on their own and she greatly disapproves. She had stopped doing the impression after the Boggart, and never explains why. DIV-017, DIV-070
