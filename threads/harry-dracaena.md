@@ -44,11 +44,22 @@ Why Harry never asks Cho at all: asking Ravenclaw's Seeker first and only then D
 - **It gives Dracaena a permanent phrase.** *Your* **other** *girlfriend* — fear first, and afterwards the scathing way to say Hermione Granger once she has given up the slur for Harry's sake ([the-little-basilisk](../scenes/b4/the-little-basilisk.md), DIV-041).
 - **It ends at the Yule Ball, for everyone at once.** How, and Krum's part in it: Q-153.
 
+## The grab, and the pattern it starts *(draft)* · DIV-120, DIV-104
+
+**He goes to her when he is angriest at her, and never once notices he has done it.** The pattern runs three times and the text never points at it.
+
+- **B2, Flourish & Blotts.** She calls Hermione his Mudblood girlfriend, Hermione charges her, and **Harry grabs Dracaena** — not his friend, the Malfoy. She throws him off, glasses and all, to get past him at Granger. Comedy, and nobody in the shop reads it ([flourish-and-blotts](../scenes/b2/flourish-and-blotts.md)).
+- **B4, September.** The same pattern with a ferret in it: she draws on Hermione, Moody bounces her down a corridor, and Harry carries her to the hospital wing while angrier at her than he has ever been in his life (DIV-095).
+- **B4, February.** He tells her what the carry actually was, and it is the one piece of evidence she cannot argue with, because he was furious and did it anyway (DIV-104, [which-one-is-real](../scenes/b4/which-one-is-real.md)).
+
+**She filed the first one wrong on the day** — Potter defending Granger — which is what she files everything as. Whether it ever surfaces when the February fact lands: Q-154.
+
 ## The leak *(draft)* · DIV-117
 
 **His side of this has to be visible to the reader and invisible to him,** and the device that does it is a running gag: absorbed enough, he says the thought out loud and is certain he only thought it. Somebody always hears, and he never believes them.
 
-- **It starts at the World Cup**, before he has even met Narcissa: *no wonder Dracaena is that pretty, then*, to Ron and Hermione, who round on him (DIV-116).
+- **It starts at the World Cup**, from the stands, before he is introduced to Narcissa: *no wonder Dracaena is that pretty, then*, to Ron and Hermione, who round on him (DIV-116).
+- **The leak is not the blurt.** The leak escapes him and he does not know he spoke; the blurt he says knowingly, to the person's face, with no embarrassment, because he has no self-consciousness — *are you Sleeping Beauty* (DIV-009), *she'll be a queen like you* (DIV-116). The Top Box uses one of each, twenty minutes apart, and neither is ever a scramble or a correction.
 - **It is how his friends get there first.** He cannot say what he wants on purpose and does not know he wants it, so the only evidence that ever escapes him escapes by accident. The gag is the plot's instrument as well as its joke.
 - **Ration it:** once a book at most, never in a scene carrying weight, never twice on the same note. Where it lands after B4: Q-152.
 

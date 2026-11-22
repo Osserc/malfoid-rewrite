@@ -6,7 +6,7 @@ status: draft
 
 **Role:** Dracaena's father. A Death Eater, and a skilled Occlumens.
 **Canon baseline:** Lucius Malfoy. Anything not overridden follows canon.
-**Changes from canon:** DIV-009, DIV-013, DIV-020, DIV-030, DIV-031, DIV-037, DIV-040, DIV-047, DIV-052, DIV-053, DIV-057, DIV-060, DIV-068, DIV-069
+**Changes from canon:** DIV-009, DIV-013, DIV-120, DIV-020, DIV-030, DIV-031, DIV-037, DIV-040, DIV-047, DIV-052, DIV-053, DIV-057, DIV-060, DIV-068, DIV-069
 
 ## Core
 
@@ -50,8 +50,10 @@ How his marriage works and what he knows about his daughter: Q-019 (the author h
 - **It is the first person she ever chose.** Every friend she has was selected out of his own connections — Parkinson, Greengrass, Nott, and the two little trolls the Crabbes and Goyles produced, kept about her for muscle. This one is hers, and he cannot vet what he did not arrange.
 - **Then the train, and he learns who it was.** She comes home from the Hogwarts Express with the boy's name and the grudge, and he is left genuinely divided. **His daughter close to Harry Potter would be worth a very great deal** — to the family, and one day to the Dark Lord — and she has gone and spoiled it inside a month.
 - **And he is quietly, enormously relieved, for a reason that has nothing to do with any of that.** She is not close to the boy she chose, so she is still **his**. It is a father's jealousy and he would never once name it as one.
+- **And in B2 he watches the boy put hands on her.** At Flourish & Blotts his daughter insults the Granger girl, Granger charges her, and **Potter grabs *Dracaena*** — to stop her, which is worse, because there is nothing in it to object to. He squares up to Arthur Weasley a moment later with the Muggle Protection Act as his pretext; what set him off was his daughter in a public scuffle, and **he has never once worked out what to do with what he saw** (DIV-120). His wife breaks it up by embarrassing him, and he lets her.
 - **She does not stop talking about Potter. Ever.** Not for six years. Every letter, every holiday, every meal: what Potter did, what Potter got away with, how insufferable Potter is, at length and in detail, by a girl who is certain she is complaining. Lucius has the boy's entire school career narrated to him by his own daughter. **Narcissa works out what she is listening to long before he does**, which is why at the Ball one of them is choosing a dress to go with Harry and the other is asking questions (DIV-040).
 - **So B4 is not a surprise so much as a bill.** When the owl says *Hogwarts' champion* without saying which, his suspicion has three years of dinner-table evidence behind it, and his wife only confirms what he already feared and half wanted.
+- **And the Top Box costs him something nobody sees.** Harry says out loud, cheerfully, to a room, that the girl will become her mother — **the thing Lucius thinks every day and has never once been able to say**, because he cannot look at his daughter without seeing Narcissa and the wound in the same glance (DIV-030, DIV-116). It is the second quiet bruise under a comic beat, after the bookshop, and costs no words either time.
 
 It is the same conflict that runs the rest of him: the Dark Lord's claim on his house against everything else he wants for it (DIV-030).
 
@@ -97,7 +99,7 @@ Canon default.
 ## Relationships
 
 - [Dracaena Malfoy](dracaena-malfoy.md): his only child.
-- [Narcissa Malfoy](narcissa-malfoy.md): his wife. She forgave him for the curse; he never forgave himself (DIV-030, Q-019). The veela leave him unmoved at the World Cup (DIV-037) — the Potter boy does not leave his wife unmoved in the same hour, and she teases him with it for years. **She teases him in public and always has, and he bears it**, which is the warmest thing anybody sees a Malfoy do in four books (DIV-116).
+- [Narcissa Malfoy](narcissa-malfoy.md): his wife. She forgave him for the curse; he never forgave himself (DIV-030, Q-019). The veela leave him unmoved at the World Cup (DIV-037) — the Potter boy does not leave his wife unmoved in the same hour, and she teases him with it for years. **She teases him in public and always has, and he bears it**, which is the warmest thing anybody sees a Malfoy do in four books (DIV-116) — **shown two books earlier at Flourish & Blotts**, where she defuses him with a joke about her marital duties and he is spared the blush only because his colour was already up (DIV-120). On a reread that joke is not a joke: the duties are what the curse took.
 - [Severus Snape](severus-snape.md): his protégé since Snape's Sorting, and among the few Snape calls a friend. After school, books by owl and paid commissions. Lucius pays him to brew Narcissa's medicine, and trusts no one else with it (DIV-030). He let Snape take Dracaena on as a pupil at five (DIV-031). Snape teaches her Occlumency in summer 1995 (DIV-020).
 
 ## Arc by book
@@ -105,9 +107,9 @@ Canon default.
 | Book | Start | Turn | End |
 |---|---|---|---|
 | B1 | | Hears about a boy from a robe shop, and cannot vet what he did not arrange (DIV-009) | Learns from the train that the boy was Harry Potter, and that she lost him inside a month |
-| B2 | | Harry tricks him into freeing Dobby; he knows what that means and does it anyway (DIV-076) | The Manor begins to go cold, and he never connects the two |
+| B2 | At Flourish & Blotts he squares up to Arthur Weasley over the children, and watches Potter lay hands on his daughter; Narcissa defuses him in front of the whole shop (DIV-120) | Harry tricks him into freeing Dobby; he knows what that means and does it anyway (DIV-076) | The Manor begins to go cold, and he never connects the two |
 | B3 | | Has Buckbeak condemned, fuelled by Dracaena's play-acting (DIV-017) | |
-| B4 | | Learns she's going to the Ball with Potter; Narcissa takes Harry's side (DIV-040). In the graveyard he takes back her ribbon and Stuns Avery to open Harry a way out (DIV-057) | Finds them asleep together on the train and declines to see it ([the-train-home](../scenes/b4/the-train-home.md)). Orders her to cut ties; she refuses, citing Harry's silence about him (DIV-047), and he comes up with the spy strategy (DIV-013, DIV-040) |
+| B4 | At the World Cup, hears a boy tell a room his daughter will become her mother, and says nothing (DIV-116, DIV-030) | Learns she's going to the Ball with Potter; Narcissa takes Harry's side (DIV-040). In the graveyard he takes back her ribbon and Stuns Avery to open Harry a way out (DIV-057) | Finds them asleep together on the train and declines to see it ([the-train-home](../scenes/b4/the-train-home.md)). Orders her to cut ties; she refuses, citing Harry's silence about him (DIV-047), and he comes up with the spy strategy (DIV-013, DIV-040) |
 | B5 | Tells Voldemort his daughter is a spy (DIV-020) | | Arrested at the Department of Mysteries (canon) |
 | B6 | In Azkaban (canon) | | |
 | B7 | | Defects during the Manor raid, when his daughter turns (DIV-052). Sees Dobby's true form and asks his forgiveness (DIV-050) | At Hogwarts for the battle; fights Bellatrix with Narcissa (DIV-053) |

@@ -288,7 +288,8 @@ Still open:
 
 ### Q-039 · Narcissa's curse and her alliance (DIV-030)
 
-- **Harry's ally.** It shows in B4, when she confirms Lucius's suspicions before the Ball and plays Harry's advocate (DIV-040). Where else? Candidates: the brooms and the books (DIV-010), the end-of-B4 strategy (DIV-013, Q-022), her B7 lie (Q-032). When does she first meet Harry as more than her daughter's rival?
+- **Harry's ally.** It shows in B4, when she confirms Lucius's suspicions before the Ball and plays Harry's advocate (DIV-040). Where else? Candidates: the brooms and the books (DIV-010), the end-of-B4 strategy (DIV-013, Q-022), her B7 lie (Q-032).
+- *Partly answered (DIV-120):* **she first sees Harry at Flourish & Blotts in B2**, on the floor without his glasses, while she is prising her husband off Arthur Weasley — he never sees her. The alliance itself starts two years later at the World Cup (DIV-116). **What remains open is the gap:** she goes home from that shop having decided the boy is worth watching, and there are two years before the Cup in which nothing is currently written for her. Does anything show in B3, or is the silence the point?
 - **Who cast the curse**, and were they caught? A Death Eater still at large could resurface after Voldemort's return.
 - **Does Dracaena know** why she's an only child? Tracked in [reveals.md](reveals.md).
 
@@ -843,6 +844,7 @@ Settled that he exists and what he is: **a sixth year in B4**, so Balthier and N
 
 The live possibility is that the diary goes to **Dracaena**, on purpose, and what that would mean about Lucius — whether he knows what it is, what he thinks he is buying, and how it sits beside a man driven by fear of losing her. It touches [the-sock](../scenes/b2/the-sock.md), DIV-076 and DIV-050, so nothing should be written that forecloses it.
 
+*Constraint added by DIV-120:* **Narcissa is now in the bookshop**, and she is the one who ends the row. The diary still reaches Ginny's cauldron and **how it gets there is deliberately unwritten** ([flourish-and-blotts](../scenes/b2/flourish-and-blotts.md)). Worth noting when this question is taken up: if the diary were meant for Dracaena, the moment his wife calls the family to order is exactly where a plan could go wrong — which is an opportunity, not an obstacle.
 
 ### Q-132 · Where the "all silent in here" line goes (DIV-095, DIV-089)
 
@@ -944,6 +946,15 @@ Also open: what a man with one leg does about his own mobility, which the class 
 ### Q-152 · Where else does Harry say it out loud? (DIV-117)
 
 The gag is established at the World Cup. Once a book at most, never in a scene that is carrying weight, and never twice on the same note. Candidates are wide open; the useful ones are the moments where the leak costs him something, or where the person who hears it is the wrong person.
+
+### Q-154 · Does the bookshop grab ever surface? (DIV-120, DIV-104)
+
+In B2, Harry grabs **Dracaena** to keep her off Hermione and gets knocked down for it. In September of B4 the same pattern puts her in the hospital wing and he carries her out furious; in February he tells her what that carry was, and it is the one piece of evidence she cannot argue with.
+
+- **She has the bookshop in her memory and filed it wrong** — Potter defending Granger — which is what she files everything as ([dracaena-malfoy](../characters/dracaena-malfoy.md)).
+- **The case for leaving it buried:** the reader makes the connection unaided, and DIV-104 is explicit that the conclusion has to be hers and not handed to her. A remembered bookshop would do the work for her.
+- **The case for surfacing it:** it is three years of evidence she has been sitting on, and finding that out about herself is a different and sharper humiliation than being told one fact about one corridor.
+- Claude's lean is buried, with at most a half-line of physical recall she doesn't interpret. The author decides.
 
 ## Answered
 

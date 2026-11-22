@@ -42,6 +42,7 @@ _Marauders era, the first war. Not yet worked out._
 
 ## B2 · 1992–93
 
+- **1992-08**: Flourish & Blotts. Dracaena calls Hermione Harry's Mudblood girlfriend; Hermione charges her, Harry grabs Dracaena and is knocked down, and Lucius squares up to Arthur. Narcissa stops it with a joke about her marital duties and takes her first look at Harry, who never sees her. Molly files Hermione as his girlfriend. The diary reaches Ginny's cauldron. DIV-120, DIV-118, Q-130
 - **1992-12**: Lockhart's Duelling Club ends in disaster (canon). Afterwards the students petition to keep it open, and Flitwick takes over. Harry and Dracaena become regular, evenly matched opponents. DIV-028
 - **1993-05/06**, end of term: the sock. Lucius discards it carelessly, knowing what that does, and Dobby catches it. Dobby begins to dissolve, begs Harry to keep him, and Harry accepts him as a friend rather than a master — the only time in a thousand years it has worked, witnessed by nobody. He goes to the Burrow, with Harry's vault behind him. Malfoy Manor begins to go cold. DIV-075, DIV-076
 
