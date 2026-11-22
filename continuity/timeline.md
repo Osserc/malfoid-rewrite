@@ -51,8 +51,9 @@ _Marauders era, the first war. Not yet worked out._
 ## B3 · 1993–94
 
 - **From about 1993**: The post-war cohorts reach Hogwarts, and each Sorting runs a little longer than the last. DIV-035
+- **1993-07-31**: Privet Drive. Hagrid's Monster Book arrives for Harry's birthday; he wrestles it shut and thinks of Dracaena, fondly and privately, two years to the day since Madam Malkin's. Q-155, DIV-120, DIV-009
 - **1993-08, the day before term**: Diagon Alley. Harry forgot robes; Lindsay ribs him about Hermione, asks after the princess, and gets her answer. DIV-119, DIV-117, DIV-118
-- **1993-09**: The hippogriff lesson. She milks the injury for weeks: the match delay, the Potions servant. She sits out her class's Boggart lesson in her sling. DIV-017
+- **1993-09**: The hippogriff lesson. Hagrid says to stroke the spine gently and Harry has a private laugh at Dracaena as a grumpy cat, minutes before she gets clawed (Q-155, DIV-120). She milks the injury for weeks: the match delay, the Potions servant. She sits out her class's Boggart lesson in her sling. DIV-017
 - **Autumn 1993**, after the November swarm drops Harry off his broom: she does the Dementor impression at him herself. DIV-017
 - **Late autumn 1993**, once the sling comes off and before the Ravenclaw match: the remedial Boggart lesson, alone with Lupin. It is Harry, telling her he wishes he'd never met her. She freezes, understands none of it, and tells no one. The order is now load-bearing — the lesson has to fall between the swarm and the prank, or the prank loses its cause. DIV-017, [remedial-boggart](../scenes/b3/remedial-boggart.md)
 - **Spring 1994**, the Ravenclaw match: Crabbe and Goyle pull the fake-Dementor prank on their own and she greatly disapproves. She had stopped doing the impression after the Boggart, and never explains why. DIV-017, DIV-070

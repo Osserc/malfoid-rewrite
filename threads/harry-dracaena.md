@@ -54,7 +54,7 @@ Why Harry never asks Cho at all: asking Ravenclaw's Seeker first and only then D
 
 **She filed the first one wrong on the day** — Potter defending Granger — which is what she files everything as, and **she is never given it back** (Q-154, answered). The reader is the only one who ever connects the three.
 
-**Harry gets the only callback, and it is a joke.** In B3 he wrestles the Monster Book shut, is reminded of wrestling her, and remembers it fondly without noticing he does — possibly as B3's one leak, with Lindsay producing a blonde princess across the street the same afternoon (Q-155, DIV-117, DIV-119).
+**Harry gets the only callback, it is a joke, and it never leaves his head** (Q-155). On his birthday he wrestles the Monster Book shut and thinks of his rival — fondly, alone, without noticing that it is fondly. Weeks later Hagrid tells the class to stroke the spine gently and he has a private laugh at her as a grumpy cat, easy to picture with Crookshanks already on the page. **A joke, not a motif: her animal is the dragon** (DIV-027). Minutes later she gets Buckbeak condemned (DIV-017).
 
 ## The leak *(draft)* · DIV-117
 

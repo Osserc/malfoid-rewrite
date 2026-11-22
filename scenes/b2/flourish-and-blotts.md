@@ -33,7 +33,7 @@ Comedy throughout, with two bruises underneath that nobody in the scene notices.
 
 ## What it plants
 
-- **The corridor, two years early** (DIV-095, DIV-104). She is vile to Hermione, Harry is angrier than he can say, and he goes to *her* without thinking. September of B4 is the same pattern with a ferret in it; February is where he tells her what the carry was. **She files this one wrong on the day**, as Potter defending Granger, which is what she files everything as — **and she is never given it back** (Q-154, answered). The reader is the only one who ever connects the two. **Harry gets the callback instead**, in B3, over the Monster Book (Q-155).
+- **The corridor, two years early** (DIV-095, DIV-104). She is vile to Hermione, Harry is angrier than he can say, and he goes to *her* without thinking. September of B4 is the same pattern with a ferret in it; February is where he tells her what the carry was. **She files this one wrong on the day**, as Potter defending Granger, which is what she files everything as — **and she is never given it back** (Q-154, answered). The reader is the only one who ever connects the two. **Harry gets the only callback**, in B3, privately, over the Monster Book (Q-155, answered).
 - **The teasing**, so the Top Box is a callback (DIV-116).
 - **Narcissa's face, for Ron, Hermione and Molly**, so at the Cup Ron names her with feeling rather than guessing.
 - **Narcissa's interest in Harry**, which is the start date for DIV-040. What she does with the two years in between: Q-039.
@@ -54,4 +54,4 @@ The slight with the hands in it, Hermione charging rather than Harry, Harry grab
 - **The exact wording of Narcissa's line.** *Vim and vigour* is the author's; *diligent* is settled over *neglecting*, because diligence is a promise rather than a confession and it flatters him.
 - **How far the slur carries** in a public shop in front of Molly and Arthur Weasley, and whether anybody reacts to the word itself. It has to be audible or Hermione has no cue.
 - Q-130: the diary's staging stays loose.
-- Q-155: which version of the B3 Monster Book callback, and whether Hermione shows that she remembers this day.
+- Whether Hermione is ever shown remembering this day. Nothing currently needs her to.

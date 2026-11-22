@@ -947,24 +947,24 @@ Also open: what a man with one leg does about his own mobility, which the class 
 
 The gag is established at the World Cup. Once a book at most, never in a scene that is carrying weight, and never twice on the same note. Candidates are wide open; the useful ones are the moments where the leak costs him something, or where the person who hears it is the wrong person.
 
-**One live candidate, and it is earlier rather than later: B3, the bookshop** — *"Dracaena"*, said absently over the Monster Book, to Ron and Hermione (Q-155). B3 has no leak at present, and it would feed the Lindsay scene twenty minutes afterwards (DIV-119).
-
-### Q-155 · B3: the monster book, and Harry's callback to the grab (DIV-120, DIV-117, DIV-119)
-
-**The author's.** The bookshop grab comes back the following year, from Harry's side, over the Monster Book of Monsters — he wrestles the thing shut and it reminds him of doing the same to Dracaena. **He remembers it fondly and does not notice that he does.** Three versions, escalating:
-
-1. **Plain.** A line at the moment he gets the book from Hagrid. Smallest, safest, and barely registers.
-2. **The shopping trip.** Canon has Ron and Hermione report that the Flourish & Blotts clerk cried when they asked for two copies. The memory lands there, in the same shop it happened in, and his friends ask why he is smiling about monster books. **He shrugs.**
-3. **The leak.** Same staging, but he says *"Dracaena"* absently and marches off towards Madam Malkin's. Ron and Hermione are flabbergasted and say nothing — and twenty minutes later Lindsay Madison independently produces a blonde princess (DIV-119).
-
-**Claude's lean is 3, for a structural reason:** it loads a scene that already exists. DIV-119's beat 6 has Ron seizing on *the other girlfriend — the blonde one* and demanding to know who that is, and that lands far harder if Harry said her name out loud across the street. **Two scenes form a pincer and neither knows it is part of one.**
-
-- **It would be B3's one leak**, which the book currently lacks, so it costs nothing against DIV-117's ration and answers part of Q-152.
-- **It puts the leak and the not-leak twenty minutes apart**, in two different shops. The defensive reflex at Madam Malkin's is explicitly *not* a leak — he knows he is speaking (DIV-119) — and the contrast is the point, but the prose has to keep them crisp (DIV-117).
-- **Hermione's shadow.** She was the one insulted and the one who charged, in that exact shop, a year earlier. A shadow crossing her face as Harry smiles at the memory is free, and it is the only acknowledgement the bookshop ever gets.
-- **Still open:** which version; whether Hermione makes the connection or only remembers the day; and whether it is ever allowed to resurface afterwards. Ordering also needs a look — DIV-119 has Ron and Hermione already in and out of Madam Malkin's earlier that day ([the-robe-shop](../scenes/b3/the-robe-shop.md)).
+**B3's charge is unspent and deliberately so.** The Monster Book callback was considered for it and settled as a private memory instead (Q-155), so the book still has its one leak to place somewhere worth it.
 
 ## Answered
+
+### Q-155 · B3: the monster book, and Harry's callback to the grab (DIV-120)
+
+**Settled by the author 2026-11-22: the plain version, kept private, and it buys a second beat for free.**
+
+**The birthday.** Harry gets the Monster Book from Hagrid on **31 July 1993**, wrestles the thing shut, and thinks of his rival — fondly, alone in a bedroom at Privet Drive, **and without noticing that he does it fondly**. It stays inside his head.
+
+- **Why here and not later.** Canon's alternative is Ron and Hermione *mentioning* the book in Diagon Alley, which means the memory has to arrive while somebody else talks about an object rather than while Harry is fighting one. **He has to be engaging with the thing for the association to be earned.**
+- **It costs no charge.** Pairing it with the robe shop would have spent B3's one leak (DIV-117) in August on a scene that is already plenty fun (DIV-119), so the leak stays live for somewhere it is worth more (Q-152).
+- **Free resonance, costing nothing:** 31 July 1993 is **two years to the day** since Madam Malkin's (DIV-009). Nobody points at it.
+
+**And then the hippogriff lesson, weeks later.** Hagrid tells the class to stroke the spine gently, and **Harry is already primed**. A private laugh at Dracaena as a grumpy cat — easy to picture, because Crookshanks is on the page by then and a white one superimposes on him with no effort. **Two lines at most, entirely interior, then move on.**
+
+- **It is a joke, not a motif.** Her animal is the dragon, and nothing about the cat is ever built on (DIV-027).
+- **Worth knowing while writing it:** that lesson is where she insults Buckbeak, gets clawed and starts the play-acting that condemns him (DIV-017). **The laugh curdles within minutes.** The text need not point at it.
 
 ### Q-154 · Does the bookshop grab ever surface? (DIV-120, DIV-104)
 
