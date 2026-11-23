@@ -45,9 +45,11 @@ It is the one thing in her life nobody ever held up against anybody, which is ex
 
 ## The jumper *(draft)*
 
-Ron grumbles about the annual Weasley Christmas jumper and **she lights up**: *you get* ***jumpers****? Show me, show me.* She has never been given a thing that wasn't meant to make her look correct in front of somebody — **she has been dressed, not given presents** — so a hand-knitted garment with a letter on it, made by a mother for no occasion but the day, is genuinely exotic to her.
+**B4, Christmas.** Ron — who has just had one garment rescued and now treats her as the person one complains to about clothes — asks her to fix the Weasley Christmas jumper as well. **She lights up**: *you get* ***jumpers****? Show me, show me.* She has never been given a thing that wasn't meant to make her look correct in front of somebody: **she has been dressed, not given presents.** A hand-knitted garment with a letter on it, made by a mother for no occasion but the day, is genuinely exotic to her.
 
-It is also what makes the Ball line safe: *imagine mother's face when she hears we went together* can only read as a prank between friends if the reader already knows the house she stopped writing to. Full entry: [ron-pansy](../threads/ron-pansy.md), Q-159.
+**And she refuses the job.** She sees it the next day, pronounces it *perfect — so adorable*, entirely sincerely, and will not lay a wand on it. He brought it to be rescued.
+
+**B5, Christmas.** Molly makes her one. **She understands immediately what it means** — a Weasley asked his mother to knit a Parkinson into the one ritual that family has — and working up the courage to say something back is her next beat. It is the second time in her life she has had to say a thing that costs her everything; the first was the Duelling Club. Full entry: [ron-pansy](../threads/ron-pansy.md), Q-156, Q-159.
 
 ## She notices *(settled)* · DIV-093
 
@@ -98,8 +100,8 @@ She wears her hair in a bob. **She is not made pretty at any point.** There is n
 | B1 | Dracaena's friend, as arranged | | |
 | B2 | Dragged to the Duelling Club | Walks out of it, and finds the chess club (DIV-121) | Learning the game off a Weasley by owl |
 | B3 | Quillpals | Starts noticing the arithmetic (DIV-093); Lupin hands her a shaking Dracaena and she doesn't ask | "Parkinson" has become "Pansy" |
-| B4 | The missing badge won't go away (DIV-093) | **The Yule Ball on Ron's arm.** She restyles his robes, adds her flair, and is praised for something for the first time (DIV-123) | Possibly a jumper of her own |
-| B5 | Ron tells her about the Hog's Head | **Joins the DA on his word, ahead of Dracaena** (DIV-125) | It tips (Q-156) |
+| B4 | The missing badge won't go away (DIV-093) | **The Yule Ball on Ron's arm.** She restyles his robes, adds her flair, and is praised for something for the first time (DIV-123) | Christmas: *show me, show me* — and she refuses to touch the jumper, because it is perfect |
+| B5 | Ron tells her about the Hog's Head | **Joins the DA on his word, ahead of Dracaena** (DIV-125) | **Molly makes her a jumper.** She works out what it means, and has to decide what to say (Q-156) |
 | B6 | | Asks Dracaena what is wrong, and is shut out | |
 | B7 | | **Refuses the evacuation** (DIV-055) | Fights, alongside Slughorn |
 

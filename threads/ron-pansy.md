@@ -30,16 +30,22 @@ Harry can't witness most of it and no POV is being built for it, so it is carrie
 
 Ron's line, early: *Slytherins can't be trusted.* And then, before she can get angry, *not you, though — you're one of the good ones.* It is bigotry making an exception instead of revising the rule, which is how prejudice actually goes, and it is the honest start of a thing rather than the end of one. **It is also Dracaena's own logic in reverse:** she exempts Harry and keeps the general view. Two children running the same faulty argument in opposite directions, neither noticing.
 
-**Hermione objects, and keeps objecting.** She has the best standing of anyone — the slur in the Dessendre corridor in B1 (DIV-074), the bookshop (DIV-120), being drawn on and bounced down a corridor in the first week of B4 (DIV-095). Hermione being right on the evidence and wrong about Pansy is better than Hermione coming round, and she is never converted by argument.
+**Hermione objects, and keeps objecting.** She has the best standing of anyone — the slur in the Dessendre corridor in B1 (DIV-074), the bookshop (DIV-120), and being drawn on in the open in the first week of B4 (DIV-095). Hermione being right on the evidence and wrong about Pansy is better than Hermione coming round, and she is never converted by argument.
 
 ### The jumper *(draft)*
 
 The cheapest possible seeding of her home life, and free characterisation for both of them.
 
-- **B3, as an aside.** Ron grumbles about the annual Weasley Christmas jumper. **Pansy lights up** — *you get* ***jumpers****? Show me, show me* — because she has never in her life been given a thing that wasn't meant to make her look correct in front of somebody. A hand-knitted garment with a letter on it, made by a mother, for no occasion but the day, is exotic to her in a way Ron cannot begin to follow.
-- **It is what makes the Ball line safe.** *Imagine mother's face when she hears we went together* only reads as conspiratorial — two friends planning a prank — if the reader already knows the house she writes to and gets nothing back from (DIV-123, Q-159).
-- **Ron asks Molly for one.** *(open)* Timing: **Christmas morning of B4 is the strong candidate**, because it arrives by owl at the castle hours before she fixes his robes for the Ball. **Two gifts in one day, each the only thing the other one could have given.** The alternative is B5, where the Christmas is at Grimmauld and he would hand it over on the train back, which is a quieter version of the same beat.
-- **Molly.** The Slytherins keep taking her sons, and her son has a crush. She has also been certain since B2 that Hermione is Harry's girlfriend and holds the position for three years (DIV-118), so her record on this is perfect.
+**B4 loads it; B5 fires it.** The split is forced by Molly: she believes Hermione is Harry's girlfriend until the Yule Ball (DIV-118), so *the Slytherins keep stealing my sons* cannot be said until after it.
+
+- **B4, Christmas, right after the robes.** He has just had one garment rescued, so complaining to her about clothes is now a thing he does, and the jumper arrives. **He asks her to fix that as well.**
+  - ***Show me, show me!*** — because she has never once been given a thing that wasn't meant to make her look correct in front of somebody. **She has been dressed; she has not been given presents.** A hand-knitted garment with a letter on it, made by a mother, for no occasion but the day, is genuinely exotic to her.
+  - **And the joke is that she refuses the job.** She sees it the next day and pronounces it *perfect — so adorable*, entirely sincerely, and will not touch it. He brought it to be rescued and she will not hear of it.
+  - **Ron files this.** Months later, out of nowhere, he asks her what her favourite colour is.
+- **B5, Christmas at Grimmauld.** Molly makes Pansy a Weasley jumper, and Ron hands it over when they get back to school.
+  - **Molly's line lands here, and she gets to say it:** the Slytherins keep stealing her sons. It is only available now, and it is funnier for her having been comprehensively wrong about the first one for three years (DIV-118).
+  - **It is the thoughtful thing he does in seven books, and he planned it in advance** — the insensitive one, having quietly taken a note at Christmas and acted on it twelve months later.
+- **It is also what makes the Ball line safe.** *Imagine mother's face when she hears we went together* only reads as a prank between friends if the reader already knows the house she stopped writing to (DIV-123, Q-159).
 
 ### The not-asking *(settled)*
 
@@ -64,10 +70,11 @@ One gesture, three times, and the third one hurts because of the first two:
 | B2–B3 | He gives her pointers, she learns, and in time she takes games off him. They become quillpals, trading first chess and then whatever else turns up | |
 | B3 | "Parkinson" starts appearing in Ron's remarks; by the end of the year it is "Pansy". Nobody comments | |
 | B3 | *Not you, though — you're one of the good ones.* Hermione's objections begin | |
-| B3 | Ron grumbles about the Weasley Christmas jumper and Pansy lights up: *you get* ***jumpers****?* The seeding for everything about her family | |
+| B4 | **Christmas: the jumper.** He asks her to fix that too; *show me, show me!*; she declares it perfect and refuses the job. He files it, and months later asks her favourite colour | |
 | B4 | **The Yule Ball.** Ron asks her instead of asking Hermione as a fallback; she restyles his robes and adds her own flair, and is praised for something for the first time in her life; *imagine mother's face when she hears we went together*, conspiratorially; she teases Dracaena about having landed the purer suitor. **Christmas morning: the jumper**, if that is where it lands (DIV-123) | [the-dress-robes](../scenes/b4/the-dress-robes.md) |
 | B5 | Ron tells her about the Hog's Head, which is how a Slytherin comes to know the time and place of Hermione's secret meeting. Pansy works up to asking Dracaena to come with her; Dracaena has known for a week, from Potter (DIV-125) | |
-| B5 | **It tips.** In the Room of Requirement she gravitates to Ron for help rather than to anyone else, because he taught her chess, and he steps in without being asked. He notices that he likes it when she smiles after she finally gets something — **the same satisfaction he had at twelve, named three years late**. **She is smiling at herself, not at him**, for having got it right; nothing in it is ingratiating. **And he is giving somebody something, and the somebody isn't Harry** (Q-156) | |
+| B5 | **His half of the tipping point.** In the Room of Requirement she gravitates to Ron for help rather than to anyone else, because he taught her chess, and he steps in without being asked. He notices that he likes it when she smiles after she finally gets something — **the same satisfaction he had at twelve, named three years late**. **She is smiling at herself, not at him**, for having got it right; nothing in it is ingratiating. **And he is giving somebody something, and the somebody isn't Harry** (Q-156) | |
+| B5 | **Her half: the jumper.** Molly makes her one. **She gets the implications immediately** — Ron asked his mother to knit a Parkinson into the family's one annual ritual — and then has to decide what to do about it. **Working up the courage to say something is her next character beat**, and it is the second time in her life she has had to say a thing that costs her everything (the first being the Duelling Club, B2) | |
 | B5–B6 | **It becomes official**, in one of those two years, and never earth-shakingly. **They part on a hopeful note before B7** (Q-156) | |
 | B5 | Harry and Dracaena, over their own melodrama at last, tease the pair of them about it | |
 | B6 | Dracaena shuts Pansy out along with everybody else, somewhere around the poisoning. Ron vents to Pansy about Harry, who is obsessed with Dracaena all year. **Both sidekicks lose their best friend to the same couple in the same months, from opposite sides** | |

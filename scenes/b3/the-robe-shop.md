@@ -30,11 +30,13 @@ Three small jobs: Harry proves again he can't be charming on purpose; the fake t
 3. **He isn't smooth and must never be.** He says, plainly, that she frightened him half to death. True, and not a compliment. **She decides to be flattered anyway** and makes a show of fainting.
 4. **The teasing, and the princess is girlfriend number one.** She warns him off complimenting other girls in front of his young lady — meaning herself, meaning nothing — and makes a show of how fast he gets through them: there was the little blonde princess back when, and now there's this one on his arm. **Two already, at thirteen.** She is working the only thing she has: she watched an eleven-year-old get flattened by the eyes line.
 5. Hermione asks, perfectly sincerely, why everyone keeps saying that. She does not let go of his arm.
-6. **Ron takes hold of the *other* girlfriend** — the blonde one — and wants to know who that is.
-7. **She asks after the princess, and Harry vents.** Unbearable. Better than him at that. Did this in March. Has his scarf and wears it where he'll see it. An inventory of exceeding precision from a boy certain he's complaining. Ron and Hermione exchange a look.
-8. **The tell.** She says the girl sounds like a right piece of work, and he corrects her instantly. *She's not. She's just—* and stops. He knows he said it. He has no idea he's done two opposite things in a row.
-9. **She knows she's hit.** She fired blind on the one thing she had, and a fitting is twenty minutes of reading a face at close range — she has done thousands. She says nothing.
-10. Robes, and out.
+6. **Lindsay points at the arm.** Not a word of argument: she just looks at where Hermione's hand is and raises an eyebrow.
+7. **And Hermione gives the true answer, which nobody present can hear as one.** *He'll do something dangerous the moment he leaves my sight!* **Said with total sincerity and complete exasperation.** It is the fake triangle's entire evidence base explained out loud, in public, two years early, by the person holding the arm — and it changes nobody's mind, because it sounds exactly like what a girl would say about her boy (DIV-118). **It is also her standing position on Harry for the rest of the series**, and the reason Dracaena is a grievance she will air to his face rather than swallow (DIV-123).
+8. **Ron takes hold of the *other* girlfriend** — the blonde one — and wants to know who that is.
+9. **She asks after the princess, and Harry vents.** Unbearable. Better than him at that. Did this in March. Has his scarf and wears it where he'll see it. An inventory of exceeding precision from a boy certain he's complaining. Ron and Hermione exchange a look.
+10. **The tell.** She says the girl sounds like a right piece of work, and he corrects her instantly. *She's not. She's just—* and stops. He knows he said it. He has no idea he's done two opposite things in a row.
+11. **She knows she's hit.** She fired blind on the one thing she had, and a fitting is twenty minutes of reading a face at close range — she has done thousands. She says nothing.
+12. Robes, and out.
 
 ## Must keep
 

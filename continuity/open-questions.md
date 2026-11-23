@@ -935,6 +935,7 @@ Both techniques are settled; none of their appearances are placed.
 
 - **Moody's lesson in B4.** Which class, what he demonstrates it against, and whether the glass barrier is in that scene or saved. **It is not a fifth rung** (DIV-102), so it is classroom material and Harry is one of a hundred.
 - **Dracaena's shield** needs planting well before B7, and the Duelling Club is the obvious home (DIV-028). Which bout, and whether Harry ever names what she is doing.
+  - *Partly answered: two B5 plantings in front of a crowd.* [the-only-two-of-us](../scenes/b5/the-only-two-of-us.md), where Harry names it by naming the absence of it — nobody at the club could ever copy it, and she never noticed because on that piste there were only ever two people; and [teaching-cho](../scenes/b5/teaching-cho.md), where it is simply shown working for nothing against everything Cho throws. **Neither replaces an earlier Duelling Club planting**; they are the payoff that needs one. DIV-125
 - **Her private failure** — the girl who hunted for the shape that stops the green one and found there is not one. Powerful, and easy to overplay. Whether it is ever on the page, and in whose POV.
 - **B5 and B7.** The DA drilling it, with Balthier Thynne the obvious partner (DIV-082), and the Battle of Hogwarts using the castle as ammunition.
 - **Where Harry's Protego-bounce lands** (DIV-108): his own invention, one bout won off her with it, and her loathing of it. It is a different beat from the interposition arc and may well be earlier.
@@ -963,7 +964,9 @@ The gag is established at the World Cup. Once a book at most, never in a scene t
 
 *Also answered (author):* **it becomes official, in B5 or B6**, and **they part on a hopeful note before B7** — before the Horcrux hunt takes him out of the castle. It never needs to be earth-shaking; the register stays small throughout.
 
-Open: which of the two years it lands in, who moves first, and how the parting is staged. The constraint stands either way — no beat in it may rhyme with a Harry and Dracaena beat (DIV-121).
+*Also answered: it tips in two halves, and they are not symmetrical.* **His** is passive and unexamined — the Room of Requirement, her smiling at herself for having got something right, and him noticing he likes it. **Hers** is active and frightening — **the jumper**: Molly knits her one at Ron's asking, she works out immediately what it means, and working up the courage to say something back is her next beat. **The second time in her life she has to say a thing that costs her everything**, the first being the Duelling Club in B2. He arrives without noticing; she arrives by being braver than she has ever been. DIV-121
+
+Open: which of the two years the official moment lands in, and how the parting is staged. The constraint stands either way — no beat in it may rhyme with a Harry and Dracaena beat (DIV-121).
 
 ### Q-157 · What does the locket say to Ron? (DIV-124, DIV-051)
 
@@ -1068,6 +1071,7 @@ Harry finds him packing and is told plainly why he is going, and **does not prot
 - **Cho seeks him out** — on the train, in the Owlery, and the rest — and **Dracaena is lurking not far behind, every time.** Mostly played for gags, and the whole school works out what is happening. Harry does not.
 - **Harry's side of it is mild annoyance.** He wishes Dracaena would turn up and get him out of it — the same note as Fleur's teasing, where he can tell there is a war on around him and does not much mind ([the-little-basilisk](../scenes/b4/the-little-basilisk.md)).
 - **Not jealousy and not defence.** She knows she has won. An affront was offered and the ledger does not care that it failed ([dracaena-malfoy](../characters/dracaena-malfoy.md)).
+- *Also answered: the one time the lurking becomes an intervention.* **Cho asks Harry to teach her a spell and Dracaena takes his place** — *it boggles the mind that anybody would want Potter, of all people, to teach them a spell* — and teaches it by casting it at her across the room while every counter comes off the pin-shield for nothing. **Deniable rather than covert**, which is the DIV-013 voice applied to a teaching room, and Harry thinks she was helping. [teaching-cho](../scenes/b5/teaching-cho.md)
 - **And it settles the bigger thing:** by B5 there is no secret girlfriend. They are public essentially from the Ball and unmistakably so after the Second Task; the cover was only ever for Lucius and Voldemort (DIV-013, DIV-020, DIV-040).
 
 ### Q-131 · What Hermione says that makes her see red (DIV-095, DIV-041)

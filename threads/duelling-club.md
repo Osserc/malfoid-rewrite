@@ -46,6 +46,8 @@ She shields on the point of her wand — coin-sized Protegos placed exactly wher
 
 **And Moody watches a session**, does not recognise it as fighting, and takes the theory back to his own classroom. That is where interposition comes from (DIV-108).
 
+**Nobody else here can do it either, and she never notices** *(draft)* · DIV-125. For three years the club is full of people failing or declining to copy her pin-shield, and the fact never reaches her, **because on this piste there were only ever two people.** She finds out in the DA, from Harry, in one flat sentence, and blushes ([the-only-two-of-us](../scenes/b5/the-only-two-of-us.md)).
+
 ## The trophies, and the two hoards *(settled)* · DIV-059
 
 At some point the bouts acquire a forfeit: the loser gives the winner a trophy, something of their own. It starts as her challenge at the last duel of their second year, and she wins it, taking his Gryffindor scarf. *(Not Christmas: canon puts the club's first meeting on 17 December, so by the holidays there is no rivalry yet for a forfeit to come out of.)*

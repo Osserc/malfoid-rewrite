@@ -46,7 +46,7 @@ Tall. Pitch-black hair knotted up with oversized dressmaker's pins, no visible t
 | Book | Start | Turn | End |
 |---|---|---|---|
 | B1 | | Fits Harry for his school robes and watches the first meeting go wrong (DIV-009, DIV-115) | Asks why they don't refuse the Malfoys, and is shown the cheque |
-| B3 | Overhears herself described as the uncanny crow clerk, and hears Harry supply her name | Harry forgets his robes. She ribs him blind — two girlfriends already, at thirteen — then asks after the princess, and Harry answers at length (DIV-119) | Says nothing about having understood |
+| B3 | Overhears herself described as the uncanny crow clerk, and hears Harry supply her name | Harry forgets his robes. She ribs him blind — two girlfriends already, at thirteen — **points at Hermione's hand on his arm and gets the true answer back** (*he'll do something dangerous the moment he leaves my sight!*), then asks after the princess, and Harry answers at length (DIV-119) | Says nothing about having understood |
 | B4 | | Takes Narcissa's dress to Hogsmeade and fits it on Dracaena, having forgotten nothing ([the-fitting](../scenes/b4/the-fitting.md)) | |
 
 ## Open questions
