@@ -5,8 +5,8 @@ status: draft
 # Viktor Krum
 
 **Role:** Durmstrang champion, and the only other famous boy in the castle.
-**Canon baseline:** Viktor Krum. Anything not overridden follows canon — including Hermione, which does not change.
-**Changes from canon:** DIV-066, DIV-089, DIV-090, DIV-091
+**Canon baseline:** Viktor Krum. Anything not overridden follows canon.
+**Changes from canon:** DIV-066, DIV-089, DIV-090, DIV-091, DIV-124
 
 ## Core
 
@@ -27,6 +27,15 @@ Canon spends him and gives him nothing back — an obstacle, Imperiused in the m
 - **Quidditch does the rest.** Two Seekers with no season to play, and Hooch's lesson ([the-flying-lesson](../scenes/b4/the-flying-lesson.md), DIV-091).
 
 He gets no arc of his own, and this is not a rival-suitor thread.
+
+## Hermione *(draft)* · DIV-124
+
+**He is the endgame, and canon does nearly all of the work.** They correspond, he is willing to wait until she has finished school, and he comes to the wedding.
+
+- **What changed is that he is no longer a rival.** Ron is writing to a girl in Slytherin by the time Krum arrives (DIV-121), so canon's three-way sourness is gone, and nothing about the Yule Ball turns on it either (DIV-118).
+- **Why it matters that it is him.** He asked her because she was studious and disciplined and he had watched her work — **the one correct reading of Hermione Granger anybody in the series ever performs**, delivered in public by somebody with no reason to flatter her (DIV-041). Full entry: [hermione-granger](hermione-granger.md).
+- **It is consistent with the Snitch answer.** He is a man who says the plain true thing once, takes no credit that isn't his, and does not perform. That is also how he courts.
+- After the war: Q-160.
 
 ## The maze *(settled)* · DIV-089
 

@@ -23,6 +23,15 @@ No divergence is needed for any of this — it is a reading of canon Hermione, a
 
 **How it shows in B1** *(settled)*. After he lets slip about the Mirror and the nightmares she attaches herself to him entirely — she will not let him copy her work, she makes him do it beside her so she can catch his mistakes, and she feeds him. He finds it unbearable because it makes him feel weak. When Dracaena calls her a Mudblood in front of him she says nothing about it afterwards, because the sister does not bring her own injuries to the boy she is looking after (DIV-074).
 
+## Krum, and the one correct reading *(draft)* · DIV-124
+
+**Canon's endgame is cut: she and Ron never happen, and Krum is where she ends up.** Canon supplies most of it already — they correspond, he is willing to wait, and he turns up at the wedding.
+
+- **It is the payoff to the paragraph above, not a consolation prize.** Her quiet tragedy is that being taken for somebody's beloved is the one thing her usefulness has never bought her, and nobody in seven books ever corrects it. **Krum is the correction**: the one person who wanted her for exactly what she is, said it in public, and was never once confused about what he was looking at.
+- **There is no triangle, in any direction.** By the time Krum arrives, Ron is already writing to a girl in Slytherin (DIV-121). Canon's sour three-way is gone along with the fake one (DIV-118).
+- **After the war, Bulgaria** *(draft)*. She studies ancient magical houses, the haunted ones included — **the only research that can answer the objection her own method raises**, since the method kills the old houses that are the only thing that ever made an elf, and Britain's are both few and the Ministry's (DIV-077, Q-100). Q-160.
+- **Education and the work come first and nobody has to apologise for it**, which is a reading of her, not a divergence.
+
 ## Muggle Studies
 
 *(draft)* DIV-012. She takes it in B3 and drops it, as in canon. She grew up among Muggles and already knows a fair bit, and what's left is mostly how wizards see Muggles, which they mostly get wrong. It's the mirror of Dracaena tutting at Muggles who get magic wrong. A timetable clash gives her the excuse, as it must without a Time-Turner (Q-002). Dracaena frames it as conceding defeat, while she herself stays on as Burbage's star pupil ([sleeping-beauty](../threads/sleeping-beauty.md)).
@@ -45,7 +54,8 @@ Canon default.
 ## Relationships
 
 - Harry Potter: her friend. She can't resonate with him: friendship isn't enough (DIV-021).
-- [Ron Weasley](ron-weasley.md): canon default.
+- [Ron Weasley](ron-weasley.md): canon default up to a point — **they never become a couple** (DIV-124). She objects to Pansy Parkinson for three years and is never argued out of it ([ron-pansy](../threads/ron-pansy.md)).
+- [Viktor Krum](viktor-krum.md): *(draft)* **the endgame** (DIV-124). He wanted her for the studiousness and the discipline, said so in public, and was the only person who ever read her correctly.
 - [Dracaena Malfoy](dracaena-malfoy.md): her rival from the first Potions lesson, where Dracaena shows her up (DIV-011). *(settled)* **She is the rival in Dracaena's head** from the World Cup until Fleur's line, and has no idea she is in a contest (DIV-041). *(settled)* **In the first week of B4 she tells her she will never take Harry because she is a nasty and vile person** — true, said in heat, and heard by Dracaena as *take from me*. She draws on her for it, is bounced down the corridor as a ferret, and Harry carries her away (DIV-095). Hermione is in the right for the length of the sentence, and is never told what Harry said in the hospital wing afterwards. The first "Mudblood" is B1, in the Dessendre corridor, and she takes it in silence (DIV-074). Taunts her for dropping Muggle Studies (DIV-012). From B4 she stops slurring her, for Harry's sake. In B6 she calls Hermione "Mudblood" again, plenty, to hurt her ([dracaena-malfoy](dracaena-malfoy.md)). *(settled)* In B7 Hermione treats her with kid gloves anyway. She's perceptive, and knows Dracaena wasn't herself in B6, and still isn't: from the Ball to the end of B5 she was not too hostile for a year and a half. At Shell Cottage, her sealing spell saves Narcissa's medicine, and Dracaena starts treating her as a person for good ([narcissa-malfoy](narcissa-malfoy.md)).
 - Crookshanks: canon default.
 

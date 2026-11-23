@@ -14,11 +14,18 @@ Flitwick's Duelling Club, where Harry and Dracaena fight for years and learn eac
 
 It runs from B2 through B4. In B4 it stays open and the visiting students from Durmstrang and Beauxbatons join: the Tournament doesn't take much of anyone's time, and with Quidditch cancelled (canon) the club is the only arena their rivalry has left in the year of the Yule Ball. Early in B5 Umbridge shuts it down, one of the first things she does, and they're both miffed.
 
+*(settled)* **The DA is this club in exile** · DIV-125. Umbridge shuts it down and they are both miffed, so when the DA starts Dracaena joins it and co-teaches — not for the cause, which she doesn't have, but to get her piste back. The room gets her school against Moody's argued in front of it: she drills form, Harry drills what to do when form fails. Full entry: [house-unity](house-unity.md).
+
 *(settled)* In B6, with Umbridge gone, Flitwick reopens it. Harry offers it to Dracaena as a date, because he's missed their bouts. She refuses, and the fight that follows ends their relationship (DIV-015, [the-breakup](../scenes/b6/the-breakup.md)). She never comes back, so their next duel is Sectumsempra (DIV-043).
 
 Through the clashes they come to know each other. They learn to read each other's body language and anticipate each other's reactions. At some point they start looking forward to the "games", and we see them smiling as they fight.
 
 *(draft)* Early on, Dracaena wipes the floor with Hermione: she's that much more powerful, and a talented duellist too. It puts power by blood on the page early ([society](../setting/society.md)), and casts Hermione as the brains rather than the muscle. When: open.
+
+**And Pansy walks out of it** *(draft)* · DIV-121. Dracaena ropes her in because that is what Dracaena does. Pansy attends two or three sessions at most, hates all of them, and tells her she isn't coming back — the first preference she has ever stated out loud. **Dracaena takes it perfectly well and never asks what she is doing instead;** she has no use for a maidservant, and it does not occur to her that a friend has preferences.
+
+- **This is the room that humiliates Pansy specifically.** She has the power her blood gives her and no technique at all (DIV-122), and a duelling piste is precisely where technique shows and power doesn't help — next to a Malfoy who has both. She leaves and finds a chessboard, which cares about neither her blood nor her manners ([ron-pansy](ron-pansy.md)).
+- **It is the other half of the blood argument this club is already making.** Hermione loses here for want of power; Pansy would lose for want of skill. Blood matters and is not everything, and the club shows both halves of that within a year of opening (DIV-008).
 
 When she wins she sometimes forgets to gloat. No sneer, just a bright, happy "Did you see that? I won!", and Harry finds it endearing enough that losing doesn't seem so bad. It stands out against her usual teasing and casual cruelty, towards Ron and Hermione too.
 
@@ -59,11 +66,12 @@ At some point the bouts acquire a forfeit: the loser gives the winner a trophy, 
 | B1 | | |
 | B2 | Lockhart's session ends in disaster (canon). The petition; Flitwick takes over | |
 | B2 | The trophy forfeit starts, with her challenge at the **last duel of the year**. She wins his Gryffindor scarf (DIV-059, Q-073) | |
+| B2 | Pansy is dragged in, lasts two or three sessions, and walks out (DIV-121) | [ron-pansy](ron-pansy.md) |
 | B3 | A regular fixture. She leaves the lap-pillow scene with the skip in her step she has after beating him | [lap-pillow](../scenes/b3/lap-pillow.md) |
 | B3 | The trophies go public at the Quidditch final: each turns up wearing one of the other's gloves, played as a joke by both and never mentioned again. Harry catches the Snitch wearing hers (DIV-059, DIV-069, Q-073) | [the-quidditch-final](../scenes/b3/the-quidditch-final.md) |
 | B4 | Stays open; Durmstrang and Beauxbatons students join. **Krum keeps coming, because he is curious whether the boy can actually do it** (DIV-090). The Durmstrang challenger, whom Krum is glad to see beaten (DIV-029) | [durmstrang-challenger](../scenes/b4/durmstrang-challenger.md) |
 | B4 | **The club's real payoff:** in the maze Harry beats the Durmstrang champion with what three years against her technique gave him — no shape of his own, and a reader's eye for everyone else's. He reads the draw with what she taught him and answers it with Moody's ground (DIV-089, DIV-108, Q-123) | [the-third-task](../scenes/b4/the-third-task.md) |
-| B5 | Umbridge shuts it down, one of her first acts. They're both miffed | |
+| B5 | Umbridge shuts it down, one of her first acts. They're both miffed — **and the DA becomes the club in exile**, with Dracaena co-teaching it (DIV-125) | [house-unity](house-unity.md) |
 | B6 | Flitwick reopens it. Harry offers it as a date; she refuses, and they break up (DIV-015). Their next duel is Sectumsempra (DIV-043) | [the-breakup](../scenes/b6/the-breakup.md) |
 | B7 | | |
 

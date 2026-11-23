@@ -1,0 +1,75 @@
+---
+status: draft
+---
+
+# Ron and Pansy
+
+Two ordinary children raised against excellence, who find each other over a chessboard and are the only people in the story who never rank each other.
+
+## Shape of the arc
+
+*(draft)* DIV-121. The mainstream version of this pairing has them thrown together while matchmaking for their best friends. Ours can't use that: what happens between Harry and Dracaena is entirely self-contained, neither of these two has the standing to steer it, and both of them would be **against** it on the evidence — they have only ever seen Dracaena being a menace to everybody. So the engine is not the couple. It is that they have the same wound.
+
+**Both of them have been ranked their whole lives, and the ranking is the injury.** Ron measures himself against five brothers and against the famous friend who is the centre of every room he walks into ([ron-weasley](../characters/ron-weasley.md)). Pansy is a pureblood who cannot compete with purebloods: she grew up beside Dracaena Malfoy and Daphne Greengrass, who outclass her at manners, at magic and at knowledge without ever trying to, and her family keeps the scoreboard for her ([pansy-parkinson](../characters/pansy-parkinson.md), DIV-122).
+
+**They are also the same magical profile,** which is why it has to be chess and not duelling. DIV-108 says Ron is a pure-blood with the power and without the finesse; DIV-122 gives Pansy the same shape. A duelling club is where technique shows and raw power doesn't help, so it humiliates her specifically. A chessboard cares about neither her blood nor her manners, and it is the one thing Ron is best at that nobody taught him to be.
+
+**Note what that does to DIV-108.** Hermione *completes* Ron mechanically — he attacks, she covers, and it is the first thing the two of them are good at together. Pansy only *matches* him. That is deliberate, and it is the same shape as Harry and Hermione: the person who is your best practical partner is not the person. Two people with the identical deficiency, who found the one board where the deficiency doesn't count, is not the weaker pairing ([core/themes.md](../core/themes.md)).
+
+### Register *(settled)*
+
+**It is a friendship through B4, and it never rhymes with a Harry and Dracaena beat.** No duelling-club spectacle, no public kiss, no mutual pining on the page, no balcony. The main romance is desire; this is companionship, and the thesis in [themes](../core/themes.md) depends on those being different kinds of thing. A warm, sustaining friendship running beside Harry's story is the thesis's supporting evidence. Made into a parallel romance at the same intensity, it becomes a competitor.
+
+It tips in B5 and not before (Q-156).
+
+### Mostly off the page *(settled)*
+
+Harry can't witness most of it and no POV is being built for it, so it is carried in report: Ron citing "Parkinson" in offhand remarks, and the name drifting to "Pansy" without comment. **The reader assembles it the way Pansy assembles Harry and Dracaena** (DIV-093), and that mirror is worth more than any scene in the subplot.
+
+### The prejudice, and how it gives *(draft)*
+
+Ron's line, early: *Slytherins can't be trusted.* And then, before she can get angry, *not you, though — you're one of the good ones.* It is bigotry making an exception instead of revising the rule, which is how prejudice actually goes, and it is the honest start of a thing rather than the end of one. **It is also Dracaena's own logic in reverse:** she exempts Harry and keeps the general view. Two children running the same faulty argument in opposite directions, neither noticing.
+
+**Hermione objects, and keeps objecting.** She has the best standing of anyone — the slur in the Dessendre corridor in B1 (DIV-074), the bookshop (DIV-120), being drawn on and bounced down a corridor in the first week of B4 (DIV-095). Hermione being right on the evidence and wrong about Pansy is better than Hermione coming round, and she is never converted by argument.
+
+### The not-asking *(settled)*
+
+One gesture, three times, and the third one hurts because of the first two:
+
+- **B2** — Pansy tells Dracaena she is not coming back to the Duelling Club. Dracaena takes it perfectly well **and never asks what she is doing instead.** Not graciousness: it does not occur to her that a friend has preferences, because every friend she has was chosen for her out of her father's connections ([lucius-malfoy](../characters/lucius-malfoy.md)).
+- **B3** — Lupin brings a shaking Dracaena out of the Boggart trunk, hands her to Pansy and explains nothing, and **Pansy doesn't ask** ([the-trunk](../scenes/b3/the-trunk.md), DIV-093).
+- **B6** — Pansy finally asks, and is shut out (DIV-015).
+
+### What she never does *(draft)*
+
+**She never tells Ron what she knows about Harry and Dracaena.** DIV-093's whole point is that Pansy has the most data and the least appetite for using it, and Q-038 closed her as a source on exactly that ground; a confidant in Gryffindor must not reopen it. The permitted version is a beat where she nearly does and doesn't, which is the same restraint as the trunk.
+
+## By book
+
+| Book | Beat | Where |
+|---|---|---|
+| B1 | Ron opts out of the Dessendre corridor because he is playing chess, and that is the only establishing the club needs. **Nothing is added to B1**, and his absence stays indifference rather than a rendezvous — it is still load-bearing for the slur passing unanswered (DIV-074) | [painted-life](../scenes/b1/painted-life.md) |
+| B2 | Dracaena drags Pansy to the Duelling Club. Pansy attends two or three sessions at most, then tells her she isn't coming back — her first assertion of a preference in her life (DIV-121, [duelling-club](duelling-club.md)) | |
+| B2 | Looking for something of her own, she works through the clubs nobody puts on the page, and finds the chess club: Ron playing, and winning. She asks to watch. **No romantic undertone** — she is interested in the game and in a boy who is unrecognisably competent | |
+| B2–B3 | He gives her pointers, she learns, and in time she takes games off him. They become quillpals, trading first chess and then whatever else turns up | |
+| B3 | "Parkinson" starts appearing in Ron's remarks; by the end of the year it is "Pansy". Nobody comments | |
+| B3 | *Not you, though — you're one of the good ones.* Hermione's objections begin | |
+| B4 | **The Yule Ball.** Ron asks her instead of asking Hermione as a fallback; she fixes his robes; she teases Dracaena about having landed the purer suitor (DIV-123) | [the-dress-robes](../scenes/b4/the-dress-robes.md) |
+| B5 | Ron tells her about the Hog's Head, which is how a Slytherin comes to know the time and place of Hermione's secret meeting. Pansy works up to asking Dracaena to come with her; Dracaena has known for a week, from Potter (DIV-125) | |
+| B5 | **It tips.** In the Room of Requirement she gravitates to Ron for help rather than to anyone else, because he taught her chess, and he steps in without being asked. He notices that he likes it when she smiles after she finally gets something — **the same satisfaction he had at twelve, named three years late** (Q-156) | |
+| B5 | Harry and Dracaena, over their own melodrama at last, tease the pair of them about it | |
+| B6 | Dracaena shuts Pansy out along with everybody else, somewhere around the poisoning. Ron vents to Pansy about Harry, who is obsessed with Dracaena all year. **Both sidekicks lose their best friend to the same couple in the same months, from opposite sides** | |
+| B7 | Pansy refuses the evacuation and fights (DIV-055). Her family is not why | [final-duel](../scenes/b7/final-duel.md) |
+
+## Setups → payoffs
+
+| Payoff | Needs setting up | Planted in |
+|---|---|---|
+| Ron vouches for a Slytherin in front of the DA (DIV-125) | Three years of correspondence nobody in Gryffindor took seriously | B2–B4 |
+| Pansy in the DA, then refusing the evacuation (DIV-055) | That she was asked rather than dragged, and that she has somewhere to stand that isn't Dracaena | B2 on |
+| B6: Pansy asks and is refused | The two earlier instances of nobody asking | B2, B3 |
+| The B5 tipping point | That Ron liked teaching her at twelve and never examined why | B2 |
+
+## Open
+
+Q-156 (when it is named, and by whom) · Q-159 (the Parkinsons) · whether Ron's indiscretion about the Hog's Head is deliberate or careless · who makes him realise he can just ask her to the Ball ([the-dress-robes](../scenes/b4/the-dress-robes.md))

@@ -43,6 +43,7 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 - Sirius plants the idea of asking Dracaena to the Ball. DIV-019
 - Before the Ball, Dracaena's owls home tip off Lucius, and Narcissa takes Harry's side. DIV-040, [the-green-dress](../../scenes/b4/the-green-dress.md)
 - 🔒 Harry asks Dracaena to the Yule Ball and she accepts: the turning point. DIV-004, DIV-013, [yule-ball](../../scenes/b4/yule-ball.md)
+- Ron takes Pansy Parkinson, after somebody points out that he could; canon's fallback ask of Hermione is cut. She says yes before she remembers his robes, then mends them herself — not good, just not embarrassing — and teases Dracaena about having landed the purer suitor, which by the creed's own arithmetic is true. DIV-123, [the-dress-robes](../../scenes/b4/the-dress-robes.md)
 - Their first kiss is at the Ball. Right after it, Rita Skeeter prints that they went together. DIV-040
 - After the Ball, its memory gives Dracaena her first corporeal Patronus. DIV-027
 - 🔒 Dracaena is Harry's Second Task hostage, and the dream begins. DIV-005, DIV-013, [second-task](../../scenes/b4/second-task.md)

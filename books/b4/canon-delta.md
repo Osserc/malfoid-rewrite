@@ -63,7 +63,7 @@ Not beats, but true all through the book:
 | 23 | The Ball is announced; McGonagall gives dancing lessons; the champions must open the dancing with a partner | keep | | |
 | 24 | Harry asks Cho, who is already going with Cedric. He ends up with Parvati, and Ron with Padma | **cut** | He never asks Cho, and nothing is ever planted between them. Sirius plants the idea of asking Dracaena, and she's the only one he asks. **The only rival is the one Dracaena invents out of Hermione** — who arrives on Krum's arm, which takes her off the board in public on the same night | DIV-019, DIV-041, Q-008 |
 | 25 | Hermione goes with Krum, to Ron's fury | keep | | |
-| 26 | The Ball itself; Ron and Hermione's row ends the evening | **alter** | Ron and Hermione's row stands. 🔒 The Ball is the turning point for Harry and Dracaena: the deal is one dance, he asks for a second, she raises the tempo, and it ends in their first kiss | DIV-004, DIV-013 |
+| 26 | The Ball itself; Ron and Hermione's row ends the evening | **alter** | Ron and Hermione's row stands, **on a different basis** — he is not sour at being second choice, so the charge is about Krum (DIV-123, DIV-124). 🔒 The Ball is the turning point for Harry and Dracaena: the deal is one dance, he asks for a second, she raises the tempo, and it ends in their first kiss | DIV-004, DIV-013, DIV-123 |
 | 27 | Hagrid's half-giant parentage is exposed by Rita, and Dumbledore talks him back to work | keep | | |
 
 ## Winter and the Second Task
@@ -147,7 +147,7 @@ Beats with no canon equivalent.
 
 - **Beat 10** — what she says on the train in September, now that she owes him for B3. Part of where the relationship stands going into the book (Q-008).
 - **Beat 21** — whether the First Task's dragons get a beat of hers (Q-077).
-- **Beat 24** — the knock-ons of cutting Cho: Parvati, Padma, Pansy, and who takes whom (Q-008).
+- **Beat 24** — the knock-ons of cutting Cho: Parvati and Padma, and who takes whom (Q-008). **Pansy is answered: Ron takes her, and canon's fallback ask of Hermione is cut outright** (DIV-123, [the-dress-robes](../../scenes/b4/the-dress-robes.md)).
 - **Beat 29** — where she gets the gillyweed, and what becomes of Dobby's errand (Q-051).
 - **Beat 30** — Ron without the hostage spot (Q-010).
 - **Beat 11a** — Harry's reaction to watching her bounced, this early in the book, and what Lucius does about an Auror assaulting his heiress (Q-117).
