@@ -32,11 +32,21 @@ Ron's line, early: *Slytherins can't be trusted.* And then, before she can get a
 
 **Hermione objects, and keeps objecting.** She has the best standing of anyone — the slur in the Dessendre corridor in B1 (DIV-074), the bookshop (DIV-120), being drawn on and bounced down a corridor in the first week of B4 (DIV-095). Hermione being right on the evidence and wrong about Pansy is better than Hermione coming round, and she is never converted by argument.
 
+### The jumper *(draft)*
+
+The cheapest possible seeding of her home life, and free characterisation for both of them.
+
+- **B3, as an aside.** Ron grumbles about the annual Weasley Christmas jumper. **Pansy lights up** — *you get* ***jumpers****? Show me, show me* — because she has never in her life been given a thing that wasn't meant to make her look correct in front of somebody. A hand-knitted garment with a letter on it, made by a mother, for no occasion but the day, is exotic to her in a way Ron cannot begin to follow.
+- **It is what makes the Ball line safe.** *Imagine mother's face when she hears we went together* only reads as conspiratorial — two friends planning a prank — if the reader already knows the house she writes to and gets nothing back from (DIV-123, Q-159).
+- **Ron asks Molly for one.** *(open)* Timing: **Christmas morning of B4 is the strong candidate**, because it arrives by owl at the castle hours before she fixes his robes for the Ball. **Two gifts in one day, each the only thing the other one could have given.** The alternative is B5, where the Christmas is at Grimmauld and he would hand it over on the train back, which is a quieter version of the same beat.
+- **Molly.** The Slytherins keep taking her sons, and her son has a crush. She has also been certain since B2 that Hermione is Harry's girlfriend and holds the position for three years (DIV-118), so her record on this is perfect.
+
 ### The not-asking *(settled)*
 
 One gesture, three times, and the third one hurts because of the first two:
 
-- **B2** — Pansy tells Dracaena she is not coming back to the Duelling Club. Dracaena takes it perfectly well **and never asks what she is doing instead.** Not graciousness: it does not occur to her that a friend has preferences, because every friend she has was chosen for her out of her father's connections ([lucius-malfoy](../characters/lucius-malfoy.md)).
+- **B2** — Pansy tells Dracaena she is not coming back to the Duelling Club. **She is visibly shaking when she does it**, and it plainly costs her everything she has; it is the first preference she has ever stated out loud to anybody. **Dracaena does not even notice it is a moment:** *I can't think of anything more entertaining than watching me humiliate Potter — but you do you, Pansy. I'll tell you all about it later.* And that is the end of it. She takes it perfectly well **and never asks what she is doing instead** — not graciousness, since it does not occur to her that a friend has preferences, every friend she has having been chosen for her out of her father's connections ([lucius-malfoy](../characters/lucius-malfoy.md)).
+  - **Both readings are true at once, which is the whole point.** It is careless, and it is also **Dracaena defusing a social bomb without any effort at all** — the trained instrument working on somebody she was not even aiming it at ([dracaena-malfoy](../characters/dracaena-malfoy.md)). Pansy walks away unharmed and nothing was ever at stake except in her own chest.
 - **B3** — Lupin brings a shaking Dracaena out of the Boggart trunk, hands her to Pansy and explains nothing, and **Pansy doesn't ask** ([the-trunk](../scenes/b3/the-trunk.md), DIV-093).
 - **B6** — Pansy finally asks, and is shut out (DIV-015).
 
@@ -54,9 +64,11 @@ One gesture, three times, and the third one hurts because of the first two:
 | B2–B3 | He gives her pointers, she learns, and in time she takes games off him. They become quillpals, trading first chess and then whatever else turns up | |
 | B3 | "Parkinson" starts appearing in Ron's remarks; by the end of the year it is "Pansy". Nobody comments | |
 | B3 | *Not you, though — you're one of the good ones.* Hermione's objections begin | |
-| B4 | **The Yule Ball.** Ron asks her instead of asking Hermione as a fallback; she fixes his robes; she teases Dracaena about having landed the purer suitor (DIV-123) | [the-dress-robes](../scenes/b4/the-dress-robes.md) |
+| B3 | Ron grumbles about the Weasley Christmas jumper and Pansy lights up: *you get* ***jumpers****?* The seeding for everything about her family | |
+| B4 | **The Yule Ball.** Ron asks her instead of asking Hermione as a fallback; she restyles his robes and adds her own flair, and is praised for something for the first time in her life; *imagine mother's face when she hears we went together*, conspiratorially; she teases Dracaena about having landed the purer suitor. **Christmas morning: the jumper**, if that is where it lands (DIV-123) | [the-dress-robes](../scenes/b4/the-dress-robes.md) |
 | B5 | Ron tells her about the Hog's Head, which is how a Slytherin comes to know the time and place of Hermione's secret meeting. Pansy works up to asking Dracaena to come with her; Dracaena has known for a week, from Potter (DIV-125) | |
-| B5 | **It tips.** In the Room of Requirement she gravitates to Ron for help rather than to anyone else, because he taught her chess, and he steps in without being asked. He notices that he likes it when she smiles after she finally gets something — **the same satisfaction he had at twelve, named three years late** (Q-156) | |
+| B5 | **It tips.** In the Room of Requirement she gravitates to Ron for help rather than to anyone else, because he taught her chess, and he steps in without being asked. He notices that he likes it when she smiles after she finally gets something — **the same satisfaction he had at twelve, named three years late**. **She is smiling at herself, not at him**, for having got it right; nothing in it is ingratiating. **And he is giving somebody something, and the somebody isn't Harry** (Q-156) | |
+| B5–B6 | **It becomes official**, in one of those two years, and never earth-shakingly. **They part on a hopeful note before B7** (Q-156) | |
 | B5 | Harry and Dracaena, over their own melodrama at last, tease the pair of them about it | |
 | B6 | Dracaena shuts Pansy out along with everybody else, somewhere around the poisoning. Ron vents to Pansy about Harry, who is obsessed with Dracaena all year. **Both sidekicks lose their best friend to the same couple in the same months, from opposite sides** | |
 | B7 | Pansy refuses the evacuation and fights (DIV-055). Her family is not why | [final-duel](../scenes/b7/final-duel.md) |
@@ -72,4 +84,4 @@ One gesture, three times, and the third one hurts because of the first two:
 
 ## Open
 
-Q-156 (when it is named, and by whom) · Q-159 (the Parkinsons) · whether Ron's indiscretion about the Hog's Head is deliberate or careless · who makes him realise he can just ask her to the Ball ([the-dress-robes](../scenes/b4/the-dress-robes.md))
+Q-156 (which year it becomes official, and how the parting is staged) · Q-159 (the Parkinsons) · where the jumper lands, B4 or B5 · whether Ron's indiscretion about the Hog's Head is deliberate or careless · who makes him realise he can just ask her to the Ball ([the-dress-robes](../scenes/b4/the-dress-robes.md))

@@ -23,7 +23,8 @@ status: draft
 - **Why it works on her.** He is good at something nobody taught him to be good at, on a board that cares about neither her blood nor her manners.
 - **His prejudice gives, in the smallest possible way.** *Slytherins can't be trusted* — and then, before she can get angry, *not you, though, you're one of the good ones.* An exception rather than a revision, which is how it actually goes.
 - **Hermione objects for three years** and is never argued out of it. She has the best evidence of anyone (DIV-074, DIV-095, DIV-120).
-- **B4:** he takes her to the Yule Ball and she mends his robes (DIV-123).
+- **B4:** he takes her to the Yule Ball and she restyles his robes, which he is ecstatic about — not because the work is good but because she has spared him the humiliation (DIV-123). He asks Molly for a jumper for her; where that lands is open.
+- **What he gets out of B5, and it is the point.** When it tips, **he is giving somebody something for once, and the somebody isn't Harry.** A plain affirmation that costs nobody anything — and she is smiling at herself for having got it right, not at him (Q-156).
 - **B5:** he tells her about the Hog's Head, which is the leak Hermione was worried about, and then vouches for her in front of the DA (DIV-125). It tips that year (Q-156).
 
 ## B4: the falling-out
@@ -70,7 +71,7 @@ Canon default.
 | B1 | Playing chess rather than chasing paintings, which is all the establishing the club needs ([painted-life](../scenes/b1/painted-life.md)) | | |
 | B2 | | A Slytherin girl asks whether she can watch him play, and he gives her pointers (DIV-121) | Teaching her by owl |
 | B3 | | *Not you, though, you're one of the good ones* | "Parkinson" has become "Pansy" |
-| B4 | Takes Pansy to the Ball; she mends his robes (DIV-123) | The falling-out: the glory, and the lie about Dracaena (Q-010) | The second rift: the trunk, the Map, and Harry walking out with her (DIV-063) |
+| B4 | Takes Pansy to the Ball; she restyles his robes (DIV-123) | The falling-out: the glory, and the lie about Dracaena (Q-010) | The second rift: the trunk, the Map, and Harry walking out with her (DIV-063) |
 | B5 | Keeper, and mocked for it (canon). Prefect — a placement, which confirms the lie | Tells Pansy about the Hog's Head, vouches for her in front of the DA, and it tips (DIV-125, Q-156). The final against Ravenclaw: he comes good and Gryffindor win it | Slytherin still take the Cup on aggregate, off the matches Harry missed (DIV-067) |
 | B6 | Harry is obsessed with Dracaena all year and Pansy has been shut out by her; he vents to her and she has nobody to vent to | Comes into his own as a Keeper (canon) | Gryffindor take the Cup, with Harry out for the final (Q-057) |
 | B7 | | Leaves the tent (canon) | Comes back through the Deluminator, straight into the Malfoy Manor raid, and fights beside Harry (DIV-051). Sees Dracaena as a liability: she can't Apparate, and Harry would stay behind with her (DIV-054) |

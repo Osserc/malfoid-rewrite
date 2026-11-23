@@ -23,15 +23,18 @@ Cut from canon: the fallback ask, and Ron spending the evening dateless and sour
 2. **He asks.**
 3. **Her reasoning, which the reader gets and Ron never does.** She wants to go. She will not go with a Slytherin boy, because they look down on her and only Dracaena keeps them off, and she would rather not endure an evening of sideways looks from her own escort. And Harry is going with Dracaena, so for once the arithmetic lets her be brave: she can spend the evening with a friend from outside her House and nobody can make it mean anything.
 4. **"All right. We can go together."** Said before she sees the problem.
-5. **Then she remembers the robes.** She saw them on the train in B4 — canon's beat, reused. *But absolutely **not** in that. Bring it to me.*
-6. **She fixes them herself.** This is the thing she can do: **a Malfoy commissions and a Parkinson mends** (canon-delta beat 18a — a Malfoy is a nobleman, not a craftsman). Her family has less money and more need of a needle, and it is the one skill in her life nobody held up against anybody.
+5. **Then she remembers the robes.** The Slytherins have known about them since the start of the year — canon's own setup, reused, since the robes arrive before term in B4 and Dracaena's circle got a look at them early. *But absolutely **not** in that. Bring it to me.*
+6. **She improves them herself.** **Not mending — she is a pureblood and she does not patch.** She restyles: strips what is awful, re-cuts, changes what can be changed, and **adds her own flair**. It is taste applied with a wand, not needlework and not repair, and it is consistent with her having no patience for drilling *combat* form while happily knowing the charms she actually likes (DIV-122).
+   - **It is the first thing she has ever made that somebody was glad of.** She gets to do something nice for a friend, express herself while doing it, and **be praised for it, once**, which has never happened to her in her life.
+   - **Ron is ecstatic**, and about the right thing: she has spared him the humiliation of turning up in that mouldy dress. He is not admiring the work; he is relieved to the bone, and says so badly.
 7. **The result is not good. It is not embarrassing**, which is all either of them wanted.
-8. **She teases Dracaena about it.** She has landed the purer suitor, by the family creed's own arithmetic — Ron Weasley is a pureblood of an old house and Harry Potter is a half-blood. **The joke is true, which is why it stings**, and Dracaena cannot answer it without conceding something she will not say out loud. All in good fun, from the one person in the castle she is not frightened of.
+8. **The conspiracy.** *And imagine mother's face when she hears we went together.* **It has to land as two friends planning a prank**, not as a girl using a boy to get at her parents — which is why the home situation needs seeding first (the jumper, in [ron-pansy](../../threads/ron-pansy.md), and Q-159). He is in on the joke; he is not the instrument of it.
+9. **She teases Dracaena about it.** She has landed the purer suitor, by the family creed's own arithmetic — Ron Weasley is a pureblood of an old house and Harry Potter is a half-blood. **The joke is true, which is why it stings**, and Dracaena cannot answer it without conceding something she will not say out loud. All in good fun, from the one person in the castle she is not frightened of.
 
 ## Must keep
 
 - **She says yes before she sees a problem with the robes**, not after. The order is the joke and it is also the character: the brave thing first, the taste second.
-- **The robes are mended, not replaced.** No money changes hands and nothing is bought. If she buys him anything, the scene is dead.
+- **The robes are improved, not replaced and not repaired.** No money changes hands and nothing is bought. If she buys him anything, the scene is dead — and if she sits down with a needle, the register is wrong.
 - **No romance in either head.** Two sidekicks having a better evening than they expected. The tipping point is a year away (Q-156, DIV-121).
 - Dracaena takes the teasing. Pansy is allowed to win this one.
 

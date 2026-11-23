@@ -56,9 +56,11 @@ Still open: Ron, Dumbledore, anyone else. Track in [reveals.md](reveals.md).
 
 *Partly answered:* Harry asks and she accepts (DIV-013). He asks because Sirius planted the idea (DIV-019). They kiss for the first time at the Ball. Harry never asks Cho, and the only rival is the one Dracaena has invented out of Hermione — who arrives on Krum's arm (DIV-041).
 
-*Also answered: Pansy and Ron.* **Ron takes Pansy**, after somebody points out that he could; canon's fallback ask of Hermione is cut outright, and she mends his robes rather than replacing them (DIV-123, [the-dress-robes](../scenes/b4/the-dress-robes.md)).
+*Also answered: Pansy and Ron.* **Ron takes Pansy**, after somebody points out that he could; canon's fallback ask of Hermione is cut outright, and she improves his robes rather than replacing them (DIV-123, [the-dress-robes](../scenes/b4/the-dress-robes.md)).
 
-Still open: where the relationship stands going in and coming out, and the knock-on effect for Parvati. Going in, Harry has already shown his jealousy by beating a Durmstrang student at the Duelling Club (DIV-029).
+*Also answered: the Patil sisters.* **We don't care.** They get whoever they get and probably never reach the page.
+
+Still open: where the relationship stands going in and coming out. Going in, Harry has already shown his jealousy by beating a Durmstrang student at the Duelling Club (DIV-029).
 
 ### Q-009 · The Second Task makes Harry's feelings public (DIV-005)
 
@@ -959,13 +961,19 @@ The gag is established at the World Cup. Once a book at most, never in a scene t
 
 *Partly answered:* **B5, in the Room of Requirement.** She gravitates to Ron for help rather than to anyone else, because he taught her chess, and he steps in without being asked. He notices that he likes it when she smiles after she finally gets something — the same satisfaction he had at twelve, named three years late. Harry and Dracaena, over their own melodrama at last, tease the pair of them about it.
 
-Open: what they are by the end of the series, whether anyone ever says it out loud, and who moves first. **It has to resolve**, because DIV-124 sends Hermione to Krum: if this stays a friendship for ever, Ron finishes the series with less than canon gave him, which is not the point of having built it. The constraint stands either way — no beat in it may rhyme with a Harry and Dracaena beat (DIV-121).
+*Also answered (author):* **it becomes official, in B5 or B6**, and **they part on a hopeful note before B7** — before the Horcrux hunt takes him out of the castle. It never needs to be earth-shaking; the register stays small throughout.
+
+Open: which of the two years it lands in, who moves first, and how the parting is staged. The constraint stands either way — no beat in it may rhyme with a Harry and Dracaena beat (DIV-121).
 
 ### Q-157 · What does the locket say to Ron? (DIV-124, DIV-051)
 
 Canon's charge is that Hermione prefers Harry, and **DIV-118 killed it at the Yule Ball, in every head present, two books before the tent** — so this was already a hole before Hermione was sent to Krum.
 
-The lead candidate is **the lake**: DIV-005 told the entire school that Ron is not the person Harry would miss most, his wound is being second, and the whole castle watched it happen. Krum is available as a second barrel, and so is Pansy, whose family will be on the other side. Open: which of these it uses, how much, and whether the Deluminator return answers it.
+*Partly answered (author):* **not the lake, and not a rival.** He cannot reasonably begrudge his best friend choosing Dracaena after all those years, so an event-based charge is the wrong instrument. The charge is about the whole friendship and about him: **they don't need you, they always looked down on you, you were always the third wheel.** It plays on the insecurity he already has rather than on a grievance he would have to justify, and it is close to canon's own *least loved*, so it costs nothing.
+
+**The jealousy plot is not cut**, and the author is explicit that it is not being committed to either — it gets settled when B7 is actually planned.
+
+Open: how much of it the locket uses, whether Pansy is in it at all (her family will be on the other side, and he will have left her behind), and whether the Deluminator return answers the charge or merely ends it.
 
 ### Q-158 · Who catches Harry at the Room of Requirement? (DIV-125)
 

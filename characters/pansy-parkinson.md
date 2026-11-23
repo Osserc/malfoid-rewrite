@@ -11,7 +11,7 @@ status: draft
 ## Core
 
 - **Want:** to be looked at once without being measured.
-- **Need:** one thing that is hers, that she was not given and is not borrowing.
+- **Need:** *(proposal — the author is unconvinced, settle it)* **to stop being the one who keeps the scoreboard.** Nobody has to maintain it for her any more; she runs it on herself when the room is empty. What she needs is to do a thing because she wants to and never check where it places her. *(Rejected: "one thing that is hers" — that is Dracaena's need, word for word (DIV-013). Also rejected: "stop measuring herself against others", which is a negation and is nearly Ron's need.)*
 - **Wound / fear:** *Why can't you be more like the Greengrass girl.*
 - **Lie she believes:** that she is the lesser article, and that her place is standing next to people who aren't.
 
@@ -33,8 +33,21 @@ So she has settled, by about eleven, for being Dracaena's friend, and expects no
 
 ## The two clubs *(draft)* · DIV-121
 
-- **B2: she walks out.** Dracaena ropes her into the Duelling Club because that is what Dracaena does. Pansy goes two or three times at most, hates every minute, and tells her she isn't coming back. **It is the first preference she has ever stated out loud**, and Dracaena takes it perfectly well — she has no use for a maidservant — and never asks what she means to do instead.
+- **B2: she walks out.** Dracaena ropes her into the Duelling Club because that is what Dracaena does. Pansy goes two or three times at most, hates every minute, and tells her she isn't coming back. **She is shaking when she says it** and it costs her everything she has — it is the first preference she has ever stated out loud to anybody.
+  - **And it costs Dracaena nothing to receive.** *I can't think of anything more entertaining than watching me humiliate Potter — but you do you, Pansy. I'll tell you all about it later.* She has no use for a maidservant, she never asks what Pansy means to do instead, and **she defuses the whole thing without noticing there was anything to defuse** ([dracaena-malfoy](dracaena-malfoy.md)). Pansy walks away unharmed, having braced for a disaster that was never on the table outside her own chest.
 - **B2: she finds the chess club.** Working through the clubs nobody ever puts on the page, she comes across Ron Weasley playing, and winning, and being someone she has never seen in their few brief encounters. She asks whether she can watch. There is nothing romantic in it: she is interested in the game, and in the change in him. Full entry: [ron-pansy](../threads/ron-pansy.md).
+
+## What she does well *(draft)* · DIV-123
+
+**Clothes, and only because nobody ever graded her on it.** She has taste and she uses it herself rather than commissioning it — **not mending and not patching; a pureblood does not patch.** She restyles: strips what is awful, re-cuts, changes what can be changed, and adds her own flair. It is taste applied with a wand, which is consistent with her having no patience for drilling *combat* form while cheerfully knowing the charms she actually likes.
+
+It is the one thing in her life nobody ever held up against anybody, which is exactly why she is good at it — and at the Yule Ball it is the first thing she has ever made that somebody was glad of, and the first time she is praised for anything.
+
+## The jumper *(draft)*
+
+Ron grumbles about the annual Weasley Christmas jumper and **she lights up**: *you get* ***jumpers****? Show me, show me.* She has never been given a thing that wasn't meant to make her look correct in front of somebody — **she has been dressed, not given presents** — so a hand-knitted garment with a letter on it, made by a mother for no occasion but the day, is genuinely exotic to her.
+
+It is also what makes the Ball line safe: *imagine mother's face when she hears we went together* can only read as a prank between friends if the reader already knows the house she stopped writing to. Full entry: [ron-pansy](../threads/ron-pansy.md), Q-159.
 
 ## She notices *(settled)* · DIV-093
 
@@ -85,7 +98,7 @@ She wears her hair in a bob. **She is not made pretty at any point.** There is n
 | B1 | Dracaena's friend, as arranged | | |
 | B2 | Dragged to the Duelling Club | Walks out of it, and finds the chess club (DIV-121) | Learning the game off a Weasley by owl |
 | B3 | Quillpals | Starts noticing the arithmetic (DIV-093); Lupin hands her a shaking Dracaena and she doesn't ask | "Parkinson" has become "Pansy" |
-| B4 | The missing badge won't go away (DIV-093) | **The Yule Ball on Ron's arm**, and the robes (DIV-123) | |
+| B4 | The missing badge won't go away (DIV-093) | **The Yule Ball on Ron's arm.** She restyles his robes, adds her flair, and is praised for something for the first time (DIV-123) | Possibly a jumper of her own |
 | B5 | Ron tells her about the Hog's Head | **Joins the DA on his word, ahead of Dracaena** (DIV-125) | It tips (Q-156) |
 | B6 | | Asks Dracaena what is wrong, and is shut out | |
 | B7 | | **Refuses the evacuation** (DIV-055) | Fights, alongside Slughorn |
