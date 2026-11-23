@@ -30,6 +30,7 @@ _Open._ Mirrored in [core/themes.md](../../core/themes.md).
 - Hermione goes digging on Harry's behalf and comes back with the thin public version: a marvellous extinct magic, a fire, no people in it. DIV-073
 - The corridor. Dracaena guides them — the portraits won't talk, she charms the location out of Sir Nicholas, tells the true story, and calls Hermione a Mudblood on the way. Harry doesn't know what the word means. The creature in Clea's landscape refuses his offer to visit, because his mistress is coming back, and Dracaena is the one who tells him to stop. DIV-072, DIV-073, DIV-074, [painted-life](../../scenes/b1/painted-life.md)
 - *(open)* The aftermath: Harry finds out what Mudblood means and turns on her, the day after she thought they had got on. Q-092
+- Ron opts out of the corridor because he is playing chess — canon-adjacent, unchanged, and **the only establishing the chess club needs**. His absence stays indifference, not a rendezvous, and is still load-bearing for the slur passing unanswered. DIV-121, DIV-074, [ron-pansy](../../threads/ron-pansy.md)
 
 ## Acts
 

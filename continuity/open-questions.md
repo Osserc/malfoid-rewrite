@@ -56,7 +56,11 @@ Still open: Ron, Dumbledore, anyone else. Track in [reveals.md](reveals.md).
 
 *Partly answered:* Harry asks and she accepts (DIV-013). He asks because Sirius planted the idea (DIV-019). They kiss for the first time at the Ball. Harry never asks Cho, and the only rival is the one Dracaena has invented out of Hermione — who arrives on Krum's arm (DIV-041).
 
-Still open: where the relationship stands going in and coming out, and the knock-on effects for Parvati, Pansy and Ron. Going in, Harry has already shown his jealousy by beating a Durmstrang student at the Duelling Club (DIV-029).
+*Also answered: Pansy and Ron.* **Ron takes Pansy**, after somebody points out that he could; canon's fallback ask of Hermione is cut outright, and she improves his robes rather than replacing them (DIV-123, [the-dress-robes](../scenes/b4/the-dress-robes.md)).
+
+*Also answered: the Patil sisters.* **We don't care.** They get whoever they get and probably never reach the page.
+
+Still open: where the relationship stands going in and coming out. Going in, Harry has already shown his jealousy by beating a Durmstrang student at the Duelling Club (DIV-029).
 
 ### Q-009 · The Second Task makes Harry's feelings public (DIV-005)
 
@@ -75,6 +79,10 @@ What's Ron's role without the hostage spot? Does the Harry–Ron falling-out sti
 *Partly answered:* a second rift opens at the end of the book and doesn't mend before the summer. Ron goes through Harry's trunk for the Map, finds neither Harry nor Malfoy on it, and puts it to him on the train; Harry leaves with her without answering (DIV-063, [the-train-home](../scenes/b4/the-train-home.md)). It runs into canon's B5 opening. How it mends is open.
 
 *Answered:* Fleur's sister. Harry still brings Gabrielle up along with his hostage (canon default), which sets up Fleur's part in B4 (DIV-038).
+
+*Partly answered (draft):* **he is not dateless at the Ball.** He takes Pansy Parkinson, which removes the sourness from his autumn and changes the basis of the row that ends the evening — his charge is about Krum, not about being second choice — so his case on the train in June reads as principled rather than bitter (DIV-123, DIV-121).
+
+*Also answered:* the glory is no longer his only ground. **The Second Task tells the whole school he is not the person Harry would miss most**, which is the sharper version of his wound and the one the locket should use in B7 instead of canon's dead Hermione taunt (DIV-005, DIV-124, Q-157).
 
 Still open: how the reconciliation goes, and what Ron makes of the relationship once it's public.
 
@@ -445,8 +453,8 @@ Slytherins in the DA and at the battle ([house-unity](../threads/house-unity.md)
 - **How many,** and which of them get seeded in which books. A handful, named and recurring, beats a crowd.
   - *Now partly filled:* Balthier Thynne and Nola Laurel, from B3 (DIV-082).
   - **The spread is the problem.** Balthier and Nola are fifth years in B3, so they are in the DA in B5 and have left school by B7 — they come back for the battle as adults. Pansy and Daphne are Dracaena's year, so they *are* in the castle for the evacuation. That leaves the whole thread sitting in two cohorts. A couple of younger ones, Ginny's year or below, cost nothing to seed now and a great deal to invent later.
-- **Getting in.** Canon's DA bars Slytherins outright, and the reason is distrust, not spite. Who vouches for them, and who objects?
-- **Dracaena and the Squad.** Not a problem: in B5 she's dreaming and barely does the job, least of all anything that would land Harry in real trouble (Q-021). A friend of hers in the DA is safe from her. Still worth deciding whether she knows, and what she does with knowing.
+- ~~**Getting in.**~~ *Answered:* **Ron vouches for Pansy**, who gets in on his word alone and ahead of Dracaena; **Hermione objects**, and has a documented breach to point at rather than a prejudice, because Ron told Pansy about the Hog's Head before the meeting happened. Dracaena arrives at the same meeting and is challenged twice — in October as a prefect, and again in April when the Squad forms. DIV-125, DIV-121
+- ~~**Dracaena and the Squad.**~~ *Answered:* **she knows because Harry tells her**, she joins, and she co-teaches — the Duelling Club in exile, not a resistance. She drills form, Harry drills what to do when form fails, and the room gets her school against Moody's (DIV-108, Q-144). **She is also the one who warns them about the raid**, which the Squad is what makes possible; she says she did it to spite Umbridge and nobody believes her. It cannot save Harry (Q-158). DIV-125, DIV-013
 - **The evacuation.** Who refuses to leave, and whether they go to Slughorn or stay hidden in the castle.
 
 ### Q-071 · B2: the Polyjuice trip with Dracaena in Slytherin (DIV-001, DIV-049)
@@ -927,6 +935,7 @@ Both techniques are settled; none of their appearances are placed.
 
 - **Moody's lesson in B4.** Which class, what he demonstrates it against, and whether the glass barrier is in that scene or saved. **It is not a fifth rung** (DIV-102), so it is classroom material and Harry is one of a hundred.
 - **Dracaena's shield** needs planting well before B7, and the Duelling Club is the obvious home (DIV-028). Which bout, and whether Harry ever names what she is doing.
+  - *Partly answered: two B5 plantings in front of a crowd.* [the-only-two-of-us](../scenes/b5/the-only-two-of-us.md), where Harry names it by naming the absence of it — nobody at the club could ever copy it, and she never noticed because on that piste there were only ever two people; and [teaching-cho](../scenes/b5/teaching-cho.md), where it is simply shown working for nothing against everything Cho throws. **Neither replaces an earlier Duelling Club planting**; they are the payoff that needs one. DIV-125
 - **Her private failure** — the girl who hunted for the shape that stops the green one and found there is not one. Powerful, and easy to overplay. Whether it is ever on the page, and in whose POV.
 - **B5 and B7.** The DA drilling it, with Balthier Thynne the obvious partner (DIV-082), and the Battle of Hogwarts using the castle as ammunition.
 - **Where Harry's Protego-bounce lands** (DIV-108): his own invention, one bout won off her with it, and her loathing of it. It is a different beat from the interposition arc and may well be earlier.
@@ -948,6 +957,44 @@ Also open: what a man with one leg does about his own mobility, which the class 
 The gag is established at the World Cup. Once a book at most, never in a scene that is carrying weight, and never twice on the same note. Candidates are wide open; the useful ones are the moments where the leak costs him something, or where the person who hears it is the wrong person.
 
 **B3's charge is unspent and deliberately so.** The Monster Book callback was considered for it and settled as a private memory instead (Q-155), so the book still has its one leak to place somewhere worth it.
+
+### Q-156 · When does Ron and Pansy tip, and who says so? (DIV-121, DIV-124)
+
+*Partly answered:* **B5, in the Room of Requirement.** She gravitates to Ron for help rather than to anyone else, because he taught her chess, and he steps in without being asked. He notices that he likes it when she smiles after she finally gets something — the same satisfaction he had at twelve, named three years late. Harry and Dracaena, over their own melodrama at last, tease the pair of them about it.
+
+*Also answered (author):* **it becomes official, in B5 or B6**, and **they part on a hopeful note before B7** — before the Horcrux hunt takes him out of the castle. It never needs to be earth-shaking; the register stays small throughout.
+
+*Also answered: it tips in two halves, and they are not symmetrical.* **His** is passive and unexamined — the Room of Requirement, her smiling at herself for having got something right, and him noticing he likes it. **Hers** is active and frightening — **the jumper**: Molly knits her one at Ron's asking, she works out immediately what it means, and working up the courage to say something back is her next beat. **The second time in her life she has to say a thing that costs her everything**, the first being the Duelling Club in B2. He arrives without noticing; she arrives by being braver than she has ever been. DIV-121
+
+Open: which of the two years the official moment lands in, and how the parting is staged. The constraint stands either way — no beat in it may rhyme with a Harry and Dracaena beat (DIV-121).
+
+### Q-157 · What does the locket say to Ron? (DIV-124, DIV-051)
+
+Canon's charge is that Hermione prefers Harry, and **DIV-118 killed it at the Yule Ball, in every head present, two books before the tent** — so this was already a hole before Hermione was sent to Krum.
+
+*Partly answered (author):* **not the lake, and not a rival.** He cannot reasonably begrudge his best friend choosing Dracaena after all those years, so an event-based charge is the wrong instrument. The charge is about the whole friendship and about him: **they don't need you, they always looked down on you, you were always the third wheel.** It plays on the insecurity he already has rather than on a grievance he would have to justify, and it is close to canon's own *least loved*, so it costs nothing.
+
+**The jealousy plot is not cut**, and the author is explicit that it is not being committed to either — it gets settled when B7 is actually planned.
+
+Open: how much of it the locket uses, whether Pansy is in it at all (her family will be on the other side, and he will have left her behind), and whether the Deluminator return answers the charge or merely ends it.
+
+### Q-158 · Who catches Harry at the Room of Requirement? (DIV-125)
+
+Canon's catcher is Draco, and she is inside the room. Dracaena's warning gets everyone else clear and must not get Harry clear, since Dumbledore taking the blame and leaving is load-bearing.
+
+Parked by the author pending a reread of canon's sequence. One candidate already on the table: **he lets himself be caught**, which would make the failure his choice rather than her warning's.
+
+### Q-159 · The Parkinsons (DIV-122)
+
+Canon gives Pansy no family at all — no parents named, no siblings, nothing — so this is open ground and can stay mostly off the page, in references from her.
+
+Working version: youngest of several and comfortably ignored, with the nagging as the only attention going, and an older sibling who is the domestic version of the Dracaena problem. Open: whether any of them appear, which way they go in the war, and what her refusal of the evacuation costs at home — the working answer being nothing politically and everything personally, since she confirms what they always said about her.
+
+### Q-160 · Hermione and Krum after the war (DIV-124)
+
+*Partly answered (draft):* she studies ancient magical houses in Bulgaria, haunted ones included, which is the only research that can answer the objection her own method raises — her method kills the old houses that are the only thing that ever made an elf, and Britain's are few and the Ministry's (DIV-077, Q-100).
+
+Open: where she is actually based, how the distance works given that Apparition is not casually transcontinental, and whether the research is what gets her to Bulgaria or Krum is.
 
 ## Answered
 
@@ -1024,6 +1071,7 @@ Harry finds him packing and is told plainly why he is going, and **does not prot
 - **Cho seeks him out** — on the train, in the Owlery, and the rest — and **Dracaena is lurking not far behind, every time.** Mostly played for gags, and the whole school works out what is happening. Harry does not.
 - **Harry's side of it is mild annoyance.** He wishes Dracaena would turn up and get him out of it — the same note as Fleur's teasing, where he can tell there is a war on around him and does not much mind ([the-little-basilisk](../scenes/b4/the-little-basilisk.md)).
 - **Not jealousy and not defence.** She knows she has won. An affront was offered and the ledger does not care that it failed ([dracaena-malfoy](../characters/dracaena-malfoy.md)).
+- *Also answered: the one time the lurking becomes an intervention.* **Cho asks Harry to teach her a spell and Dracaena takes his place** — *it boggles the mind that anybody would want Potter, of all people, to teach them a spell* — and teaches it by casting it at her across the room while every counter comes off the pin-shield for nothing. **Deniable rather than covert**, which is the DIV-013 voice applied to a teaching room, and Harry thinks she was helping. [teaching-cho](../scenes/b5/teaching-cho.md)
 - **And it settles the bigger thing:** by B5 there is no secret girlfriend. They are public essentially from the Ball and unmistakably so after the Second Task; the cover was only ever for Lucius and Voldemort (DIV-013, DIV-020, DIV-040).
 
 ### Q-131 · What Hermione says that makes her see red (DIV-095, DIV-041)

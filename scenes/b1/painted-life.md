@@ -20,7 +20,7 @@ Chapter-length, not scene-length. The aftermath of the slur is a separate scene 
 ## Beats
 
 1. **The find.** Hermione comes back to the common room with the Dessendres. Harry had given her the name to get her off his back; she went digging into magic like the Mirror on his behalf and found them by accident. She explains the difference between a portrait and painted life, and Harry gets there on his own: *they could paint my parents back.*
-2. **Ron opts out.** He is playing chess and isn't interested. His absence matters later, because he is the one who knows what Mudblood means.
+2. **Ron opts out.** He is playing chess and isn't interested. His absence matters later, because he is the one who knows what Mudblood means. **It is also the only establishing the chess club gets** (DIV-121) — the indifference is the point and must not become a rendezvous.
 3. **The dead end.** An hour of asking portraits gets nothing. They are oblivious or they refuse, and the refusal isn't explained yet.
 4. **She finds them.** Dracaena, on a staircase, takes the linked arms for a date and is wrong about it. She hears the name Dessendre and her manner changes.
 5. **The slur.** Hermione recites the thin public version and calls them interesting. DIV-074. Hermione goes still, Harry feels her nails and doesn't understand what he's looking at.
