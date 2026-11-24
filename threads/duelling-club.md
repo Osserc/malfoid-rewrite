@@ -34,6 +34,11 @@ When she wins she sometimes forgets to gloat. No sneer, just a bright, happy "Di
 He drills the spells that can be cast clean — Expelliarmus, Stupefy, Protego, Petrificus Totalus, Impedimenta — and not the ones built only to afflict. It reads as a schoolmaster keeping things decent, and it is not: Dark magic leaves a residue in whoever works it ([magic](../setting/magic.md), Q-027), and he is teaching children the only magic they can throw at each other a thousand times a year without cracking themselves.
 
 - **He never explains it that way,** and nobody asks. He is also, quietly, the man who built a vicewick.
+**And he teaches by consequence** *(settled)* · DIV-127. Asked in B2 why a duellist does not simply glue his wand to his hand, he offers a demonstration instead of an answer: he glues Harry's, lets Dracaena Disarm him, and sends him to the infirmary with a dislocated shoulder — *"I'll deal with Madam Pomfrey myself"* ([the-glue-demonstration](../scenes/b2/the-glue-demonstration.md)). He knows a Ministry-approved instructor would never permit it and is entirely unbothered: a lesson somebody was carried out of is a lesson the whole room keeps.
+
+- **It is the first sight of the hard edge under the squeak** — the same man who drills only the clean spells for reasons he never states, and who quietly builds a vicewick (DIV-080). Whether he eventually gets a character file of his own is open.
+- **And it gives Dracaena material for life.** She laughs herself sick at the time, and she is still using it years later.
+
 - **It gives Harry's Expelliarmus a reason.** Canon never justifies his signature spell as anything but sentiment. Ours makes it the one thing you can cast forever and stay clean — which is what the series ends on, against a man who is nothing but accumulated stain (🔒 DIV-006).
 
 ## Her technique *(settled)* · DIV-109

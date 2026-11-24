@@ -130,10 +130,14 @@ Which radicals exist, how they combine, what incantations add, how nonverbal and
 
 Fixed point: Apparition takes no wand ([magic](../setting/magic.md), DIV-054).
 
-**The rework now has a spec rather than a blank page.** Whatever system gets built has to produce:
+**Narrowed.** What a wand is *for*, and what wandless casting is, are settled in DIV-126 — so this question is now only about the radicals themselves: which exist, how they combine, what the incantation adds, and what makes a spell hard.
 
-- **A range limit on the Killing Curse** that falls out of the projection failing to cohere at distance, rather than being bolted on (DIV-107).
-- **A draw long enough to be read**, since both the Killing Curse's telegraph (DIV-107) and interposition (DIV-108) depend on a spell being legible while it is being made, as resonance already does (DIV-021).
+**Two spec items are already discharged** by the whip (DIV-107), which should be the model for how the rest gets built — mechanism first, properties falling out of it:
+
+- ~~A range limit on the Killing Curse that falls out of the mechanism~~ — a whip has a length.
+- ~~A draw long enough to be read~~ — a whip has a loading stroke, and DIV-126 makes legibility general: standardised form is public, which is what resonance runs on.
+
+**Still a constraint:** whatever system gets built has to leave the draw readable by anyone who knows the forms, since DIV-021, DIV-107 and DIV-108 all depend on it.
 
 ### Q-016 · What is the pureblood point? (DIV-008)
 
@@ -204,20 +208,20 @@ How does she get the Ministry to send the Dementors to the lake? Floated so far:
 - an anonymous note
 - an owl forged in Lucius's name
 
-### Q-027 · Wand rules after the purge (DIV-024)
+### Q-027 · What the Dark Arts do to a caster (DIV-024, DIV-080)
 
-With allegiance gone, what does "the wand chooses the wizard" mean now? Also: how wands work in general, wandless magic (overlaps Q-015), and what's left of canon's other wand-bond lore, such as the holly wand acting on its own in B7. Deferred: the author plans to write down the rules of magic, wands and wandless magic.
+**The wand half is answered** by DIV-126: what a wand is for, what "the wand chooses the wizard" means, outgrowing one, swapping, wandless magic, other traditions. **What remains open is the crack** — which is what every other file pointing here is pointing at.
 
-**One piece got cheaper.** The holly wand acting on its own existed to save Harry in the Seven Potters chase and to start the Elder Wand hunt. **Moody's last stand now does the saving** (DIV-103) and the hunt's trigger moved to Q-011, so the beat can simply go, rather than needing a replacement built for it.
+*Previously this question also held the wand rules. The author's direction recorded under it ("wands are both a crutch and a precision instrument") is superseded by DIV-126, which says the opposite on purpose.*
 
-*Author's direction, for that session:*
-- **Wands** are both a crutch and a precision instrument: they focus magic and allow finer control.
-- **Other traditions** may be stronger than wand casting, because they tap magic directly, but they take more power, and let it course through the body.
+**Still open:**
 - **The Dark Arts crack the soul.** They break your seal and let more ambient magic in, so they increase your power, and you pay for it. That's Voldemort's transformations, which Dumbledore alludes to, the snake-man most visibly. Snape too ([society](../setting/society.md)).
 - **Practice** raises power and endurance somewhat, not much without the aptitude.
-- Questions it raises: does the Mark count as a crack (DIV-015)? What do Harry's Sectumsempra (DIV-043) and canon's B7 Unforgivables (Crucio on Amycus Carrow, Imperius at Gringotts) cost him? Is it what makes Bellatrix so formidable (Q-066)?
+- Does the Mark count as a crack (DIV-015)? What do Harry's Sectumsempra (DIV-043) and canon's B7 Unforgivables (Crucio on Amycus Carrow, Imperius at Gringotts) cost him? Is it what makes Bellatrix so formidable (Q-066)?
 
 *Partly committed by DIV-080:* whatever the Dark Arts leave in a person is what Lustrum burns, so the crack is no longer free to be decided. It refills rather than draining, which is why no amount of casting ever cleanses anyone. Whether remorse can close it: Q-110. What the Mark makes of Dracaena: Q-111.
+
+*Also closed:* the holly wand acting on its own in B7 — the beat's two jobs went to DIV-103 and Q-011, so it can simply go.
 
 ### Q-028 · Seeding resonance (DIV-021)
 
@@ -995,6 +999,26 @@ Working version: youngest of several and comfortably ignored, with the nagging a
 *Partly answered (draft):* she studies ancient magical houses in Bulgaria, haunted ones included, which is the only research that can answer the objection her own method raises — her method kills the old houses that are the only thing that ever made an elf, and Britain's are few and the Ministry's (DIV-077, Q-100).
 
 Open: where she is actually based, how the distance works given that Apparition is not casually transcontinental, and whether the research is what gets her to Bulgaria or Krum is.
+
+### Q-161 · How much of the whip reaches the page (DIV-107, DIV-126)
+
+The mechanism is settled; the imagery is a separate decision. **Nobody who has been hit by it has ever described it,** and the people who cast it are not explaining themselves, so the reader can only ever be given the outside of the thing: the loading stroke, the crack, what is left afterwards.
+
+- **Does any character ever articulate it as a whip,** or is it purely something the prose does with motion and sound? *Lean: the prose knows and the characters don't.*
+- **Where the wrap-and-bite shows** — the first time cover is destroyed rather than simply holding, which is the moment the reader learns interposition is consumable (DIV-108, Q-144).
+- **And where Voldemort's reach shows as different in kind.** It needs to land before the final duel, on somebody who did everything right and was behind something adequate.
+
+### Q-162 · Placing the glue demonstration in B2 (DIV-127)
+
+Where in the year it falls, relative to Flitwick taking the club over after Lockhart's one session (DIV-028) and the first forfeit at the last duel of second year (DIV-059). It wants to be early enough that the rule is long since established by B7, and it sits oddly close to the forfeit beat if it lands at the end of the year.
+
+Also open: whether Harry asks the question himself or is volunteered after somebody else asks it.
+
+### Q-163 · What the weapon rule is for (DIV-127)
+
+**The author holds a payoff for this and it is not to be resolved here.** DIV-127 deliberately says *weapon* rather than *wand*, and the B2 scene plants the mechanism years ahead of whatever uses it. Recorded so that nobody — including a later session of this bible — quietly narrows the rule back to wands.
+
+*Unrelated and parked, raised in the same session:* Disarming a man mid-Killing-Curse takes the grip while his entire being is out at the far end of the lash (DIV-107, DIV-126). Not the author's intended payoff; kept because it may yet find a use.
 
 ## Answered
 

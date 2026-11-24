@@ -19,6 +19,7 @@ The ideologues have an actual point. What it is, and where it turns into Voldemo
 - **And the inverse, from inside the camp** *(draft)* · DIV-122. **Pansy Parkinson has the power and none of the skill** — no feel for form, no patience for drilling it, everything slightly heavier than it needs to be. A pureblood who cannot compete with purebloods, in a family that told her blood would settle it. Blood is real here and it is not sufficient, and the clearest demonstration is one of the believers ([pansy-parkinson](../characters/pansy-parkinson.md)). Ron Weasley is the same profile — the power and not the finesse (DIV-108).
 - **On the page early.** At the Duelling Club, Dracaena wipes the floor with Hermione ([duelling-club](../threads/duelling-club.md)).
 - **The dilemma.** Muggle-borns are the only inflow slowing the decline, and they're weaker on average. Where the ideologues' answer turns suicidal: Q-048.
+- **And the grievance with the most teeth isn't about blood at all** *(draft)* · DIV-126. Wands made magic teachable, and anything teachable can be regulated — one school, one wandmaker, a registry, the Trace, Apparition licences, the Floo Network connected and disconnected at the Ministry's pleasure. The measure of a witch stopped being what she is and became what she was issued, and whoever issues it owns her. Written out in [magic](magic.md); it is the strongest version of DIV-008 and feeds Q-016.
 
 ## Population and economy *(draft)* · DIV-035
 
