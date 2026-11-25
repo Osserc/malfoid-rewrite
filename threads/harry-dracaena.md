@@ -106,6 +106,8 @@ Canon's isolation stands and gets worse. The people who claim to be protecting h
 | B1 | First Potions lesson: Snape has her answer every question Harry can't (DIV-011, DIV-031) | [uncle-severus](../scenes/b1/uncle-severus.md) |
 | B1–B3 | His feats slowly repair her opinion of him (DIV-013) | |
 | B2 on | Flitwick's Duelling Club: evenly matched, they learn to read each other and come to enjoy the fights (DIV-028) | [duelling-club](duelling-club.md) |
+| B2 | The glue demonstration: she dislocates his shoulder in front of the club, laughs herself sick, then comes to the infirmary, pokes the arm almost tenderly and proposes doing it again (DIV-127) | [the-glue-demonstration](../scenes/b2/the-glue-demonstration.md) |
+| B2 | The Chamber: they fight the basilisk together and fail, he reads Expelliarmus in her draw, and the two of them kill it with the sword glued to his hand. They stab the diary together and she hauls him out (DIV-129) | [the-chamber](../scenes/b2/the-chamber.md) |
 | B2 on | They always watch each other's Quidditch matches, and mark each other on the pitch: with the Snitch cut down to 30, Seekers are each other's job (DIV-066) | [quidditch](quidditch.md) |
 | B3 | Diagon Alley, before term: Lindsay asks after the princess and Harry vents in forensic detail, then will not let her agree with him (DIV-119, DIV-117) | [the-robe-shop](../scenes/b3/the-robe-shop.md) |
 | B3 | Potions: she makes him her servant and is strangely sweet under the barbs (DIV-017) | [potions-servant](../scenes/b3/potions-servant.md) |
@@ -160,10 +162,22 @@ Canon's isolation stands and gets worse. The people who claim to be protecting h
 | B7 | At King's Cross he goes back for her: not for the job, not for Voldemort (DIV-048) | [kings-cross](../scenes/b7/kings-cross.md) |
 | B7 | With Harry shown dead, she challenges Voldemort. Harry rises and joins her, his hand over hers on her wand (DIV-023). 🔒 They duel Voldemort together; their "love" rebounds the Killing Curse (DIV-006) | [final-duel](../scenes/b7/final-duel.md) |
 
+## The arm *(draft)* · DIV-127, DIV-129
+
+**One arm, three times, across two books**, and nobody ever remarks on the pattern.
+
+- **B2, the Duelling Club.** She dislocates it, by Disarming a wand that has been glued to his hand. She finds this hilarious and then sits with him while it is set.
+- **B2, the Chamber.** The same arm takes the basilisk twice — the bite, and then the jaws closing on the shoulder when he cannot drive the sword home. It comes out of that night genuinely ruined (Q-166).
+- **B3, the final.** It is still sore. He says so, after winning the Cup on a trick that cost him, and **she touches it** — which is the same gesture as the infirmary, eighteen months on, and the first time it is unmistakably tender (DIV-069).
+
+**The joke, the wound and the tenderness are all the same arm,** and the third beat only works because the first two were funny and horrible respectively. Keep the connection entirely unstated.
+
 ## Setups → payoffs
 
 | Payoff | Needs setting up | Planted in |
 |---|---|---|
+| B3 final: she touches his sore arm | The glue demonstration dislocating it, and the Chamber ruining it — both played for other reasons at the time (DIV-127, DIV-129) | B2 |
+| B7 resonance: reading each other's draw | B2's Chamber, where he reads Expelliarmus in the dark off three months of the Duelling Club (DIV-129, DIV-126) | B2 |
 | B4 Yule Ball as the turning point | A relationship worth turning, built through B1–B3 | B1–B3 (DIV-009, DIV-013) |
 | B3 Harry's Patronus | The lap-pillow scene (DIV-018) | B3 |
 | B3 his turn at the lake | Her sincerity glimpsed and dismissed: Potions (DIV-017), the Dementor impression stopping (DIV-017), the exam trunk confirming what she told him (DIV-017), the lap-pillow smile, her Patronus study, her unguarded smiles at the Duelling Club (DIV-028). More needed (Q-035) | B1–B3 |

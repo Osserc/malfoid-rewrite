@@ -647,8 +647,9 @@ It is the whole political payload, and it cuts both ways on purpose.
 
 ### Q-101 · Dracaena, the Chamber, and her dead elf (DIV-076, Q-098)
 
-B2 may give her far more to do — the inbox has her witnessing Harry kill the basilisk, which would be a killshot for her heart. Put the two together and the book hands her the best and the worst thing Potter has ever done to her in the same week: she watches him kill a monster, and then learns he has carelessly killed her household's elf.
+**Settled and upgraded 2026-11-25** · DIV-129. She is not a witness: **she kills the basilisk with him**, and he would have died without her. Put that together with the elf and the book hands her the best and the worst thing Potter has ever done to her in the same week — she saves his life and fights a monster at his side, and then learns he has carelessly killed her household's elf.
 
+- **And it is worse for being shared.** Witnessing something magnificent can be admired from a distance. Having been *in* it with him, having been the one who worked out how to kill the thing, having dragged him up out of the dark — that is not admiration, it is a claim. Then the elf lands on top of it. Q-164, Q-165.
 - **It is B1 inverted, and that is the point.** B1 is her reaching for friendship, believing she has won, and discovering she has made it worse. B2 runs the same shape the other way: *Harry* is the one who does the damage, without meaning to and without knowing it. The series' two early turns mirror each other and neither of them is anyone's fault.
 - **The order matters.** Admiration first, then the elf. It reverses her violently and explains the state B3 opens in — milking an injury, getting a hippogriff condemned, and then regretting it (DIV-003, DIV-017, Q-005).
 - **She liked Dobby,** in her own way: he was her retinue and a lady treasures her retinue, and he smuggled her sweets against her father's wishes ([dracaena-malfoy](../characters/dracaena-malfoy.md), [narcissa-malfoy](../characters/narcissa-malfoy.md)). So this is a loss, not just an insult.
@@ -1000,27 +1001,55 @@ Working version: youngest of several and comfortably ignored, with the nagging a
 
 Open: where she is actually based, how the distance works given that Apparition is not casually transcontinental, and whether the research is what gets her to Bulgaria or Krum is.
 
-### Q-161 · How much of the whip reaches the page (DIV-107, DIV-126)
+### Q-164 · How is Dracaena in the Chamber? (DIV-129)
 
-The mechanism is settled; the imagery is a separate decision. **Nobody who has been hit by it has ever described it,** and the people who cast it are not explaining themselves, so the reader can only ever be given the outside of the thing: the loading stroke, the crack, what is left afterwards.
+**The largest hole in the B2 climax and the thing to settle first.** She has to be down there for reasons that survive scrutiny, arrive at a time that leaves the fight intact, and not require her to be told anything she could not know.
 
-- **Does any character ever articulate it as a whip,** or is it purely something the prose does with motion and sound? *Lean: the prose knows and the characters don't.*
-- **Where the wrap-and-bite shows** — the first time cover is destroyed rather than simply holding, which is the moment the reader learns interposition is consumable (DIV-108, Q-144).
-- **And where Voldemort's reach shows as different in kind.** It needs to land before the final duel, on somebody who did everything right and was behind something adequate.
+Also: **where Ginny is** through all of it, what she witnesses, and what she remembers afterwards.
+
+### Q-165 · What Dracaena takes out of the Chamber (DIV-129, DIV-076)
+
+She watches a book bleed and a boy come apart, and she has no category for any of it. Open: what she understands, what she tells Lucius — **who gave Ginny the diary** — and what the reader is allowed to know she knows. It is a [reveals](reveals.md) problem before it is a scene problem, and it reaches a long way: she is carrying an eyewitness account of a Horcrux dying, years before anybody has the word.
+
+**And who knows she was there at all.** Dumbledore's version of the night, what the school is told, and what Lucius is told.
+
+### Q-166 · Fawkes, the second bite, and the arm (DIV-129)
+
+Canon's tears answer the venom once. Ours wounds Harry again *after* that, and the arm has to come out of the Chamber genuinely ruined — so what the phoenix does and does not fix needs deciding, without making it a healing tap that could have been used again.
+
+**It is the same arm all three times:** dislocated at the Duelling Club, taken twice in the Chamber, and still sore enough at the B3 final that he mentions it and she touches it (DIV-069, DIV-127). How long it lasts, how visible it is, and what it costs him on a broom.
+
+## Answered
+
+### Q-161 · How the whip reaches the page (DIV-107, DIV-126)
+
+**Answered by the author 2026-11-25: Moody. Canon hands us the demonstrator.**
+
+He already teaches the Unforgivables to a fourth-year class, and he is already the source of interposition and the cover logic (DIV-108), so the man who shows the reader what the Killing Curse *is* and the man who explains what to do about it are the same man. No new scene is required; canon's most famous lesson simply acquires content.
+
+- **And the demonstration costs him** · DIV-128. The curse throws the caster's whole magic out of the body, and a rider wearing somebody else's Imperius cannot easily follow it out and back (DIV-086, DIV-107). Every casting loosens the grip — one of the thousand cuts by which Alastor Moody surfaces. **An Unforgivable is part of what frees him,** which is the right kind of irony for this book.
+- **The imagery itself stays outside.** Nobody hit by it has described it and nobody who casts it is explaining, so the prose knows it is a whip and the characters do not.
 
 ### Q-162 · Placing the glue demonstration in B2 (DIV-127)
 
-Where in the year it falls, relative to Flitwick taking the club over after Lockhart's one session (DIV-028) and the first forfeit at the last duel of second year (DIV-059). It wants to be early enough that the rule is long since established by B7, and it sits oddly close to the forfeit beat if it lands at the end of the year.
+**Answered by the author 2026-11-25.** Relatively soon after Flitwick takes the club over, and **Harry asks the question himself** — he is Muggle enough to think of glue, which is why it occurs to him and to nobody else in the room. Dracaena has already worked out what will happen and is delighted; Harry goes through with it anyway, because he is our lovable idiot and because she asks him if he is scared.
 
-Also open: whether Harry asks the question himself or is volunteered after somebody else asks it.
+Settled with it: **Ron is not there** (his wand has been broken since the Whomping Willow and is worse than useless — DIV-126), and **Hermione is not there** either, having lost badly to Dracaena and decided duelling is barbaric, which is cope and reads as cope. **That fixes the ordering the thread left open: Hermione's defeat comes first.** Whether Pansy is still attending is free to choose (DIV-121).
+
+**She goes to the infirmary with him,** pokes the arm almost tenderly, and proposes doing it again sometime. Harry is appropriately unnerved. The aftermath is the school laughing at him while she flaps her arms about, and it is ammunition for Hermione.
 
 ### Q-163 · What the weapon rule is for (DIV-127)
 
-**The author holds a payoff for this and it is not to be resolved here.** DIV-127 deliberately says *weapon* rather than *wand*, and the B2 scene plants the mechanism years ahead of whatever uses it. Recorded so that nobody — including a later session of this bible — quietly narrows the rule back to wands.
+**Answered by the author 2026-11-25: it kills the basilisk** · DIV-129.
 
-*Unrelated and parked, raised in the same session:* Disarming a man mid-Killing-Curse takes the grip while his entire being is out at the far end of the lash (DIV-107, DIV-126). Not the author's intended payoff; kept because it may yet find a use.
+Harry gets the Sword of Gryffindor into the snake and cannot drive it through the neck one-handed. Dracaena shouts at him not to drop it, and he reads **Expelliarmus** in the movement of her wand by the light of her own Lumos. He glues the sword to his hand; she Disarms him; the charm takes the weapon and hauls the blade through the head.
 
-## Answered
+- **His grit, her cunning, and neither one is enough alone.** Directing a Disarming that precisely is also the clearest statement of how good she is.
+- **The gag is the kill.** The humiliation from the Duelling Club is what he reaches for, in the same book.
+- **It is an anti-Dumbledore beat, demonstrated.** The bird and the hat were never going to be enough; Harry dies down there without her.
+- **Afterwards:** the arm is ruined, he cannot raise the sword to destroy the diary, and **they drive it in together.** Then she hauls him out.
+
+Full beats: [the-chamber](../scenes/b2/the-chamber.md). What is still open from it: Q-164, Q-165, Q-166.
 
 ### Q-155 · B3: the monster book, and Harry's callback to the grab (DIV-120)
 

@@ -20,7 +20,9 @@ It runs from B2 through B4. In B4 it stays open and the visiting students from D
 
 Through the clashes they come to know each other. They learn to read each other's body language and anticipate each other's reactions. At some point they start looking forward to the "games", and we see them smiling as they fight.
 
-*(draft)* Early on, Dracaena wipes the floor with Hermione: she's that much more powerful, and a talented duellist too. It puts power by blood on the page early ([society](../setting/society.md)), and casts Hermione as the brains rather than the muscle. When: open.
+*(draft)* Early on, Dracaena wipes the floor with Hermione: she's that much more powerful, and a talented duellist too. It puts power by blood on the page early ([society](../setting/society.md)), and casts Hermione as the brains rather than the muscle. **When: early in B2, and before the glue demonstration** — because Hermione has already quit by then, having decided duelling is barbaric and not for her, which is cope and which the reader should see as cope (Q-162).
+
+**Ron is not in the club either,** and for a better reason: his wand has been broken since the Whomping Willow and a broken wand is worse than useless (DIV-126). He has no way to take part, so he doesn't. It costs nothing and it quietly makes the wand rules load-bearing in the book where Ron's wand actually matters.
 
 **And Pansy walks out of it** *(draft)* · DIV-121. Dracaena ropes her in because that is what Dracaena does. Pansy attends two or three sessions at most, hates all of them, and tells her she isn't coming back — the first preference she has ever stated out loud. **Dracaena takes it perfectly well and never asks what she is doing instead;** she has no use for a maidservant, and it does not occur to her that a friend has preferences.
 
