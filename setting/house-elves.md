@@ -21,6 +21,13 @@ Where one family line has lived in one house long enough, the house takes on the
 - **None has been made since the binding** *(settled)* · Q-097. Making a whole elf is the work of an unbroken line in one house over a span nobody has managed since, and the binding may have broken the capacity outright. Nobody knows, because nobody knows elves are made at all. Every elf alive is one of the originals.
 - **So they are dwindling and cannot be replaced.** As houses empty and lines thin, elves lose bodies and are never added to. Hogwarts has fewer than it had. Nobody has noticed, because nobody counts them.
 
+## Their magic *(settled)* · DIV-126
+
+**Elf magic sits off the wand/wandless axis entirely.** It is not a focused craft and it is not freeform casting by image: it is the house working, instinctual the way a magical creature's is, and it is not learned, taught or improved.
+
+- **So it is no argument about wands.** Nothing an elf does bears on what wands are for, and the two systems never need reconciling.
+- **The ban on elves carrying wands is a category error,** not suppression of a rival tradition. Wizards legislate against elves because they take them for critters, like goblins. They are not. They are spirits — and the people writing the law have forgotten what they are looking at (*The forgetting*, below).
+
 ## The demesne *(settled)* · DIV-075
 
 Their power is enormous and almost entirely local.

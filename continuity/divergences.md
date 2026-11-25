@@ -4,6 +4,8 @@ Every departure from canon. Anything not listed here follows the original books.
 
 Entry format: **Status** · **Canon** (what the original does, in our own words) · **Ours** · **Why** (if it isn't obvious) · **Home** (where it's written out in full) · **Ripples** (affected files, open questions).
 
+**Retired, never reuse:** DIV-128 — the B4 Killing Curse lesson loosening Crouch's grip. Withdrawn 2026-11-25, same day it was drafted: it is an *instance* of DIV-086's existing rule, not a departure of its own, and it did not earn a ledger entry. **The observation survives as a short note** in [characters/alastor-moody.md](../characters/alastor-moody.md).
+
 **Retired, never reuse:** DIV-110, DIV-111, DIV-112, DIV-113, DIV-114 — Godric's Hollow as a configuration, the graveyard running on the Horcrux, the prophecy demoted to an enabler, the two forces, and Harry grasping the Horcrux in the forest. Reverted 2026-11-19 as half-baked. Only the combat mechanics survive from that pass: DIV-107, DIV-108, DIV-109. The entries are in the git history.
 
 **Retired, never reuse:** DIV-033, DIV-034, DIV-036, DIV-042 — the trio split across three Houses and its knock-ons (whole-year classes, Sirius's second break-in, the Boggart lesson House by House), reverted 2026-10-27. Canon applies; the unity theme moved to DIV-055. The entries are in the git history.
@@ -66,7 +68,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Canon:** A spell is an incantation plus a loosely described wand movement. There's no consistent system behind it.
 - **Ours:** Spellcasting is technical. Wand motions draw "radicals" that combine into spells.
 - **Home:** [setting/magic.md](../setting/magic.md)
-- **Ripples:** Q-015, Q-012, Q-014
+- **Ripples:** Q-015, Q-012, Q-014 · DIV-126
 
 ### DIV-008 · The pureblood ideologues have a point
 
@@ -256,7 +258,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Canon:** A wand's allegiance passes to whoever defeats its owner, by disarming or overpowering them, and a won wand works better for its new owner. The Elder Wand's chain (Dumbledore → Draco → Harry) decides the final duel.
 - **Ours:** Purged. Wands have no allegiance that passes by conquest. The Elder Wand is the exception, with lore of its own: it passes by blood, through killing. So Voldemort killing Snape is the correct move, and pointless (DIV-023). Only the idea is set.
 - **Home:** [setting/magic.md](../setting/magic.md)
-- **Ripples:** Q-011, Q-027 · DIV-023
+- **Ripples:** Q-011, Q-027 · DIV-023, DIV-126 (the wand economy the purge left room for)
 
 ### DIV-025 · Neville holds the line
 
@@ -1477,9 +1479,10 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - **He is the fastest and surest caster of it alive, and the aptitude is the damage.** A man already in pieces is long used to not being whole, so the hollow moment does not frighten him as it frightens everybody else. Inside his reach, anyone who drops their guard is finished. **His being the best at it and his losing are the same fact.**
   - **There is no clean casting, ever, by anyone.** Dark magic runs on intent (DIV-084) and this spell has no second use, so there is no other way to cast it: the caster launders their entire being through malice and not all of it comes back. **One casting marks a person permanently** — the heaviest single residue there is, and what makes any Death Eater worth the name a pyre under Lustrum (DIV-080).
   - **And it cannot be cast in a flinch.** The draw is the longest and least forgiving radical string in the Dark Arts (DIV-007), so it is a decision held visibly for seconds in front of whoever is watching. **Nobody has ever killed with it by accident.**
+  - ***(settled)* The shape of it is a whip.** The wand is the grip; the lash is the caster's being, thrown; the radical string is the loading stroke and it ends in the crack. **The lash flays, and comes back.** The range is simply how long the thing is, the windup is the telegraph, and the lash **wraps and bites** rather than enveloping — which is why cloth has never mattered. Cover works when it is large enough and far enough from the body, and is **destroyed in the process: one plank per curse.** **Voldemort's is longer and more flexible than anyone's** and works round the edges of cover, which is the serpent showing in the mechanism. What returns is carrying what it tore, so the residue is debris rather than a tax. And there is no casting it without a grip: wandless Avada Kedavra is incoherent (DIV-126).
 - **Why:** canon's Killing Curse is a worse pistol with better branding, and nothing in canon explains why the war is not over in an afternoon. One mechanism now answers the range, the cost, the rarity, the unblockability, the mass it takes to stop and the moral weight at once.
 - **Home:** [setting/magic.md](../setting/magic.md)
-- **Ripples:** Q-143, Q-015, Q-027 · DIV-007, DIV-080, DIV-084, DIV-108, DIV-109 · [characters/alastor-moody.md](../characters/alastor-moody.md) · [books/b4/canon-delta.md](../books/b4/canon-delta.md) · [books/b7/outline.md](../books/b7/outline.md)
+- **Ripples:** Q-143, Q-161 (answered: Moody), Q-015 (two spec items shed), Q-027 · DIV-007, DIV-080, DIV-084, DIV-108, DIV-109, DIV-126 · [characters/alastor-moody.md](../characters/alastor-moody.md) · [books/b4/canon-delta.md](../books/b4/canon-delta.md) · [books/b7/outline.md](../books/b7/outline.md)
 
 ### DIV-108 · Interposition: putting matter in the way
 
@@ -1778,3 +1781,53 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Why:** canon's DA bars Slytherins on distrust, so the unity theme has to pay for entry rather than assert it (DIV-055). This makes the entry expensive, hands Harry the hardest vouching problem in the school, gives Hermione a real grievance rather than a bias, gives the Squad a function, and fills two holes the B5 outline had left open — who warns them, and where Q-109's information goes.
 - **Home:** [threads/house-unity.md](../threads/house-unity.md)
 - **Ripples:** Q-070 largely answered · Q-158 opened · Q-109, Q-144, Q-156 · DIV-013, DIV-028, DIV-055, DIV-082, DIV-108, DIV-109, DIV-121, DIV-122 · [threads/duelling-club.md](../threads/duelling-club.md) · [threads/ron-pansy.md](../threads/ron-pansy.md) · [characters/pansy-parkinson.md](../characters/pansy-parkinson.md) · [books/b5/outline.md](../books/b5/outline.md) · [continuity/reveals.md](reveals.md)
+
+### DIV-126 · What wands are for
+
+- **Status:** draft
+- **Canon:** Wands are assumed and never justified. Children do magic without one, a few adults manage without, Ollivander says the wand chooses the wizard and nobody asks what that means. Wandlore is atmosphere.
+- **Ours:** **A wand is a focus** — a refined conduit that takes the magic a person already holds and lets them do complicated things in a standardised, practiceable way. Motions and incantation are scaffolding; the power runs through the focus rather than the body; and because a technique can be written down, **wand magic is almost entirely inheritance** while wandless magic cannot be inherited at all. A wand is therefore not a crutch: some work needs its precision and the accumulated craft behind it.
+  - **It amplifies, like a broom** (DIV-068). The core augments the caster's aptitudes and the combination suits a character rather than being better or worse, so **"the wand chooses the wizard" is a craftsman reading a child**, with sales patter over it. No sentience — and a mismatched wand is actively worse rather than merely weaker.
+  - **But a wand does accumulate its owner.** The same magic through the same instrument over years **breaks it in**, and a wand broken in by somebody else is harder to use than a new one. Fit is what Ollivander sells; **wear is what actually happens**, and it is much the larger of the two. **This is not allegiance returning** (DIV-024): the wand does not know who won or whose hand it is in, it has only been shaped by use, and nothing transfers by conquest.
+  - **So a person can outgrow one, and Ron is the proof.** Two years on Charlie's hand-me-down — chosen for somebody else and **broken in** by somebody else, which is the heavier problem; he breaks it, gets one of his own, and is better at magic from B3. Canon hands us the fact and never explains it. Nobody comments because nobody expected a hand-me-down to fit.
+  - **Swapping is real but small**, because fluency is personal and accumulated. It belongs to slow work, never to a fight. **Spares are nearly useless** — see DIV-127.
+  - **A wand makes you legible.** Standardised form is public: anyone who knows the radicals watches a spell being built. It is why duelling is a skill, most of why Voldemort is unbeatable in one (DIV-020), and **what makes resonance possible at all** (DIV-021), since two people can only synchronise inside a form they share. The weakness is the mechanism.
+  - **Wandless magic is one vein, not two, and it belongs to savants.** Image-driven, no incantation and no form, bounded only by what the caster can picture and afford in their own body. **There is no schooled version and no ladder up to it** — drilling radicals trains the opposite habit, so the tradition actively teaches you to be bad at it — which leaves it to a handful of people in a century: Grindelwald, Voldemort, Dumbledore. A second, respectable kind would cheapen the real one. **Our heroes cannot do it at all**, which is what makes a wand worth taking, keeping and sharing, and what the finale runs on: Harry's wand is broken and gone, so the only wand on their side is hers (🔒 DIV-006, Q-029). Children's accidental magic is the degenerate case. **Apparition is the sole exception** — the one freeform technique ever standardised, taught by image, barely rewarding drill, and costing you your body when it fails (DIV-054).
+  - **Other traditions exist** — staves and the rest — some stronger for tapping magic directly, at the price of more power running through the caster. **Wands won, mostly, the way standards win:** portable, concealable, quick, cheap in quantity. Not necessarily best.
+  - **And standardisation is what let the Ministry own magic.** Anything teachable is regulable: one school, one wandmaker, a registry, the Trace, Apparition licences, chimneys joined to the Floo Network at the Ministry's pleasure and severable at its pleasure. Nobody built a surveillance state; they built a standard and the state followed. **This is the purebloods' grievance with teeth** (DIV-008, Q-016) — the measure of a witch became what she was *issued*, and whoever issues it owns her — and **their answer is poison**, since keeping knowledge in the family unwritten is exactly the condition that lets the commanding use of Arceo keep being rediscovered (DIV-084, DIV-085). The camp has no settled line on wands, only on who may hold one.
+  - **Elf magic sits off this axis** and is no argument about any of it; the wand ban is a wizarding category error (DIV-075).
+- **Why:** the magic system kept stalling because it was being designed from the inside out. Starting from what a wand is *for* produces the skill-versus-power axis the bible already runs on (Hermione, Pansy, Ron, interposition), gives resonance a reason to need a wand, gives DIV-008 its strongest argument, and explains Ron's wand without a word of new plot.
+- **Home:** [setting/magic.md](../setting/magic.md)
+- **Ripples:** Q-027 (wand half answered, narrowed to the Dark Arts), Q-015 (wandless answered), Q-016, Q-011 · DIV-007, DIV-008, DIV-020, DIV-021, DIV-024, DIV-054, DIV-068, DIV-075, DIV-107, DIV-127 · [setting/society.md](../setting/society.md) · [setting/house-elves.md](../setting/house-elves.md)
+
+### DIV-127 · Expelliarmus takes the weapon
+
+- **Status:** draft
+- **Canon:** The Disarming Charm knocks a wand out of a hand, and sometimes knocks the person backwards too. The mechanism is never stated, and Harry's use of it as a signature spell is sentiment rather than tactics.
+- **Ours:** **It acts on the weapon, not on the person.** The charm takes hold of the thing being used as a weapon and hauls it clear, and whatever is attached comes with it.
+  - **Violence scales with resistance.** An easy wand stings; a gripped wand puts its owner on the floor. **A wand that cannot leave takes the arm instead** — the spell does not reconsider, so the joint is what gives.
+  - **Which settles spare wands cheaply.** Anyone Disarmed hard enough to matter cannot draw a second one, so spares exist, change nothing, and need no further page time (DIV-126).
+  - **It is a weapon rule, deliberately,** since what the charm recognises is not always a wand. Q-163.
+  - **The demonstration is B2.** Harry asks why not glue your wand to your hand; Flitwick offers to find out rather than to answer; Dracaena dislocates Harry's shoulder and laughs herself sick. **"I'll deal with Madam Pomfrey myself."** [scenes/b2/the-glue-demonstration.md](../scenes/b2/the-glue-demonstration.md)
+  - **It also establishes Flitwick's teaching philosophy** — by consequence, over the Ministry's objection — and gives the clean spell he drills a thousand times a year some actual teeth (DIV-080, DIV-028).
+  - **And it is loaded for the same book's climax.** Harry glues the Sword of Gryffindor to his hand and Dracaena Disarms him, and the charm drags the blade through the basilisk's head (DIV-129). **The B2 joke and the B2 climax are one rule**, and the reader watches it maim him before watching it save him.
+- **Why:** it disposes of the spare-wand question in one scene, gives Harry's signature spell a mechanism instead of a sentiment, puts a rule on the page in B2 that 🔒 DIV-006 needs in B7, and does all of it as comedy.
+- **Home:** [setting/magic.md](../setting/magic.md)
+- **Ripples:** Q-162, Q-163 (both answered) · DIV-006, DIV-028, DIV-059, DIV-080, DIV-126, DIV-129 · [threads/duelling-club.md](../threads/duelling-club.md) · [scenes/b2/the-glue-demonstration.md](../scenes/b2/the-glue-demonstration.md) · [scenes/b2/the-chamber.md](../scenes/b2/the-chamber.md)
+
+### DIV-129 · B2: the Chamber, together
+
+- **Status:** draft
+- **Canon:** Harry goes down alone. Fawkes blinds the basilisk and brings the Sorting Hat, Harry pulls the sword out of it, kills the basilisk by driving the blade up through the roof of its mouth, takes a fang in the arm, is healed by phoenix tears, and destroys the diary with the fang.
+- **Ours:** **Dracaena is down there, and Harry does not survive the night without her.**
+  - **They fight it together and fail,** properly — two second-years are not enough and the scene does not pretend otherwise. **Neither of them is bitten here:** she is caught by a lash of the body and he takes a wallop from it.
+  - **Fawkes blinds it and the sword arrives,** and **he cannot finish the job.** He gets the blade in and is not strong enough to drive it through the neck one-handed — **and that is when the jaws close on his shoulder**, once, which is canon's fang wound moved to where it does some work.
+  - ***"Don't drop the sword, Potter!"*** He sees her wand moving in the dark by the light of her own Lumos and **reads the draw**: Expelliarmus. **A wand makes you legible** (DIV-126), and here that is the only reason the plan can be communicated at all — three months of Flitwick's piste, cashed in (DIV-028).
+  - **He supplies the rest himself** and glues the sword to his hand. **She Disarms him**, the charm takes the weapon and hauls, and the blade goes through the head (DIV-127). **The gag from the Duelling Club is the kill.**
+  - **His grit, her cunning,** and neither is sufficient. Directing a Disarming that precisely is also the clearest statement yet of how good she actually is.
+  - **Fawkes answers the venom and nothing else.** The tears do what tears are for — otherwise there is no reason to have a phoenix — but they are not a repair kit, and the shoulder is still mangled. **It is Pomfrey's job, and there is no lasting damage.**
+  - **The diary** he cannot raise the sword for, so he asks her, and **they drive it in together.** Then she hauls him out, rudely, the whole way.
+  - **And she turns up in the infirmary again.** More tenderness than last time, delivered as a silent apology she will not say out loud, while loudly maintaining that *she* killed the basilisk. They bicker about it and end up laughing.
+- **Why:** it puts their synergy on the page in book two instead of asserting it in book seven, pays DIV-127 inside its own book, and makes the case against Dumbledore by demonstration rather than argument — **the bird and the hat were never going to be enough.** It also sets up Q-101 exactly: the best thing Potter has ever done to her, and then the worst, in one week.
+- **Home:** [scenes/b2/the-chamber.md](../scenes/b2/the-chamber.md)
+- **Ripples:** Q-163, Q-166 (answered), Q-164, Q-165 (opened), Q-098, Q-101 · DIV-126, DIV-127, DIV-028, DIV-069, DIV-076 · [threads/harry-dracaena.md](../threads/harry-dracaena.md) · [books/b2/outline.md](../books/b2/outline.md) · [continuity/reveals.md](reveals.md)

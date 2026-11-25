@@ -71,6 +71,12 @@ He makes the boy formidable, sincerely, and the damage is in the framing rather 
 - **And it is what kills him.** In the air over Surrey there is no mass to raise and nothing to get behind (DIV-103).
 
 
+## The Killing Curse lesson *(settled)*
+
+**This is where the reader learns what the curse actually is** (DIV-107, Q-161). Canon already has him demonstrating it, and the answer to it — cover — is already his (DIV-108), so one lesson carries both halves and no new scene is needed.
+
+One free detail, and not a rule of its own: the curse empties the body, and a rider is riding a road through that body, so a demonstration is exactly the kind of moment DIV-086 already says can loosen the hold. **An Unforgivable, cast with his own hand on a spider in front of children, is one of the thousand cuts that gets Moody out of the trunk** — and nobody in the room understands it, Crouch included.
+
 ## What gives him away *(settled)* · Q-114
 
 The tells are not villainy. **They are a frightened young man coming up for air inside a grizzled Auror**, which is the throughline: Barty Crouch Jr went to Azkaban very young and never finished growing up in there. Leading candidates:

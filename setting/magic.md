@@ -10,7 +10,7 @@ Canon by default. This file records where our magic works differently, and the r
 
 Spellcasting is technical. Wand motions draw "radicals" that combine into spells.
 
-Design still open (Q-015): which radicals exist, how they combine, what incantations add, how nonverbal and wandless casting work, and what makes a spell hard.
+Design still open (Q-015): which radicals exist, how they combine, what incantations add, and what makes a spell hard. **What the wand is for, and what wandless casting is, are settled below** (DIV-126).
 
 ## Time 🔒 · DIV-002
 
@@ -106,13 +106,24 @@ Canon's own rule, never stated as one: the curse that tortures does not work on 
 - **Nothing stops it, because it is not scaled like a spell.** Shields are built against castings; this is a whole person arriving at once. It goes through Protego and through any ward ever devised, and it does not need to strike anywhere in particular — it envelops rather than hits.
 - **No travel time inside its reach, and nothing whatever outside it.** Wand, word, green light, and the man drops. Past its range the projection cannot hold itself together and dissipates entirely: no falloff, no wounding at the edge, nothing arrives. **Duelling range, not battlefield range** (Q-143).
 - **It needs an unobstructed path through matter, not an unobstructed view.** Seeing is targeting; matter is the wall. A pane of conjured glass stops it dead and still lets the caster watch you through it. **The pinnacle of the Dark Arts goes through every shield ever devised and is stopped by a plank** — alien, not weak.
-- **It is a wave with a small field, not a point.** It pushes forward and spreads a little, which is why it only has to reach you *somewhere* and why it has never cared about clothing. **So it does not see thin material at all** — cloth, paper, a leaf. **Stopping it takes mass**, and some materials take the load better than others. **Nobody survives this by wrapping up in a blanket**: the defence is a Transfiguration problem, not a prop (DIV-108).
 - **So the enemy has to close.** That is the staging of every confrontation with Voldemort in seven books: a man walking towards you through the spells being thrown at him, because the only way to use the best thing he has is to be near. He cannot snipe and never could.
 - **The caster is empty while it is out.** No magic to cast with and none to defend with, for as long as the projection takes to go and return, longer the further it travels. Casting it means voluntarily being nothing for a moment, and almost everyone experiences that as a small death. **That, and not conscience, is why nobody spams it.**
 - **Which makes it an ambush weapon or a group weapon, never a solo one.** Somebody has to hold the line while you are hollow. It is one of the reasons Voldemort keeps followers — and the one time he went alone, it ruined him.
 - **He is the fastest and surest caster of it alive, and the aptitude is the damage.** A man already in pieces is long used to not being whole, so the hollow moment does not frighten him as it frightens everybody else. Inside his reach, anyone who drops their guard is finished. **His being best at it and his losing are the same fact.**
 - **There is no clean casting, ever, by anyone.** The spell has no second use, so under DIV-084 there is no other way to cast it: you launder your whole being through malice and not all of it comes back. **One casting marks a person permanently** — the heaviest single residue there is, and what makes any Death Eater worth the name a pyre under Lustrum (DIV-080).
 - **And it cannot be cast in a flinch.** The longest, least forgiving radical string in the Dark Arts (DIV-007), so it is a decision held visibly for seconds in front of whoever is watching. **Nobody has ever killed with it by accident.**
+
+### The shape of it is a whip *(settled)*
+
+**The wand is the grip. The lash is the caster's whole being, thrown.** The radical string is the loading stroke — long, flowing, unmistakable — and it ends in the crack. The lash flays, and comes back. Every property above is a property of a whip.
+
+- **A whip has a length, and that is the range.** Inside it, instant; past it, nothing at all, because the lash does not reach. The limit is not a rule bolted onto the spell: it is how long the thing is (Q-143).
+- **The windup is the telegraph.** Nobody cracks a whip without loading it. That is why the longest radical string in the Dark Arts is also the most legible thing a body can do, and why nobody has ever killed with it by accident.
+- **It has teeth, and it wraps.** The lash curls around what it reaches and bites, crushing small resistance. That — and not any halo or envelope — is why clothing has never mattered and why it does not need to strike anywhere in particular. **It does not see cloth, paper or a leaf** because there is nothing there to resist it.
+- **So cover works, and cover has requirements.** A plank stops it if it is **large enough and far enough from the body** — far enough that the lash spends itself on the plank instead of curling past it to what is behind. Cover held against the chest is not cover. **And the cover is destroyed: one plank per curse,** which makes interposition a supply problem under fire and is most of why the ceiling on it is Transfiguration (DIV-108).
+- **Voldemort's lash is longer and more flexible than anyone's,** which is the serpent showing in the mechanism. His being works round the edges of cover rather than stopping at it — not ignoring it, but finding its way past it — so what would save you from any other Death Eater may not save you from him. **Being behind something is not the comfort against him that it is against everybody else.**
+- **The return is what marks the caster.** What comes back is carrying what it tore. The residue is not a tax on using the spell; it is debris (DIV-080, DIV-084).
+- **And there is no casting it without a grip.** Wandless Avada Kedavra is incoherent — throwing your entire being with nothing holding the other end (DIV-126).
 
 ## Interposition *(settled)* · DIV-108
 
@@ -122,6 +133,7 @@ Canon's own rule, never stated as one: the curse that tortures does not work on 
 - **So the ceiling is Transfiguration.** It is what finally makes Harry apply himself to the subject, and what puts something behind McGonagall's B6 advice that Aurors use it.
 - **It is not an upgrade to Protego and does not compete with it.** A shield is faster, cheaper and better against everything a shield works on, and **if you know the answer a counter or a shield is the stronger move** — you can afford not to defend, and keep the other man answering you. Interposition is for the things with no answer, and for when you do not know it.
 - **Its limits are real.** Fire that snakes around cover does exactly that: you trap it with geometry, which is a very high ceiling, or you move and accept being singed.
+- **Against the Killing Curse it is consumable** *(draft)*. The lash destroys what it catches on, so **cover is good for one curse** and the work is continuous: conjure, lose it, conjure again, under fire, while moving. It also has to be **big enough and far enough out** — cover hugged to the chest lets the lash curl past it — and against Voldemort, whose reach works round the edges of things, it is not the guarantee it is against anybody else (DIV-107).
 - **It costs almost no power, so it is technique rather than strength** — which is why Hermione can do it, and why it is the first fighting skill in the series she is built for.
 - **How Moody arrives at it and how he teaches it:** [alastor-moody](../characters/alastor-moody.md), DIV-108. **Where it lands on the page:** Q-144. **Mobility, the other half, is not designed:** Q-149.
 
@@ -215,9 +227,81 @@ Canon's Imperius Curse is unchanged: compliance, contentment, and no reliable wa
 - **It is upkeep.** A strong will surfaces, and only a caster who is present, undistracted and relentless keeps it under. That is the whole reason Crouch spends the year in a trunk a few feet from Moody rather than anywhere safer.
 - **Nobody else has it,** and it goes down with Crouch. It is not a technique in circulation.
 
-## Wands *(settled)* · DIV-024
+## Wands *(settled)* · DIV-126
 
-- **No allegiance.** Wands have no allegiance that passes to whoever defeats their owner. Canon's lore about winning a wand by disarming or overpowering is purged, and nothing in the final duel turns on it.
+Canon never says what a wand is *for*, given that children do magic without one and a few adults manage without. Ours does. **A wand is a focus: a refined conduit that takes the magic a person already holds and lets them do complicated things in a standardised, practiceable way.** Every other rule here follows from that, and none of it is mystical.
+
+### What a wand buys
+
+- **Control, predictability, and a tolerable cost.** The wand motions and the incantation are scaffolding — the means by which a caster is raised to work they could not reach unaided — and the power runs through the focus instead of through the body.
+- **And, above all, inheritance.** A spell is a technique; a technique can be written down, taught, drilled, corrected and improved on by the next generation. **Wandless magic cannot be inherited. Wand magic is almost nothing but inheritance.**
+- **So a wand is not a crutch.** There are things only a wand can do, because they need the precision and because they need the accumulated work of every witch who held one first. Permanence, layering and fine control all live here.
+- **Like a broom, it amplifies the rider** (DIV-068). The core augments the caster's natural aptitudes; core, wood and shape together suit a particular character rather than being simply better or worse.
+
+### What "the wand chooses the wizard" means
+
+A craft, with sales patter over it. A wandmaker reads an eleven-year-old and picks the amplification that suits them. Ollivander is very good at this and talks about it like a mystic, which is how a man sells the most important object anyone will ever buy from him.
+
+- **A wand has no opinions, but it does have a history.** What a caster channels through a wand accumulates in it: the same magic, through the same instrument, over years, **breaks it in**. A wand already broken in by somebody else is harder to use than a new one. That is the material fact under Ollivander's mysticism — fit is what he sells, and wear is what actually happens.
+- **This is not allegiance creeping back** (DIV-024). The wand does not know who won, who died, or whose hand it is in. It has been *shaped*, the way a tool or an instrument is shaped by use, and it answers most readily to the shape it already has. Nothing transfers by conquest, and nothing about it is a loyalty.
+- **So the phrase is two things at once:** a craftsman reading a child well, and then a decade of the child wearing the thing to fit. The second is much the larger, and nobody says so, because it would make the shop less magical.
+- **A mismatched wand is actively worse, not merely less good** — the broom rule again. It amplifies in the wrong direction and argues with its owner over everything.
+- **Which means a person can outgrow one.** Fit is to character, and character moves. Most people's does not move far enough to matter. Some people's does.
+- **Ron is the proof, and it costs us nothing.** He spends two years on **Charlie's hand-me-down** — chosen for somebody else and, worse, **broken in** by somebody else, which is the heavier of the two problems — then breaks it, and gets one of his own. Nobody remarks on the replacement because nobody ever expected the old one to fit — and what the reader notices is that he is better at magic from B3 onwards. Canon hands us that and never explains it.
+- **So the Elder Wand's exception lands harder** (DIV-024, Q-011). In a world where every other wand is a well-fitted tool out of a shop, the one wand that genuinely has a history and a will is far stranger than it was when all wands were held to be a little alive.
+
+### Spares and swapping
+
+- **The gain from swapping is small unless you are used to the wand,** and the accumulation runs both ways — the caster's fluency and the wand's wear. A wand you have drilled ten thousand radicals on answers before you finish asking; one you have owned a week is a stranger, and one broken in by its last owner argues with you. Where swapping is real, it is in slow work — enchanting, warding, specialist drill — never in a fight.
+- **So spares are nearly useless,** and we need spend almost nothing on the question. **Being Disarmed hurts** (DIV-127): anyone hit hard enough for it to matter is in no state to draw a second wand. The people who carry one are carrying it for the walk home.
+
+### Expelliarmus takes the weapon *(settled)* · DIV-127
+
+**The Disarming Charm acts on the weapon, not on the person holding it.** It takes hold of the thing and hauls it clear, and whatever is attached to the thing comes with it.
+
+- **The violence scales with the resistance.** A wand that goes easily stings; a wand gripped hard spins its owner or puts them on the floor. Canon has people blown off their feet, and that is this rule at the top of its range.
+- **A wand that cannot leave takes the arm instead.** The spell does not reconsider. It has the weapon and it pulls, and if the weapon is fixed to the body, the joint is what gives.
+- **It is a weapon rule, not a wand rule,** and the distinction is deliberate: what the charm recognises is the thing being used as a weapon, which is not always a wand (Q-163).
+- **It gives Flitwick's favourite spell teeth.** He drills Expelliarmus a thousand times a year because it is the one thing children can throw at each other without cracking themselves (DIV-080) — not because it is gentle. It is not gentle. The club finds that out in B2, from a trip to the infirmary ([the-glue-demonstration](../scenes/b2/the-glue-demonstration.md)).
+- **It kills the basilisk, in the same book** ([the-chamber](../scenes/b2/the-chamber.md), DIV-129). Harry cannot drive the sword through the neck one-handed, so he glues it to his hand and she Disarms him, and the charm drags the blade through. **The B2 joke and the B2 climax are the same rule** — the reader watches it hurt him before watching it save him.
+- **And it underwrites the series' last spell** (🔒 DIV-006) by making it a mechanism rather than a sentiment: the thing Harry throws at the end takes hold of what the other man is using to fight with.
+
+### No allegiance *(settled)* · DIV-024
+
+- **Wands have no allegiance** that passes to whoever defeats their owner. Canon's lore about winning a wand by disarming or overpowering is purged, and nothing in the final duel turns on it.
 - **The Elder Wand** is the exception, with lore of its own: it passes by blood, through killing. Voldemort killing Snape is the correct move, and pointless. Only the idea is set. The canon chain doesn't fit it (Grindelwald and Dumbledore never killed for it), and who masters it at the end is open: Q-011.
 - **Two casters, one wand.** Harry's hand over hers on her wand, in resonance (DIV-021, DIV-023).
-- **Wand rules** in general, including what "the wand chooses the wizard" means now: Q-027.
+
+### A wand makes you legible *(settled)*
+
+Standardised form cuts both ways. A caster drawing radicals is **readable**: the draw is public, and anyone who knows the forms watches a spell being built before it exists.
+
+- **It is why duelling is a skill rather than a coin toss**, why Dracaena can read Harry after three years on Flitwick's piste (DIV-028), and why the Killing Curse's windup can be seen coming at all (DIV-107).
+- **It is most of why Voldemort is unbeatable in a duel.** He reads the draw, and he reads the person underneath it without casting (DIV-020). Against him, being legible is simply a liability.
+- **And it is what makes resonance possible** (DIV-021). Two people can synchronise inside a shared form *because the form is shared*. There is nothing to sync on in wandless magic, which is private imagery and nobody else's. **The weakness is the mechanism:** the property Voldemort has spent a lifetime exploiting in other people is the same one that lets two people become a single caster, and it is what beats him.
+
+### Wandless magic *(settled)*
+
+**Versatile, ruinously expensive, and effectively restricted to savants.** Without a focus there is no incantation and no form to follow: you need an image and nothing else, so you can do anything you can picture, including things no spell exists for. The price is that the power runs through the caster's own body — exhausting, and past a point damaging, depending on what is being done.
+
+- **There is no schooled version and no ladder up to it.** It is not what a very good student eventually graduates to. Eleven years of drilling radicals trains a mind to work in components, which is the opposite habit to holding one whole image, so **the wand tradition teaches you to be bad at it.** Wandless is a different language, not an advanced dialect of the same one.
+- **So it belongs to a handful of people in a century** — Grindelwald, Voldemort, Dumbledore; the ones who built themselves before anyone got to them, or who were never going to fit the curriculum. **One vein, not two.** A second, schooled kind would cheapen the real one, so there isn't one: every time the reader sees wandless magic it is a statement about what somebody *is*.
+- **Our heroes cannot do it at all,** and that is what the rule is for. Harry, Dracaena, Hermione and Ron are helpless without a wand, which is what makes a wand worth taking, worth keeping and worth sharing. **The finale depends on it:** Harry's own wand is broken and gone, so the only wand on their side of that duel is hers, and two people have to hold it (🔒 DIV-006, DIV-021, Q-029).
+- **What it cannot do is anything that took a thousand witches to work out.** Precision, layering and permanence belong to the focus. Versatility is the trade, not superiority.
+- **Accidental magic in children is the degenerate case** — pure image, no control, nobody counting the cost yet, and for almost everybody the only time they will ever do it.
+- **Apparition is the sole exception, and it proves the rule.** No wand, and taught by image: destination, determination, deliberation. It is the one freeform technique the tradition has ever managed to standardise, in a thousand years of trying — which is why it is the examination everyone dreads, why drilling barely helps, and why failing it costs you your **body**. Harry's dance is a feat in this register (DIV-054).
+
+### Other traditions *(settled)*
+
+A wand is not the only focus ever made, and staves and other instruments carry whole traditions elsewhere in the world. Some of them tap magic more directly and are stronger for it, at the price of more power and more of it running through the caster. **Wands won, mostly** — and they won the way any standard wins: portable, concealable, quick, and cheap to make in quantity. Nothing says they won because they were best.
+
+### What standardisation did to the world *(settled)*
+
+**Anything teachable can be regulated.** Wands turned magic into a curriculum, and a curriculum acquires a building, an examiner and a registry. Wizarding Britain's whole apparatus of control is downstream of the focus: one school, one wandmaker, a wand registry, the Trace on children, Apparition licences, and chimneys joined to the Floo Network at the Ministry's discretion — and severable at its discretion too.
+
+- **Nobody set out to build a surveillance state. They built a standard, and the state followed.** Every instrument of control in the books is a convenience first.
+- **This is the purebloods' real grievance, and it is a good one** (DIV-008, Q-016). The complaint is not truly that Muggle-borns are weak. It is that the measure of a witch stopped being what she *is* and became what she was **issued** — and whoever issues it owns the lot of them. Snapping a wand is a sentence almost no other civilisation could pass on a person.
+- **Their answer is poison, which is the point.** The old families' response to a nationalised craft is to keep knowledge in the family, unwritten and untaught — which is precisely the condition under which the commanding use of Arceo has no name and keeps being rediscovered by the next brute who wants it (DIV-084, DIV-085). They are right about the disease and their cure is how the atrocities happen.
+- **And they are not unanimous about the focus itself.** Wands are also what made the tradition cumulative, and what an old family is proudest of is centuries of accumulated technique — which is a wand inheritance. The camp has no settled line on wands. It has a settled line on who should be allowed to hold one.
+
+**Still open:** what the Dark Arts do to a caster, which is the other half of the old Q-027 and stays there.

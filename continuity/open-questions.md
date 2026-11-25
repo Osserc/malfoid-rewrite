@@ -130,10 +130,14 @@ Which radicals exist, how they combine, what incantations add, how nonverbal and
 
 Fixed point: Apparition takes no wand ([magic](../setting/magic.md), DIV-054).
 
-**The rework now has a spec rather than a blank page.** Whatever system gets built has to produce:
+**Narrowed.** What a wand is *for*, and what wandless casting is, are settled in DIV-126 — so this question is now only about the radicals themselves: which exist, how they combine, what the incantation adds, and what makes a spell hard.
 
-- **A range limit on the Killing Curse** that falls out of the projection failing to cohere at distance, rather than being bolted on (DIV-107).
-- **A draw long enough to be read**, since both the Killing Curse's telegraph (DIV-107) and interposition (DIV-108) depend on a spell being legible while it is being made, as resonance already does (DIV-021).
+**Two spec items are already discharged** by the whip (DIV-107), which should be the model for how the rest gets built — mechanism first, properties falling out of it:
+
+- ~~A range limit on the Killing Curse that falls out of the mechanism~~ — a whip has a length.
+- ~~A draw long enough to be read~~ — a whip has a loading stroke, and DIV-126 makes legibility general: standardised form is public, which is what resonance runs on.
+
+**Still a constraint:** whatever system gets built has to leave the draw readable by anyone who knows the forms, since DIV-021, DIV-107 and DIV-108 all depend on it.
 
 ### Q-016 · What is the pureblood point? (DIV-008)
 
@@ -204,20 +208,20 @@ How does she get the Ministry to send the Dementors to the lake? Floated so far:
 - an anonymous note
 - an owl forged in Lucius's name
 
-### Q-027 · Wand rules after the purge (DIV-024)
+### Q-027 · What the Dark Arts do to a caster (DIV-024, DIV-080)
 
-With allegiance gone, what does "the wand chooses the wizard" mean now? Also: how wands work in general, wandless magic (overlaps Q-015), and what's left of canon's other wand-bond lore, such as the holly wand acting on its own in B7. Deferred: the author plans to write down the rules of magic, wands and wandless magic.
+**The wand half is answered** by DIV-126: what a wand is for, what "the wand chooses the wizard" means, outgrowing one, swapping, wandless magic, other traditions. **What remains open is the crack** — which is what every other file pointing here is pointing at.
 
-**One piece got cheaper.** The holly wand acting on its own existed to save Harry in the Seven Potters chase and to start the Elder Wand hunt. **Moody's last stand now does the saving** (DIV-103) and the hunt's trigger moved to Q-011, so the beat can simply go, rather than needing a replacement built for it.
+*Previously this question also held the wand rules. The author's direction recorded under it ("wands are both a crutch and a precision instrument") is superseded by DIV-126, which says the opposite on purpose.*
 
-*Author's direction, for that session:*
-- **Wands** are both a crutch and a precision instrument: they focus magic and allow finer control.
-- **Other traditions** may be stronger than wand casting, because they tap magic directly, but they take more power, and let it course through the body.
+**Still open:**
 - **The Dark Arts crack the soul.** They break your seal and let more ambient magic in, so they increase your power, and you pay for it. That's Voldemort's transformations, which Dumbledore alludes to, the snake-man most visibly. Snape too ([society](../setting/society.md)).
 - **Practice** raises power and endurance somewhat, not much without the aptitude.
-- Questions it raises: does the Mark count as a crack (DIV-015)? What do Harry's Sectumsempra (DIV-043) and canon's B7 Unforgivables (Crucio on Amycus Carrow, Imperius at Gringotts) cost him? Is it what makes Bellatrix so formidable (Q-066)?
+- Does the Mark count as a crack (DIV-015)? What do Harry's Sectumsempra (DIV-043) and canon's B7 Unforgivables (Crucio on Amycus Carrow, Imperius at Gringotts) cost him? Is it what makes Bellatrix so formidable (Q-066)?
 
 *Partly committed by DIV-080:* whatever the Dark Arts leave in a person is what Lustrum burns, so the crack is no longer free to be decided. It refills rather than draining, which is why no amount of casting ever cleanses anyone. Whether remorse can close it: Q-110. What the Mark makes of Dracaena: Q-111.
+
+*Also closed:* the holly wand acting on its own in B7 — the beat's two jobs went to DIV-103 and Q-011, so it can simply go.
 
 ### Q-028 · Seeding resonance (DIV-021)
 
@@ -643,8 +647,9 @@ It is the whole political payload, and it cuts both ways on purpose.
 
 ### Q-101 · Dracaena, the Chamber, and her dead elf (DIV-076, Q-098)
 
-B2 may give her far more to do — the inbox has her witnessing Harry kill the basilisk, which would be a killshot for her heart. Put the two together and the book hands her the best and the worst thing Potter has ever done to her in the same week: she watches him kill a monster, and then learns he has carelessly killed her household's elf.
+**Settled and upgraded 2026-11-25** · DIV-129. She is not a witness: **she kills the basilisk with him**, and he would have died without her. Put that together with the elf and the book hands her the best and the worst thing Potter has ever done to her in the same week — she saves his life and fights a monster at his side, and then learns he has carelessly killed her household's elf.
 
+- **And it is worse for being shared.** Witnessing something magnificent can be admired from a distance. Having been *in* it with him, having been the one who worked out how to kill the thing, having dragged him up out of the dark — that is not admiration, it is a claim. Then the elf lands on top of it. Q-164, Q-165.
 - **It is B1 inverted, and that is the point.** B1 is her reaching for friendship, believing she has won, and discovering she has made it worse. B2 runs the same shape the other way: *Harry* is the one who does the damage, without meaning to and without knowing it. The series' two early turns mirror each other and neither of them is anyone's fault.
 - **The order matters.** Admiration first, then the elf. It reverses her violently and explains the state B3 opens in — milking an injury, getting a hippogriff condemned, and then regretting it (DIV-003, DIV-017, Q-005).
 - **She liked Dobby,** in her own way: he was her retinue and a lady treasures her retinue, and he smuggled her sweets against her father's wishes ([dracaena-malfoy](../characters/dracaena-malfoy.md), [narcissa-malfoy](../characters/narcissa-malfoy.md)). So this is a loss, not just an insult.
@@ -996,7 +1001,59 @@ Working version: youngest of several and comfortably ignored, with the nagging a
 
 Open: where she is actually based, how the distance works given that Apparition is not casually transcontinental, and whether the research is what gets her to Bulgaria or Krum is.
 
+### Q-164 · How is Dracaena in the Chamber? (DIV-129)
+
+**The largest hole in the B2 climax and the thing to settle first.** She has to be down there for reasons that survive scrutiny, arrive at a time that leaves the fight intact, and not require her to be told anything she could not know.
+
+Also: **where Ginny is** through all of it, what she witnesses, and what she remembers afterwards.
+
+### Q-165 · What Dracaena takes out of the Chamber (DIV-129, DIV-076)
+
+She watches a book bleed and a boy come apart, and she has no category for any of it. Open: what she understands, what she tells Lucius — **who gave Ginny the diary** — and what the reader is allowed to know she knows. It is a [reveals](reveals.md) problem before it is a scene problem, and it reaches a long way: she is carrying an eyewitness account of a Horcrux dying, years before anybody has the word.
+
+**And who knows she was there at all.** Dumbledore's version of the night, what the school is told, and what Lucius is told.
+
 ## Answered
+
+### Q-166 · Fawkes, the bite, and the arm (DIV-129)
+
+**Answered by the author 2026-11-25, and the question was mostly a problem I invented.**
+
+**One bite, not two.** Spending the same beat twice is silly: in the failed first fight neither of them is bitten — she takes a lash of the body, he takes a wallop — and **the jaws close on his shoulder only when he gets the sword in and cannot finish it.** Canon's fang wound, moved to where it does some work.
+
+**Fawkes answers the venom and only the venom.** Phoenix tears have to be good for something or there is no reason to have a phoenix. They are not a repair kit, so the shoulder is still mangled afterwards, **Pomfrey fixes it, and there is no lasting damage.**
+
+**The arm is a callback, not an injury** — see *The arm* in [harry-dracaena](../threads/harry-dracaena.md). His arm hurting at the B3 final is caused by **the stunt**, riding the Firebolt upside down (DIV-069), and has nothing to do with B2. What carries over is only her hand going to the same place: gingerly in the first infirmary scene, gentler in the second, and openly tender a year later.
+
+### Q-161 · How the whip reaches the page (DIV-107, DIV-126)
+
+**Answered by the author 2026-11-25: Moody. Canon hands us the demonstrator.**
+
+He already teaches the Unforgivables to a fourth-year class, and he is already the source of interposition and the cover logic (DIV-108), so the man who shows the reader what the Killing Curse *is* and the man who explains what to do about it are the same man. No new scene is required; canon's most famous lesson simply acquires content.
+
+- **One free detail, kept as a note rather than a ledger entry.** The curse empties the body and a rider is riding a road through it, so a demonstration is the kind of moment DIV-086 already says can loosen the hold — **an Unforgivable, cast with his own hand on a spider in front of children, is one of the thousand cuts that gets Moody out of the trunk.** It lives in [alastor-moody](../characters/alastor-moody.md); it is an instance of an existing rule, not a departure, and DIV-128 was withdrawn for trying to be one.
+- **The imagery itself stays outside.** Nobody hit by it has described it and nobody who casts it is explaining, so the prose knows it is a whip and the characters do not.
+
+### Q-162 · Placing the glue demonstration in B2 (DIV-127)
+
+**Answered by the author 2026-11-25.** Relatively soon after Flitwick takes the club over, and **Harry asks the question himself** — he is Muggle enough to think of glue, which is why it occurs to him and to nobody else in the room. Dracaena has already worked out what will happen and is delighted; Harry goes through with it anyway, because he is our lovable idiot and because she asks him if he is scared.
+
+Settled with it: **Ron is not there** (his wand has been broken since the Whomping Willow and is worse than useless — DIV-126), and **Hermione is not there** either, having lost badly to Dracaena and decided duelling is barbaric, which is cope and reads as cope. **That fixes the ordering the thread left open: Hermione's defeat comes first.** Whether Pansy is still attending is free to choose (DIV-121).
+
+**She goes to the infirmary with him,** pokes the arm almost tenderly, and proposes doing it again sometime. Harry is appropriately unnerved. The aftermath is the school laughing at him while she flaps her arms about, and it is ammunition for Hermione.
+
+### Q-163 · What the weapon rule is for (DIV-127)
+
+**Answered by the author 2026-11-25: it kills the basilisk** · DIV-129.
+
+Harry gets the Sword of Gryffindor into the snake and cannot drive it through the neck one-handed. Dracaena shouts at him not to drop it, and he reads **Expelliarmus** in the movement of her wand by the light of her own Lumos. He glues the sword to his hand; she Disarms him; the charm takes the weapon and hauls the blade through the head.
+
+- **His grit, her cunning, and neither one is enough alone.** Directing a Disarming that precisely is also the clearest statement of how good she is.
+- **The gag is the kill.** The humiliation from the Duelling Club is what he reaches for, in the same book.
+- **It is an anti-Dumbledore beat, demonstrated.** The bird and the hat were never going to be enough; Harry dies down there without her.
+- **Afterwards:** the arm is ruined, he cannot raise the sword to destroy the diary, and **they drive it in together.** Then she hauls him out.
+
+Full beats: [the-chamber](../scenes/b2/the-chamber.md). What is still open from it: Q-164, Q-165, Q-166.
 
 ### Q-155 · B3: the monster book, and Harry's callback to the grab (DIV-120)
 

@@ -20,9 +20,11 @@ It runs from B2 through B4. In B4 it stays open and the visiting students from D
 
 Through the clashes they come to know each other. They learn to read each other's body language and anticipate each other's reactions. At some point they start looking forward to the "games", and we see them smiling as they fight.
 
-*(draft)* Early on, Dracaena wipes the floor with Hermione: she's that much more powerful, and a talented duellist too. It puts power by blood on the page early ([society](../setting/society.md)), and casts Hermione as the brains rather than the muscle. When: open.
+*(draft)* Early on, Dracaena wipes the floor with Hermione: she's that much more powerful, and a talented duellist too. It puts power by blood on the page early ([society](../setting/society.md)), and casts Hermione as the brains rather than the muscle. **When: early in B2, and before the glue demonstration** — because Hermione has already quit by then, having decided duelling is barbaric and not for her, which is cope and which the reader should see as cope (Q-162).
 
-**And Pansy walks out of it** *(draft)* · DIV-121. Dracaena ropes her in because that is what Dracaena does. Pansy attends two or three sessions at most, hates all of them, and tells her she isn't coming back — the first preference she has ever stated out loud. **Dracaena takes it perfectly well and never asks what she is doing instead;** she has no use for a maidservant, and it does not occur to her that a friend has preferences.
+**Ron is not in the club either,** and for a better reason: his wand has been broken since the Whomping Willow and a broken wand is worse than useless (DIV-126). He has no way to take part, so he doesn't. It costs nothing and it quietly makes the wand rules load-bearing in the book where Ron's wand actually matters.
+
+**And Pansy walks out of it** *(draft)* · DIV-121. *(She therefore misses the glue demonstration, which is the one session anybody would have wanted to see — see [pansy-parkinson](../characters/pansy-parkinson.md).)* Dracaena ropes her in because that is what Dracaena does. Pansy attends two or three sessions at most, hates all of them, and tells her she isn't coming back — the first preference she has ever stated out loud. **Dracaena takes it perfectly well and never asks what she is doing instead;** she has no use for a maidservant, and it does not occur to her that a friend has preferences.
 
 - **This is the room that humiliates Pansy specifically.** She has the power her blood gives her and no technique at all (DIV-122), and a duelling piste is precisely where technique shows and power doesn't help — next to a Malfoy who has both. She leaves and finds a chessboard, which cares about neither her blood nor her manners ([ron-pansy](ron-pansy.md)).
 - **It is the other half of the blood argument this club is already making.** Hermione loses here for want of power; Pansy would lose for want of skill. Blood matters and is not everything, and the club shows both halves of that within a year of opening (DIV-008).
@@ -34,6 +36,11 @@ When she wins she sometimes forgets to gloat. No sneer, just a bright, happy "Di
 He drills the spells that can be cast clean — Expelliarmus, Stupefy, Protego, Petrificus Totalus, Impedimenta — and not the ones built only to afflict. It reads as a schoolmaster keeping things decent, and it is not: Dark magic leaves a residue in whoever works it ([magic](../setting/magic.md), Q-027), and he is teaching children the only magic they can throw at each other a thousand times a year without cracking themselves.
 
 - **He never explains it that way,** and nobody asks. He is also, quietly, the man who built a vicewick.
+**And he teaches by consequence** *(settled)* · DIV-127. Asked in B2 why a duellist does not simply glue his wand to his hand, he offers a demonstration instead of an answer: he glues Harry's, lets Dracaena Disarm him, and sends him to the infirmary with a dislocated shoulder — *"I'll deal with Madam Pomfrey myself"* ([the-glue-demonstration](../scenes/b2/the-glue-demonstration.md)). He knows a Ministry-approved instructor would never permit it and is entirely unbothered: a lesson somebody was carried out of is a lesson the whole room keeps.
+
+- **It is the first sight of the hard edge under the squeak** — the same man who drills only the clean spells for reasons he never states, and who quietly builds a vicewick (DIV-080). Whether he eventually gets a character file of his own is open.
+- **And it gives Dracaena material for life.** She laughs herself sick at the time, and she is still using it years later.
+
 - **It gives Harry's Expelliarmus a reason.** Canon never justifies his signature spell as anything but sentiment. Ours makes it the one thing you can cast forever and stay clean — which is what the series ends on, against a man who is nothing but accumulated stain (🔒 DIV-006).
 
 ## Her technique *(settled)* · DIV-109

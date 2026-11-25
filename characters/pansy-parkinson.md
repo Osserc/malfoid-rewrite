@@ -53,6 +53,8 @@ It is the one thing in her life nobody ever held up against anybody, which is ex
 
 ## She notices *(settled)* · DIV-093
 
+**The first entry in the ledger is B2 and she is not even present for it** *(settled)*. Dracaena cannot fathom why she would pass up watching her teach Potter a lesson; Pansy passes it up, misses the dislocated shoulder, and gets it recounted — **including, thrown away as nothing, that the two of them went to Pomfrey together** ([the-glue-demonstration](../scenes/b2/the-glue-demonstration.md)). She files it and does nothing. It is the first thing that will not add up, and it reaches her secondhand from Dracaena's own mouth, which is how most of them will.
+
 From B3 she is the one working out that the arithmetic between Harry and Dracaena does not add up, and the one who will not spend what she knows. At the Defence exam Lupin hands her a shaking Dracaena and explains nothing, **and she doesn't ask.** In B4 the Potter Stinks badge that Dracaena doesn't wear is the thread that finally will not go away.
 
 She is not the leak, and nothing is ever allowed to make her one (Q-038). She does not tell Ron either ([ron-pansy](../threads/ron-pansy.md)).
