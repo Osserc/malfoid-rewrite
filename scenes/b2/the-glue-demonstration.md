@@ -24,6 +24,7 @@ Puts the Disarming Charm's mechanism in front of the reader years before it is n
 5. Harry to the infirmary. Dracaena laughing — helplessly, hysterically, well past cruelty and into delight.
 6. **She goes with him.** At the end of it she pokes the arm, and it is not mean. Something close to tender, in a twisted way, and then: *this was fun, let's do it again sometime.* It weirds Harry out completely, and correctly. **Is this her idea of a playdate?** She is plainly mental and plainly bad news, and the reader should file it as a warning rather than a thaw — which is precisely what makes the Chamber land ([the-chamber](the-chamber.md)).
 7. **The aftermath is a joke at his expense.** His friends want to know why Malfoy has been flapping her arms about all week, and the whole school laughs at him. It is also **pure ammunition for Hermione's case** against her.
+8. **And Pansy missed it.** Dracaena had told her she could not fathom why anyone would pass up watching her teach Potter a lesson; Pansy passed it up anyway, and so missed the one session worth attending. She gets it recounted instead, at length — **including, tossed in as nothing at all, that the two of them went along to Pomfrey together.** Pansy files it. She is years from doing anything with it (DIV-093).
 
 ## Must keep
 
@@ -35,5 +36,5 @@ Puts the Disarming Charm's mechanism in front of the reader years before it is n
 
 ## Open
 
-- **Who is in the room.** *Lean, settled in outline:* **Ron is not** — his wand has been broken since the Whomping Willow and is worse than useless, which is his reason for dropping the club (DIV-126). **Hermione is not** — she has already been beaten badly by Dracaena and has decided duelling is barbaric and not for her, which is cope and which the reader should recognise as cope. That fixes an ordering the thread had left open: **her defeat comes first.** Whether **Pansy** is still attending depends on where this falls inside her two or three sessions (DIV-121) — having her watch is free and may be worth something.
+- **Who is in the room** *(settled)*: none of the three. **Ron** is out — his wand has been broken since the Whomping Willow and is worse than useless, which is his reason for dropping the club (DIV-126). **Hermione** is out — beaten badly by Dracaena already, and now of the view that duelling is barbaric and not for her, which is cope and reads as cope. That fixes an ordering the thread had left open: **her defeat comes first.** **Pansy** is out too, and deliberately: she walked after two or three sessions (DIV-121), so the one thing she is told she cannot afford to miss is the one thing she misses.
 - The arm afterwards, and how it connects to the Chamber and the B3 final: [the-chamber](the-chamber.md), DIV-069.

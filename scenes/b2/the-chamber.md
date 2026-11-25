@@ -20,16 +20,17 @@ It also loads Q-101. The best thing Potter has ever done to her and the worst th
 ## Beats
 
 1. The Chamber, the two of them, and a monster neither can fight. **How she is down there at all is open** — see below, and it is the one thing this scene cannot hand-wave.
-2. **It hurts them both.** She is caught by a lash of the body — not the fangs, the sheer weight of the thing — and Harry takes the bite.
+2. **It hurts them both, and neither is bitten.** She is caught by a lash of the body — not the fangs, the sheer weight of the thing — and Harry takes a wallop from it.
 3. **They try to fight it together and they fail.** This has to be a real failure, not a setback: two second-years, correctly, are not enough.
-4. **Fawkes.** Patches Harry up enough to keep going, and the Sword of Gryffindor arrives.
-5. **He gets the sword in and cannot finish it.** Not strong enough to drive the blade through the neck one-handed — and the beast's jaws open and take him again, in the **shoulder**.
+4. **Fawkes.** Blinds it, and the Sword of Gryffindor arrives.
+5. **He gets the sword in and cannot finish it.** Not strong enough to drive the blade through the neck one-handed — **and that is when the jaws close on his shoulder.** Once. Canon's fang wound, moved to where it does some work.
 6. ***"Don't drop the sword, Potter!"*** He sees the tip of her wand moving in the dark, lit by her own Lumos, and recognises the draw: **Expelliarmus**.
 7. **He works it out himself and glues the sword to his hand.** No one explains anything. He has about a second.
 8. **She Disarms him,** and the charm takes the weapon and drags it — through the head, and the basilisk dies (DIV-127).
-9. **The arm is ruined.** Severe, lasting, and not waved away.
+9. **Fawkes answers the venom, and only the venom.** Phoenix tears have to be good for something or there is no reason to have a phoenix — but they are not a repair kit, and the shoulder is still mangled. **Pomfrey's job, and no lasting damage.**
 10. **The diary.** He cannot raise the sword to do it. He asks her to help, and **they drive it into the book together.**
 11. **She gets him out.** Hauling, half-carrying, complaining the entire way.
+12. **The infirmary, again.** She turns up, and this time the hand on his arm is gentler — a silent apology she will not say out loud, delivered while she loudly maintains that *she* killed the basilisk, actually. They bicker about it and end up laughing. **It is the same room and the same arm as the glue demonstration**, three months on, and nobody says so.
 
 ## Must keep
 
@@ -45,6 +46,5 @@ It also loads Q-101. The best thing Potter has ever done to her and the worst th
 - **How she gets into the Chamber.** The largest hole in the scene and the thing to settle first. Q-164.
 - **Where Ginny is** through all of this, and what she sees or does not see. Q-164.
 - **What Dracaena makes of the diary and of Riddle** — she watches a book bleed and a boy come apart, and she has no category for it. What she takes away, what she tells her father, and what the reader is allowed to know she knows: Q-165, [reveals](../../continuity/reveals.md).
-- **Fawkes and the second bite.** Canon's tears answer the venom once; this scene wounds him again afterwards, so what the phoenix does and does not fix needs deciding, and it has to leave the arm genuinely damaged. Q-166.
-- **The arm afterwards.** How long, how visible, and what it costs him on a broom — it is the same arm the glue demonstration dislocated, and the one she touches at the B3 final (DIV-069).
+- **How badly the room is wrecked, and what the castle is told** — which runs into who knows she was there, below.
 - **Who knows she was there.** Dumbledore's version of the night, what the school is told, and what Lucius is told: Q-165.

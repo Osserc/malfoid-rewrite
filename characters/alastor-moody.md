@@ -71,14 +71,11 @@ He makes the boy formidable, sincerely, and the damage is in the framing rather 
 - **And it is what kills him.** In the air over Surrey there is no mass to raise and nothing to get behind (DIV-103).
 
 
-## The Killing Curse lesson *(setled)* · DIV-128
+## The Killing Curse lesson *(settled)*
 
-Canon's most famous lesson is shocking and mechanically inert. Ours makes it causal, and the cost falls on the man wearing him.
+**This is where the reader learns what the curse actually is** (DIV-107, Q-161). Canon already has him demonstrating it, and the answer to it — cover — is already his (DIV-108), so one lesson carries both halves and no new scene is needed.
 
-- **The demonstration is where the reader learns what the curse is** (Q-161). He is the right teacher for it and the right teacher for the answer to it, since the cover logic is already his (DIV-108) — so the one man who explains Avada Kedavra to a classroom is a man being worn by somebody else while he does it.
-- **And it loosens Crouch's grip.** The curse throws the caster's entire magic out of the body and requires it back (DIV-107); a rider is riding a road through that body (DIV-086). When everything leaves, Crouch either goes with it, which is very hard, or holds a body with nothing in it for the duration. **Either way the hold slips** — precisely the circumstance DIV-086 says lets a strong will surface.
-- **One of the thousand cuts, not a dramatic failure.** It gives the degradation canon merely asserts a named mechanism, and it compounds with everything else he is spending that year.
-- **The irony is the whole point:** part of what helps Alastor Moody throw a man out of his own body is an Unforgivable, cast with his own hand, on a spider, in front of children. **Nobody in the room understands it, and neither does Crouch.**
+One free detail, and not a rule of its own: the curse empties the body, and a rider is riding a road through that body, so a demonstration is exactly the kind of moment DIV-086 already says can loosen the hold. **An Unforgivable, cast with his own hand on a spider in front of children, is one of the thousand cuts that gets Moody out of the trunk** — and nobody in the room understands it, Crouch included.
 
 ## What gives him away *(settled)* · Q-114
 

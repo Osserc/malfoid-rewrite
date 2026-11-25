@@ -164,19 +164,19 @@ Canon's isolation stands and gets worse. The people who claim to be protecting h
 
 ## The arm *(draft)* · DIV-127, DIV-129
 
-**One arm, three times, across two books**, and nobody ever remarks on the pattern.
+**One arm, three times, and it is a callback rather than an injury.** Nothing carries over medically — the point is her hand going to the same place, three times, meaning something different each time.
 
-- **B2, the Duelling Club.** She dislocates it, by Disarming a wand that has been glued to his hand. She finds this hilarious and then sits with him while it is set.
-- **B2, the Chamber.** The same arm takes the basilisk twice — the bite, and then the jaws closing on the shoulder when he cannot drive the sword home. It comes out of that night genuinely ruined (Q-166).
-- **B3, the final.** It is still sore. He says so, after winning the Cup on a trick that cost him, and **she touches it** — which is the same gesture as the infirmary, eighteen months on, and the first time it is unmistakably tender (DIV-069).
+- **B2, the Duelling Club.** She dislocates it, by Disarming a wand glued to his hand. She finds this hilarious. Then she accompanies him to the infirmary and **prods it gingerly**, and proposes doing it again sometime.
+- **B2, the Chamber.** The same shoulder, and this time **she is the one who mangles it** — the Disarming that kills the basilisk goes through his arm to do it. Fawkes handles the venom; Pomfrey handles the arm; nothing lasts. **She is in the infirmary again**, gentler, apologising silently while insisting out loud that *she* killed the thing. They bicker and end up laughing.
+- **B3, the final.** His arm hurts because of **the stunt** — he won the Cup riding upside down (DIV-069) — and has nothing to do with B2. He says so, and **she reaches for it.** The reader has seen that hand go to that arm twice before, so the gesture arrives already meaning something, and this time it is plainly tender.
 
-**The joke, the wound and the tenderness are all the same arm,** and the third beat only works because the first two were funny and horrible respectively. Keep the connection entirely unstated.
+**The joke, the wound and the tenderness are all the same arm,** and the third beat works because the first two were funny and horrible respectively. **Keep the connection entirely unstated** — nobody remembers aloud, and the B3 pain must not be attributed to anything older than that afternoon.
 
 ## Setups → payoffs
 
 | Payoff | Needs setting up | Planted in |
 |---|---|---|
-| B3 final: she touches his sore arm | The glue demonstration dislocating it, and the Chamber ruining it — both played for other reasons at the time (DIV-127, DIV-129) | B2 |
+| B3 final: she reaches for his sore arm | Her hand on the same arm twice in B2, both times played for something else — the glue demonstration and the Chamber (DIV-127, DIV-129). The B3 pain is from the stunt, not from either | B2 |
 | B7 resonance: reading each other's draw | B2's Chamber, where he reads Expelliarmus in the dark off three months of the Duelling Club (DIV-129, DIV-126) | B2 |
 | B4 Yule Ball as the turning point | A relationship worth turning, built through B1–B3 | B1–B3 (DIV-009, DIV-013) |
 | B3 Harry's Patronus | The lap-pillow scene (DIV-018) | B3 |

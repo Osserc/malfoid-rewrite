@@ -1013,13 +1013,17 @@ She watches a book bleed and a boy come apart, and she has no category for any o
 
 **And who knows she was there at all.** Dumbledore's version of the night, what the school is told, and what Lucius is told.
 
-### Q-166 · Fawkes, the second bite, and the arm (DIV-129)
-
-Canon's tears answer the venom once. Ours wounds Harry again *after* that, and the arm has to come out of the Chamber genuinely ruined — so what the phoenix does and does not fix needs deciding, without making it a healing tap that could have been used again.
-
-**It is the same arm all three times:** dislocated at the Duelling Club, taken twice in the Chamber, and still sore enough at the B3 final that he mentions it and she touches it (DIV-069, DIV-127). How long it lasts, how visible it is, and what it costs him on a broom.
-
 ## Answered
+
+### Q-166 · Fawkes, the bite, and the arm (DIV-129)
+
+**Answered by the author 2026-11-25, and the question was mostly a problem I invented.**
+
+**One bite, not two.** Spending the same beat twice is silly: in the failed first fight neither of them is bitten — she takes a lash of the body, he takes a wallop — and **the jaws close on his shoulder only when he gets the sword in and cannot finish it.** Canon's fang wound, moved to where it does some work.
+
+**Fawkes answers the venom and only the venom.** Phoenix tears have to be good for something or there is no reason to have a phoenix. They are not a repair kit, so the shoulder is still mangled afterwards, **Pomfrey fixes it, and there is no lasting damage.**
+
+**The arm is a callback, not an injury** — see *The arm* in [harry-dracaena](../threads/harry-dracaena.md). His arm hurting at the B3 final is caused by **the stunt**, riding the Firebolt upside down (DIV-069), and has nothing to do with B2. What carries over is only her hand going to the same place: gingerly in the first infirmary scene, gentler in the second, and openly tender a year later.
 
 ### Q-161 · How the whip reaches the page (DIV-107, DIV-126)
 
@@ -1027,7 +1031,7 @@ Canon's tears answer the venom once. Ours wounds Harry again *after* that, and t
 
 He already teaches the Unforgivables to a fourth-year class, and he is already the source of interposition and the cover logic (DIV-108), so the man who shows the reader what the Killing Curse *is* and the man who explains what to do about it are the same man. No new scene is required; canon's most famous lesson simply acquires content.
 
-- **And the demonstration costs him** · DIV-128. The curse throws the caster's whole magic out of the body, and a rider wearing somebody else's Imperius cannot easily follow it out and back (DIV-086, DIV-107). Every casting loosens the grip — one of the thousand cuts by which Alastor Moody surfaces. **An Unforgivable is part of what frees him,** which is the right kind of irony for this book.
+- **One free detail, kept as a note rather than a ledger entry.** The curse empties the body and a rider is riding a road through it, so a demonstration is the kind of moment DIV-086 already says can loosen the hold — **an Unforgivable, cast with his own hand on a spider in front of children, is one of the thousand cuts that gets Moody out of the trunk.** It lives in [alastor-moody](../characters/alastor-moody.md); it is an instance of an existing rule, not a departure, and DIV-128 was withdrawn for trying to be one.
 - **The imagery itself stays outside.** Nobody hit by it has described it and nobody who casts it is explaining, so the prose knows it is a whip and the characters do not.
 
 ### Q-162 · Placing the glue demonstration in B2 (DIV-127)

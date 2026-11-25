@@ -4,6 +4,8 @@ Every departure from canon. Anything not listed here follows the original books.
 
 Entry format: **Status** · **Canon** (what the original does, in our own words) · **Ours** · **Why** (if it isn't obvious) · **Home** (where it's written out in full) · **Ripples** (affected files, open questions).
 
+**Retired, never reuse:** DIV-128 — the B4 Killing Curse lesson loosening Crouch's grip. Withdrawn 2026-11-25, same day it was drafted: it is an *instance* of DIV-086's existing rule, not a departure of its own, and it did not earn a ledger entry. **The observation survives as a short note** in [characters/alastor-moody.md](../characters/alastor-moody.md).
+
 **Retired, never reuse:** DIV-110, DIV-111, DIV-112, DIV-113, DIV-114 — Godric's Hollow as a configuration, the graveyard running on the Horcrux, the prophecy demoted to an enabler, the two forces, and Harry grasping the Horcrux in the forest. Reverted 2026-11-19 as half-baked. Only the combat mechanics survive from that pass: DIV-107, DIV-108, DIV-109. The entries are in the git history.
 
 **Retired, never reuse:** DIV-033, DIV-034, DIV-036, DIV-042 — the trio split across three Houses and its knock-ons (whole-year classes, Sirius's second break-in, the Boggart lesson House by House), reverted 2026-10-27. Canon applies; the unity theme moved to DIV-055. The entries are in the git history.
@@ -1480,7 +1482,7 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
   - ***(settled)* The shape of it is a whip.** The wand is the grip; the lash is the caster's being, thrown; the radical string is the loading stroke and it ends in the crack. **The lash flays, and comes back.** The range is simply how long the thing is, the windup is the telegraph, and the lash **wraps and bites** rather than enveloping — which is why cloth has never mattered. Cover works when it is large enough and far enough from the body, and is **destroyed in the process: one plank per curse.** **Voldemort's is longer and more flexible than anyone's** and works round the edges of cover, which is the serpent showing in the mechanism. What returns is carrying what it tore, so the residue is debris rather than a tax. And there is no casting it without a grip: wandless Avada Kedavra is incoherent (DIV-126).
 - **Why:** canon's Killing Curse is a worse pistol with better branding, and nothing in canon explains why the war is not over in an afternoon. One mechanism now answers the range, the cost, the rarity, the unblockability, the mass it takes to stop and the moral weight at once.
 - **Home:** [setting/magic.md](../setting/magic.md)
-- **Ripples:** Q-143, Q-161 (answered: Moody), Q-015 (two spec items shed), Q-027 · DIV-128 · DIV-007, DIV-080, DIV-084, DIV-108, DIV-109, DIV-126 · [characters/alastor-moody.md](../characters/alastor-moody.md) · [books/b4/canon-delta.md](../books/b4/canon-delta.md) · [books/b7/outline.md](../books/b7/outline.md)
+- **Ripples:** Q-143, Q-161 (answered: Moody), Q-015 (two spec items shed), Q-027 · DIV-007, DIV-080, DIV-084, DIV-108, DIV-109, DIV-126 · [characters/alastor-moody.md](../characters/alastor-moody.md) · [books/b4/canon-delta.md](../books/b4/canon-delta.md) · [books/b7/outline.md](../books/b7/outline.md)
 
 ### DIV-108 · Interposition: putting matter in the way
 
@@ -1813,30 +1815,19 @@ Entry format: **Status** · **Canon** (what the original does, in our own words)
 - **Home:** [setting/magic.md](../setting/magic.md)
 - **Ripples:** Q-162, Q-163 (both answered) · DIV-006, DIV-028, DIV-059, DIV-080, DIV-126, DIV-129 · [threads/duelling-club.md](../threads/duelling-club.md) · [scenes/b2/the-glue-demonstration.md](../scenes/b2/the-glue-demonstration.md) · [scenes/b2/the-chamber.md](../scenes/b2/the-chamber.md)
 
-### DIV-128 · B4: the Killing Curse lesson loosens Crouch's grip
-
-- **Status:** settled
-- **Canon:** "Moody" demonstrates the three Unforgivables on spiders in a fourth-year class, which is shocking, memorable, and mechanically inert. Crouch's control degrades across the year for reasons canon never specifies beyond Polyjuice and nerves.
-- **Ours:** **the demonstration costs him.** Avada Kedavra throws the caster's entire magic out of the body and requires it back (DIV-107), and a rider wearing somebody else's Imperius is riding a road through that body (DIV-086). When everything leaves, the rider either goes with it — which is very hard — or spends the hollow moment holding a body with nothing in it. **Either way the grip slips**, which is exactly the circumstance DIV-086 says lets a strong will surface.
-  - **So it is one of the thousand cuts,** not a single dramatic failure. It is a mechanism under the degradation canon only asserts, and it compounds with everything else Crouch is spending that year.
-  - **And the irony is the point:** one of the things that helps Alastor Moody throw a man out of his own body is an Unforgivable, cast with his own hand, on a spider, in front of children.
-  - **It also puts the whip on the page** (Q-161). Moody is the right demonstrator and the right explainer — he is already the source of interposition and the cover logic (DIV-108) — so the one man who teaches the class what the curse actually is, is a man being worn by somebody else while he does it.
-  - **Nobody in the room understands any of this,** and neither does Crouch, who has no reason to connect a bad afternoon to a spider.
-- **Why:** canon's most famous lesson does nothing but foreshadow. This makes it causal, gives Moody's eventual surfacing a named cost rather than authorial convenience, and pays DIV-107 and DIV-086 off against each other.
-- **Home:** [characters/alastor-moody.md](../characters/alastor-moody.md)
-- **Ripples:** Q-161 (answered), Q-143 · DIV-086, DIV-107, DIV-108 · [setting/magic.md](../setting/magic.md) · [books/b4/canon-delta.md](../books/b4/canon-delta.md)
-
 ### DIV-129 · B2: the Chamber, together
 
 - **Status:** draft
 - **Canon:** Harry goes down alone. Fawkes blinds the basilisk and brings the Sorting Hat, Harry pulls the sword out of it, kills the basilisk by driving the blade up through the roof of its mouth, takes a fang in the arm, is healed by phoenix tears, and destroys the diary with the fang.
 - **Ours:** **Dracaena is down there, and Harry does not survive the night without her.**
-  - **They fight it together and fail,** properly — two second-years are not enough and the scene does not pretend otherwise. She is caught by a lash of the body; he takes the bite.
-  - **Fawkes patches him up enough to continue** and the sword arrives, and **he cannot finish the job.** Not strong enough to drive the blade through the neck one-handed, and the jaws take him a second time in the **shoulder**.
+  - **They fight it together and fail,** properly — two second-years are not enough and the scene does not pretend otherwise. **Neither of them is bitten here:** she is caught by a lash of the body and he takes a wallop from it.
+  - **Fawkes blinds it and the sword arrives,** and **he cannot finish the job.** He gets the blade in and is not strong enough to drive it through the neck one-handed — **and that is when the jaws close on his shoulder**, once, which is canon's fang wound moved to where it does some work.
   - ***"Don't drop the sword, Potter!"*** He sees her wand moving in the dark by the light of her own Lumos and **reads the draw**: Expelliarmus. **A wand makes you legible** (DIV-126), and here that is the only reason the plan can be communicated at all — three months of Flitwick's piste, cashed in (DIV-028).
   - **He supplies the rest himself** and glues the sword to his hand. **She Disarms him**, the charm takes the weapon and hauls, and the blade goes through the head (DIV-127). **The gag from the Duelling Club is the kill.**
   - **His grit, her cunning,** and neither is sufficient. Directing a Disarming that precisely is also the clearest statement yet of how good she actually is.
-  - **The arm is ruined** — severe, lasting, and not healed away. **The diary** he cannot raise the sword for, so he asks her, and **they drive it in together.** Then she hauls him out, rudely, the whole way.
+  - **Fawkes answers the venom and nothing else.** The tears do what tears are for — otherwise there is no reason to have a phoenix — but they are not a repair kit, and the shoulder is still mangled. **It is Pomfrey's job, and there is no lasting damage.**
+  - **The diary** he cannot raise the sword for, so he asks her, and **they drive it in together.** Then she hauls him out, rudely, the whole way.
+  - **And she turns up in the infirmary again.** More tenderness than last time, delivered as a silent apology she will not say out loud, while loudly maintaining that *she* killed the basilisk. They bicker about it and end up laughing.
 - **Why:** it puts their synergy on the page in book two instead of asserting it in book seven, pays DIV-127 inside its own book, and makes the case against Dumbledore by demonstration rather than argument — **the bird and the hat were never going to be enough.** It also sets up Q-101 exactly: the best thing Potter has ever done to her, and then the worst, in one week.
 - **Home:** [scenes/b2/the-chamber.md](../scenes/b2/the-chamber.md)
-- **Ripples:** Q-163 (answered), Q-164, Q-165, Q-166 (opened), Q-098, Q-101 · DIV-126, DIV-127, DIV-028, DIV-069, DIV-076 · [threads/harry-dracaena.md](../threads/harry-dracaena.md) · [books/b2/outline.md](../books/b2/outline.md) · [continuity/reveals.md](reveals.md)
+- **Ripples:** Q-163, Q-166 (answered), Q-164, Q-165 (opened), Q-098, Q-101 · DIV-126, DIV-127, DIV-028, DIV-069, DIV-076 · [threads/harry-dracaena.md](../threads/harry-dracaena.md) · [books/b2/outline.md](../books/b2/outline.md) · [continuity/reveals.md](reveals.md)
